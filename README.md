@@ -69,7 +69,10 @@ Option B — Automated updates( will implement)
   - NEW projects
   - Widely used infrastructure, SDKs, standards, and tooling.
   - Clear OSS licensing and good documentation.
+ 
+Stars ⭐ appreciated — helps others discover this repo.  
+More projects & automation (GitHub Actions for live updates) coming soon.  
 
-## Security note (Python)
 
-When installing the Python client, ensure the legitimate “solana” package is used. Avoid similarly named typosquats.
+## Security note 
+
