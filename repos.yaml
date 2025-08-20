@@ -1,0 +1,87 @@
+repositories:
+  - name: "Solana (archived; moved to Agave)"
+    repo: "solana-labs/solana"
+    description: "Web-scale blockchain reference implementation; now archived with development transitioned to Agave"
+    category: "Infrastructure"
+    
+  - name: "Agave (validator)"
+    repo: "anza-xyz/agave"
+    description: "Current Solana validator implementation maintained by Anza"
+    category: "Infrastructure"
+    
+  - name: "Solana SDK (Rust)"
+    repo: "anza-xyz/solana-sdk"
+    description: "Rust SDK used by on-chain program developers and the Agave validator"
+    category: "SDKs & Tooling"
+    
+  - name: "Anchor"
+    repo: "coral-xyz/anchor"
+    description: "Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI)"
+    category: "SDKs & Tooling"
+    
+  - name: "Solana Web3.js (v1.x)"
+    repo: "solana-foundation/solana-web3.js"
+    description: "Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit)"
+    category: "SDKs & Tooling"
+    
+  - name: "Wallet Adapter"
+    repo: "anza-xyz/wallet-adapter"
+    description: "Modular TypeScript wallet adapters and UI components"
+    category: "Wallets & Mobile"
+    
+  - name: "Solana Program Library (legacy)"
+    repo: "solana-labs/solana-program-library"
+    description: "Historic collection of core on-chain programs; archived and migrated to new org"
+    category: "Programs (SPL)"
+    
+  - name: "SPL Libraries (new org)"
+    repo: "solana-program/libraries"
+    description: "Helper libraries/building blocks for on-chain programs"
+    category: "Programs (SPL)"
+    
+  - name: "Metaplex Token Metadata"
+    repo: "metaplex-foundation/mpl-token-metadata"
+    description: "Core NFT/fungible token metadata program & SDKs"
+    category: "NFTs & Programs"
+    
+  - name: "Candy Machine (Core)"
+    repo: "metaplex-foundation/mpl-core-candy-machine"
+    description: "Metaplex Core Candy Machine (Core assets)"
+    category: "NFTs & Minting"
+    
+  - name: "Jupiter Swap API"
+    repo: "jup-ag/jupiter-swap-api"
+    description: "Jupiter V6 Swap API binaries and releases"
+    category: "DeFi"
+    
+  - name: "Solana Mobile Stack SDK"
+    repo: "solana-mobile/solana-mobile-stack-sdk"
+    description: "Android SDKs: Mobile Wallet Adapter, Seed Vault"
+    category: "Wallets & Mobile"
+    
+  - name: "Mobile Wallet Adapter"
+    repo: "solana-mobile/mobile-wallet-adapter"
+    description: "Protocol for connecting apps to mobile wallets"
+    category: "Wallets & Mobile"
+    
+  - name: "Seed Vault SDK"
+    repo: "solana-mobile/seed-vault-sdk"
+    description: "Secure key custody API/service for Android"
+    category: "Wallets & Mobile"
+    
+  - name: "Solders (Python)"
+    repo: "kevinheavey/solders"
+    description: "High-performance Python toolkit for Solana (Rust-backed)"
+    category: "SDKs & Tooling"
+
+search_queries:
+  - "solana framework language:rust stars:>50"
+  - "solana sdk language:typescript stars:>20"
+  - "anchor solana stars:>10"
+  - "metaplex solana stars:>5"
+  - "jupiter solana defi stars:>5"
+  - "solana wallet mobile stars:>5"
+  - "spl-token solana stars:>10"
+  - "solana program rust stars:>15"
+  - "solana oracle price feed stars:>5"
+  - "solana pay payment stars:>3"

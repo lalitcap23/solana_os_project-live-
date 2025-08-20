@@ -1,4 +1,19 @@
-# Open-source Solana Projects — Live Sheet Reference 
+# Open-source Solana Projects — Live Sheet Reference
+
+## 🤖 Automation Status: IMPLEMENTED!
+
+✅ **Fully Automated Updates** - This repository now automatically:
+- 🔍 **Discovers new Solana projects** via GitHub API search
+- 📊 **Updates repository statistics** (stars, contributors, activity) 
+- 📝 **Regenerates this README** with fresh data
+- 💾 **Commits changes** every 3 days via GitHub Actions
+- 🆕 **Highlights new discoveries** with emoji markers
+
+📋 **Setup Guide:** See [AUTOMATION_GUIDE.md](./AUTOMATION_GUIDE.md) for full details
+
+🎮 **Try the Demo:** Run `python3 demo_update.py` (no GitHub token needed)
+
+⚡ **Next Update:** Automatic updates run every 3 days at 06:00 UTC
 
 A curated list of actively maintained open-source projects in the Solana ecosystem. Each entry includes a short description, repository link, and key maintenance signals (stars, contributors, last activity), organized by category.
 

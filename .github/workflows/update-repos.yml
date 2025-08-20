@@ -1,0 +1,132 @@
+name: 🤖 Auto-Update Solana Projects
+
+on:
+  schedule:
+    # Run every 3 days at 6 AM UTC
+    - cron: '0 6 */3 * *'
+  workflow_dispatch: # Allow manual trigger
+    inputs:
+      force_update:
+        description: 'Force update all repositories'
+        required: false
+        default: 'false'
+        type: boolean
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Full history for better commit messages
+    
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: 📦 Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pyyaml
+    
+    - name: 🔍 Check for existing changes
+      id: check_changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+          echo "Repository has uncommitted changes"
+        else
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+          echo "Repository is clean"
+        fi
+    
+    - name: 🚀 Update Solana repositories
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        echo "Starting Solana projects update..."
+        python update_repos.py
+        echo "Update completed!"
+    
+    - name: 📊 Check for new changes
+      id: check_new_changes
+      run: |
+        if [[ -n $(git status --porcelain) ]]; then
+          echo "new_changes=true" >> $GITHUB_OUTPUT
+          echo "Changes detected:"
+          git status --short
+        else
+          echo "new_changes=false" >> $GITHUB_OUTPUT
+          echo "No changes detected"
+        fi
+    
+    - name: 📈 Generate commit message
+      id: commit_msg
+      if: steps.check_new_changes.outputs.new_changes == 'true'
+      run: |
+        # Count new projects
+        NEW_COUNT=$(git diff --name-only | grep -c "repos.yaml" || echo "0")
+        
+        # Get current date
+        CURRENT_DATE=$(date '+%Y-%m-%d')
+        
+        # Create detailed commit message
+        COMMIT_MSG="🤖 Auto-update: Solana projects refresh ($CURRENT_DATE)
+
+        📊 Repository statistics updated
+        🔍 New project discovery completed
+        📝 README.md regenerated with latest data
+        
+        ⚡ Automated by GitHub Actions"
+        
+        # Handle multiline output properly
+        echo "commit_message<<EOF" >> $GITHUB_OUTPUT
+        echo "$COMMIT_MSG" >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+    
+    - name: 💾 Commit and push changes
+      if: steps.check_new_changes.outputs.new_changes == 'true'
+      run: |
+        # Configure git
+        git config --local user.email "action@github.com"
+        git config --local user.name "Solana Projects Bot"
+        git config --local user.signingkey ""
+        git config --local commit.gpgsign false
+        
+        # Add files
+        git add README.md repos.yaml
+        
+        # Commit with the generated message
+        git commit -m "${{ steps.commit_msg.outputs.commit_message }}"
+        
+        # Push changes
+        git push origin main
+        
+        echo "✅ Changes committed and pushed successfully!"
+    
+    - name: 📋 Summary
+      run: |
+        echo "## 🎉 Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [[ "${{ steps.check_new_changes.outputs.new_changes }}" == "true" ]]; then
+          echo "✅ **Repository updated successfully!**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Changes made:" >> $GITHUB_STEP_SUMMARY
+          echo "- 📊 Updated repository statistics (stars, contributors, activity)" >> $GITHUB_STEP_SUMMARY
+          echo "- 🔍 Scanned for new Solana projects" >> $GITHUB_STEP_SUMMARY
+          echo "- 📝 Regenerated README.md with fresh data" >> $GITHUB_STEP_SUMMARY
+          echo "- 💾 Committed changes to repository" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "ℹ️ **No changes detected**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "All repository data is already up to date." >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "🕐 **Next scheduled run:** $(date -d '+3 days' '+%Y-%m-%d at 06:00 UTC')" >> $GITHUB_STEP_SUMMARY
