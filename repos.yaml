@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14327
+    stars: 14328
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-20T20:34:29Z'
+    updated_at: '2025-08-20T23:15:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 125
+    stars: 126
     contributors: 6
     last_activity: Last commit (Aug 20, 2025)
     archived: false
-    updated_at: '2025-08-20T16:28:07Z'
+    updated_at: '2025-08-20T23:21:01Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
