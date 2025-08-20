@@ -1,87 +1,1147 @@
 repositories:
-  - name: "Solana (archived; moved to Agave)"
-    repo: "solana-labs/solana"
-    description: "Web-scale blockchain reference implementation; now archived with development transitioned to Agave"
-    category: "Infrastructure"
-    
-  - name: "Agave (validator)"
-    repo: "anza-xyz/agave"
-    description: "Current Solana validator implementation maintained by Anza"
-    category: "Infrastructure"
-    
-  - name: "Solana SDK (Rust)"
-    repo: "anza-xyz/solana-sdk"
-    description: "Rust SDK used by on-chain program developers and the Agave validator"
-    category: "SDKs & Tooling"
-    
-  - name: "Anchor"
-    repo: "coral-xyz/anchor"
-    description: "Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI)"
-    category: "SDKs & Tooling"
-    
-  - name: "Solana Web3.js (v1.x)"
-    repo: "solana-foundation/solana-web3.js"
-    description: "Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit)"
-    category: "SDKs & Tooling"
-    
-  - name: "Wallet Adapter"
-    repo: "anza-xyz/wallet-adapter"
-    description: "Modular TypeScript wallet adapters and UI components"
-    category: "Wallets & Mobile"
-    
-  - name: "Solana Program Library (legacy)"
-    repo: "solana-labs/solana-program-library"
-    description: "Historic collection of core on-chain programs; archived and migrated to new org"
-    category: "Programs (SPL)"
-    
-  - name: "SPL Libraries (new org)"
-    repo: "solana-program/libraries"
-    description: "Helper libraries/building blocks for on-chain programs"
-    category: "Programs (SPL)"
-    
-  - name: "Metaplex Token Metadata"
-    repo: "metaplex-foundation/mpl-token-metadata"
-    description: "Core NFT/fungible token metadata program & SDKs"
-    category: "NFTs & Programs"
-    
-  - name: "Candy Machine (Core)"
-    repo: "metaplex-foundation/mpl-core-candy-machine"
-    description: "Metaplex Core Candy Machine (Core assets)"
-    category: "NFTs & Minting"
-    
-  - name: "Jupiter Swap API"
-    repo: "jup-ag/jupiter-swap-api"
-    description: "Jupiter V6 Swap API binaries and releases"
-    category: "DeFi"
-    
-  - name: "Solana Mobile Stack SDK"
-    repo: "solana-mobile/solana-mobile-stack-sdk"
-    description: "Android SDKs: Mobile Wallet Adapter, Seed Vault"
-    category: "Wallets & Mobile"
-    
-  - name: "Mobile Wallet Adapter"
-    repo: "solana-mobile/mobile-wallet-adapter"
-    description: "Protocol for connecting apps to mobile wallets"
-    category: "Wallets & Mobile"
-    
-  - name: "Seed Vault SDK"
-    repo: "solana-mobile/seed-vault-sdk"
-    description: "Secure key custody API/service for Android"
-    category: "Wallets & Mobile"
-    
-  - name: "Solders (Python)"
-    repo: "kevinheavey/solders"
-    description: "High-performance Python toolkit for Solana (Rust-backed)"
-    category: "SDKs & Tooling"
-
+- name: Solana (archived; moved to Agave)
+  repo: solana-labs/solana
+  description: Web-scale blockchain reference implementation; now archived with development
+    transitioned to Agave
+  category: Infrastructure
+  stats:
+    stars: 14326
+    contributors: 352
+    last_activity: v1.18.26 (Oct 12, 2024)
+    archived: true
+    updated_at: '2025-08-20T03:01:42Z'
+    language: Rust
+- name: Agave (validator)
+  repo: anza-xyz/agave
+  description: Current Solana validator implementation maintained by Anza
+  category: Infrastructure
+  stats:
+    stars: 1275
+    contributors: 362
+    last_activity: v2.3.7 (Aug 08, 2025)
+    archived: false
+    updated_at: '2025-08-20T15:13:07Z'
+    language: Rust
+- name: Solana SDK (Rust)
+  repo: anza-xyz/solana-sdk
+  description: Rust SDK used by on-chain program developers and the Agave validator
+  category: SDKs & Tooling
+  stats:
+    stars: 113
+    contributors: 149
+    last_activity: sdk@v3.0.0 (Aug 18, 2025)
+    archived: false
+    updated_at: '2025-08-20T10:04:40Z'
+    language: Rust
+- name: Anchor
+  repo: coral-xyz/anchor
+  description: Framework for building Solana programs (Rust eDSL, IDL, TS client,
+    CLI)
+  category: SDKs & Tooling
+  stats:
+    stars: 4533
+    contributors: 302
+    last_activity: v0.31.1 (Apr 19, 2025)
+    archived: false
+    updated_at: '2025-08-20T03:28:53Z'
+    language: Rust
+- name: Solana Web3.js (v1.x)
+  repo: solana-foundation/solana-web3.js
+  description: Official JavaScript SDK (maintenance branch; successor work referenced
+    as @solana/kit)
+  category: SDKs & Tooling
+  stats:
+    stars: 2583
+    contributors: 127
+    last_activity: v1.98.4 (Jul 31, 2025)
+    archived: false
+    updated_at: '2025-08-18T23:47:03Z'
+    language: TypeScript
+- name: Wallet Adapter
+  repo: anza-xyz/wallet-adapter
+  description: Modular TypeScript wallet adapters and UI components
+  category: Wallets & Mobile
+  stats:
+    stars: 1895
+    contributors: 115
+    last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
+    archived: false
+    updated_at: '2025-08-19T04:20:45Z'
+    language: TypeScript
+- name: Solana Program Library (legacy)
+  repo: solana-labs/solana-program-library
+  description: Historic collection of core on-chain programs; archived and migrated
+    to new org
+  category: Programs (SPL)
+  stats:
+    stars: 4048
+    contributors: 232
+    last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
+    archived: true
+    updated_at: '2025-08-18T23:46:59Z'
+    language: Rust
+- name: SPL Libraries (new org)
+  repo: solana-program/libraries
+  description: Helper libraries/building blocks for on-chain programs
+  category: Programs (SPL)
+  stats:
+    stars: 8
+    contributors: 21
+    last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
+    archived: false
+    updated_at: '2025-08-20T09:13:17Z'
+    language: Rust
+- name: Metaplex Token Metadata
+  repo: metaplex-foundation/mpl-token-metadata
+  description: Core NFT/fungible token metadata program & SDKs
+  category: NFTs & Programs
+  stats:
+    stars: 211
+    contributors: 32
+    last_activity: js@v3.4.0 (Feb 02, 2025)
+    archived: false
+    updated_at: '2025-08-18T23:39:26Z'
+    language: Rust
+- name: Candy Machine (Core)
+  repo: metaplex-foundation/mpl-core-candy-machine
+  description: Metaplex Core Candy Machine (Core assets)
+  category: NFTs & Minting
+  stats:
+    stars: 28
+    contributors: 5
+    last_activity: js@v0.3.0 (Jan 27, 2025)
+    archived: false
+    updated_at: '2025-08-08T00:25:41Z'
+    language: TypeScript
+- name: Jupiter Swap API
+  repo: jup-ag/jupiter-swap-api
+  description: Jupiter V6 Swap API binaries and releases
+  category: DeFi
+  stats:
+    stars: 206
+    contributors: 2
+    last_activity: v6.0.62 (Aug 18, 2025)
+    archived: false
+    updated_at: '2025-08-18T05:59:09Z'
+    language: Dockerfile
+- name: Solana Mobile Stack SDK
+  repo: solana-mobile/solana-mobile-stack-sdk
+  description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
+  category: Wallets & Mobile
+  stats:
+    stars: 761
+    contributors: 2
+    last_activity: Last commit (Jun 23, 2022)
+    archived: false
+    updated_at: '2025-08-10T17:54:55Z'
+    language: null
+- name: Mobile Wallet Adapter
+  repo: solana-mobile/mobile-wallet-adapter
+  description: Protocol for connecting apps to mobile wallets
+  category: Wallets & Mobile
+  stats:
+    stars: 294
+    contributors: 16
+    last_activity: v2.1.0 (Aug 18, 2025)
+    archived: false
+    updated_at: '2025-08-18T18:47:17Z'
+    language: Java
+- name: Seed Vault SDK
+  repo: solana-mobile/seed-vault-sdk
+  description: Secure key custody API/service for Android
+  category: Wallets & Mobile
+  stats:
+    stars: 85
+    contributors: 6
+    last_activity: v0.3.3 (Aug 05, 2025)
+    archived: false
+    updated_at: '2025-08-18T23:42:36Z'
+    language: Kotlin
+- name: Solders (Python)
+  repo: kevinheavey/solders
+  description: High-performance Python toolkit for Solana (Rust-backed)
+  category: SDKs & Tooling
+  stats:
+    stars: 405
+    contributors: 8
+    last_activity: 0.26.0 (Feb 18, 2025)
+    archived: false
+    updated_at: '2025-08-16T22:29:05Z'
+    language: Rust
+- name: anchor
+  repo: solana-foundation/anchor
+  description: ⚓ Solana Sealevel Framework
+  category: SDKs & Tooling
+  stars: 4533
+  stats:
+    stars: 4533
+    contributors: 302
+    last_activity: v0.31.1 (Apr 19, 2025)
+    archived: false
+    updated_at: '2025-08-20T03:28:53Z'
+    language: Rust
+- name: carbon
+  repo: sevenlabs-hq/carbon
+  description: Carbon is an indexing framework on Solana.
+  category: DeFi
+  stars: 426
+  stats:
+    stars: 426
+    contributors: 27
+    last_activity: v0.9.1 (Jul 18, 2025)
+    archived: false
+    updated_at: '2025-08-20T10:26:16Z'
+    language: Rust
+- name: trident
+  repo: Ackee-Blockchain/trident
+  description: Rust-based framework to Fuzz Solana programs, designed to help you
+    ship secure code.
+  category: SDKs & Tooling
+  stars: 305
+  stats:
+    stars: 305
+    contributors: 19
+    last_activity: 0.11.0 (Aug 14, 2025)
+    archived: false
+    updated_at: '2025-08-15T03:19:41Z'
+    language: Rust
+- name: solana-poc-framework
+  repo: neodyme-labs/solana-poc-framework
+  description: A framework for creating PoC's for Solana Smart Contracts in a painless
+    and intuitive way
+  category: SDKs & Tooling
+  stars: 233
+  stats:
+    stars: 233
+    contributors: 12
+    last_activity: Last commit (May 20, 2025)
+    archived: false
+    updated_at: '2025-08-20T13:07:21Z'
+    language: Rust
+- name: steel
+  repo: regolith-labs/steel
+  description: Solana smart contract framework.
+  category: SDKs & Tooling
+  stars: 233
+  stats:
+    stars: 233
+    contributors: 7
+    last_activity: 2.1.0 (Oct 23, 2024)
+    archived: false
+    updated_at: '2025-08-19T15:02:37Z'
+    language: Rust
+- name: nautilus
+  repo: nautilus-project/nautilus
+  description: SQL-native Solana program framework
+  category: SDKs & Tooling
+  stars: 93
+  stats:
+    stars: 93
+    contributors: 6
+    last_activity: Last commit (Nov 08, 2024)
+    archived: false
+    updated_at: '2025-06-03T07:45:45Z'
+    language: Rust
+- name: znap
+  repo: heavy-duty/znap
+  description: Performance-first Rust Framework to build APIs compatible with the
+    Solana Actions Spec.
+  category: SDKs & Tooling
+  stars: 69
+  stats:
+    stars: 69
+    contributors: 4
+    last_activity: 0.1.36 (Aug 29, 2024)
+    archived: false
+    updated_at: '2025-05-20T17:46:09Z'
+    language: Rust
+- name: sol-ctf-framework
+  repo: otter-sec/sol-ctf-framework
+  description: Framework for Solana CTF challenges
+  category: SDKs & Tooling
+  stars: 67
+  stats:
+    stars: 67
+    contributors: 6
+    last_activity: Last commit (May 24, 2025)
+    archived: false
+    updated_at: '2025-08-18T05:48:57Z'
+    language: Rust
+- name: ethereum-boilerplate
+  repo: ethereum-boilerplate/ethereum-boilerplate
+  description: The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum
+    flexibility and speed. Feel free to fork and contribute. Although this repo is
+    called "Ethereum Boilerplate" it works with any EVM system and since it uses Moralis
+    SDK You can even use it on Solana!  Happy BUIDL!👷‍♂️
+  category: SDKs & Tooling
+  stars: 4135
+  stats:
+    stars: 4135
+    contributors: 11
+    last_activity: Last commit (Apr 26, 2023)
+    archived: false
+    updated_at: '2025-08-15T09:07:27Z'
+    language: TypeScript
+- name: kit
+  repo: anza-xyz/kit
+  description: Solana JavaScript SDK
+  category: SDKs & Tooling
+  stars: 511
+  stats:
+    stars: 511
+    contributors: 141
+    last_activity: v2.3.0 (Jul 09, 2025)
+    archived: false
+    updated_at: '2025-08-20T13:04:37Z'
+    language: TypeScript
+- name: js
+  repo: metaplex-foundation/js
+  description: A JavaScript SDK for interacting with Metaplex's programs
+  category: NFTs & Programs
+  stars: 374
+  stats:
+    stars: 374
+    contributors: 39
+    last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
+    archived: true
+    updated_at: '2025-07-19T03:50:48Z'
+    language: TypeScript
+- name: js-wallet-sdk
+  repo: okx/js-wallet-sdk
+  description: Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana,
+    cosmos, etc.
+  category: SDKs & Tooling
+  stars: 329
+  stats:
+    stars: 329
+    contributors: 11
+    last_activity: Last commit (May 23, 2025)
+    archived: false
+    updated_at: '2025-08-18T07:40:59Z'
+    language: TypeScript
+- name: gill
+  repo: DecalLabs/gill
+  description: Solana JavaScript/TypeScript SDK - client library for interacting with
+    the Solana blockchain
+  category: NFTs & Programs
+  stars: 312
+  stats:
+    stars: 312
+    contributors: 17
+    last_activity: Last commit (Aug 12, 2025)
+    archived: false
+    updated_at: '2025-08-20T06:37:15Z'
+    language: TypeScript
+- name: Bonkfun-Bundler-Bonk.fun-Bundler
+  repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
+  description: bonkfun bundler / bonk.fun bundler Letsbonk / Letsbonkfun bundler /
+    Pump.fun bundler / pumpfun bundler / pumpdotfun bundler / bagsfm bundler/ bags.fm
+    bundler trading bot. Multi-wallet bundler for Solana token launches. Uses Jito
+    and Raydium SDK v2 for atomic one-block execution.
+  category: Wallets & Mobile
+  stars: 203
+  stats:
+    stars: 203
+    contributors: 1
+    last_activity: Last commit (Jul 23, 2025)
+    archived: false
+    updated_at: '2025-08-20T05:55:35Z'
+    language: TypeScript
+- name: raydium-sdk-swap-example-typescript
+  repo: chainstacklabs/raydium-sdk-swap-example-typescript
+  description: An example to swap tokens on Solana using the Raydium SDK, TypeScript,
+    and Chainstack
+  category: DeFi
+  stars: 182
+  stats:
+    stars: 182
+    contributors: 4
+    last_activity: Last commit (Jan 07, 2025)
+    archived: false
+    updated_at: '2025-07-24T06:10:26Z'
+    language: TypeScript
+- name: solita
+  repo: metaplex-foundation/solita
+  description: Genrates an SDK API from solana contract IDL.
+  category: NFTs & Programs
+  stars: 169
+  stats:
+    stars: 169
+    contributors: 5
+    last_activity: Last commit (Nov 22, 2023)
+    archived: false
+    updated_at: '2025-08-18T21:22:10Z'
+    language: TypeScript
+- name: program-examples
+  repo: solana-developers/program-examples
+  description: A repository of Solana program examples
+  category: SDKs & Tooling
+  stars: 1247
+  stats:
+    stars: 1247
+    contributors: 45
+    last_activity: Last commit (Jul 23, 2025)
+    archived: false
+    updated_at: '2025-08-20T11:58:38Z'
+    language: TypeScript
+- name: Solana_Dice_SmartContract
+  repo: kinexbt/Solana_Dice_SmartContract
+  description: This project is a simple on-chain Dice Game smart contract built for
+    the Solana blockchain using Rust and the Anchor framework. It demonstrates the
+    fundamentals of Solana program development, including instruction handling, randomness
+    simulation, state management, and token transfers.
+  category: SDKs & Tooling
+  stars: 681
+  stats:
+    stars: 681
+    contributors: 1
+    last_activity: Last commit (May 08, 2025)
+    archived: false
+    updated_at: '2025-08-20T03:23:17Z'
+    language: TypeScript
+- name: Solana_Bita_Coinflip_SmartContract
+  repo: kinexbt/Solana_Bita_Coinflip_SmartContract
+  description: A lightweight on-chain Coin Flip betting game built on the Solana blockchain
+    using Rust and the Anchor framework. This contract allows users to wager SOL (or
+    tokens) on a 50/50 coin flip outcome — win or lose instantly, with no intermediaries.
+  category: SDKs & Tooling
+  stars: 675
+  stats:
+    stars: 675
+    contributors: 1
+    last_activity: Last commit (May 07, 2025)
+    archived: false
+    updated_at: '2025-08-18T23:05:44Z'
+    language: TypeScript
+- name: complete-guide-to-full-stack-solana-development
+  repo: dabit3/complete-guide-to-full-stack-solana-development
+  description: Code examples for the blog post titled The Complete Guide to Full Stack
+    Solana Development with React, Anchor, Rust, and Phantom
+  category: SDKs & Tooling
+  stars: 484
+  stats:
+    stars: 484
+    contributors: 2
+    last_activity: Last commit (Sep 18, 2021)
+    archived: false
+    updated_at: '2025-08-04T07:10:38Z'
+    language: JavaScript
+- name: seahorse-lang
+  repo: ameliatastic/seahorse-lang
+  description: Write Anchor-compatible Solana programs in Python
+  category: SDKs & Tooling
+  stars: 344
+  stats:
+    stars: 344
+    contributors: 4
+    last_activity: Last commit (Feb 24, 2023)
+    archived: false
+    updated_at: '2025-08-06T13:57:09Z'
+    language: Rust
+- name: Solana-Arbitrage-Bot-Flash-Loan
+  repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
+  description: Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program
+    with rust language architecture using anchor frame work
+  category: DeFi
+  stars: 328
+  stats:
+    stars: 328
+    contributors: 3
+    last_activity: Solana-Arbitrage-Bot (May 20, 2025)
+    archived: false
+    updated_at: '2025-08-18T23:51:23Z'
+    language: Rust
+- name: Solana-Prediction-Market
+  repo: HyperBuildX/Solana-Prediction-Market
+  description: Solana Prediction Market where users can create market, add liquidity,
+    and bet
+  category: SDKs & Tooling
+  stars: 305
+  stats:
+    stars: 305
+    contributors: 1
+    last_activity: Last commit (Jul 09, 2025)
+    archived: false
+    updated_at: '2025-08-20T14:27:47Z'
+    language: TypeScript
+- name: solana-candy-factory
+  repo: kevinfaveri/solana-candy-factory
+  description: Solana blockchain candy machine app boilerplate on top of Metaplex
+    Candy Machine. NextJS, Tailwind, Anchor, SolanaLabs.React, dev/mainnet automation
+    scripts.
+  category: NFTs & Programs
+  stars: 295
+  stats:
+    stars: 295
+    contributors: 4
+    last_activity: Last commit (May 17, 2023)
+    archived: false
+    updated_at: '2025-08-10T10:22:10Z'
+    language: TypeScript
+- name: awesome-solana-security
+  repo: 0xMacro/awesome-solana-security
+  description: A collection of resources to help you build better and more secure
+    Solana programs. Kept up to date.
+  category: SDKs & Tooling
+  stars: 293
+  stats:
+    stars: 293
+    contributors: 2
+    last_activity: Last commit (Jun 18, 2025)
+    archived: false
+    updated_at: '2025-08-20T10:40:51Z'
+    language: null
+- name: Pumpfun-solana-smart-contract
+  repo: cutupdev/Pumpfun-solana-smart-contract
+  description: 'pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana
+    pump fun smart contract source code'
+  category: SDKs & Tooling
+  stars: 289
+  stats:
+    stars: 289
+    contributors: 1
+    last_activity: Last commit (Jun 30, 2025)
+    archived: false
+    updated_at: '2025-08-14T17:27:21Z'
+    language: TypeScript
+- name: anchorpy
+  repo: kevinheavey/anchorpy
+  description: The Python Anchor client.
+  category: NFTs & Programs
+  stars: 271
+  stats:
+    stars: 271
+    contributors: 11
+    last_activity: 0.21.0 (Mar 26, 2025)
+    archived: false
+    updated_at: '2025-08-02T00:57:58Z'
+    language: Python
+- name: anchor-go
+  repo: gagliardetto/anchor-go
+  description: Generate Go clients from anchor IDLs for Solana blockchain programs
+  category: SDKs & Tooling
+  stars: 263
+  stats:
+    stars: 263
+    contributors: 4
+    last_activity: v1.0.0 (Jul 02, 2025)
+    archived: false
+    updated_at: '2025-08-18T21:22:01Z'
+    language: Go
+- name: metaplex
+  repo: metaplex-foundation/metaplex
+  description: A directory of what the Metaplex Foundation works on!
+  category: NFTs & Programs
+  stars: 3345
+  stats:
+    stars: 3345
+    contributors: 155
+    last_activity: v1.2.0 (Mar 16, 2022)
+    archived: false
+    updated_at: '2025-08-11T18:14:23Z'
+    language: null
+- name: metaboss
+  repo: samuelvanderwaal/metaboss
+  description: The Metaplex NFT-standard Swiss Army Knife tool.
+  category: NFTs & Programs
+  stars: 714
+  stats:
+    stars: 714
+    contributors: 25
+    last_activity: v0.44.0 (Jan 08, 2025)
+    archived: false
+    updated_at: '2025-08-19T17:29:40Z'
+    language: Rust
+- name: metaplex-program-library
+  repo: metaplex-foundation/metaplex-program-library
+  description: Smart contracts maintained by the Metaplex team
+  category: NFTs & Programs
+  stars: 634
+  stats:
+    stars: 634
+    contributors: 63
+    last_activity: Last commit (Nov 01, 2024)
+    archived: false
+    updated_at: '2025-08-20T09:11:14Z'
+    language: Rust
+- name: treat-toolbox
+  repo: theskeletoncrew/treat-toolbox
+  description: 'Treat Toolbox: Generative NFT Utility for Candy Machine / Solana'
+  category: NFTs & Programs
+  stars: 270
+  stats:
+    stars: 270
+    contributors: 11
+    last_activity: Last commit (Apr 25, 2022)
+    archived: false
+    updated_at: '2025-06-27T13:46:24Z'
+    language: TypeScript
+- name: shank
+  repo: metaplex-foundation/shank
+  description: Extracts IDL from Solana Rust contracts
+  category: NFTs & Programs
+  stars: 186
+  stats:
+    stars: 186
+    contributors: 7
+    last_activity: Last commit (Aug 12, 2025)
+    archived: false
+    updated_at: '2025-08-20T03:04:41Z'
+    language: Rust
+- name: compressed-nfts
+  repo: solana-developers/compressed-nfts
+  description: Example code to use compressed NFTs (using state compression) on Solana
+  category: NFTs & Programs
+  stars: 125
+  stats:
+    stars: 125
+    contributors: 2
+    last_activity: Last commit (Jan 18, 2024)
+    archived: false
+    updated_at: '2025-08-07T03:56:55Z'
+    language: TypeScript
+- name: fetch-nft
+  repo: AudiusProject/fetch-nft
+  description: 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in
+    a common format given any wallet
+  category: NFTs & Programs
+  stars: 121
+  stats:
+    stars: 121
+    contributors: 7
+    last_activity: Last commit (Jan 13, 2025)
+    archived: false
+    updated_at: '2025-08-07T03:01:32Z'
+    language: TypeScript
+- name: digital-asset-rpc-infrastructure
+  repo: metaplex-foundation/digital-asset-rpc-infrastructure
+  description: Reference implementation for Metaplex Digital Asset Standard API
+  category: NFTs & Programs
+  stars: 109
+  stats:
+    stars: 109
+    contributors: 18
+    last_activity: v0.6.8 (Feb 22, 2023)
+    archived: false
+    updated_at: '2025-08-13T02:37:31Z'
+    language: Rust
+- name: solana-anchor-react-minimal-example
+  repo: 256hax/solana-anchor-react-minimal-example
+  description: Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy
+    to start!
+  category: NFTs & Programs
+  stars: 96
+  stats:
+    stars: 96
+    contributors: 3
+    last_activity: v1.1.0 (Nov 23, 2023)
+    archived: false
+    updated_at: '2025-08-09T22:46:45Z'
+    language: TypeScript
+- name: solana-txn-parser
+  repo: Tee-py/solana-txn-parser
+  description: An open-source transaction parser for popular DeFi applications on
+    the Solana blockchain 🚀🤖..
+  category: DeFi
+  stars: 187
+  stats:
+    stars: 187
+    contributors: 2
+    last_activity: v0.1.6 (Jul 18, 2025)
+    archived: false
+    updated_at: '2025-08-18T07:41:52Z'
+    language: TypeScript
+- name: espresso-cash-public
+  repo: espresso-cash/espresso-cash-public
+  description: Dart and Flutter apps and libraries maintained by Espresso Cash team
+    for Solana.
+  category: Wallets & Mobile
+  stars: 294
+  stats:
+    stars: 294
+    contributors: 24
+    last_activity: Last commit (Aug 03, 2025)
+    archived: false
+    updated_at: '2025-08-07T15:11:45Z'
+    language: Dart
+- name: reactor-wallet
+  repo: marc2332/reactor-wallet
+  description: 💳 Non-custodial cross-platform wallet for Solana
+  category: Wallets & Mobile
+  stars: 80
+  stats:
+    stars: 80
+    contributors: 2
+    last_activity: Last commit (Dec 17, 2022)
+    archived: false
+    updated_at: '2025-03-11T06:43:00Z'
+    language: Dart
+- name: crypto-trading-bot-mobile
+  repo: 0xTan1319/crypto-trading-bot-mobile
+  description: ' A cross-platform mobile crypto trading bot for Solana, built with
+    Expo + React Native. Connect your Phantom Wallet, monitor coins, and automate
+    trades in real time'
+  category: Wallets & Mobile
+  stars: 34
+  stats:
+    stars: 34
+    contributors: 1
+    last_activity: Last commit (Aug 07, 2025)
+    archived: false
+    updated_at: '2025-08-18T10:10:44Z'
+    language: TypeScript
+- name: solacademy-wallet
+  repo: moviendome/solacademy-wallet
+  description: Boilerplate to build Cross-Platform Apps with Expo, React Native &
+    Solana Web3
+  category: Wallets & Mobile
+  stars: 13
+  stats:
+    stars: 13
+    contributors: 1
+    last_activity: Last commit (Aug 10, 2022)
+    archived: false
+    updated_at: '2025-06-06T02:43:03Z'
+    language: TypeScript
+- name: mobile-wallet-adapter-react-native
+  repo: coral-xyz/mobile-wallet-adapter-react-native
+  description: Solana Mobile Wallet Adapter for React Native & Expo
+  category: Wallets & Mobile
+  stars: 9
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: Last commit (Feb 17, 2023)
+    archived: false
+    updated_at: '2025-08-04T12:24:27Z'
+    language: Kotlin
+- name: expo-react-native-mwa-proof-of-concept
+  repo: solana-mobile/expo-react-native-mwa-proof-of-concept
+  description: This repository demonstrates how to make a custom development build
+    of Expo that includes the mobile wallet adapter, so that you can develop React
+    Native Solana applications with Expo.
+  category: Wallets & Mobile
+  stars: 9
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: Last commit (Dec 21, 2022)
+    archived: false
+    updated_at: '2024-04-07T14:04:18Z'
+    language: JavaScript
+- name: Kitepay-mobile
+  repo: kytpay/Kitepay-mobile
+  description: 'Kitepay🪁 : Solana Mobile Wallet'
+  category: Wallets & Mobile
+  stars: 6
+  stats:
+    stars: 6
+    contributors: 1
+    last_activity: Last commit (Jul 07, 2024)
+    archived: false
+    updated_at: '2024-09-19T12:18:50Z'
+    language: Dart
+- name: solana-copy-bot
+  repo: Abraham-007/solana-copy-bot
+  description: Copy any transaction at any address in Solana
+  category: SDKs & Tooling
+  stars: 556
+  stats:
+    stars: 556
+    contributors: 1
+    last_activity: Last commit (Aug 19, 2025)
+    archived: false
+    updated_at: '2025-08-19T05:07:38Z'
+    language: TypeScript
+- name: solana-trading-bot
+  repo: warp-abbott/solana-trading-bot
+  description: 'Solana Trading Bot - RC: For Solana token sniping and trading, the
+    latest version has completed all optimizations'
+  category: SDKs & Tooling
+  stars: 533
+  stats:
+    stars: 533
+    contributors: 1
+    last_activity: Last commit (Aug 19, 2025)
+    archived: false
+    updated_at: '2025-08-19T01:25:27Z'
+    language: TypeScript
+- name: create-solana-dapp
+  repo: solana-foundation/create-solana-dapp
+  description: The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates
+  category: NFTs & Programs
+  stars: 517
+  stats:
+    stars: 517
+    contributors: 13
+    last_activity: Last commit (Aug 06, 2025)
+    archived: false
+    updated_at: '2025-08-20T15:13:10Z'
+    language: TypeScript
+- name: Solana-Trading-Bot
+  repo: henrytirla/Solana-Trading-Bot
+  description: Buy and Sell SPL tokens on the Raydium DEX and  Pump.fun using the
+    Solana-Py SDK and Jito SDK
+  category: DeFi
+  stars: 290
+  stats:
+    stars: 290
+    contributors: 1
+    last_activity: Last commit (Feb 15, 2025)
+    archived: false
+    updated_at: '2025-08-16T16:59:10Z'
+    language: Python
+- name: solana-tools
+  repo: cryptoloutre/solana-tools
+  description: A bunch of tools to help people in the Solana ecosystem. This website
+    includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools
+    are scheduled...
+  category: NFTs & Programs
+  stars: 206
+  stats:
+    stars: 206
+    contributors: 4
+    last_activity: Last commit (Dec 03, 2024)
+    archived: false
+    updated_at: '2025-08-14T14:16:53Z'
+    language: TypeScript
+- name: spl-token-ui
+  repo: paul-schaaf/spl-token-ui
+  description: Interface for creating and managing SPL Tokens
+  category: SDKs & Tooling
+  stars: 202
+  stats:
+    stars: 202
+    contributors: 1
+    last_activity: Last commit (Jul 08, 2021)
+    archived: true
+    updated_at: '2025-08-07T00:50:32Z'
+    language: Vue
+- name: solana-spl-token-sniper
+  repo: danbayk/solana-spl-token-sniper
+  description: Solana SPL-Token sniper for new Raydium liquidity pools
+  category: SDKs & Tooling
+  stars: 191
+  stats:
+    stars: 191
+    contributors: 1
+    last_activity: Last commit (Mar 19, 2024)
+    archived: false
+    updated_at: '2025-08-13T16:00:55Z'
+    language: JavaScript
+- name: pumpfun-raydium-cli-tools
+  repo: hexnome/pumpfun-raydium-cli-tools
+  description: solana pumpfun bundler, raydium bundler, pumpfun sniping bot, raydium
+    sniping bot, pumpfun volume bot, raydium volume bot, pumpfun bundler, raydium
+    bundler, jito bundler
+  category: DeFi
+  stars: 161
+  stats:
+    stars: 161
+    contributors: 1
+    last_activity: Last commit (Mar 25, 2025)
+    archived: false
+    updated_at: '2025-08-18T07:35:32Z'
+    language: JavaScript
+- name: solana-auto-sell-bot
+  repo: lorenzourera/solana-auto-sell-bot
+  description: This script continuously scans a Solana wallet for SPL tokens and tracks
+    their age (time held) in seconds. Once a certain time has elapsed it will sell
+    the token on raydium or pumpfun.
+  category: DeFi
+  stars: 118
+  stats:
+    stars: 118
+    contributors: 1
+    last_activity: Last commit (Jan 13, 2025)
+    archived: false
+    updated_at: '2025-08-17T05:26:12Z'
+    language: Python
+- name: dex-v4
+  repo: Bonfida/dex-v4
+  description: Orderbook-based on-chain SPL token swap market
+  category: DeFi
+  stars: 103
+  stats:
+    stars: 103
+    contributors: 7
+    last_activity: Last commit (Feb 22, 2023)
+    archived: false
+    updated_at: '2025-07-18T12:40:27Z'
+    language: Rust
+- name: solana-sniper-bot
+  repo: AxisBotV2/solana-sniper-bot
+  description: AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning
+    speed.  Our sniping bot helps you maintain a higher level of security while also
+    giving you the fastest sniping speed possible. Built by Traders for Traders.
+  category: SDKs & Tooling
+  stars: 81
+  stats:
+    stars: 81
+    contributors: 1
+    last_activity: Last commit (Jul 07, 2024)
+    archived: false
+    updated_at: '2025-08-18T10:02:22Z'
+    language: TypeScript
+- name: solana-spl-tutorial
+  repo: YosephKS/solana-spl-tutorial
+  description: This repository contains full tutorial on Solana SPL token
+  category: SDKs & Tooling
+  stars: 75
+  stats:
+    stars: 75
+    contributors: 1
+    last_activity: Last commit (Feb 12, 2022)
+    archived: false
+    updated_at: '2025-03-18T16:29:13Z'
+    language: null
+- name: solana-playground
+  repo: solana-playground/solana-playground
+  description: Quickly develop, deploy and test Solana programs from browsers
+  category: SDKs & Tooling
+  stars: 816
+  stats:
+    stars: 816
+    contributors: 28
+    last_activity: Last commit (Aug 19, 2025)
+    archived: false
+    updated_at: '2025-08-20T14:33:48Z'
+    language: Rust
+- name: pirate-bootcamp
+  repo: solana-developers/pirate-bootcamp
+  description: A pirate-theme bootcamp for getting up to speed on Solana programming!
+  category: DeFi
+  stars: 315
+  stats:
+    stars: 315
+    contributors: 4
+    last_activity: Last commit (Sep 05, 2023)
+    archived: false
+    updated_at: '2025-08-17T16:33:01Z'
+    language: C#
+- name: solana-escrow
+  repo: paul-schaaf/solana-escrow
+  description: Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/
+  category: DeFi
+  stars: 312
+  stats:
+    stars: 312
+    contributors: 3
+    last_activity: Last commit (Jan 23, 2022)
+    archived: true
+    updated_at: '2025-08-20T13:16:08Z'
+    language: TypeScript
+- name: Solana-Arbitrage-Bot
+  repo: ChangeYourself0613/Solana-Arbitrage-Bot
+  description: Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program
+    with rust language architecture using anchor frame work
+  category: DeFi
+  stars: 237
+  stats:
+    stars: 237
+    contributors: 1
+    last_activity: solana-arbitrage-bot2 (May 26, 2025)
+    archived: false
+    updated_at: '2025-08-18T09:08:01Z'
+    language: Rust
+- name: anchor-escrow
+  repo: ironaddicteddog/anchor-escrow
+  description: Escrow program implemented in Anchor
+  category: SDKs & Tooling
+  stars: 193
+  stats:
+    stars: 193
+    contributors: 3
+    last_activity: Last commit (Aug 29, 2024)
+    archived: false
+    updated_at: '2025-08-02T01:14:00Z'
+    language: Rust
+- name: pumpfun-rs
+  repo: nhuxhr/pumpfun-rs
+  description: A comprehensive Rust SDK for seamless interaction with the PumpFun
+    Solana program.
+  category: SDKs & Tooling
+  stars: 139
+  stats:
+    stars: 139
+    contributors: 5
+    last_activity: Last commit (Aug 15, 2025)
+    archived: false
+    updated_at: '2025-08-18T19:04:08Z'
+    language: Rust
+- name: Solana-Auditors-Bootcamp
+  repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
+  description: Learn to audit Solana programs and help secure the ecosystem. Take
+    your security practices to the next level and get certified by Ackee Blockchain
+    Security. It's free, too.
+  category: SDKs & Tooling
+  stars: 135
+  stats:
+    stars: 135
+    contributors: 2
+    last_activity: Last commit (Sep 23, 2024)
+    archived: false
+    updated_at: '2025-08-05T05:53:25Z'
+    language: Rust
+- name: sol-trade-sdk
+  repo: 0xfnzero/sol-trade-sdk
+  description: A comprehensive Rust SDK for seamless interaction with Solana DEX trading
+    programs. This SDK provides a robust set of tools and interfaces to integrate
+    PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications.
+  category: DeFi
+  stars: 125
+  stats:
+    stars: 125
+    contributors: 5
+    last_activity: Last commit (Aug 20, 2025)
+    archived: false
+    updated_at: '2025-08-20T14:49:28Z'
+    language: Rust
+- name: radar
+  repo: Auditware/radar
+  description: A static analysis tool for anchor rust programs.
+  category: SDKs & Tooling
+  stars: 101
+  stats:
+    stars: 101
+    contributors: 3
+    last_activity: Last commit (Jul 03, 2025)
+    archived: false
+    updated_at: '2025-08-14T09:53:11Z'
+    language: Python
+- name: solana-payments-app
+  repo: solana-labs/solana-payments-app
+  description: Solana Pay for Commerce Platforms
+  category: Payments
+  stars: 98
+  stats:
+    stars: 98
+    contributors: 5
+    last_activity: v2.0.0 (Aug 18, 2023)
+    archived: true
+    updated_at: '2025-07-22T21:01:53Z'
+    language: TypeScript
+- name: solana-payment-processor
+  repo: solpayments/solana-payment-processor
+  description: Solana payment processor for e-commerce applications
+  category: Payments
+  stars: 20
+  stats:
+    stars: 20
+    contributors: 2
+    last_activity: Last commit (Jul 13, 2021)
+    archived: false
+    updated_at: '2025-01-07T18:07:11Z'
+    language: Rust
+- name: solana-payment-processor
+  repo: hylcore-V/solana-payment-processor
+  description: About Solana payment processor for e-commerce applications
+  category: Payments
+  stars: 17
+  stats:
+    stars: 17
+    contributors: 1
+    last_activity: Last commit (Nov 24, 2024)
+    archived: false
+    updated_at: '2025-08-06T02:55:17Z'
+    language: Rust
+- name: solpress-pay
+  repo: solpressplugins/solpress-pay
+  description: Woocommerce Payment Gateway Plugin Using Solana Pay
+  category: Payments
+  stars: 11
+  stats:
+    stars: 11
+    contributors: 1
+    last_activity: Last commit (Aug 07, 2024)
+    archived: false
+    updated_at: '2025-01-25T00:46:29Z'
+    language: TypeScript
+- name: odoo-solana-payments
+  repo: t-900-a/odoo-solana-payments
+  description: Allows you to accept a variety of currencies (USDT, USDC, BTC, SOL)
+    via the solana blockchain
+  category: SDKs & Tooling
+  stars: 10
+  stats:
+    stars: 10
+    contributors: 1
+    last_activity: Last commit (Nov 18, 2020)
+    archived: true
+    updated_at: '2025-05-15T02:03:56Z'
+    language: Python
+- name: wc-solana-pay
+  repo: aztemi/wc-solana-pay
+  description: Solana Pay powered payment gateway for WordPress and WooCommerce
+  category: Payments
+  stars: 9
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: Last commit (Jul 12, 2025)
+    archived: false
+    updated_at: '2025-08-18T06:13:40Z'
+    language: PHP
+- name: Payment-gateway
+  repo: alxn787/Payment-gateway
+  description: Payment gateway for solana with advanced Private key management and
+    address sweeping via indexer
+  category: DeFi
+  stars: 9
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: Last commit (Jul 12, 2025)
+    archived: false
+    updated_at: '2025-07-28T18:11:21Z'
+    language: TypeScript
+- name: solana-sign-with-payment
+  repo: kizzx2/solana-sign-with-payment
+  description: Prove ownership of a Solana address by asking the user to send a small
+    amount
+  category: SDKs & Tooling
+  stars: 8
+  stats:
+    stars: 8
+    contributors: 1
+    last_activity: Last commit (May 19, 2022)
+    archived: false
+    updated_at: '2024-02-17T06:55:18Z'
+    language: TypeScript
+- name: solana-pay-checkout
+  repo: ronylucca/solana-pay-checkout
+  description: A point-of-sale web app that allows us to take payments from customers
+    through QR Code in person using Solana Pay.
+  category: Payments
+  stars: 8
+  stats:
+    stars: 8
+    contributors: 1
+    last_activity: Last commit (Apr 10, 2022)
+    archived: false
+    updated_at: '2025-03-21T14:31:47Z'
+    language: TypeScript
+- name: solana-pay-qrcode-generator
+  repo: valentinmadrid/solana-pay-qrcode-generator
+  description: A simple way to generate QR Codes and easily accept payments in Solana,
+    USCD or any other SPL-Token on the Solana Blockchain.
+  category: Payments
+  stars: 6
+  stats:
+    stars: 6
+    contributors: 1
+    last_activity: Last commit (Oct 25, 2022)
+    archived: false
+    updated_at: '2024-08-17T22:54:49Z'
+    language: JavaScript
 search_queries:
-  - "solana framework language:rust stars:>50"
-  - "solana sdk language:typescript stars:>20"
-  - "anchor solana stars:>10"
-  - "metaplex solana stars:>5"
-  - "jupiter solana defi stars:>5"
-  - "solana wallet mobile stars:>5"
-  - "spl-token solana stars:>10"
-  - "solana program rust stars:>15"
-  - "solana oracle price feed stars:>5"
-  - "solana pay payment stars:>3"
+- solana framework language:rust stars:>50
+- solana sdk language:typescript stars:>20
+- anchor solana stars:>10
+- metaplex solana stars:>5
+- jupiter solana defi stars:>5
+- solana wallet mobile stars:>5
+- spl-token solana stars:>10
+- solana program rust stars:>15
+- solana oracle price feed stars:>5
+- solana pay payment stars:>3

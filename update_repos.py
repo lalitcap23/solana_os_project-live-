@@ -24,29 +24,29 @@ class SolanaRepoTracker:
                 data = response.json()
                 self.rate_limit_remaining = data['rate']['remaining']
                 reset_time = datetime.fromtimestamp(data['rate']['reset'])
-                print(f"📊 Rate limit remaining: {self.rate_limit_remaining}/5000")
-                print(f"🔄 Resets at: {reset_time.strftime('%H:%M:%S')}")
+                print(f"Rate limit remaining: {self.rate_limit_remaining}/5000")
+                print(f"Resets at: {reset_time.strftime('%H:%M:%S')}")
                 
                 if self.rate_limit_remaining < 100:
-                    print("⚠️  Low rate limit! Sleeping for 60 seconds...")
+                    print("Low rate limit! Sleeping for 60 seconds...")
                     time.sleep(60)
         except Exception as e:
-            print(f"❌ Error checking rate limit: {e}")
+            print(f"Error checking rate limit: {e}")
     
     def get_repo_stats(self, repo_name):
         """Get comprehensive repo statistics"""
         try:
-            print(f"  📈 Fetching stats for {repo_name}...")
+            print(f"  Fetching stats for {repo_name}...")
             
             # Basic repo info
             repo_url = f"https://api.github.com/repos/{repo_name}"
             response = requests.get(repo_url, headers=self.headers)
             
             if response.status_code == 404:
-                print(f"  ❌ Repository {repo_name} not found (404)")
+                print(f"  Repository {repo_name} not found (404)")
                 return None
             elif response.status_code != 200:
-                print(f"  ❌ Error fetching {repo_name}: {response.status_code}")
+                print(f"  Error fetching {repo_name}: {response.status_code}")
                 return None
             
             repo_data = response.json()
@@ -71,7 +71,7 @@ class SolanaRepoTracker:
                         contributors_data = contributors_response.json()
                         contributors_count = len(contributors_data) if contributors_data else 0
             except Exception as e:
-                print(f"    ⚠️  Could not get contributors count: {e}")
+                print(f"    Could not get contributors count: {e}")
                 contributors_count = 0
             
             # Get latest release or latest commit
@@ -94,7 +94,7 @@ class SolanaRepoTracker:
                             commit_date = datetime.strptime(commits_data[0]['commit']['committer']['date'], '%Y-%m-%dT%H:%M:%SZ')
                             last_activity = f"Last commit ({commit_date.strftime('%b %d, %Y')})"
             except Exception as e:
-                print(f"    ⚠️  Could not get activity info: {e}")
+                print(f"    Could not get activity info: {e}")
                 last_activity = "Active"
             
             stats = {
@@ -106,16 +106,16 @@ class SolanaRepoTracker:
                 'language': repo_data.get('language', 'Unknown')
             }
             
-            print(f"    ✅ {repo_data['stargazers_count']} stars, {contributors_count} contributors")
+            print(f"    {repo_data['stargazers_count']} stars, {contributors_count} contributors")
             return stats
             
         except Exception as e:
-            print(f"  ❌ Error processing {repo_name}: {str(e)}")
+            print(f"  Error processing {repo_name}: {str(e)}")
             return None
     
     def search_new_solana_projects(self, query, existing_repos):
         """Search for new Solana projects"""
-        print(f"🔍 Searching: {query}")
+        print(f"Searching: {query}")
         
         search_url = f"https://api.github.com/search/repositories"
         params = {
@@ -129,7 +129,7 @@ class SolanaRepoTracker:
             response = requests.get(search_url, headers=self.headers, params=params)
             
             if response.status_code != 200:
-                print(f"  ❌ Search failed: {response.status_code}")
+                print(f"  Search failed: {response.status_code}")
                 return []
             
             search_data = response.json()
@@ -166,12 +166,12 @@ class SolanaRepoTracker:
                         'stars': repo['stargazers_count'],
                         'is_new': True
                     })
-                    print(f"  🆕 Found: {repo_name} ({repo['stargazers_count']} stars)")
+                    print(f"  Found: {repo_name} ({repo['stargazers_count']} stars)")
             
             return new_repos
             
         except Exception as e:
-            print(f"  ❌ Search error: {e}")
+            print(f"  Search error: {e}")
             return []
     
     def categorize_repo(self, description, topics):
@@ -217,7 +217,7 @@ class SolanaRepoTracker:
     
     def update_readme(self, repos_data):
         """Update the README with fresh data"""
-        print("📝 Updating README.md...")
+        print("Updating README.md...")
         
         # Group by category
         categories = {
@@ -244,7 +244,7 @@ class SolanaRepoTracker:
             with open('README.md', 'r', encoding='utf-8') as f:
                 readme_content = f.read()
         except FileNotFoundError:
-            print("❌ README.md not found!")
+            print("README.md not found!")
             return
         
         # Generate new table
@@ -280,7 +280,7 @@ class SolanaRepoTracker:
                 # Mark new repos
                 name = repo['name']
                 if repo.get('is_new'):
-                    name = f"🆕 {name}"
+                    name = f"NEW {name}"
                     new_projects_count += 1
                 
                 repo_url = f"https://github.com/{repo['repo']}"
@@ -315,34 +315,34 @@ class SolanaRepoTracker:
             with open('README.md', 'w', encoding='utf-8') as f:
                 f.write(new_readme)
             
-            print(f"✅ README.md updated successfully!")
+            print(f"README.md updated successfully!")
             if new_projects_count > 0:
-                print(f"🆕 Added {new_projects_count} new projects!")
+                print(f"Added {new_projects_count} new projects!")
                 
         except Exception as e:
-            print(f"❌ Error writing README: {e}")
+            print(f"Error writing README: {e}")
 
 
 def main():
-    print("🚀 Starting Solana Projects Auto-Updater...")
+    print("Starting Solana Projects Auto-Updater...")
     print("=" * 50)
     
     # Load config
     try:
         with open('repos.yaml', 'r', encoding='utf-8') as f:
             config = yaml.safe_load(f)
-        print(f"📋 Loaded {len(config['repositories'])} existing repositories")
+        print(f"Loaded {len(config['repositories'])} existing repositories")
     except FileNotFoundError:
-        print("❌ repos.yaml not found! Please create it first.")
+        print("repos.yaml not found! Please create it first.")
         return
     except Exception as e:
-        print(f"❌ Error loading repos.yaml: {e}")
+        print(f"Error loading repos.yaml: {e}")
         return
     
     # Get GitHub token from environment
     github_token = os.getenv('GITHUB_TOKEN')
     if not github_token:
-        print("❌ Please set GITHUB_TOKEN environment variable")
+        print("Please set GITHUB_TOKEN environment variable")
         print("   Get one from: https://github.com/settings/tokens")
         return
     
@@ -353,7 +353,7 @@ def main():
     repos_data = config['repositories'].copy()
     existing_repo_names = {repo['repo'] for repo in repos_data}
     
-    print(f"\n📊 Updating {len(repos_data)} existing repositories...")
+    print(f"\nUpdating {len(repos_data)} existing repositories...")
     print("-" * 40)
     
     for i, repo in enumerate(repos_data, 1):
@@ -366,7 +366,7 @@ def main():
             tracker.check_rate_limit()
     
     # Search for new projects
-    print(f"\n🔍 Searching for new Solana projects...")
+    print(f"\nSearching for new Solana projects...")
     print("-" * 40)
     
     for query in config['search_queries']:
@@ -384,7 +384,7 @@ def main():
         time.sleep(1)
     
     # Update README
-    print(f"\n📝 Generating new README...")
+    print(f"\nGenerating new README...")
     print("-" * 40)
     tracker.update_readme(repos_data)
     
@@ -398,12 +398,12 @@ def main():
     try:
         with open('repos.yaml', 'w', encoding='utf-8') as f:
             yaml.dump(config, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-        print("✅ Updated repos.yaml with new projects")
+        print("Updated repos.yaml with new projects")
     except Exception as e:
-        print(f"❌ Error updating repos.yaml: {e}")
+        print(f"Error updating repos.yaml: {e}")
     
-    print(f"\n🎉 Update complete!")
-    print(f"📊 Total projects: {len(repos_data)}")
+    print(f"\nUpdate complete!")
+    print(f"Total projects: {len(repos_data)}")
     print("=" * 50)
 
 if __name__ == "__main__":
