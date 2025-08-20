@@ -6,7 +6,7 @@
 - 🔍 **Discovers new Solana projects** via GitHub API search
 - 📊 **Updates repository statistics** (stars, contributors, activity) 
 - 📝 **Regenerates this README** with fresh data
-- 💾 **Commits changes** every 3 days via GitHub Actions
+- 💾 **Commits changes** every 30 minute via GitHub Actions
 - 🆕 **Highlights new discoveries** with emoji markers
 
 📋 **Setup Guide:** See [AUTOMATION_GUIDE.md](./AUTOMATION_GUIDE.md) for full details
