@@ -13,7 +13,6 @@
 
 🎮 **Try the Demo:** Run `python3 demo_update.py` (no GitHub token needed)
 
-⚡ **Next Update:** Automatic updates run every 3 days at 06:00 UTC
 
 A curated list of actively maintained open-source projects in the Solana ecosystem. Each entry includes a short description, repository link, and key maintenance signals (stars, contributors, last activity), organized by category.
 
