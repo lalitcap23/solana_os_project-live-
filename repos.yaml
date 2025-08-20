@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-20T16:18:14Z'
+    updated_at: '2025-08-20T18:01:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 203
+    stars: 204
     contributors: 1
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-20T05:55:35Z'
+    updated_at: '2025-08-20T18:21:10Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
