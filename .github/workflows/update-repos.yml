@@ -12,6 +12,10 @@ on:
         default: 'false'
         type: boolean
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   update-repos:
     runs-on: ubuntu-latest
@@ -91,6 +95,8 @@ jobs:
     
     - name: 💾 Commit and push changes
       if: steps.check_new_changes.outputs.new_changes == 'true'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         # Configure git
         git config --local user.email "action@github.com"
