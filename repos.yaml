@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14326
+    stars: 14327
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-20T03:01:42Z'
+    updated_at: '2025-08-20T20:34:29Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
