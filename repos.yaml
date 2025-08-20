@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1275
+    stars: 1276
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-20T18:38:19Z'
+    updated_at: '2025-08-20T18:49:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -684,11 +684,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 24
+    stars: 18
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-08-20T18:49:06Z'
+    updated_at: '2025-08-20T18:56:01Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
