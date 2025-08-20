@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2583
+    stars: 2584
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-18T23:47:03Z'
+    updated_at: '2025-08-20T21:04:34Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-20T16:39:56Z'
+    updated_at: '2025-08-20T21:00:48Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
