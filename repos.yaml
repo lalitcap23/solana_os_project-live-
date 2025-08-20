@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-20T15:13:07Z'
+    updated_at: '2025-08-20T16:18:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-20T13:04:37Z'
+    updated_at: '2025-08-20T16:39:56Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -432,11 +432,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 344
+    stars: 345
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2025-08-06T13:57:09Z'
+    updated_at: '2025-08-20T15:42:25Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 328
+    stars: 329
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-18T23:51:23Z'
+    updated_at: '2025-08-20T16:35:10Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 293
+    stars: 294
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-20T10:40:51Z'
+    updated_at: '2025-08-20T16:30:49Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -963,11 +963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 139
+    stars: 140
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-08-18T19:04:08Z'
+    updated_at: '2025-08-20T16:26:51Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -992,10 +992,10 @@ repositories:
   stars: 125
   stats:
     stars: 125
-    contributors: 5
+    contributors: 6
     last_activity: Last commit (Aug 20, 2025)
     archived: false
-    updated_at: '2025-08-20T14:49:28Z'
+    updated_at: '2025-08-20T16:28:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
