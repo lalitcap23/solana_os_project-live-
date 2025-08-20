@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-20T18:01:35Z'
+    updated_at: '2025-08-20T18:38:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-20T17:08:09Z'
+    updated_at: '2025-08-20T18:38:44Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 305
+    stars: 304
     contributors: 1
     last_activity: Last commit (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-20T14:27:47Z'
+    updated_at: '2025-08-20T18:41:58Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 296
+    stars: 297
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-20T17:34:03Z'
+    updated_at: '2025-08-20T18:40:27Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -684,11 +684,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 34
+    stars: 24
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-08-18T10:10:44Z'
+    updated_at: '2025-08-20T18:49:06Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
