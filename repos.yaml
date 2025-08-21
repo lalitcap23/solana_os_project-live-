@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T18:14:58Z'
+    updated_at: '2025-08-21T18:58:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4536
+    stars: 4535
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-21T14:25:24Z'
+    updated_at: '2025-08-21T18:53:09Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 294
+    stars: 295
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-20T18:38:44Z'
+    updated_at: '2025-08-21T18:51:51Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4536
+    stars: 4535
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-21T14:25:24Z'
+    updated_at: '2025-08-21T18:53:09Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 517
+    stars: 518
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-20T15:13:10Z'
+    updated_at: '2025-08-21T19:02:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
