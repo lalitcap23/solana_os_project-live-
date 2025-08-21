@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14328
+    stars: 14327
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-20T23:15:49Z'
+    updated_at: '2025-08-21T02:22:09Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1276
+    stars: 1277
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T01:10:13Z'
+    updated_at: '2025-08-21T03:00:12Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 149
     last_activity: sdk@v3.0.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-20T10:04:40Z'
+    updated_at: '2025-08-21T02:46:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2584
+    stars: 2585
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-20T21:04:34Z'
+    updated_at: '2025-08-21T03:08:49Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -356,9 +356,9 @@ repositories:
   stats:
     stars: 182
     contributors: 4
-    last_activity: Last commit (Jan 07, 2025)
+    last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-07-24T06:10:26Z'
+    updated_at: '2025-08-21T02:23:06Z'
     language: TypeScript
 - name: solita
   repo: metaplex-foundation/solita
