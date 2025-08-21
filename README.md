@@ -13,6 +13,8 @@
 
 🎮 **Try the Demo:** Run `python3 demo_update.py` (no GitHub token needed)
 
+📖 **Code Documentation:** See [CODE_EXPLANATION.md](./CODE_EXPLANATION.md) for detailed code explanation
+
 
 A curated list of actively maintained open-source projects in the Solana ecosystem. Each entry includes a short description, repository link, and key maintenance signals (stars, contributors, last activity), organized by category.
 
