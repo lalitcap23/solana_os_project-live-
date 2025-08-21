@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14329
+    stars: 14330
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-21T05:45:10Z'
+    updated_at: '2025-08-21T09:28:24Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-08-20T09:13:17Z'
+    updated_at: '2025-08-21T09:52:28Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
