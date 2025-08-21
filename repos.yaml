@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T18:58:15Z'
+    updated_at: '2025-08-21T19:46:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -584,9 +584,9 @@ repositories:
   stats:
     stars: 187
     contributors: 7
-    last_activity: Last commit (Aug 12, 2025)
+    last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-08-21T08:21:10Z'
+    updated_at: '2025-08-21T20:13:40Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
