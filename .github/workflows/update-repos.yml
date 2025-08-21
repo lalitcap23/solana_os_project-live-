@@ -1,8 +1,8 @@
 name: 🤖 Auto-Update Solana Projects
 on:
   schedule:
-    # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    # Run once every hour at minute 0
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger
     inputs:
       force_update:
