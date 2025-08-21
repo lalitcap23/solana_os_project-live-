@@ -99,7 +99,7 @@ Last updated: 2025-08-21
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 714 | 25 | v0.44.0 (Jan 08, 2025) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 634 | 63 | Last commit (Nov 01, 2024) | NFTs & Programs |
 | treat-toolbox | Treat Toolbox: Generative NFT Utility for Candy Machine / Solana | https://github.com/theskeletoncrew/treat-toolbox | 270 | 11 | Last commit (Apr 25, 2022) | NFTs & Programs |
-| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 186 | 7 | Last commit (Aug 12, 2025) | NFTs & Programs |
+| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 187 | 7 | Last commit (Aug 12, 2025) | NFTs & Programs |
 | compressed-nfts | Example code to use compressed NFTs (using state compression) on Solana | https://github.com/solana-developers/compressed-nfts | 125 | 2 | Last commit (Jan 18, 2024) | NFTs & Programs |
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 121 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 109 | 18 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |
@@ -117,7 +117,7 @@ Last updated: 2025-08-21
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 206 | 2 | v6.0.62 (Aug 18, 2025) | DeFi |
 | carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 427 | 27 | v0.9.1 (Jul 18, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 182 | 4 | Last commit (Aug 21, 2025) | DeFi |
-| Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | 329 | 3 | Solana-Arbitrage-Bot (May 20, 2025) | DeFi |
+| Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | 330 | 3 | Solana-Arbitrage-Bot (May 20, 2025) | DeFi |
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 187 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
 | Solana-Trading-Bot | Buy and Sell SPL tokens on the Raydium DEX and  Pump.fun using the Solana-Py SDK and Jito SDK | https://github.com/henrytirla/Solana-Trading-Bot | 290 | 1 | Last commit (Feb 15, 2025) | DeFi |
 | pumpfun-raydium-cli-tools | solana pumpfun bundler, raydium bundler, pumpfun sniping bot, raydium sniping bot, pumpfun volume bot, raydium volume bot, pumpfun bundler, raydium bundler, jito bundler | https://github.com/hexnome/pumpfun-raydium-cli-tools | 161 | 1 | Last commit (Mar 25, 2025) | DeFi |

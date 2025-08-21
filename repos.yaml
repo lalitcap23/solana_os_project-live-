@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 329
+    stars: 330
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-20T16:35:10Z'
+    updated_at: '2025-08-21T07:30:22Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -582,11 +582,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 186
+    stars: 187
     contributors: 7
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-08-20T03:04:41Z'
+    updated_at: '2025-08-21T08:21:10Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
