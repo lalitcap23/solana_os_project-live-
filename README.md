@@ -137,7 +137,7 @@ Last updated: 2025-08-21
 Option A — Manual refresh
 - Periodically check each repo and update stars, contributors, and last activity.
 
-Option B — Automated updates( will implement) 
+Option B — Automated updates( implemented ) 
 - Add a scheduled GitHub Actions workflow that:
   - Reads a JSON/YAML list of repos.
   - Queries the GitHub API for stars, contributors, last commit/release.
