@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T13:37:46Z'
+    updated_at: '2025-08-21T14:43:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-21T14:14:56Z'
+    updated_at: '2025-08-21T14:25:24Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-21T14:14:56Z'
+    updated_at: '2025-08-21T14:25:24Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 204
+    stars: 205
     contributors: 1
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-20T18:21:10Z'
+    updated_at: '2025-08-21T14:37:51Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1249
+    stars: 1250
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-21T08:47:40Z'
+    updated_at: '2025-08-21T14:51:40Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -684,11 +684,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 18
+    stars: 11
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-08-20T18:56:01Z'
+    updated_at: '2025-08-21T15:24:16Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
