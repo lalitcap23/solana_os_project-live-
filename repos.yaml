@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T10:58:29Z'
+    updated_at: '2025-08-21T12:38:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 305
+    stars: 306
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-08-15T03:19:41Z'
+    updated_at: '2025-08-21T11:31:05Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -658,11 +658,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 294
+    stars: 295
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-08-07T15:11:45Z'
+    updated_at: '2025-08-21T11:59:39Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet

@@ -44,7 +44,7 @@ Last updated: 2025-08-21
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.6k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 405 | 8 | 0.26.0 (Feb 18, 2025) | SDKs & Tooling |
 | anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 4.5k | 302 | v0.31.1 (Apr 19, 2025) | SDKs & Tooling |
-| trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 305 | 19 | 0.11.0 (Aug 14, 2025) | SDKs & Tooling |
+| trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 306 | 19 | 0.11.0 (Aug 14, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 233 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
 | steel | Solana smart contract framework. | https://github.com/regolith-labs/steel | 233 | 7 | 2.1.0 (Oct 23, 2024) | SDKs & Tooling |
 | nautilus | SQL-native Solana program framework | https://github.com/nautilus-project/nautilus | 93 | 6 | Last commit (Nov 08, 2024) | SDKs & Tooling |
@@ -80,7 +80,7 @@ Last updated: 2025-08-21
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 294 | 16 | v2.1.0 (Aug 18, 2025) | Wallets & Mobile |
 | Seed Vault SDK | Secure key custody API/service for Android | https://github.com/solana-mobile/seed-vault-sdk | 85 | 6 | v0.3.3 (Aug 05, 2025) | Wallets & Mobile |
 | Bonkfun-Bundler-Bonk.fun-Bundler | bonkfun bundler / bonk.fun bundler Letsbonk / Letsbonkfun bundler / Pump.fun bundler / pumpfun bundler / pumpdotfun bundler / bagsfm bundler/ bags.fm bundler trading bot. Multi-wallet bundler for Solana token launches. Uses Jito and Raydium SDK v2 for atomic one-block execution. | https://github.com/Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler | 204 | 1 | Last commit (Jul 23, 2025) | Wallets & Mobile |
-| espresso-cash-public | Dart and Flutter apps and libraries maintained by Espresso Cash team for Solana. | https://github.com/espresso-cash/espresso-cash-public | 294 | 24 | Last commit (Aug 03, 2025) | Wallets & Mobile |
+| espresso-cash-public | Dart and Flutter apps and libraries maintained by Espresso Cash team for Solana. | https://github.com/espresso-cash/espresso-cash-public | 295 | 24 | Last commit (Aug 03, 2025) | Wallets & Mobile |
 | reactor-wallet | 💳 Non-custodial cross-platform wallet for Solana | https://github.com/marc2332/reactor-wallet | 80 | 2 | Last commit (Dec 17, 2022) | Wallets & Mobile |
 | crypto-trading-bot-mobile |  A cross-platform mobile crypto trading bot for Solana, built with Expo + React Native. Connect your Phantom Wallet, monitor coins, and automate trades in real time | https://github.com/0xTan1319/crypto-trading-bot-mobile | 18 | 1 | Last commit (Aug 07, 2025) | Wallets & Mobile |
 | solacademy-wallet | Boilerplate to build Cross-Platform Apps with Expo, React Native & Solana Web3 | https://github.com/moviendome/solacademy-wallet | 13 | 1 | Last commit (Aug 10, 2022) | Wallets & Mobile |
