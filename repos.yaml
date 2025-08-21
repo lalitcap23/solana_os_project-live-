@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-20T22:32:50Z'
+    updated_at: '2025-08-21T01:10:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 289
+    stars: 290
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-14T17:27:21Z'
+    updated_at: '2025-08-21T01:00:30Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 816
+    stars: 817
     contributors: 28
     last_activity: Last commit (Aug 20, 2025)
     archived: false
-    updated_at: '2025-08-20T17:02:00Z'
+    updated_at: '2025-08-21T00:52:06Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
