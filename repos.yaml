@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-21T21:31:56Z'
+    updated_at: '2025-08-21T22:51:47Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2585
+    stars: 2584
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-21T03:08:49Z'
+    updated_at: '2025-08-21T22:25:47Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4049
+    stars: 4048
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-21T10:31:05Z'
+    updated_at: '2025-08-21T22:25:47Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4135
+    stars: 4136
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-08-15T09:07:27Z'
+    updated_at: '2025-08-21T22:24:23Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -684,11 +684,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 11
+    stars: 10
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-08-21T15:24:16Z'
+    updated_at: '2025-08-21T22:26:20Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -799,11 +799,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 206
+    stars: 207
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-08-14T14:16:53Z'
+    updated_at: '2025-08-21T23:16:21Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -839,7 +839,7 @@ repositories:
   stats:
     stars: 161
     contributors: 1
-    last_activity: Active
+    last_activity: Last commit (Mar 25, 2025)
     archived: false
     updated_at: '2025-08-18T07:35:32Z'
     language: JavaScript
@@ -963,11 +963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 140
+    stars: 139
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-08-20T16:26:51Z'
+    updated_at: '2025-08-21T22:25:48Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
