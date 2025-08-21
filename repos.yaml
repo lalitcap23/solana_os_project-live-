@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4533
+    stars: 4534
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-20T03:28:53Z'
+    updated_at: '2025-08-21T09:25:12Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4533
+    stars: 4534
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-20T03:28:53Z'
+    updated_at: '2025-08-21T09:25:12Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 427
+    stars: 428
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-21T05:51:54Z'
+    updated_at: '2025-08-21T09:03:13Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1248
+    stars: 1249
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-20T19:57:00Z'
+    updated_at: '2025-08-21T08:47:40Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 299
+    stars: 300
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-20T20:01:38Z'
+    updated_at: '2025-08-21T09:00:57Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 126
+    stars: 127
     contributors: 6
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-08-21T05:35:01Z'
+    updated_at: '2025-08-21T08:53:38Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
