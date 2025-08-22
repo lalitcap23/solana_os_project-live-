@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 263
+    stars: 264
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-18T21:22:01Z'
+    updated_at: '2025-08-22T10:46:01Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 127
+    stars: 128
     contributors: 6
     last_activity: Last commit (Aug 22, 2025)
     archived: false
-    updated_at: '2025-08-22T09:31:55Z'
+    updated_at: '2025-08-22T10:37:01Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
