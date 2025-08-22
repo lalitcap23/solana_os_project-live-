@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-22T02:27:06Z'
+    updated_at: '2025-08-22T07:35:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-22T02:00:17Z'
+    updated_at: '2025-08-22T07:41:19Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 511
+    stars: 512
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-22T05:29:00Z'
+    updated_at: '2025-08-22T08:25:03Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
