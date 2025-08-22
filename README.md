@@ -42,7 +42,7 @@ Last updated: 2025-08-22
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 113 | 149 | sdk@v3.0.0 (Aug 18, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.5k | 303 | v0.31.1 (Apr 19, 2025) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.6k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
-| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 405 | 8 | 0.26.0 (Feb 18, 2025) | SDKs & Tooling |
+| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 406 | 8 | 0.26.0 (Feb 18, 2025) | SDKs & Tooling |
 | anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 4.5k | 303 | v0.31.1 (Apr 19, 2025) | SDKs & Tooling |
 | trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 306 | 19 | 0.11.0 (Aug 14, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 234 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
@@ -87,7 +87,7 @@ Last updated: 2025-08-22
 | mobile-wallet-adapter-react-native | Solana Mobile Wallet Adapter for React Native & Expo | https://github.com/coral-xyz/mobile-wallet-adapter-react-native | 9 | 1 | Last commit (Feb 17, 2023) | Wallets & Mobile |
 | expo-react-native-mwa-proof-of-concept | This repository demonstrates how to make a custom development build of Expo that includes the mobile wallet adapter, so that you can develop React Native Solana applications with Expo. | https://github.com/solana-mobile/expo-react-native-mwa-proof-of-concept | 9 | 1 | Last commit (Dec 21, 2022) | Wallets & Mobile |
 | Kitepay-mobile | Kitepay🪁 : Solana Mobile Wallet | https://github.com/kytpay/Kitepay-mobile | 6 | 1 | Last commit (Jul 07, 2024) | Wallets & Mobile |
-| Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.0k | 232 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
+| Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.1k | 232 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
 | SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 8 | 21 | type-length-value@v0.9.0 (Aug 11, 2025) | Programs (SPL) |
 | Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 211 | 32 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 374 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
