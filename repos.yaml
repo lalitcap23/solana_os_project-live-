@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-22T09:06:34Z'
+    updated_at: '2025-08-22T09:58:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4049
+    stars: 4050
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-22T06:46:01Z'
+    updated_at: '2025-08-22T09:37:34Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 233
+    stars: 234
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-08-20T13:07:21Z'
+    updated_at: '2025-08-22T09:52:31Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -995,7 +995,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Aug 22, 2025)
     archived: false
-    updated_at: '2025-08-22T09:16:05Z'
+    updated_at: '2025-08-22T09:31:55Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
