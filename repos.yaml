@@ -546,11 +546,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 714
+    stars: 715
     contributors: 25
     last_activity: v0.44.0 (Jan 08, 2025)
     archived: false
-    updated_at: '2025-08-19T17:29:40Z'
+    updated_at: '2025-08-23T09:30:45Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 556
+    stars: 557
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-19T05:07:38Z'
+    updated_at: '2025-08-23T09:33:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -760,11 +760,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 534
+    stars: 535
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-22T16:12:51Z'
+    updated_at: '2025-08-23T09:33:09Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
