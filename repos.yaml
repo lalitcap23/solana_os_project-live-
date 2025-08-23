@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 239
+    stars: 240
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-23T06:59:04Z'
+    updated_at: '2025-08-23T09:09:49Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
