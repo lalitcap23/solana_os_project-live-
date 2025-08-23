@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 306
+    stars: 307
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-08-21T11:31:05Z'
+    updated_at: '2025-08-23T22:31:06Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -823,11 +823,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 191
+    stars: 192
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-08-13T16:00:55Z'
+    updated_at: '2025-08-23T22:35:04Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
