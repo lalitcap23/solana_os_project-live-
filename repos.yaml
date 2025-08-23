@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4537
+    stars: 4538
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-23T12:19:56Z'
+    updated_at: '2025-08-23T15:50:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1898
+    stars: 1899
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-08-23T12:48:45Z'
+    updated_at: '2025-08-23T16:03:40Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4052
+    stars: 4053
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-23T12:19:53Z'
+    updated_at: '2025-08-23T15:32:02Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4537
+    stars: 4538
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-23T12:19:56Z'
+    updated_at: '2025-08-23T15:50:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
