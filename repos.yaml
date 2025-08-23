@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 513
+    stars: 514
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-23T00:56:50Z'
+    updated_at: '2025-08-23T18:51:25Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 557
+    stars: 558
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-23T09:33:04Z'
+    updated_at: '2025-08-23T18:55:40Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 240
+    stars: 241
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-23T09:09:49Z'
+    updated_at: '2025-08-23T19:00:29Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
