@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 815
     contributors: 28
-    last_activity: Last commit (Aug 22, 2025)
+    last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-22T17:00:24Z'
+    updated_at: '2025-08-23T16:53:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -977,11 +977,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 135
+    stars: 136
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-08-05T05:53:25Z'
+    updated_at: '2025-08-23T16:51:05Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
