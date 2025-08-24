@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 816
+    stars: 817
     contributors: 28
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-23T23:33:05Z'
+    updated_at: '2025-08-24T13:27:28Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
