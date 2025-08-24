@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4543
+    stars: 4544
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-24T17:18:48Z'
+    updated_at: '2025-08-24T19:40:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4543
+    stars: 4544
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-24T17:18:48Z'
+    updated_at: '2025-08-24T19:40:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -760,11 +760,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 535
+    stars: 536
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-23T09:33:09Z'
+    updated_at: '2025-08-24T20:09:54Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -977,11 +977,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 136
+    stars: 137
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-08-23T16:51:05Z'
+    updated_at: '2025-08-24T19:40:05Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 134
+    stars: 135
     contributors: 6
     last_activity: Last commit (Aug 24, 2025)
     archived: false
-    updated_at: '2025-08-24T17:32:16Z'
+    updated_at: '2025-08-24T19:51:12Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
