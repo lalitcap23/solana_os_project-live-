@@ -472,11 +472,11 @@ repositories:
   category: NFTs & Programs
   stars: 295
   stats:
-    stars: 295
+    stars: 296
     contributors: 4
     last_activity: Last commit (May 17, 2023)
     archived: false
-    updated_at: '2025-08-10T10:22:10Z'
+    updated_at: '2025-08-24T18:39:39Z'
     language: TypeScript
 - name: awesome-solana-security
   repo: 0xMacro/awesome-solana-security
