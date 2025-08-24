@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14338
+    stars: 14339
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-23T19:32:13Z'
+    updated_at: '2025-08-24T01:30:19Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4053
+    stars: 4054
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-23T15:32:02Z'
+    updated_at: '2025-08-24T01:23:34Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -432,11 +432,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 345
+    stars: 344
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2025-08-20T15:42:25Z'
+    updated_at: '2025-08-24T01:04:59Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 815
+    stars: 816
     contributors: 28
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-23T16:53:51Z'
+    updated_at: '2025-08-23T23:33:05Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 131
+    stars: 132
     contributors: 6
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-23T12:37:18Z'
+    updated_at: '2025-08-23T23:56:04Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
