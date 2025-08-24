@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 329
+    stars: 330
     contributors: 12
     last_activity: Last commit (May 23, 2025)
     archived: false
-    updated_at: '2025-08-18T07:40:59Z'
+    updated_at: '2025-08-24T15:27:41Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 681
+    stars: 680
     contributors: 1
     last_activity: Last commit (May 08, 2025)
     archived: false
-    updated_at: '2025-08-20T03:23:17Z'
+    updated_at: '2025-08-24T16:14:45Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 675
+    stars: 674
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-08-18T23:05:44Z'
+    updated_at: '2025-08-24T16:14:46Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 331
+    stars: 330
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-24T05:18:12Z'
+    updated_at: '2025-08-24T16:26:48Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -993,9 +993,9 @@ repositories:
   stats:
     stars: 133
     contributors: 6
-    last_activity: Last commit (Aug 23, 2025)
+    last_activity: Last commit (Aug 24, 2025)
     archived: false
-    updated_at: '2025-08-24T05:01:52Z'
+    updated_at: '2025-08-24T16:24:20Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
