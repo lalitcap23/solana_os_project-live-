@@ -526,7 +526,7 @@ repositories:
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-22T10:46:01Z'
+    updated_at: '2025-08-24T23:04:05Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
