@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14341
+    stars: 14342
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-24T14:28:27Z'
+    updated_at: '2025-08-25T01:04:13Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -78,7 +78,7 @@ repositories:
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-24T01:23:34Z'
+    updated_at: '2025-08-25T01:25:33Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1253
+    stars: 1254
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-24T14:05:42Z'
+    updated_at: '2025-08-24T23:38:31Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 519
+    stars: 520
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-21T23:41:48Z'
+    updated_at: '2025-08-24T23:40:14Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
