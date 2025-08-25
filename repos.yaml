@@ -314,7 +314,7 @@ repositories:
   stars: 329
   stats:
     stars: 330
-    contributors: 12
+    contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
     updated_at: '2025-08-25T03:56:33Z'
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1254
+    stars: 1255
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-24T23:38:31Z'
+    updated_at: '2025-08-25T05:35:50Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -645,11 +645,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 187
+    stars: 188
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-18T07:41:52Z'
+    updated_at: '2025-08-25T06:12:51Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 558
+    stars: 549
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-23T18:55:40Z'
+    updated_at: '2025-08-25T06:31:59Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1134,6 +1134,19 @@ repositories:
     archived: false
     updated_at: '2024-08-17T22:54:49Z'
     language: JavaScript
+- name: pumpfun-smartcontract-solana
+  repo: printz-labs/pumpfun-smartcontract-solana
+  description: Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun
+    smart contract development Tool, Pumpfun smart contract SDK)
+  category: SDKs & Tooling
+  stars: 172
+  stats:
+    stars: 172
+    contributors: 1
+    last_activity: Last commit (Aug 23, 2025)
+    archived: false
+    updated_at: '2025-08-25T06:25:52Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
