@@ -9,7 +9,7 @@ repositories:
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-25T01:04:13Z'
+    updated_at: '2025-08-25T13:34:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4054
+    stars: 4053
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-25T01:25:33Z'
+    updated_at: '2025-08-25T14:16:11Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 307
+    stars: 306
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-08-23T22:31:06Z'
+    updated_at: '2025-08-25T13:34:05Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1255
+    stars: 1254
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-25T05:35:50Z'
+    updated_at: '2025-08-25T13:34:04Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -432,11 +432,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 344
+    stars: 343
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2025-08-24T01:04:59Z'
+    updated_at: '2025-08-25T13:34:08Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 291
+    stars: 290
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-25T07:16:40Z'
+    updated_at: '2025-08-25T14:16:13Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -837,11 +837,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 161
+    stars: 160
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-08-18T07:35:32Z'
+    updated_at: '2025-08-25T14:16:13Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -1015,11 +1015,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 98
+    stars: 97
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2025-07-22T21:01:53Z'
+    updated_at: '2025-08-25T14:16:12Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
