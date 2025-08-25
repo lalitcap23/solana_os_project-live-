@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 211
+    stars: 210
     contributors: 32
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-08-18T23:39:26Z'
+    updated_at: '2025-08-25T17:10:24Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 330
+    stars: 329
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-08-25T03:56:33Z'
+    updated_at: '2025-08-25T17:14:40Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -607,11 +607,11 @@ repositories:
   category: NFTs & Programs
   stars: 121
   stats:
-    stars: 121
+    stars: 120
     contributors: 7
     last_activity: Last commit (Jan 13, 2025)
     archived: false
-    updated_at: '2025-08-07T03:01:32Z'
+    updated_at: '2025-08-25T17:01:23Z'
     language: TypeScript
 - name: digital-asset-rpc-infrastructure
   repo: metaplex-foundation/digital-asset-rpc-infrastructure
@@ -658,11 +658,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 295
+    stars: 294
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-08-21T11:59:39Z'
+    updated_at: '2025-08-25T16:57:20Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 818
+    stars: 817
     contributors: 28
-    last_activity: Last commit (Aug 24, 2025)
+    last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-08-25T16:01:56Z'
+    updated_at: '2025-08-25T17:05:02Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 136
+    stars: 137
     contributors: 6
     last_activity: Last commit (Aug 24, 2025)
     archived: false
-    updated_at: '2025-08-25T02:26:05Z'
+    updated_at: '2025-08-25T17:20:19Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
