@@ -85,11 +85,11 @@ repositories:
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
   stats:
-    stars: 8
+    stars: 7
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-08-21T09:52:28Z'
+    updated_at: '2025-08-25T07:01:06Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 290
+    stars: 291
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-21T01:00:30Z'
+    updated_at: '2025-08-25T07:16:40Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 242
+    stars: 243
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-23T21:36:25Z'
+    updated_at: '2025-08-25T07:05:59Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1141,11 +1141,11 @@ repositories:
   category: SDKs & Tooling
   stars: 172
   stats:
-    stars: 172
+    stars: 176
     contributors: 1
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-25T06:25:52Z'
+    updated_at: '2025-08-25T07:18:49Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
