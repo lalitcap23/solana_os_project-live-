@@ -43,7 +43,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-25T03:29:11Z'
+    updated_at: '2025-08-25T19:58:41Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-25T03:29:11Z'
+    updated_at: '2025-08-25T19:58:41Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
