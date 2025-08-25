@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-25T16:08:18Z'
+    updated_at: '2025-08-25T17:56:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -548,9 +548,9 @@ repositories:
   stats:
     stars: 715
     contributors: 25
-    last_activity: v0.44.0 (Jan 08, 2025)
+    last_activity: v0.44.1 (Aug 25, 2025)
     archived: false
-    updated_at: '2025-08-23T09:30:45Z'
+    updated_at: '2025-08-25T17:42:35Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -658,11 +658,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 294
+    stars: 295
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-08-25T16:57:20Z'
+    updated_at: '2025-08-25T17:30:57Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
