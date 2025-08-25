@@ -1141,11 +1141,11 @@ repositories:
   category: SDKs & Tooling
   stars: 172
   stats:
-    stars: 180
+    stars: 181
     contributors: 1
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-25T08:25:09Z'
+    updated_at: '2025-08-25T08:54:50Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
