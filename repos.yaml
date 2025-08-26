@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14343
+    stars: 14344
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-26T01:23:55Z'
+    updated_at: '2025-08-26T02:30:26Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4545
+    stars: 4546
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-25T19:58:41Z'
+    updated_at: '2025-08-26T02:19:33Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4545
+    stars: 4546
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-25T19:58:41Z'
+    updated_at: '2025-08-26T02:19:33Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 306
+    stars: 307
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-26T00:31:20Z'
+    updated_at: '2025-08-26T02:10:51Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 137
+    stars: 138
     contributors: 6
     last_activity: Last commit (Aug 24, 2025)
     archived: false
-    updated_at: '2025-08-25T17:20:19Z'
+    updated_at: '2025-08-26T02:52:45Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
