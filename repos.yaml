@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14345
+    stars: 14344
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-26T11:10:05Z'
+    updated_at: '2025-08-26T20:03:36Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1284
+    stars: 1283
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-26T17:24:50Z'
+    updated_at: '2025-08-26T20:03:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -449,7 +449,7 @@ repositories:
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-24T16:26:48Z'
+    updated_at: '2025-08-26T20:16:55Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -460,9 +460,9 @@ repositories:
   stats:
     stars: 304
     contributors: 1
-    last_activity: Last commit (Jul 09, 2025)
+    last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-20T18:41:58Z'
+    updated_at: '2025-08-26T19:23:15Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1141,6 +1141,19 @@ repositories:
   category: SDKs & Tooling
   stars: 172
   stats: null
+- name: Solana-Arbitrage-Bot
+  repo: deniyuda348/Solana-Arbitrage-Bot
+  description: Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program
+    with rust language architecture using anchor frame work
+  category: DeFi
+  stars: 330
+  stats:
+    stars: 330
+    contributors: 3
+    last_activity: Solana-Arbitrage-Bot (May 20, 2025)
+    archived: false
+    updated_at: '2025-08-26T20:16:55Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
