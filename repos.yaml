@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 113
     contributors: 149
-    last_activity: keypair@v3.0.1 (Aug 25, 2025)
+    last_activity: message@v3.0.1 (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-25T16:20:26Z'
+    updated_at: '2025-08-26T10:17:54Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-26T07:07:13Z'
+    updated_at: '2025-08-26T09:43:44Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
