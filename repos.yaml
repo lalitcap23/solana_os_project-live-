@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 313
+    stars: 314
     contributors: 17
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-08-20T17:27:20Z'
+    updated_at: '2025-08-26T19:00:23Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
