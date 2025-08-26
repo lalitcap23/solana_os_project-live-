@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1283
+    stars: 1284
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-26T15:20:29Z'
+    updated_at: '2025-08-26T16:05:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-26T12:59:20Z'
+    updated_at: '2025-08-26T15:41:50Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 514
+    stars: 515
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-26T09:43:44Z'
+    updated_at: '2025-08-26T15:48:35Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -345,7 +345,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-26T14:30:19Z'
+    updated_at: '2025-08-26T16:08:39Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 290
+    stars: 289
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-25T14:16:13Z'
+    updated_at: '2025-08-26T16:19:33Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
