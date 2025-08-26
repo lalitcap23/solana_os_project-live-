@@ -17,10 +17,10 @@ repositories:
   category: Infrastructure
   stats:
     stars: 1283
-    contributors: 362
+    contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-26T14:11:27Z'
+    updated_at: '2025-08-26T15:20:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 113
     contributors: 149
-    last_activity: message@v3.0.1 (Aug 26, 2025)
+    last_activity: transaction@v3.0.1 (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-26T13:07:34Z'
+    updated_at: '2025-08-26T15:20:47Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -343,9 +343,9 @@ repositories:
   stats:
     stars: 205
     contributors: 1
-    last_activity: Last commit (Jul 23, 2025)
+    last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-21T14:37:51Z'
+    updated_at: '2025-08-26T14:30:19Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 264
+    stars: 265
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-24T23:04:05Z'
+    updated_at: '2025-08-26T15:04:27Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
