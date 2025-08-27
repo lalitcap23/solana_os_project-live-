@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-27T13:29:45Z'
+    updated_at: '2025-08-27T15:22:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4554
+    stars: 4555
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-27T10:36:36Z'
+    updated_at: '2025-08-27T14:34:46Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4554
+    stars: 4555
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-27T10:36:36Z'
+    updated_at: '2025-08-27T14:34:46Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v2.3.0 (Jul 09, 2025)
     archived: false
-    updated_at: '2025-08-26T17:25:20Z'
+    updated_at: '2025-08-27T14:45:56Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -449,7 +449,7 @@ repositories:
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-26T20:16:55Z'
+    updated_at: '2025-08-27T15:09:30Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -1152,7 +1152,7 @@ repositories:
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-26T20:16:55Z'
+    updated_at: '2025-08-27T15:09:30Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
