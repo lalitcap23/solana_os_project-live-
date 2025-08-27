@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 433
+    stars: 434
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-27T04:20:20Z'
+    updated_at: '2025-08-27T16:27:06Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -290,9 +290,9 @@ repositories:
   stats:
     stars: 515
     contributors: 141
-    last_activity: v2.3.0 (Jul 09, 2025)
+    last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T14:45:56Z'
+    updated_at: '2025-08-27T16:00:09Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -420,11 +420,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 484
+    stars: 485
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2025-08-04T07:10:38Z'
+    updated_at: '2025-08-27T15:48:57Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 304
+    stars: 303
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-26T19:23:15Z'
+    updated_at: '2025-08-27T15:52:22Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
