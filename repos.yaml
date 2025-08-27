@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4552
+    stars: 4553
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-27T02:41:01Z'
+    updated_at: '2025-08-27T04:36:59Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 207
+    stars: 208
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-22T03:15:17Z'
+    updated_at: '2025-08-27T05:21:39Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4552
+    stars: 4553
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-27T02:41:01Z'
+    updated_at: '2025-08-27T04:36:59Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 265
+    stars: 266
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-26T15:04:27Z'
+    updated_at: '2025-08-27T04:54:13Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
