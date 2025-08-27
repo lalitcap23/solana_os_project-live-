@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 266
+    stars: 267
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-27T04:54:13Z'
+    updated_at: '2025-08-27T06:52:08Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
