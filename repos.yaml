@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-27T15:22:11Z'
+    updated_at: '2025-08-27T16:46:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 149
     last_activity: bls-signatures@v0.2.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T09:50:00Z'
+    updated_at: '2025-08-27T16:36:41Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T16:00:09Z'
+    updated_at: '2025-08-27T17:07:35Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 817
     contributors: 28
-    last_activity: Last commit (Aug 26, 2025)
+    last_activity: Last commit (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-26T16:52:00Z'
+    updated_at: '2025-08-27T16:50:36Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
