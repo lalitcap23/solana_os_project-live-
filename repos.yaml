@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-27T19:07:12Z'
+    updated_at: '2025-08-27T19:33:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 314
+    stars: 315
     contributors: 17
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-08-26T19:00:23Z'
+    updated_at: '2025-08-27T19:46:37Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
