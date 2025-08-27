@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 112
     contributors: 149
-    last_activity: bls-signatures@v0.2.0 (Aug 27, 2025)
+    last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T16:36:41Z'
+    updated_at: '2025-08-27T17:23:01Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -977,11 +977,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 137
+    stars: 138
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-08-24T19:40:05Z'
+    updated_at: '2025-08-27T17:59:43Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
