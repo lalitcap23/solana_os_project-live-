@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 112
+    stars: 113
     contributors: 149
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T17:23:01Z'
+    updated_at: '2025-08-27T20:30:42Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -823,11 +823,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 192
+    stars: 193
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-08-23T22:35:04Z'
+    updated_at: '2025-08-27T20:38:42Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 242
+    stars: 243
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-26T10:43:16Z'
+    updated_at: '2025-08-27T20:53:09Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
