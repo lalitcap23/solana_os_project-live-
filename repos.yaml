@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-27T01:33:13Z'
+    updated_at: '2025-08-27T09:09:27Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2588
+    stars: 2589
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-27T07:41:45Z'
+    updated_at: '2025-08-27T08:35:51Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1899
+    stars: 1900
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-08-23T16:03:40Z'
+    updated_at: '2025-08-27T08:53:42Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 549
+    stars: 550
     contributors: 1
     last_activity: Last commit (Aug 19, 2025)
     archived: false
-    updated_at: '2025-08-25T06:31:59Z'
+    updated_at: '2025-08-27T09:20:31Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
