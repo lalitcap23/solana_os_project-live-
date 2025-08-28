@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-28T00:56:51Z'
+    updated_at: '2025-08-28T05:05:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 149
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T20:30:42Z'
+    updated_at: '2025-08-28T04:41:20Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 85
+    stars: 86
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-08-26T01:32:14Z'
+    updated_at: '2025-08-28T04:33:18Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 234
+    stars: 233
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-08-22T09:52:31Z'
+    updated_at: '2025-08-28T04:28:24Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
