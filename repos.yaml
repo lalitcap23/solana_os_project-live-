@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 290
+    stars: 291
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-27T12:20:38Z'
+    updated_at: '2025-08-28T06:32:31Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
