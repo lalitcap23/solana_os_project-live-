@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14348
+    stars: 14349
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-28T09:48:46Z'
+    updated_at: '2025-08-28T11:53:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2589
+    stars: 2590
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-28T02:17:47Z'
+    updated_at: '2025-08-28T12:11:38Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 516
+    stars: 517
     contributors: 141
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-28T09:21:53Z'
+    updated_at: '2025-08-28T12:21:52Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -942,7 +942,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-27T20:53:09Z'
+    updated_at: '2025-08-28T12:26:42Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
