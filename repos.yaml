@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14349
+    stars: 14348
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-28T11:53:45Z'
+    updated_at: '2025-08-28T19:08:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -292,7 +292,7 @@ repositories:
     contributors: 142
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-28T18:31:05Z'
+    updated_at: '2025-08-28T19:10:51Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
