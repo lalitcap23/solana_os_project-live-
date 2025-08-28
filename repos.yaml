@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1901
+    stars: 1902
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-08-27T12:26:43Z'
+    updated_at: '2025-08-28T07:47:36Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -292,7 +292,7 @@ repositories:
     contributors: 141
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T17:07:35Z'
+    updated_at: '2025-08-28T08:15:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1003,11 +1003,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 101
+    stars: 102
     contributors: 4
     last_activity: Last commit (Aug 23, 2025)
     archived: false
-    updated_at: '2025-08-23T13:04:11Z'
+    updated_at: '2025-08-28T08:01:06Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
