@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4560
+    stars: 4561
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-28T03:09:11Z'
+    updated_at: '2025-08-28T07:11:36Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 208
+    stars: 209
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-27T05:21:39Z'
+    updated_at: '2025-08-28T06:43:05Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4560
+    stars: 4561
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-28T03:09:11Z'
+    updated_at: '2025-08-28T07:11:36Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -534,11 +534,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3345
+    stars: 3344
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-08-27T13:20:40Z'
+    updated_at: '2025-08-28T07:08:39Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 818
+    stars: 819
     contributors: 28
     last_activity: Last commit (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T21:23:24Z'
+    updated_at: '2025-08-28T06:46:40Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
