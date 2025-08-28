@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1284
+    stars: 1285
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-28T14:16:39Z'
+    updated_at: '2025-08-28T15:07:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4563
+    stars: 4564
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-28T09:59:43Z'
+    updated_at: '2025-08-28T14:52:58Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4563
+    stars: 4564
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-28T09:59:43Z'
+    updated_at: '2025-08-28T14:52:58Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 330
+    stars: 329
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-27T15:09:30Z'
+    updated_at: '2025-08-28T15:04:35Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -837,11 +837,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 160
+    stars: 159
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-08-25T14:16:13Z'
+    updated_at: '2025-08-28T15:03:36Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -1148,11 +1148,11 @@ repositories:
   category: DeFi
   stars: 330
   stats:
-    stars: 330
+    stars: 329
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-27T15:09:30Z'
+    updated_at: '2025-08-28T15:04:35Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
