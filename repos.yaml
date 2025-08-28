@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-28T17:00:37Z'
+    updated_at: '2025-08-28T23:03:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 295
+    stars: 296
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-26T15:41:50Z'
+    updated_at: '2025-08-28T22:49:10Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 307
+    stars: 308
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-26T02:10:51Z'
+    updated_at: '2025-08-28T23:20:54Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 243
+    stars: 244
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-28T12:26:42Z'
+    updated_at: '2025-08-28T23:16:17Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
