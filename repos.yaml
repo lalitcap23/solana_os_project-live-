@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2589
+    stars: 2590
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-08-29T10:27:44Z'
+    updated_at: '2025-08-29T16:40:31Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 518
+    stars: 519
     contributors: 142
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-29T15:36:20Z'
+    updated_at: '2025-08-29T16:52:54Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -330,7 +330,7 @@ repositories:
     contributors: 17
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T15:16:16Z'
+    updated_at: '2025-08-29T16:37:04Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 819
     contributors: 28
-    last_activity: Last commit (Aug 28, 2025)
+    last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-28T16:50:22Z'
+    updated_at: '2025-08-29T16:51:37Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 17
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T15:16:16Z'
+    updated_at: '2025-08-29T16:37:04Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
