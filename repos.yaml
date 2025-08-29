@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4057
+    stars: 4058
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-29T11:58:47Z'
+    updated_at: '2025-08-29T13:09:55Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 303
+    stars: 304
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-27T15:52:22Z'
+    updated_at: '2025-08-29T13:08:49Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 244
+    stars: 245
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-28T23:16:17Z'
+    updated_at: '2025-08-29T12:55:54Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
