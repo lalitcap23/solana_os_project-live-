@@ -977,11 +977,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 138
+    stars: 139
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-08-27T17:59:43Z'
+    updated_at: '2025-08-29T03:06:49Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
