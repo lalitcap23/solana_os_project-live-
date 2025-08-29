@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-29T11:04:36Z'
+    updated_at: '2025-08-29T14:08:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -330,7 +330,7 @@ repositories:
     contributors: 17
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-08-27T19:46:37Z'
+    updated_at: '2025-08-29T13:49:13Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 329
+    stars: 330
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-28T15:04:35Z'
+    updated_at: '2025-08-29T13:37:05Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -1148,12 +1148,25 @@ repositories:
   category: DeFi
   stars: 330
   stats:
-    stars: 329
+    stars: 330
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-28T15:04:35Z'
+    updated_at: '2025-08-29T13:37:05Z'
     language: Rust
+- name: gill
+  repo: gillsdk/gill
+  description: Solana JavaScript/TypeScript SDK - client library for interacting with
+    the Solana blockchain
+  category: NFTs & Programs
+  stars: 315
+  stats:
+    stars: 315
+    contributors: 17
+    last_activity: Last commit (Aug 12, 2025)
+    archived: false
+    updated_at: '2025-08-29T13:49:13Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
