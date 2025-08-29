@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4056
+    stars: 4057
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-28T02:40:16Z'
+    updated_at: '2025-08-29T11:58:47Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 517
+    stars: 518
     contributors: 142
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-28T19:10:51Z'
+    updated_at: '2025-08-29T12:12:05Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1255
+    stars: 1256
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-29T01:48:37Z'
+    updated_at: '2025-08-29T12:34:58Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 291
+    stars: 292
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-28T06:32:31Z'
+    updated_at: '2025-08-29T11:58:49Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -837,11 +837,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 159
+    stars: 160
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-08-28T15:03:36Z'
+    updated_at: '2025-08-29T11:58:49Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -1015,11 +1015,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 97
+    stars: 98
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2025-08-25T14:16:12Z'
+    updated_at: '2025-08-29T11:58:48Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
