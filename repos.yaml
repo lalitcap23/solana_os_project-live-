@@ -292,7 +292,7 @@ repositories:
     contributors: 142
     last_activity: v3.0.0 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-29T16:52:54Z'
+    updated_at: '2025-08-29T18:44:31Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
