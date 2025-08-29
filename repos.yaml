@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4140
+    stars: 4141
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-08-27T12:49:21Z'
+    updated_at: '2025-08-29T19:42:07Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -290,7 +290,7 @@ repositories:
   stats:
     stars: 519
     contributors: 142
-    last_activity: v3.0.0 (Aug 27, 2025)
+    last_activity: v3.0.1 (Aug 29, 2025)
     archived: false
     updated_at: '2025-08-29T18:44:31Z'
     language: TypeScript
