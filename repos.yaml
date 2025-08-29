@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1904
+    stars: 1905
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-08-29T07:39:50Z'
+    updated_at: '2025-08-29T08:48:47Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 434
+    stars: 435
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-27T16:27:06Z'
+    updated_at: '2025-08-29T08:52:57Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -645,11 +645,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 189
+    stars: 190
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-27T00:17:02Z'
+    updated_at: '2025-08-29T08:56:29Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 523
+    stars: 522
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-28T13:32:37Z'
+    updated_at: '2025-08-29T09:18:03Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
