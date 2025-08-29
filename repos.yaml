@@ -9,7 +9,7 @@ repositories:
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-29T02:39:00Z'
+    updated_at: '2025-08-29T14:58:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-29T14:08:49Z'
+    updated_at: '2025-08-29T15:08:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-29T07:40:09Z'
+    updated_at: '2025-08-29T15:16:29Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-29T07:40:09Z'
+    updated_at: '2025-08-29T15:16:29Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 315
     contributors: 17
-    last_activity: Last commit (Aug 12, 2025)
+    last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T13:49:13Z'
+    updated_at: '2025-08-29T15:16:16Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 330
+    stars: 331
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-29T13:37:05Z'
+    updated_at: '2025-08-29T14:48:55Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -1148,11 +1148,11 @@ repositories:
   category: DeFi
   stars: 330
   stats:
-    stars: 330
+    stars: 331
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-29T13:37:05Z'
+    updated_at: '2025-08-29T14:48:55Z'
     language: Rust
 - name: gill
   repo: gillsdk/gill
@@ -1163,9 +1163,9 @@ repositories:
   stats:
     stars: 315
     contributors: 17
-    last_activity: Last commit (Aug 12, 2025)
+    last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T13:49:13Z'
+    updated_at: '2025-08-29T15:16:16Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
