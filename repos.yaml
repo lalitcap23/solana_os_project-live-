@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 52
+    stars: 53
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-08-30T16:14:46Z'
+    updated_at: '2025-08-30T19:13:24Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
