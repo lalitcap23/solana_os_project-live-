@@ -1167,6 +1167,18 @@ repositories:
     archived: false
     updated_at: '2025-08-29T21:16:49Z'
     language: TypeScript
+- name: star_frame
+  repo: staratlasmeta/star_frame
+  description: High performance, modular solana program framework
+  category: SDKs & Tooling
+  stars: 51
+  stats:
+    stars: 51
+    contributors: 10
+    last_activity: v0.23.1 (Aug 28, 2025)
+    archived: false
+    updated_at: '2025-08-30T07:42:56Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
