@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4058
+    stars: 4059
     contributors: 232
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-08-29T13:09:55Z'
+    updated_at: '2025-08-30T07:07:26Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
