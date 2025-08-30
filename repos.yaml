@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 521
+    stars: 522
     contributors: 142
     last_activity: v3.0.1 (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-30T15:13:07Z'
+    updated_at: '2025-08-30T18:20:14Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -343,9 +343,9 @@ repositories:
   stats:
     stars: 205
     contributors: 1
-    last_activity: Last commit (Aug 30, 2025)
+    last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-30T17:13:09Z'
+    updated_at: '2025-08-30T18:12:23Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
