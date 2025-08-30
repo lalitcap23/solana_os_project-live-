@@ -963,11 +963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 140
+    stars: 141
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-08-27T03:05:42Z'
+    updated_at: '2025-08-30T00:16:03Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 138
+    stars: 139
     contributors: 6
     last_activity: Last commit (Aug 27, 2025)
     archived: false
-    updated_at: '2025-08-27T06:27:37Z'
+    updated_at: '2025-08-30T00:41:26Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
