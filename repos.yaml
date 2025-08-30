@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 67
+    stars: 68
     contributors: 6
     last_activity: Last commit (May 24, 2025)
     archived: false
-    updated_at: '2025-08-18T05:48:57Z'
+    updated_at: '2025-08-30T10:00:31Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 331
+    stars: 332
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-29T14:48:55Z'
+    updated_at: '2025-08-30T09:51:13Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -1148,11 +1148,11 @@ repositories:
   category: DeFi
   stars: 330
   stats:
-    stars: 331
+    stars: 332
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-08-29T14:48:55Z'
+    updated_at: '2025-08-30T09:51:13Z'
     language: Rust
 - name: gill
   repo: gillsdk/gill
