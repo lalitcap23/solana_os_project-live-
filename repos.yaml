@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 523
+    stars: 524
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-29T18:23:35Z'
+    updated_at: '2025-08-30T20:14:20Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 81
+    stars: 80
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-18T10:02:22Z'
+    updated_at: '2025-08-30T19:35:59Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
