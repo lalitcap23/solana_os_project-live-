@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-31T16:46:05Z'
+    updated_at: '2025-08-31T18:28:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 436
+    stars: 437
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-30T20:43:05Z'
+    updated_at: '2025-08-31T17:44:28Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 316
+    stars: 318
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T11:47:50Z'
+    updated_at: '2025-08-31T17:31:18Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 83
+    stars: 84
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-31T15:59:30Z'
+    updated_at: '2025-08-31T17:38:46Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1161,11 +1161,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 316
+    stars: 318
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T11:47:50Z'
+    updated_at: '2025-08-31T17:31:18Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1179,6 +1179,19 @@ repositories:
     archived: false
     updated_at: '2025-08-31T07:58:11Z'
     language: Rust
+- name: Solana-Unreal-SDK
+  repo: Bifrost-Technologies/Solana-Unreal-SDK
+  description: A complete Unreal plugin and toolkit for building blockchain games
+    on Solana with Unreal Engine 5.
+  category: NFTs & Programs
+  stars: 82
+  stats:
+    stars: 82
+    contributors: 1
+    last_activity: Last commit (Mar 30, 2024)
+    archived: false
+    updated_at: '2025-08-31T17:19:35Z'
+    language: C#
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
