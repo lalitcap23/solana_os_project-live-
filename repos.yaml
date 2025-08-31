@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14350
+    stars: 14351
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-30T09:19:00Z'
+    updated_at: '2025-08-31T03:20:11Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1290
+    stars: 1291
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-30T12:06:43Z'
+    updated_at: '2025-08-31T03:20:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 315
+    stars: 316
     contributors: 18
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T21:16:49Z'
+    updated_at: '2025-08-31T03:18:18Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1161,11 +1161,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 315
+    stars: 316
     contributors: 18
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T21:16:49Z'
+    updated_at: '2025-08-31T03:18:18Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
