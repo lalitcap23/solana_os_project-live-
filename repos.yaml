@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1291
+    stars: 1293
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-31T03:20:05Z'
+    updated_at: '2025-08-31T08:22:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -760,11 +760,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 536
+    stars: 537
     contributors: 1
     last_activity: Last commit (Aug 30, 2025)
     archived: false
-    updated_at: '2025-08-30T04:58:24Z'
+    updated_at: '2025-08-31T08:14:25Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 524
+    stars: 523
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-30T20:14:20Z'
+    updated_at: '2025-08-31T07:33:41Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 820
+    stars: 821
     contributors: 28
     last_activity: Last commit (Aug 30, 2025)
     archived: false
-    updated_at: '2025-08-30T23:12:37Z'
+    updated_at: '2025-08-31T08:09:36Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 54
+    stars: 55
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-08-31T06:04:28Z'
+    updated_at: '2025-08-31T07:58:11Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
