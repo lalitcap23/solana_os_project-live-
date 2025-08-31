@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 139
+    stars: 140
     contributors: 6
     last_activity: Last commit (Aug 30, 2025)
     archived: false
-    updated_at: '2025-08-30T15:51:27Z'
+    updated_at: '2025-08-31T05:43:08Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 53
+    stars: 54
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-08-30T19:13:24Z'
+    updated_at: '2025-08-31T06:04:28Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50

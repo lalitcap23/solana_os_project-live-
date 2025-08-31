@@ -76,7 +76,7 @@ Last updated: 2025-08-31
 | odoo-solana-payments | Allows you to accept a variety of currencies (USDT, USDC, BTC, SOL) via the solana blockchain | https://github.com/t-900-a/odoo-solana-payments | 10 | 1 | Archived; Last commit (Nov 18, 2020) | SDKs & Tooling |
 | solana-sign-with-payment | Prove ownership of a Solana address by asking the user to send a small amount | https://github.com/kizzx2/solana-sign-with-payment | 8 | 1 | Last commit (May 19, 2022) | SDKs & Tooling |
 | pumpfun-smartcontract-solana | Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract SDK) | https://github.com/printz-labs/pumpfun-smartcontract-solana | — | — | Active | SDKs & Tooling |
-| star_frame | High performance, modular solana program framework | https://github.com/staratlasmeta/star_frame | 53 | 10 | v0.23.1 (Aug 28, 2025) | SDKs & Tooling |
+| star_frame | High performance, modular solana program framework | https://github.com/staratlasmeta/star_frame | 54 | 10 | v0.23.1 (Aug 28, 2025) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 1.9k | 115 | @solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 761 | 2 | Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 296 | 16 | v2.1.0 (Aug 18, 2025) | Wallets & Mobile |
@@ -129,7 +129,7 @@ Last updated: 2025-08-31
 | pirate-bootcamp | A pirate-theme bootcamp for getting up to speed on Solana programming! | https://github.com/solana-developers/pirate-bootcamp | 316 | 4 | Last commit (Sep 05, 2023) | DeFi |
 | solana-escrow | Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/ | https://github.com/paul-schaaf/solana-escrow | 312 | 3 | Archived; Last commit (Jan 23, 2022) | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/ChangeYourself0613/Solana-Arbitrage-Bot | 246 | 1 | solana-arbitrage-bot2 (May 26, 2025) | DeFi |
-| sol-trade-sdk | A comprehensive Rust SDK for seamless interaction with Solana DEX trading programs. This SDK provides a robust set of tools and interfaces to integrate PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications. | https://github.com/0xfnzero/sol-trade-sdk | 139 | 6 | Last commit (Aug 30, 2025) | DeFi |
+| sol-trade-sdk | A comprehensive Rust SDK for seamless interaction with Solana DEX trading programs. This SDK provides a robust set of tools and interfaces to integrate PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications. | https://github.com/0xfnzero/sol-trade-sdk | 140 | 6 | Last commit (Aug 30, 2025) | DeFi |
 | Payment-gateway | Payment gateway for solana with advanced Private key management and address sweeping via indexer | https://github.com/alxn787/Payment-gateway | 9 | 1 | Last commit (Jul 12, 2025) | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot | 333 | 3 | Solana-Arbitrage-Bot (May 20, 2025) | DeFi |
 
