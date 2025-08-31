@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 68
+    stars: 69
     contributors: 6
     last_activity: Last commit (May 24, 2025)
     archived: false
-    updated_at: '2025-08-30T10:00:31Z'
+    updated_at: '2025-08-31T15:36:59Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 82
+    stars: 83
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-31T13:45:19Z'
+    updated_at: '2025-08-31T15:59:30Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
