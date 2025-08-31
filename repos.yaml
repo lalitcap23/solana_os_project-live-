@@ -354,11 +354,11 @@ repositories:
   category: DeFi
   stars: 182
   stats:
-    stars: 182
+    stars: 183
     contributors: 4
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-08-21T02:23:06Z'
+    updated_at: '2025-08-31T05:19:31Z'
     language: TypeScript
 - name: solita
   repo: metaplex-foundation/solita
