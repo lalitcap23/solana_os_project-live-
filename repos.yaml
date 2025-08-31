@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14353
+    stars: 14352
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-31T15:19:18Z'
+    updated_at: '2025-08-31T16:53:34Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-08-31T09:31:18Z'
+    updated_at: '2025-08-31T16:46:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 680
+    stars: 679
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-29T00:05:11Z'
+    updated_at: '2025-08-31T17:00:58Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 674
+    stars: 673
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-08-28T18:13:51Z'
+    updated_at: '2025-08-31T17:00:58Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 822
     contributors: 28
-    last_activity: Last commit (Aug 30, 2025)
+    last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T09:34:43Z'
+    updated_at: '2025-08-31T16:47:43Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
