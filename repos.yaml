@@ -799,11 +799,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 207
+    stars: 208
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-08-21T23:16:21Z'
+    updated_at: '2025-08-31T13:05:29Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 80
+    stars: 81
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-30T19:35:59Z'
+    updated_at: '2025-08-31T12:52:46Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
