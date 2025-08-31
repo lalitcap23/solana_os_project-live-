@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 522
+    stars: 523
     contributors: 142
     last_activity: v3.0.1 (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-30T18:20:14Z'
+    updated_at: '2025-08-30T23:52:03Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 245
+    stars: 246
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-29T12:55:54Z'
+    updated_at: '2025-08-31T00:36:31Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
