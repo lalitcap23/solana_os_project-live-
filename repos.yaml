@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1257
+    stars: 1258
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-30T13:15:10Z'
+    updated_at: '2025-08-31T14:13:04Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 81
+    stars: 82
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-31T12:52:46Z'
+    updated_at: '2025-08-31T13:45:19Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 246
+    stars: 247
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-31T00:36:31Z'
+    updated_at: '2025-08-31T13:32:28Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
