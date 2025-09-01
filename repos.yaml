@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 169
+    stars: 170
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-08-18T21:22:10Z'
+    updated_at: '2025-09-01T14:53:46Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 680
+    stars: 681
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-09-01T07:11:48Z'
+    updated_at: '2025-09-01T14:39:42Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -1003,11 +1003,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 102
+    stars: 103
     contributors: 4
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T09:41:47Z'
+    updated_at: '2025-09-01T15:04:36Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
