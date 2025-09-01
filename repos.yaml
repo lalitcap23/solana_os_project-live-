@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 761
+    stars: 760
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-08-10T17:54:55Z'
+    updated_at: '2025-09-01T06:47:53Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-28T22:49:10Z'
+    updated_at: '2025-09-01T06:47:48Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-31T17:44:28Z'
+    updated_at: '2025-09-01T07:18:53Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4141
+    stars: 4140
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-08-29T19:42:07Z'
+    updated_at: '2025-09-01T06:47:06Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 329
+    stars: 328
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-08-25T17:14:40Z'
+    updated_at: '2025-09-01T06:50:19Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 679
+    stars: 680
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-08-31T17:00:58Z'
+    updated_at: '2025-09-01T07:11:48Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -558,11 +558,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 636
+    stars: 635
     contributors: 63
     last_activity: Last commit (Nov 01, 2024)
     archived: false
-    updated_at: '2025-08-28T18:25:14Z'
+    updated_at: '2025-09-01T06:47:15Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
