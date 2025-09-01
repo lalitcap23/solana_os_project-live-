@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14354
+    stars: 14356
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-01T10:06:34Z'
+    updated_at: '2025-09-01T18:22:09Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -345,7 +345,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-30T18:12:23Z'
+    updated_at: '2025-09-01T18:14:01Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -1192,6 +1192,22 @@ repositories:
     archived: false
     updated_at: '2025-08-31T17:19:35Z'
     language: C#
+- name: solana-app-wallet
+  repo: 0xPleiades/solana-app-wallet
+  description: Solana APP is another version of sollet wallet for mobile  Solana Pay
+    is the entry point into the system. It lives directly between web2 & web3, receiving
+    web2 payloads & converting them into web3 transactions. The power of this really
+    can’t be overstated. The contours of this design space are unexplored and sure
+    to hold amazing things.
+  category: Wallets & Mobile
+  stars: 17
+  stats:
+    stars: 17
+    contributors: 1
+    last_activity: Last commit (Aug 05, 2025)
+    archived: false
+    updated_at: '2025-09-01T18:00:18Z'
+    language: Java
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
