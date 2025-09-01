@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1301
+    stars: 1302
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-01T15:42:43Z'
+    updated_at: '2025-09-01T16:36:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4568
+    stars: 4567
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T08:41:35Z'
+    updated_at: '2025-09-01T16:29:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2592
+    stars: 2591
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-01T03:01:48Z'
+    updated_at: '2025-09-01T16:29:23Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 760
+    stars: 759
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-09-01T06:47:53Z'
+    updated_at: '2025-09-01T16:29:26Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4568
+    stars: 4567
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T08:41:35Z'
+    updated_at: '2025-09-01T16:29:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -449,7 +449,7 @@ repositories:
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-09-01T02:11:52Z'
+    updated_at: '2025-09-01T16:59:40Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -498,11 +498,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 292
+    stars: 291
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-08-29T11:58:49Z'
+    updated_at: '2025-09-01T16:29:26Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -760,11 +760,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 537
+    stars: 536
     contributors: 1
     last_activity: Last commit (Aug 30, 2025)
     archived: false
-    updated_at: '2025-08-31T08:14:25Z'
+    updated_at: '2025-09-01T16:34:49Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 524
+    stars: 523
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-09-01T09:02:05Z'
+    updated_at: '2025-09-01T16:29:26Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -785,11 +785,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 290
+    stars: 289
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2025-08-16T16:59:10Z'
+    updated_at: '2025-09-01T16:29:26Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 823
     contributors: 28
-    last_activity: Last commit (Aug 31, 2025)
+    last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T11:35:08Z'
+    updated_at: '2025-09-01T16:46:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -925,11 +925,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 312
+    stars: 310
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2025-08-29T18:20:31Z'
+    updated_at: '2025-09-01T16:29:25Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -991,11 +991,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 140
+    stars: 139
     contributors: 6
-    last_activity: Last commit (Aug 31, 2025)
+    last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T09:10:12Z'
+    updated_at: '2025-09-01T16:43:12Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1152,7 +1152,7 @@ repositories:
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-09-01T02:11:52Z'
+    updated_at: '2025-09-01T16:59:40Z'
     language: Rust
 - name: gill
   repo: gillsdk/gill
