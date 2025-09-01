@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1298
+    stars: 1299
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-01T09:29:57Z'
+    updated_at: '2025-09-01T11:55:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 822
+    stars: 823
     contributors: 28
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T16:47:43Z'
+    updated_at: '2025-09-01T11:35:08Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
