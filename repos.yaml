@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4567
+    stars: 4568
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-30T16:08:51Z'
+    updated_at: '2025-09-01T08:41:35Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4567
+    stars: 4568
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-08-30T16:08:51Z'
+    updated_at: '2025-09-01T08:41:35Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 523
+    stars: 524
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-08-31T07:33:41Z'
+    updated_at: '2025-09-01T09:02:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -995,7 +995,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T14:55:17Z'
+    updated_at: '2025-09-01T09:10:12Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1007,7 +1007,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T05:49:04Z'
+    updated_at: '2025-09-01T09:26:57Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
