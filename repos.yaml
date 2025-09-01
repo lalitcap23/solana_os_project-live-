@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14357
+    stars: 14358
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-01T19:48:38Z'
+    updated_at: '2025-09-01T20:31:38Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4567
+    stars: 4568
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T16:29:25Z'
+    updated_at: '2025-09-01T20:31:49Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1905
+    stars: 1907
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-08-29T08:48:47Z'
+    updated_at: '2025-09-01T20:51:53Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 759
+    stars: 760
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-09-01T16:29:26Z'
+    updated_at: '2025-09-01T20:33:19Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4567
+    stars: 4568
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T16:29:25Z'
+    updated_at: '2025-09-01T20:31:49Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
