@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14352
+    stars: 14353
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-08-31T16:53:34Z'
+    updated_at: '2025-09-01T01:12:12Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 318
+    stars: 319
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T17:31:18Z'
+    updated_at: '2025-09-01T00:03:10Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -420,11 +420,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 485
+    stars: 486
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2025-08-27T15:48:57Z'
+    updated_at: '2025-09-01T01:57:36Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -1161,11 +1161,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 318
+    stars: 319
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-08-31T17:31:18Z'
+    updated_at: '2025-09-01T00:03:10Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
