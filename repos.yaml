@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1304
+    stars: 1303
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-02T16:18:37Z'
+    updated_at: '2025-09-02T17:16:47Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1258
+    stars: 1257
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-08-31T14:13:04Z'
+    updated_at: '2025-09-02T17:15:31Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 268
+    stars: 267
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-08-28T16:26:01Z'
+    updated_at: '2025-09-02T17:15:29Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 824
     contributors: 28
-    last_activity: Last commit (Sep 01, 2025)
+    last_activity: Last commit (Sep 02, 2025)
     archived: false
-    updated_at: '2025-09-02T12:59:33Z'
+    updated_at: '2025-09-02T16:46:21Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 247
+    stars: 246
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-08-31T13:32:28Z'
+    updated_at: '2025-09-02T17:15:38Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-02T11:21:50Z'
+    updated_at: '2025-09-02T17:08:46Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
