@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14360
+    stars: 14361
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-02T06:03:25Z'
+    updated_at: '2025-09-02T09:48:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -43,7 +43,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T20:31:49Z'
+    updated_at: '2025-09-02T09:58:37Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2591
+    stars: 2590
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-01T16:29:23Z'
+    updated_at: '2025-09-02T10:09:59Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -178,7 +178,7 @@ repositories:
     contributors: 303
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-01T20:31:49Z'
+    updated_at: '2025-09-02T09:58:37Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 320
+    stars: 321
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-09-01T22:01:33Z'
+    updated_at: '2025-09-02T09:45:52Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -445,11 +445,11 @@ repositories:
   category: DeFi
   stars: 328
   stats:
-    stars: 333
+    stars: 334
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-09-01T16:59:40Z'
+    updated_at: '2025-09-02T10:19:55Z'
     language: Rust
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 84
+    stars: 82
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-08-31T17:38:46Z'
+    updated_at: '2025-09-02T09:35:43Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1148,11 +1148,11 @@ repositories:
   category: DeFi
   stars: 330
   stats:
-    stars: 333
+    stars: 334
     contributors: 3
     last_activity: Solana-Arbitrage-Bot (May 20, 2025)
     archived: false
-    updated_at: '2025-09-01T16:59:40Z'
+    updated_at: '2025-09-02T10:19:55Z'
     language: Rust
 - name: gill
   repo: gillsdk/gill
@@ -1161,11 +1161,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 320
+    stars: 321
     contributors: 18
     last_activity: Last commit (Aug 31, 2025)
     archived: false
-    updated_at: '2025-09-01T22:01:33Z'
+    updated_at: '2025-09-02T09:45:52Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1214,11 +1214,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 294
+    stars: 295
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-02T09:01:13Z'
+    updated_at: '2025-09-02T10:14:00Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
