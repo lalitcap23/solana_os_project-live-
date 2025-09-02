@@ -280,7 +280,7 @@ repositories:
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-09-01T06:47:06Z'
+    updated_at: '2025-09-02T03:14:00Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 57
+    stars: 58
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-01T22:44:55Z'
+    updated_at: '2025-09-02T04:09:05Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1202,11 +1202,11 @@ repositories:
   category: Wallets & Mobile
   stars: 17
   stats:
-    stars: 17
+    stars: 18
     contributors: 1
     last_activity: Last commit (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-01T18:00:18Z'
+    updated_at: '2025-09-02T03:23:24Z'
     language: Java
 - name: pumpfun-smart-contract-frontend-backend
   repo: 0xalberto/pumpfun-smart-contract-frontend-backend
@@ -1214,11 +1214,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 252
+    stars: 260
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-02T03:05:24Z'
+    updated_at: '2025-09-02T04:27:29Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
