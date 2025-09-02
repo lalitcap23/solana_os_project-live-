@@ -9,7 +9,7 @@ repositories:
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-02T18:27:46Z'
+    updated_at: '2025-09-02T19:00:22Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-02T17:57:42Z'
+    updated_at: '2025-09-02T19:02:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 437
+    stars: 438
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-01T07:28:15Z'
+    updated_at: '2025-09-02T19:06:12Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -942,7 +942,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-02T17:15:38Z'
+    updated_at: '2025-09-02T18:44:17Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-02T18:30:20Z'
+    updated_at: '2025-09-02T19:13:57Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
