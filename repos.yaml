@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 205
+    stars: 204
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-01T18:14:01Z'
+    updated_at: '2025-09-02T08:07:25Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 308
+    stars: 309
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-08-28T23:20:54Z'
+    updated_at: '2025-09-02T07:58:44Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -636,7 +636,7 @@ repositories:
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-08-09T22:46:45Z'
+    updated_at: '2025-09-02T08:14:54Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
@@ -799,11 +799,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 208
+    stars: 209
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-08-31T13:05:29Z'
+    updated_at: '2025-09-02T08:23:54Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -1214,11 +1214,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 281
+    stars: 292
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-02T07:14:17Z'
+    updated_at: '2025-09-02T08:15:53Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
