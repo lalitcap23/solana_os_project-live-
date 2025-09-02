@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-02T06:04:13Z'
+    updated_at: '2025-09-02T12:01:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -636,7 +636,7 @@ repositories:
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-09-02T08:14:54Z'
+    updated_at: '2025-09-02T12:06:09Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 58
+    stars: 57
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-02T04:09:05Z'
+    updated_at: '2025-09-02T11:21:50Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
