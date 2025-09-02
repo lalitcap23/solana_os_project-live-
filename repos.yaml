@@ -40,7 +40,7 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4568
-    contributors: 303
+    contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
     updated_at: '2025-09-02T09:58:37Z'
@@ -175,7 +175,7 @@ repositories:
   stars: 4533
   stats:
     stars: 4568
-    contributors: 303
+    contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
     updated_at: '2025-09-02T09:58:37Z'
@@ -823,11 +823,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 193
+    stars: 194
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-08-27T20:38:42Z'
+    updated_at: '2025-09-02T12:56:30Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 823
+    stars: 824
     contributors: 28
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T16:46:23Z'
+    updated_at: '2025-09-02T12:59:33Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
