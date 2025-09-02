@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14358
+    stars: 14359
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-01T20:31:38Z'
+    updated_at: '2025-09-02T02:30:26Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1208,6 +1208,18 @@ repositories:
     archived: false
     updated_at: '2025-09-01T18:00:18Z'
     language: Java
+- name: pumpfun-smart-contract-frontend-backend
+  repo: 0xalberto/pumpfun-smart-contract-frontend-backend
+  description: Solana Pumpfun smart contract & Frontend & Backend
+  category: SDKs & Tooling
+  stars: 252
+  stats:
+    stars: 252
+    contributors: 1
+    last_activity: Last commit (Sep 01, 2025)
+    archived: false
+    updated_at: '2025-09-02T03:05:24Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
