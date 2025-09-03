@@ -636,7 +636,7 @@ repositories:
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-09-02T15:31:39Z'
+    updated_at: '2025-09-03T03:25:56Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
