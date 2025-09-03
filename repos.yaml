@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14363
+    stars: 14364
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-03T17:46:36Z'
+    updated_at: '2025-09-03T19:41:22Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1304
+    stars: 1305
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-03T18:33:25Z'
+    updated_at: '2025-09-03T20:04:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-03T00:13:25Z'
+    updated_at: '2025-09-03T20:06:26Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
