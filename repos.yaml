@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 440
+    stars: 441
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-03T05:34:56Z'
+    updated_at: '2025-09-03T09:01:17Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 304
+    stars: 305
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-08-29T13:08:49Z'
+    updated_at: '2025-09-03T09:00:49Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -684,11 +684,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 7
+    stars: 6
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-08-29T10:50:49Z'
+    updated_at: '2025-09-03T08:42:16Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -772,11 +772,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 523
+    stars: 524
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-09-01T16:29:26Z'
+    updated_at: '2025-09-03T08:50:17Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 82
+    stars: 81
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-02T09:35:43Z'
+    updated_at: '2025-09-03T08:47:16Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
