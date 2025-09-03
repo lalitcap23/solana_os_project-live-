@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 523
+    stars: 524
     contributors: 142
     last_activity: v3.0.1 (Aug 29, 2025)
     archived: false
-    updated_at: '2025-09-03T05:22:56Z'
+    updated_at: '2025-09-03T07:50:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 552
+    stars: 545
     contributors: 1
     last_activity: Last commit (Aug 30, 2025)
     archived: false
-    updated_at: '2025-08-30T04:57:59Z'
+    updated_at: '2025-09-03T08:05:49Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
