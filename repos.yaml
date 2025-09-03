@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-03T18:14:09Z'
+    updated_at: '2025-09-03T18:33:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2591
+    stars: 2592
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-03T16:44:28Z'
+    updated_at: '2025-09-03T18:46:18Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
