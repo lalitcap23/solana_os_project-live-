@@ -1173,11 +1173,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 58
+    stars: 59
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-03T20:06:26Z'
+    updated_at: '2025-09-04T12:06:42Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
