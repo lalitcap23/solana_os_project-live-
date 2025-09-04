@@ -485,11 +485,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 310
+    stars: 311
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-02T21:43:40Z'
+    updated_at: '2025-09-04T04:09:38Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
