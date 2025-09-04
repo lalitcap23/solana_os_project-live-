@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 118
+    stars: 119
     contributors: 150
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-09-04T14:23:03Z'
+    updated_at: '2025-09-04T22:18:55Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 142
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-04T17:30:35Z'
+    updated_at: '2025-09-04T21:33:33Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -963,11 +963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 143
+    stars: 144
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-09-04T14:34:27Z'
+    updated_at: '2025-09-04T22:03:10Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
