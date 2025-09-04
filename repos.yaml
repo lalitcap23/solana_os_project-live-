@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-04T16:01:38Z'
+    updated_at: '2025-09-04T16:44:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1907
+    stars: 1908
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-01T20:51:53Z'
+    updated_at: '2025-09-04T17:05:45Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -903,9 +903,9 @@ repositories:
   stats:
     stars: 825
     contributors: 28
-    last_activity: Last commit (Sep 03, 2025)
+    last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-04T08:14:05Z'
+    updated_at: '2025-09-04T16:43:30Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -938,11 +938,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 246
+    stars: 247
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-02T18:44:17Z'
+    updated_at: '2025-09-04T16:48:45Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-04T15:59:31Z'
+    updated_at: '2025-09-04T17:01:23Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
