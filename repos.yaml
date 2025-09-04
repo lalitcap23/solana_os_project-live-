@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-04T13:45:02Z'
+    updated_at: '2025-09-04T16:01:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 142
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-04T05:52:01Z'
+    updated_at: '2025-09-04T15:43:51Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 306
+    stars: 307
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-04T08:23:57Z'
+    updated_at: '2025-09-04T15:57:51Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-04T14:55:56Z'
+    updated_at: '2025-09-04T15:59:31Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1213,7 +1213,13 @@ repositories:
   description: Solana Pumpfun smart contract & Frontend & Backend
   category: SDKs & Tooling
   stars: 252
-  stats: null
+  stats:
+    stars: 121
+    contributors: 1
+    last_activity: Last commit (Sep 01, 2025)
+    archived: false
+    updated_at: '2025-09-04T16:28:54Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
