@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14364
+    stars: 14365
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-03T19:41:22Z'
+    updated_at: '2025-09-04T07:39:36Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 328
+    stars: 329
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-01T06:50:19Z'
+    updated_at: '2025-09-04T07:56:45Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -458,11 +458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 305
+    stars: 306
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-03T09:00:49Z'
+    updated_at: '2025-09-04T08:23:57Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 545
+    stars: 546
     contributors: 1
     last_activity: Last commit (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-03T12:15:16Z'
+    updated_at: '2025-09-04T08:23:21Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -901,11 +901,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 824
+    stars: 825
     contributors: 28
     last_activity: Last commit (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-03T16:44:16Z'
+    updated_at: '2025-09-04T08:14:05Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
