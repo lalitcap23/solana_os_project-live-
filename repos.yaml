@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1305
+    stars: 1307
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-04T02:41:32Z'
+    updated_at: '2025-09-04T06:22:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 524
+    stars: 525
     contributors: 142
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-03T18:06:38Z'
+    updated_at: '2025-09-04T05:52:01Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 322
+    stars: 323
     contributors: 18
     last_activity: Last commit (Sep 02, 2025)
     archived: false
-    updated_at: '2025-09-02T15:25:30Z'
+    updated_at: '2025-09-04T05:52:21Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1161,11 +1161,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 322
+    stars: 323
     contributors: 18
     last_activity: Last commit (Sep 02, 2025)
     archived: false
-    updated_at: '2025-09-02T15:25:30Z'
+    updated_at: '2025-09-04T05:52:21Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
