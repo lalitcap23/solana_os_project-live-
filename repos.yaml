@@ -6,7 +6,7 @@ repositories:
   category: Infrastructure
   stats:
     stars: 14365
-    contributors: 352
+    contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
     updated_at: '2025-09-04T07:39:36Z'
@@ -17,7 +17,7 @@ repositories:
   category: Infrastructure
   stats:
     stars: 1307
-    contributors: 362
+    contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
     updated_at: '2025-09-04T10:14:01Z'
@@ -28,7 +28,7 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 117
-    contributors: 149
+    contributors: 150
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
     updated_at: '2025-09-04T09:02:07Z'
@@ -75,7 +75,7 @@ repositories:
   category: Programs (SPL)
   stats:
     stars: 4060
-    contributors: 232
+    contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
     updated_at: '2025-09-02T10:25:49Z'
@@ -97,7 +97,7 @@ repositories:
   category: NFTs & Programs
   stats:
     stars: 210
-    contributors: 32
+    contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
     updated_at: '2025-08-25T17:10:24Z'
@@ -249,11 +249,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 69
+    stars: 70
     contributors: 4
     last_activity: 0.1.36 (Aug 29, 2024)
     archived: false
-    updated_at: '2025-05-20T17:46:09Z'
+    updated_at: '2025-09-04T10:43:54Z'
     language: Rust
 - name: sol-ctf-framework
   repo: otter-sec/sol-ctf-framework
@@ -522,11 +522,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 267
+    stars: 268
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-02T17:15:29Z'
+    updated_at: '2025-09-04T10:41:08Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -559,7 +559,7 @@ repositories:
   stars: 634
   stats:
     stars: 635
-    contributors: 63
+    contributors: 64
     last_activity: Last commit (Nov 01, 2024)
     archived: false
     updated_at: '2025-09-01T06:47:15Z'
@@ -747,11 +747,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 546
+    stars: 545
     contributors: 1
     last_activity: Last commit (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-04T08:23:21Z'
+    updated_at: '2025-09-04T10:54:09Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
