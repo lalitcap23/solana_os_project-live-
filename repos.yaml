@@ -31,7 +31,7 @@ repositories:
     contributors: 149
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-09-01T16:24:38Z'
+    updated_at: '2025-09-04T00:46:07Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 308
+    stars: 309
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-09-02T17:56:29Z'
+    updated_at: '2025-09-03T23:51:42Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
