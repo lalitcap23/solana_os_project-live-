@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-04T16:44:38Z'
+    updated_at: '2025-09-04T17:51:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4140
+    stars: 4139
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-09-02T03:14:00Z'
+    updated_at: '2025-09-04T18:02:01Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -292,7 +292,7 @@ repositories:
     contributors: 142
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-04T15:43:51Z'
+    updated_at: '2025-09-04T17:30:35Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1175,9 +1175,9 @@ repositories:
   stats:
     stars: 59
     contributors: 10
-    last_activity: v0.23.1 (Aug 28, 2025)
+    last_activity: v0.24.1 (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-04T17:01:23Z'
+    updated_at: '2025-09-04T18:10:58Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
