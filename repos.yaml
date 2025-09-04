@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-03T22:27:31Z'
+    updated_at: '2025-09-04T02:41:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 233
+    stars: 234
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-08-19T15:02:37Z'
+    updated_at: '2025-09-04T01:52:43Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -785,11 +785,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 289
+    stars: 288
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2025-09-01T16:29:26Z'
+    updated_at: '2025-09-04T02:48:26Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
