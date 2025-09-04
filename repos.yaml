@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14365
+    stars: 14366
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-04T07:39:36Z'
+    updated_at: '2025-09-04T14:36:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 117
+    stars: 118
     contributors: 150
     last_activity: sanitize@v3.0.1 (Aug 27, 2025)
     archived: false
-    updated_at: '2025-09-04T09:02:07Z'
+    updated_at: '2025-09-04T14:23:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -963,11 +963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 142
+    stars: 143
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-09-02T06:02:50Z'
+    updated_at: '2025-09-04T14:34:27Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1177,7 +1177,7 @@ repositories:
     contributors: 10
     last_activity: v0.23.1 (Aug 28, 2025)
     archived: false
-    updated_at: '2025-09-04T12:06:42Z'
+    updated_at: '2025-09-04T14:55:56Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
