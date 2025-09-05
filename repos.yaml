@@ -444,13 +444,7 @@ repositories:
     with rust language architecture using anchor frame work
   category: DeFi
   stars: 328
-  stats:
-    stars: 335
-    contributors: 3
-    last_activity: Solana-Arbitrage-Bot (May 20, 2025)
-    archived: false
-    updated_at: '2025-09-05T07:24:36Z'
-    language: Rust
+  stats: null
 - name: Solana-Prediction-Market
   repo: HyperBuildX/Solana-Prediction-Market
   description: Solana Prediction Market where users can create market, add liquidity,
@@ -1147,13 +1141,7 @@ repositories:
     with rust language architecture using anchor frame work
   category: DeFi
   stars: 330
-  stats:
-    stars: 335
-    contributors: 3
-    last_activity: Solana-Arbitrage-Bot (May 20, 2025)
-    archived: false
-    updated_at: '2025-09-05T07:24:36Z'
-    language: Rust
+  stats: null
 - name: gill
   repo: gillsdk/gill
   description: Solana JavaScript/TypeScript SDK - client library for interacting with
@@ -1220,6 +1208,19 @@ repositories:
     archived: false
     updated_at: '2025-09-04T16:28:54Z'
     language: TypeScript
+- name: Solana-Pumpfun-Smart-Contract-Token-2022
+  repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
+  description: 'pumpfun clone: tax token pump.fun smart contract (pumpfun fork), solana
+    pump fun smart contract (token2022, raydium cpmm)'
+  category: SDKs & Tooling
+  stars: 195
+  stats:
+    stars: 195
+    contributors: 2
+    last_activity: Last commit (Jun 30, 2025)
+    archived: false
+    updated_at: '2025-09-04T22:12:08Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
