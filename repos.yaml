@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14365
+    stars: 14364
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-04T19:36:08Z'
+    updated_at: '2025-09-04T23:25:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1307
+    stars: 1308
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-04T20:49:15Z'
+    updated_at: '2025-09-04T23:52:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 525
-    contributors: 142
+    contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-04T21:33:33Z'
+    updated_at: '2025-09-04T23:58:21Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 593
+    stars: 594
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-09-02T10:36:38Z'
+    updated_at: '2025-09-05T00:42:30Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
