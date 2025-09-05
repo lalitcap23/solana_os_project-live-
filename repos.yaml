@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1309
+    stars: 1310
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-05T04:03:39Z'
+    updated_at: '2025-09-05T06:08:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 209
+    stars: 210
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-08-28T06:43:05Z'
+    updated_at: '2025-09-05T05:41:18Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
