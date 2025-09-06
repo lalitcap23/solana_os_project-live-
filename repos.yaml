@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 307
+    stars: 308
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-04T15:57:51Z'
+    updated_at: '2025-09-06T16:34:35Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 826
     contributors: 28
-    last_activity: Last commit (Sep 05, 2025)
+    last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-06T03:24:18Z'
+    updated_at: '2025-09-06T16:41:17Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
