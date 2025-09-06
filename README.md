@@ -62,7 +62,7 @@ Last updated: 2025-09-06
 | awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 311 | 2 | Last commit (Jun 18, 2025) | SDKs & Tooling |
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 292 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 268 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
-| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 548 | 1 | Last commit (Sep 03, 2025) | SDKs & Tooling |
+| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 549 | 1 | Last commit (Sep 03, 2025) | SDKs & Tooling |
 | solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 538 | 1 | Last commit (Sep 03, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 202 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 194 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
@@ -122,7 +122,7 @@ Last updated: 2025-09-06
 | solana-pay-checkout | A point-of-sale web app that allows us to take payments from customers through QR Code in person using Solana Pay. | https://github.com/ronylucca/solana-pay-checkout | 8 | 1 | Last commit (Apr 10, 2022) | Payments |
 | solana-pay-qrcode-generator | A simple way to generate QR Codes and easily accept payments in Solana, USCD or any other SPL-Token on the Solana Blockchain. | https://github.com/valentinmadrid/solana-pay-qrcode-generator | 6 | 1 | Last commit (Oct 25, 2022) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 210 | 2 | v6.0.62 (Aug 18, 2025) | DeFi |
-| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 444 | 27 | v0.9.1 (Jul 18, 2025) | DeFi |
+| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 445 | 27 | v0.9.1 (Jul 18, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 183 | 4 | Last commit (Aug 21, 2025) | DeFi |
 | Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | — | — | Active | DeFi |
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 190 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
