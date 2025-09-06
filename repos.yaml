@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 144
+    stars: 145
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-09-04T22:03:10Z'
+    updated_at: '2025-09-06T04:49:15Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
