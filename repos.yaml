@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14367
+    stars: 14368
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-06T12:31:39Z'
+    updated_at: '2025-09-06T21:23:33Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1317
+    stars: 1318
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-06T16:21:19Z'
+    updated_at: '2025-09-06T21:26:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4059
+    stars: 4060
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-05T14:42:16Z'
+    updated_at: '2025-09-06T21:23:45Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 308
+    stars: 309
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-06T16:34:35Z'
+    updated_at: '2025-09-06T21:24:32Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
