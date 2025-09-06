@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14368
+    stars: 14367
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-06T07:45:24Z'
+    updated_at: '2025-09-06T12:31:39Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 233
+    stars: 234
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-08-28T04:28:24Z'
+    updated_at: '2025-09-06T11:21:47Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 537
+    stars: 538
     contributors: 1
     last_activity: Last commit (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-03T12:16:50Z'
+    updated_at: '2025-09-06T11:35:36Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 147
+    stars: 148
     contributors: 6
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-06T11:12:24Z'
+    updated_at: '2025-09-06T12:01:20Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
