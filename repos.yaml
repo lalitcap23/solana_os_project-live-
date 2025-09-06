@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1316
+    stars: 1317
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-06T05:26:58Z'
+    updated_at: '2025-09-06T13:50:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 329
+    stars: 331
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-04T07:56:45Z'
+    updated_at: '2025-09-06T13:51:57Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 268
+    stars: 270
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-04T10:41:08Z'
+    updated_at: '2025-09-06T13:30:29Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 549
+    stars: 548
     contributors: 1
     last_activity: Last commit (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-06T13:03:07Z'
+    updated_at: '2025-09-06T13:44:35Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 148
     contributors: 6
-    last_activity: Last commit (Sep 04, 2025)
+    last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-06T12:01:20Z'
+    updated_at: '2025-09-06T14:12:37Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1220,6 +1220,19 @@ repositories:
     last_activity: Last commit (Jun 30, 2025)
     archived: false
     updated_at: '2025-09-04T22:12:08Z'
+    language: Rust
+- name: Solana-Arbitrage-Bot
+  repo: AV1080p/Solana-Arbitrage-Bot
+  description: Solana Arbitrage Bot on Pump Swap, Raydium, Orca, Meteora swap program
+    with rust language
+  category: DeFi
+  stars: 462
+  stats:
+    stars: 462
+    contributors: 1
+    last_activity: Last commit (Sep 06, 2025)
+    archived: false
+    updated_at: '2025-09-06T14:14:21Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
