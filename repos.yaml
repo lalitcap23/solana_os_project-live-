@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14367
+    stars: 14368
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-05T22:38:26Z'
+    updated_at: '2025-09-06T03:05:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1259
+    stars: 1260
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-05T07:02:41Z'
+    updated_at: '2025-09-06T03:24:34Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -793,11 +793,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 208
+    stars: 209
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-09-03T10:48:08Z'
+    updated_at: '2025-09-06T03:25:39Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 825
+    stars: 826
     contributors: 28
     last_activity: Last commit (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-05T16:42:13Z'
+    updated_at: '2025-09-06T03:24:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
