@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1909
+    stars: 1910
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-06T09:04:47Z'
+    updated_at: '2025-09-06T15:11:39Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 296
+    stars: 297
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-01T06:47:48Z'
+    updated_at: '2025-09-06T15:13:09Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-06T14:12:37Z'
+    updated_at: '2025-09-06T15:17:03Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1232,7 +1232,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-06T14:14:21Z'
+    updated_at: '2025-09-06T15:16:56Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
