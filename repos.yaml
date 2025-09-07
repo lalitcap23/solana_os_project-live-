@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14369
+    stars: 14370
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-06T22:20:04Z'
+    updated_at: '2025-09-07T00:28:18Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.7 (Aug 08, 2025)
     archived: false
-    updated_at: '2025-09-06T21:26:30Z'
+    updated_at: '2025-09-07T01:21:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4577
+    stars: 4579
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-06T22:20:51Z'
+    updated_at: '2025-09-07T01:48:32Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4061
+    stars: 4062
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-06T22:20:46Z'
+    updated_at: '2025-09-07T01:18:10Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4577
+    stars: 4579
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-06T22:20:51Z'
+    updated_at: '2025-09-07T01:48:32Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 60
+    stars: 59
     contributors: 10
-    last_activity: v0.24.1 (Sep 04, 2025)
+    last_activity: v0.24.2 (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-06T17:27:54Z'
+    updated_at: '2025-09-07T00:56:00Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 462
+    stars: 463
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-06T15:16:56Z'
+    updated_at: '2025-09-07T01:38:34Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
