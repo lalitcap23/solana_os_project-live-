@@ -18,7 +18,7 @@ repositories:
   stats:
     stars: 1320
     contributors: 363
-    last_activity: v2.3.7 (Aug 08, 2025)
+    last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
     updated_at: '2025-09-07T15:05:24Z'
     language: Rust
