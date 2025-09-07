@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1320
+    stars: 1321
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-07T15:05:24Z'
+    updated_at: '2025-09-07T21:08:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 145
+    stars: 146
     contributors: 5
     last_activity: Last commit (Aug 15, 2025)
     archived: false
-    updated_at: '2025-09-06T04:49:15Z'
+    updated_at: '2025-09-07T20:52:27Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 150
+    stars: 151
     contributors: 6
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-07T16:27:08Z'
+    updated_at: '2025-09-07T21:10:17Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
