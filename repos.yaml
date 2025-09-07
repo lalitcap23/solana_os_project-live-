@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14370
+    stars: 14371
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-07T09:47:10Z'
+    updated_at: '2025-09-07T10:35:05Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 332
+    stars: 333
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-07T10:20:16Z'
+    updated_at: '2025-09-07T10:21:07Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-07T10:07:56Z'
+    updated_at: '2025-09-07T11:00:19Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
