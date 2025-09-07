@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4579
+    stars: 4580
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-07T01:48:32Z'
+    updated_at: '2025-09-07T07:23:50Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4579
+    stars: 4580
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-07T01:48:32Z'
+    updated_at: '2025-09-07T07:23:50Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-07T04:24:35Z'
+    updated_at: '2025-09-07T07:24:58Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
