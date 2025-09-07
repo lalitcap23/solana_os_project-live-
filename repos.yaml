@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 826
     contributors: 28
-    last_activity: Last commit (Sep 06, 2025)
+    last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-06T16:41:17Z'
+    updated_at: '2025-09-07T16:40:31Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-07T16:24:54Z'
+    updated_at: '2025-09-07T16:27:08Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
