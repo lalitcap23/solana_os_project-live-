@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 151
     contributors: 6
-    last_activity: Last commit (Sep 07, 2025)
+    last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-07T21:10:17Z'
+    updated_at: '2025-09-08T02:58:52Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
