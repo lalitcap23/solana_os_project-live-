@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 324
+    stars: 325
     contributors: 19
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-05T12:56:58Z'
+    updated_at: '2025-09-08T13:51:25Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T10:29:16Z'
+    updated_at: '2025-09-08T13:54:17Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 324
+    stars: 325
     contributors: 19
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-05T12:56:58Z'
+    updated_at: '2025-09-08T13:51:25Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
