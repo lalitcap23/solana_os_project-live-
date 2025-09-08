@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14376
+    stars: 14377
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-08T08:14:33Z'
+    updated_at: '2025-09-08T09:54:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-08T07:07:09Z'
+    updated_at: '2025-09-08T09:54:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4585
+    stars: 4586
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T05:24:05Z'
+    updated_at: '2025-09-08T10:16:22Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4585
+    stars: 4586
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T05:24:05Z'
+    updated_at: '2025-09-08T10:16:22Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T09:12:38Z'
+    updated_at: '2025-09-08T09:34:12Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
