@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14373
+    stars: 14375
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-07T18:38:50Z'
+    updated_at: '2025-09-08T05:57:11Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4584
+    stars: 4585
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T00:42:49Z'
+    updated_at: '2025-09-08T05:24:05Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4584
+    stars: 4585
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T00:42:49Z'
+    updated_at: '2025-09-08T05:24:05Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 103
+    stars: 104
     contributors: 4
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-01T15:04:36Z'
+    updated_at: '2025-09-08T06:07:38Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
