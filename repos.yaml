@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14379
+    stars: 14380
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-08T12:15:52Z'
+    updated_at: '2025-09-08T15:00:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-08T12:58:20Z'
+    updated_at: '2025-09-08T14:34:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 446
+    stars: 447
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-08T06:53:46Z'
+    updated_at: '2025-09-08T14:38:45Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 234
+    stars: 235
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-09-04T01:52:43Z'
+    updated_at: '2025-09-08T14:52:27Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 827
+    stars: 828
     contributors: 28
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-08T08:48:17Z'
+    updated_at: '2025-09-08T14:38:57Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T13:54:17Z'
+    updated_at: '2025-09-08T15:24:26Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
