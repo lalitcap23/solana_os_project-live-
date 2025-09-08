@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-07T18:38:55Z'
+    updated_at: '2025-09-08T08:32:42Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 334
+    stars: 335
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-08T08:30:18Z'
+    updated_at: '2025-09-08T09:23:41Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 826
+    stars: 827
     contributors: 28
     last_activity: Last commit (Sep 07, 2025)
     archived: false
-    updated_at: '2025-09-07T16:40:31Z'
+    updated_at: '2025-09-08T08:48:17Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T07:41:18Z'
+    updated_at: '2025-09-08T09:12:38Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
