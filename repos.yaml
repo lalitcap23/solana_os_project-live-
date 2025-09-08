@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14380
+    stars: 14379
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-08T15:00:00Z'
+    updated_at: '2025-09-08T15:44:21Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-08T14:34:34Z'
+    updated_at: '2025-09-08T16:09:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 121
+    stars: 122
     contributors: 150
     last_activity: bls-signatures@v0.3.0 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-08T00:21:48Z'
+    updated_at: '2025-09-08T15:39:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4586
+    stars: 4587
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T10:16:22Z'
+    updated_at: '2025-09-08T16:27:02Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-08-28T04:33:18Z'
+    updated_at: '2025-09-08T16:02:39Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4586
+    stars: 4587
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T10:16:22Z'
+    updated_at: '2025-09-08T16:27:02Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 529
+    stars: 530
     contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-06T06:32:11Z'
+    updated_at: '2025-09-08T15:48:11Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 325
+    stars: 326
     contributors: 19
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-08T13:51:25Z'
+    updated_at: '2025-09-08T16:02:55Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 539
+    stars: 538
     contributors: 1
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T12:31:40Z'
+    updated_at: '2025-09-08T16:16:00Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 523
+    stars: 524
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-09-03T10:48:08Z'
+    updated_at: '2025-09-08T16:03:51Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 325
+    stars: 326
     contributors: 19
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-09-08T13:51:25Z'
+    updated_at: '2025-09-08T16:02:55Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
