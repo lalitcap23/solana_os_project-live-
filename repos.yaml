@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14379
+    stars: 14380
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-09T02:50:39Z'
+    updated_at: '2025-09-09T04:45:51Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -626,11 +626,11 @@ repositories:
   category: NFTs & Programs
   stars: 96
   stats:
-    stars: 96
+    stars: 97
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-09-03T03:25:56Z'
+    updated_at: '2025-09-09T04:37:50Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
