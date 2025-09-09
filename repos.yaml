@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14381
+    stars: 14380
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-09T07:57:27Z'
+    updated_at: '2025-09-09T09:35:56Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1327
+    stars: 1328
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T08:41:41Z'
+    updated_at: '2025-09-09T09:59:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1234,6 +1234,18 @@ repositories:
     archived: false
     updated_at: '2025-09-07T11:32:33Z'
     language: Rust
+- name: solana-pumpfun-trader
+  repo: degenfrends/solana-pumpfun-trader
+  description: buy/sell functions for Solana SPL tokens created on pump.fun.
+  category: SDKs & Tooling
+  stars: 70
+  stats:
+    stars: 70
+    contributors: 2
+    last_activity: v0.0.16 (Jun 22, 2024)
+    archived: false
+    updated_at: '2025-08-26T10:10:54Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
