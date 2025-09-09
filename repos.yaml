@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-08T20:24:23Z'
+    updated_at: '2025-09-09T17:07:08Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 831
     contributors: 28
-    last_activity: Last commit (Sep 08, 2025)
+    last_activity: Last commit (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-09T15:39:57Z'
+    updated_at: '2025-09-09T16:38:34Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-09T16:19:07Z'
+    updated_at: '2025-09-09T16:37:10Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
