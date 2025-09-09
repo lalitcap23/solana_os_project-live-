@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1328
+    stars: 1329
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T14:09:43Z'
+    updated_at: '2025-09-09T15:57:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 532
+    stars: 533
     contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-09T14:14:50Z'
+    updated_at: '2025-09-09T15:30:03Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 374
+    stars: 375
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2025-07-19T03:50:48Z'
+    updated_at: '2025-09-09T15:46:00Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1261
+    stars: 1262
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-09T08:55:06Z'
+    updated_at: '2025-09-09T15:57:05Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 269
+    stars: 270
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-09T11:17:18Z'
+    updated_at: '2025-09-09T15:57:03Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 830
+    stars: 831
     contributors: 28
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-09T14:24:17Z'
+    updated_at: '2025-09-09T15:39:57Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 247
+    stars: 248
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-04T16:48:45Z'
+    updated_at: '2025-09-09T15:57:12Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 153
     contributors: 6
-    last_activity: Last commit (Sep 08, 2025)
+    last_activity: Last commit (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-09T06:42:11Z'
+    updated_at: '2025-09-09T16:19:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
