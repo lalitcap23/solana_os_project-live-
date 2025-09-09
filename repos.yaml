@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T05:55:20Z'
+    updated_at: '2025-09-09T06:47:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4590
+    stars: 4591
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T22:09:09Z'
+    updated_at: '2025-09-09T06:58:00Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2598
+    stars: 2599
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-08T20:01:12Z'
+    updated_at: '2025-09-09T06:47:14Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4590
+    stars: 4591
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-08T22:09:09Z'
+    updated_at: '2025-09-09T06:58:00Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 152
+    stars: 153
     contributors: 6
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T16:50:46Z'
+    updated_at: '2025-09-09T06:42:11Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
