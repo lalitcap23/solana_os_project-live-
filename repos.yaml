@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T09:59:07Z'
+    updated_at: '2025-09-09T11:15:27Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4066
+    stars: 4065
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-08T23:51:12Z'
+    updated_at: '2025-09-09T11:17:34Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 270
+    stars: 269
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-06T13:30:29Z'
+    updated_at: '2025-09-09T11:17:18Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
