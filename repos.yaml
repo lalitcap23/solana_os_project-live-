@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14379
+    stars: 14378
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-09T13:50:17Z'
+    updated_at: '2025-09-09T18:27:09Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T15:57:09Z'
+    updated_at: '2025-09-09T18:28:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 121
     contributors: 150
-    last_activity: bls-signatures@v0.3.0 (Sep 05, 2025)
+    last_activity: vote-interface@v4.0.1 (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-09T13:50:21Z'
+    updated_at: '2025-09-09T18:17:35Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1262
+    stars: 1263
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-09T15:57:05Z'
+    updated_at: '2025-09-09T18:29:08Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -770,7 +770,7 @@ repositories:
     contributors: 13
     last_activity: Last commit (Aug 06, 2025)
     archived: false
-    updated_at: '2025-09-08T16:03:51Z'
+    updated_at: '2025-09-09T18:28:18Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
