@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1333
+    stars: 1332
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-10T07:55:35Z'
+    updated_at: '2025-09-10T08:53:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2598
+    stars: 2597
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-09T22:22:44Z'
+    updated_at: '2025-09-10T08:54:17Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 534
+    stars: 533
     contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-10T03:36:13Z'
+    updated_at: '2025-09-10T08:54:19Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 338
+    stars: 339
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-10T03:49:47Z'
+    updated_at: '2025-09-10T08:56:29Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-10T03:56:30Z'
+    updated_at: '2025-09-10T09:03:03Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
