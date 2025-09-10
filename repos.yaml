@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-09T22:31:34Z'
+    updated_at: '2025-09-10T01:10:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1912
+    stars: 1913
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-09T22:22:52Z'
+    updated_at: '2025-09-10T00:30:47Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-09T18:35:59Z'
+    updated_at: '2025-09-09T23:20:23Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 190
+    stars: 191
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-08-29T08:56:29Z'
+    updated_at: '2025-09-10T00:45:21Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
