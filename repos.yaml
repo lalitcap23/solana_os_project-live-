@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4594
+    stars: 4592
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-10T07:15:46Z'
+    updated_at: '2025-09-10T13:17:21Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4594
+    stars: 4592
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-10T07:15:46Z'
+    updated_at: '2025-09-10T13:17:21Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 328
     contributors: 19
-    last_activity: Last commit (Sep 04, 2025)
+    last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-08T20:52:42Z'
+    updated_at: '2025-09-10T13:04:55Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 308
+    stars: 295
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-09T14:29:59Z'
+    updated_at: '2025-09-10T12:50:40Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 153
+    stars: 154
     contributors: 6
     last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-10T09:36:03Z'
+    updated_at: '2025-09-10T13:09:16Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 328
     contributors: 19
-    last_activity: Last commit (Sep 04, 2025)
+    last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-08T20:52:42Z'
+    updated_at: '2025-09-10T13:04:55Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
