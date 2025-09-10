@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1332
+    stars: 1333
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-10T06:32:45Z'
+    updated_at: '2025-09-10T06:37:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4593
+    stars: 4594
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-09T13:50:53Z'
+    updated_at: '2025-09-10T07:15:46Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4593
+    stars: 4594
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-09T13:50:53Z'
+    updated_at: '2025-09-10T07:15:46Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1263
+    stars: 1264
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-09T18:29:08Z'
+    updated_at: '2025-09-10T07:15:58Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -849,7 +849,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jan 13, 2025)
     archived: false
-    updated_at: '2025-08-17T05:26:12Z'
+    updated_at: '2025-09-10T07:04:30Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
