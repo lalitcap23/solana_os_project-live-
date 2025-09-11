@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T12:00:48Z'
+    updated_at: '2025-09-11T19:54:08Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 525
+    stars: 526
     contributors: 13
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T19:11:00Z'
+    updated_at: '2025-09-11T19:36:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1163,9 +1163,9 @@ repositories:
   stats:
     stars: 59
     contributors: 10
-    last_activity: v0.25.0 (Sep 11, 2025)
+    last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T17:26:33Z'
+    updated_at: '2025-09-11T19:42:29Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
