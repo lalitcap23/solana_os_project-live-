@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14389
+    stars: 14388
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-11T14:42:48Z'
+    updated_at: '2025-09-11T17:48:22Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -793,11 +793,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 208
+    stars: 209
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-09-11T16:01:22Z'
+    updated_at: '2025-09-11T17:45:06Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -1163,9 +1163,9 @@ repositories:
   stats:
     stars: 59
     contributors: 10
-    last_activity: v0.24.2 (Sep 07, 2025)
+    last_activity: v0.25.0 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T17:07:21Z'
+    updated_at: '2025-09-11T17:26:33Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
