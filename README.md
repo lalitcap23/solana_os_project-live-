@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-09-10
+Last updated: 2025-09-11
 
 ## Directory
 
@@ -95,7 +95,7 @@ Last updated: 2025-09-10
 | solana-app-wallet | Solana APP is another version of sollet wallet for mobile  Solana Pay is the entry point into the system. It lives directly between web2 & web3, receiving web2 payloads & converting them into web3 transactions. The power of this really can’t be overstated. The contours of this design space are unexplored and sure to hold amazing things. | https://github.com/0xPleiades/solana-app-wallet | 18 | 1 | Last commit (Aug 05, 2025) | Wallets & Mobile |
 | Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.1k | 233 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
 | SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 9 | 21 | type-length-value@v0.9.0 (Aug 11, 2025) | Programs (SPL) |
-| Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 211 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
+| Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 212 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 375 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 328 | 19 | Last commit (Sep 10, 2025) | NFTs & Programs |
 | solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 170 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |

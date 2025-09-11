@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-10T21:16:25Z'
+    updated_at: '2025-09-11T01:06:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 211
+    stars: 212
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-09-04T13:10:25Z'
+    updated_at: '2025-09-11T00:38:57Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.2 (Sep 03, 2025)
     archived: false
-    updated_at: '2025-09-10T23:05:53Z'
+    updated_at: '2025-09-10T23:24:37Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3344
+    stars: 3345
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-08-28T07:08:39Z'
+    updated_at: '2025-09-11T00:38:39Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
