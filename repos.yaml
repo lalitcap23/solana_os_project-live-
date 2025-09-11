@@ -290,9 +290,9 @@ repositories:
   stats:
     stars: 534
     contributors: 143
-    last_activity: v3.0.2 (Sep 03, 2025)
+    last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-10T23:24:37Z'
+    updated_at: '2025-09-11T03:43:51Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -770,7 +770,7 @@ repositories:
     contributors: 13
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T02:14:05Z'
+    updated_at: '2025-09-11T03:51:31Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 464
+    stars: 465
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-09T12:26:14Z'
+    updated_at: '2025-09-11T03:30:30Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
