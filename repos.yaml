@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1333
+    stars: 1334
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-11T10:35:44Z'
+    updated_at: '2025-09-11T12:24:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T03:43:51Z'
+    updated_at: '2025-09-11T12:00:48Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 294
+    stars: 295
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-10T16:29:04Z'
+    updated_at: '2025-09-11T11:44:33Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 311
+    stars: 312
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-04T04:09:38Z'
+    updated_at: '2025-09-11T11:28:23Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -588,11 +588,11 @@ repositories:
   category: NFTs & Programs
   stars: 125
   stats:
-    stars: 125
+    stars: 126
     contributors: 2
     last_activity: Last commit (Jan 18, 2024)
     archived: false
-    updated_at: '2025-08-07T03:56:55Z'
+    updated_at: '2025-09-11T12:23:34Z'
     language: TypeScript
 - name: fetch-nft
   repo: AudiusProject/fetch-nft
