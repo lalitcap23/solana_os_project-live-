@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14388
+    stars: 14389
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-11T10:04:41Z'
+    updated_at: '2025-09-11T14:42:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1334
+    stars: 1336
     contributors: 363
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-11T14:14:15Z'
+    updated_at: '2025-09-11T15:02:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.1 (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-09T18:17:35Z'
+    updated_at: '2025-09-11T14:38:23Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 170
+    stars: 169
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-09-01T14:53:46Z'
+    updated_at: '2025-09-11T14:46:39Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 155
+    stars: 154
     contributors: 6
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T09:18:32Z'
+    updated_at: '2025-09-11T14:29:18Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
