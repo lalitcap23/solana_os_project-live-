@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14383
+    stars: 14385
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-10T20:39:56Z'
+    updated_at: '2025-09-11T02:50:26Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4592
+    stars: 4593
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-10T16:09:48Z'
+    updated_at: '2025-09-11T02:50:30Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4065
+    stars: 4066
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-09T11:17:34Z'
+    updated_at: '2025-09-11T02:50:28Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4592
+    stars: 4593
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-10T16:09:48Z'
+    updated_at: '2025-09-11T02:50:30Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 594
+    stars: 595
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-09-05T00:42:30Z'
+    updated_at: '2025-09-11T02:41:02Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 538
+    stars: 539
     contributors: 1
     last_activity: Last commit (Sep 08, 2025)
     archived: false
-    updated_at: '2025-09-08T16:16:00Z'
+    updated_at: '2025-09-11T02:41:04Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 524
     contributors: 13
-    last_activity: Last commit (Aug 06, 2025)
+    last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-09T18:28:18Z'
+    updated_at: '2025-09-11T02:14:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1246,6 +1246,18 @@ repositories:
     archived: false
     updated_at: '2025-08-26T10:10:54Z'
     language: TypeScript
+- name: typhoon
+  repo: exotic-markets-labs/typhoon
+  description: 🌪️ Solana Sealevel Framework
+  category: SDKs & Tooling
+  stars: 51
+  stats:
+    stars: 51
+    contributors: 5
+    last_activity: Last commit (Sep 03, 2025)
+    archived: false
+    updated_at: '2025-09-11T01:52:15Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
