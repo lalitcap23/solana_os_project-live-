@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14390
+    stars: 14391
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-11T21:10:00Z'
+    updated_at: '2025-09-12T05:36:35Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 295
+    stars: 296
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-11T11:44:33Z'
+    updated_at: '2025-09-12T06:11:42Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
