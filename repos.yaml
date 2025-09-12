@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-12T12:19:12Z'
+    updated_at: '2025-09-12T13:19:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 297
+    stars: 298
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-11T22:20:56Z'
+    updated_at: '2025-09-12T12:47:06Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
