@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14391
+    stars: 14392
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-12T08:24:39Z'
+    updated_at: '2025-09-12T14:34:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1338
+    stars: 1339
     contributors: 362
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-12T13:45:26Z'
+    updated_at: '2025-09-12T15:08:12Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4067
+    stars: 4068
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-11T21:10:15Z'
+    updated_at: '2025-09-12T14:34:48Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 298
+    stars: 299
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-12T12:47:06Z'
+    updated_at: '2025-09-12T15:20:24Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 534
+    stars: 535
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-12T00:45:44Z'
+    updated_at: '2025-09-12T15:13:35Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 329
+    stars: 330
     contributors: 19
     last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-11T09:02:30Z'
+    updated_at: '2025-09-12T14:36:48Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 329
+    stars: 330
     contributors: 19
     last_activity: Last commit (Sep 10, 2025)
     archived: false
-    updated_at: '2025-09-11T09:02:30Z'
+    updated_at: '2025-09-12T14:36:48Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
