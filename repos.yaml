@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.1 (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-11T22:02:25Z'
+    updated_at: '2025-09-12T01:20:38Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 407
+    stars: 408
     contributors: 8
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-06T10:20:16Z'
+    updated_at: '2025-09-11T23:39:14Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T20:33:24Z'
+    updated_at: '2025-09-12T00:45:44Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1265
+    stars: 1266
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-11T08:28:13Z'
+    updated_at: '2025-09-12T00:50:13Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 526
+    stars: 527
     contributors: 14
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T22:09:27Z'
+    updated_at: '2025-09-12T01:17:18Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 154
+    stars: 155
     contributors: 6
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T20:29:56Z'
+    updated_at: '2025-09-12T01:08:47Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
