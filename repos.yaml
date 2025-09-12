@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 202
+    stars: 203
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-10T16:29:02Z'
+    updated_at: '2025-09-12T21:29:11Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -395,7 +395,7 @@ repositories:
   stats:
     stars: 586
     contributors: 1
-    last_activity: Active
+    last_activity: Last commit (Aug 29, 2025)
     archived: false
     updated_at: '2025-09-11T08:12:46Z'
     language: TypeScript
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 577
+    stars: 578
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-09-11T08:12:46Z'
+    updated_at: '2025-09-12T21:40:53Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -1258,6 +1258,352 @@ repositories:
     archived: false
     updated_at: '2025-09-12T02:49:48Z'
     language: Rust
+- name: Solana-Sniper-Memecoin-Bot
+  repo: justshiftjk/Solana-Sniper-Memecoin-Bot
+  description: The combination project of sniper and shitcoin bot connecting with
+    Raydium SDK on Solana. This bot includes numerous functions like Jito Service,
+    Unwrapping Sol, Token creation, Auto Airdrop, Market creation, Token Acount Freeze,
+    LP Token Burn, Pool creation, Buy/Sell Tokens, Add/Remove Liquidity.
+  category: SDKs & Tooling
+  stars: 117
+  stats:
+    stars: 117
+    contributors: 1
+    last_activity: Last commit (Jun 26, 2025)
+    archived: false
+    updated_at: '2025-09-12T03:40:14Z'
+    language: TypeScript
+- name: gamba
+  repo: gamba-labs/gamba
+  description: SDK for building web3 betting games on Solana
+  category: SDKs & Tooling
+  stars: 69
+  stats:
+    stars: 69
+    contributors: 12
+    last_activity: Last commit (Aug 27, 2025)
+    archived: false
+    updated_at: '2025-09-12T15:57:41Z'
+    language: TypeScript
+- name: sns-sdk
+  repo: SolanaNameService/sns-sdk
+  description: Solana Name Service SDKs monorepo
+  category: SDKs & Tooling
+  stars: 63
+  stats:
+    stars: 63
+    contributors: 10
+    last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
+    archived: false
+    updated_at: '2025-09-12T00:15:57Z'
+    language: TypeScript
+- name: Solana-Token-Staking-Smart-Contract
+  repo: cutupdev/Solana-Token-Staking-Smart-Contract
+  description: 'Solana token staking smart contract '
+  category: SDKs & Tooling
+  stars: 144
+  stats:
+    stars: 144
+    contributors: 1
+    last_activity: Last commit (Jun 30, 2025)
+    archived: false
+    updated_at: '2025-08-10T06:12:37Z'
+    language: TypeScript
+- name: Solana-Token-Presale-Smart-Contract
+  repo: cutupdev/Solana-Token-Presale-Smart-Contract
+  description: Solana presale smart contract
+  category: SDKs & Tooling
+  stars: 144
+  stats:
+    stars: 144
+    contributors: 1
+    last_activity: Last commit (Jun 27, 2025)
+    archived: false
+    updated_at: '2025-08-11T18:05:25Z'
+    language: TypeScript
+- name: poseidon
+  repo: Turbin3/poseidon
+  description: A Transpiler to convert your Solana programs from Typescript to Anchor
+  category: SDKs & Tooling
+  stars: 143
+  stats:
+    stars: 143
+    contributors: 12
+    last_activity: Last commit (May 20, 2025)
+    archived: false
+    updated_at: '2025-09-04T06:07:41Z'
+    language: Rust
+- name: native-to-anchor
+  repo: acheroncrypto/native-to-anchor
+  description: Generate Anchor IDL for Native Solana Programs.
+  category: SDKs & Tooling
+  stars: 141
+  stats:
+    stars: 141
+    contributors: 1
+    last_activity: Last commit (Aug 21, 2022)
+    archived: false
+    updated_at: '2025-08-18T07:30:41Z'
+    language: TypeScript
+- name: solana-mint-ui
+  repo: edceds/solana-mint-ui
+  description: Mint UI for NFTs on Solana
+  category: NFTs & Programs
+  stars: 50
+  stats:
+    stars: 50
+    contributors: 2
+    last_activity: Last commit (Feb 06, 2024)
+    archived: false
+    updated_at: '2025-07-26T15:03:26Z'
+    language: TypeScript
+- name: digital-asset-validator-plugin
+  repo: metaplex-foundation/digital-asset-validator-plugin
+  description: The NFT Geyser plugin that powers metaplex APIs
+  category: NFTs & Programs
+  stars: 46
+  stats:
+    stars: 46
+    contributors: 19
+    last_activity: v2.0.0 (Mar 26, 2025)
+    archived: false
+    updated_at: '2025-07-27T07:19:32Z'
+    language: Rust
+- name: On_chain
+  repo: mrtnetwork/On_chain
+  description: Streamline Ethereum, Solana, Cardano, Aptos, Sui and Tron operations.
+    Effortlessly create transactions, interact with smart contracts, sign, and send
+    transactions for a seamless blockchain experience.
+  category: Wallets & Mobile
+  stars: 43
+  stats:
+    stars: 43
+    contributors: 1
+    last_activity: v3.2.0 (Apr 30, 2024)
+    archived: false
+    updated_at: '2025-08-26T09:46:34Z'
+    language: Dart
+- name: solana-nft-anchor
+  repo: 687c/solana-nft-anchor
+  description: Code for minting nfts on Solana using anchor and metaplex
+  category: NFTs & Programs
+  stars: 33
+  stats:
+    stars: 33
+    contributors: 2
+    last_activity: Last commit (Nov 24, 2023)
+    archived: false
+    updated_at: '2025-07-30T12:49:12Z'
+    language: Rust
+- name: mpl-candy-guard
+  repo: metaplex-foundation/mpl-candy-guard
+  description: Access control logic for Metaplex Candy Machine.
+  category: NFTs & Programs
+  stars: 27
+  stats:
+    stars: 27
+    contributors: 9
+    last_activity: Last commit (Apr 06, 2023)
+    archived: false
+    updated_at: '2025-01-01T23:07:28Z'
+    language: null
+- name: cnft-minter-demo
+  repo: solana-developers/cnft-minter-demo
+  description: A demo application that shows how to mint compressed NFTs using Solana
+    Pay QR codes. Powered by the Solana blockchain.
+  category: NFTs & Programs
+  stars: 21
+  stats:
+    stars: 21
+    contributors: 1
+    last_activity: Last commit (Sep 16, 2023)
+    archived: false
+    updated_at: '2025-07-13T06:56:47Z'
+    language: TypeScript
+- name: dynamic-nft-metadata
+  repo: roswelly/dynamic-nft-metadata
+  description: Dynamic NFT Metadata - About a collection of libraries and smart contracts
+    to facilitate dynamic NFT metadata and image generation on Solana with the Metaplex
+    standard. This is used in a variety of ways in the ecosystem to create dynamic
+    and on-chain NFTs
+  category: NFTs & Programs
+  stars: 21
+  stats:
+    stars: 21
+    contributors: 1
+    last_activity: Last commit (Jun 17, 2025)
+    archived: false
+    updated_at: '2025-06-25T06:10:04Z'
+    language: TypeScript
+- name: candy-machine-ui
+  repo: crusaderincode/candy-machine-ui
+  description: Easily customizable Solana Candy Machine V2 with WL support.
+  category: NFTs & Programs
+  stars: 17
+  stats:
+    stars: 17
+    contributors: 0
+    last_activity: v1.1.1 (Aug 05, 2022)
+    archived: false
+    updated_at: '2024-07-25T02:43:24Z'
+    language: TypeScript
+- name: solana-token-kit
+  repo: wurambo/solana-token-kit
+  description: Solana Token Kit for creating, launching and managing Solana SPL Tokens
+  category: SDKs & Tooling
+  stars: 47
+  stats:
+    stars: 47
+    contributors: 1
+    last_activity: Last commit (May 10, 2024)
+    archived: false
+    updated_at: '2025-08-22T02:54:40Z'
+    language: TypeScript
+- name: solana-copytrading-bot
+  repo: knightlightst/solana-copytrading-bot
+  description: copytrading bot for the Solana blockchain. It monitors transactions
+    like swaps, transfers, and NFTs across platforms like Raydium, PUMP.FUN, Photon,
+    BonkBot, and more — with support for sniping, liquidity management, and token
+    creation filters.
+  category: NFTs & Programs
+  stars: 46
+  stats:
+    stars: 46
+    contributors: 1
+    last_activity: Release (Apr 11, 2025)
+    archived: false
+    updated_at: '2025-09-06T12:08:58Z'
+    language: Rust
+- name: profit-script
+  repo: tymur999/profit-script
+  description: Calculate PnL for a Solana SPL Token (10x faster than others)
+  category: DeFi
+  stars: 39
+  stats:
+    stars: 39
+    contributors: 1
+    last_activity: Last commit (Jun 21, 2024)
+    archived: false
+    updated_at: '2025-08-24T23:34:03Z'
+    language: TypeScript
+- name: spl-token-faucet
+  repo: paul-schaaf/spl-token-faucet
+  description: Solana program that makes Token Faucets possible
+  category: SDKs & Tooling
+  stars: 38
+  stats:
+    stars: 38
+    contributors: 1
+    last_activity: Last commit (Dec 15, 2020)
+    archived: false
+    updated_at: '2025-09-11T14:12:14Z'
+    language: Rust
+- name: Solana-Memecoin-CLI
+  repo: earthskyorg/Solana-Memecoin-CLI
+  description: Solana Memecoin CLI is a powerful tool designed for volume booster
+    and this is a copy bot for trading dev integrated with Jito bundles, Jupiter,
+    Raydium, and Pump.fun
+  category: DeFi
+  stars: 37
+  stats:
+    stars: 37
+    contributors: 1
+    last_activity: Last commit (Feb 20, 2025)
+    archived: false
+    updated_at: '2025-09-08T00:20:28Z'
+    language: JavaScript
+- name: solana-streamer
+  repo: 0xfnzero/solana-streamer
+  description: A lightweight Rust library for real-time event streaming from Solana
+    DEX trading programs. This library provides efficient event parsing and subscription
+    capabilities for PumpFun, PumpSwap, Bonk, and Raydium CPMM protocols.
+  category: DeFi
+  stars: 77
+  stats:
+    stars: 77
+    contributors: 7
+    last_activity: Last commit (Sep 12, 2025)
+    archived: false
+    updated_at: '2025-09-12T16:13:29Z'
+    language: Rust
+- name: solana-txn
+  repo: JoshuaSum/solana-txn
+  description: A simple transaction listener that subscribes to blocks on Solana using
+    the Rust programming language
+  category: DeFi
+  stars: 73
+  stats:
+    stars: 73
+    contributors: 1
+    last_activity: Last commit (Jun 13, 2024)
+    archived: false
+    updated_at: '2025-08-13T16:38:14Z'
+    language: Rust
+- name: pumpfun-sdk
+  repo: 0xfnzero/pumpfun-sdk
+  description: A comprehensive Rust SDK for seamless interaction with the PumpFun
+    Solana program. This SDK provides a robust set of tools and interfaces to integrate
+    PumpFun functionality into your applications.  Resources
+  category: SDKs & Tooling
+  stars: 65
+  stats:
+    stars: 65
+    contributors: 2
+    last_activity: Last commit (Jul 16, 2025)
+    archived: false
+    updated_at: '2025-09-11T14:29:18Z'
+    language: Rust
+- name: solana-pay-minimal-example
+  repo: 256hax/solana-pay-minimal-example
+  description: Solana Pay(@solana/pay) minimal examples and docs.
+  category: Payments
+  stars: 4
+  stats:
+    stars: 4
+    contributors: 1
+    last_activity: Last commit (Aug 31, 2023)
+    archived: false
+    updated_at: '2025-03-17T00:00:09Z'
+    language: TypeScript
+- name: Solana-Token-Payment-Gateway
+  repo: paracetamol951/Solana-Token-Payment-Gateway
+  description: Process Solana Net-assembly Token payments and setup Solana webhook
+    for payment notifications. HTML payment form to embed into website, payment QRcode,
+    or payment link.
+  category: Payments
+  stars: 4
+  stats:
+    stars: 4
+    contributors: 1
+    last_activity: Last commit (Sep 12, 2025)
+    archived: false
+    updated_at: '2025-09-12T11:12:59Z'
+    language: Java
+- name: woocommerce-payment-gateway
+  repo: stream-protocol/woocommerce-payment-gateway
+  description: StreamPay - WooCommerce + Solana and USDC Payment Gateway
+  category: Payments
+  stars: 4
+  stats:
+    stars: 4
+    contributors: 2
+    last_activity: Last commit (Dec 30, 2022)
+    archived: false
+    updated_at: '2023-09-05T16:04:59Z'
+    language: PHP
+- name: svm-pay
+  repo: openSVM/svm-pay
+  description: pay and accept payments from anywhere in the world from any solana-vm
+    based network!  works in any country even in space!
+  category: Payments
+  stars: 4
+  stats:
+    stars: 4
+    contributors: 2
+    last_activity: v1.1.0 (Jun 27, 2025)
+    archived: false
+    updated_at: '2025-07-23T19:57:23Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
