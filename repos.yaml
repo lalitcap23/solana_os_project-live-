@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4598
+    stars: 4599
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-12T09:10:05Z'
+    updated_at: '2025-09-12T10:12:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2601
+    stars: 2602
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-12T06:42:40Z'
+    updated_at: '2025-09-12T10:12:37Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4598
+    stars: 4599
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-12T09:10:05Z'
+    updated_at: '2025-09-12T10:12:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 833
+    stars: 834
     contributors: 28
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T21:10:28Z'
+    updated_at: '2025-09-12T10:13:41Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
