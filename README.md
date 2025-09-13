@@ -85,7 +85,7 @@ Last updated: 2025-09-13
 | gamba | SDK for building web3 betting games on Solana | https://github.com/gamba-labs/gamba | 69 | 12 | Last commit (Aug 27, 2025) | SDKs & Tooling |
 | sns-sdk | Solana Name Service SDKs monorepo | https://github.com/SolanaNameService/sns-sdk | 63 | 10 | @bonfida/spl-name-service@3.0.1 (Aug 07, 2024) | SDKs & Tooling |
 | Solana-Token-Staking-Smart-Contract | Solana token staking smart contract  | https://github.com/cutupdev/Solana-Token-Staking-Smart-Contract | 144 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
-| Solana-Token-Presale-Smart-Contract | Solana presale smart contract | https://github.com/cutupdev/Solana-Token-Presale-Smart-Contract | 144 | 1 | Last commit (Jun 27, 2025) | SDKs & Tooling |
+| Solana-Token-Presale-Smart-Contract | Solana presale smart contract | https://github.com/cutupdev/Solana-Token-Presale-Smart-Contract | 145 | 1 | Last commit (Jun 27, 2025) | SDKs & Tooling |
 | poseidon | A Transpiler to convert your Solana programs from Typescript to Anchor | https://github.com/Turbin3/poseidon | 143 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
 | native-to-anchor | Generate Anchor IDL for Native Solana Programs. | https://github.com/acheroncrypto/native-to-anchor | 141 | 1 | Last commit (Aug 21, 2022) | SDKs & Tooling |
 | solana-token-kit | Solana Token Kit for creating, launching and managing Solana SPL Tokens | https://github.com/wurambo/solana-token-kit | 47 | 1 | Last commit (May 10, 2024) | SDKs & Tooling |
@@ -138,7 +138,7 @@ Last updated: 2025-09-13
 | candy-machine-ui | Easily customizable Solana Candy Machine V2 with WL support. | https://github.com/crusaderincode/candy-machine-ui | 17 | — | v1.1.1 (Aug 05, 2022) | NFTs & Programs |
 | solana-copytrading-bot | copytrading bot for the Solana blockchain. It monitors transactions like swaps, transfers, and NFTs across platforms like Raydium, PUMP.FUN, Photon, BonkBot, and more — with support for sniping, liquidity management, and token creation filters. | https://github.com/knightlightst/solana-copytrading-bot | 46 | 1 | Release (Apr 11, 2025) | NFTs & Programs |
 | Candy Machine (Core) | Metaplex Core Candy Machine (Core assets) | https://github.com/metaplex-foundation/mpl-core-candy-machine | 29 | 5 | js@v0.3.0 (Jan 27, 2025) | NFTs & Minting |
-| solana-payments-app | Solana Pay for Commerce Platforms | https://github.com/solana-labs/solana-payments-app | 98 | 5 | Archived; v2.0.0 (Aug 18, 2023) | Payments |
+| solana-payments-app | Solana Pay for Commerce Platforms | https://github.com/solana-labs/solana-payments-app | 99 | 5 | Archived; v2.0.0 (Aug 18, 2023) | Payments |
 | solana-payment-processor | Solana payment processor for e-commerce applications | https://github.com/solpayments/solana-payment-processor | 20 | 2 | Last commit (Jul 13, 2021) | Payments |
 | solana-payment-processor | About Solana payment processor for e-commerce applications | https://github.com/hylcore-V/solana-payment-processor | 17 | 1 | Last commit (Nov 24, 2024) | Payments |
 | solpress-pay | Woocommerce Payment Gateway Plugin Using Solana Pay | https://github.com/solpressplugins/solpress-pay | 11 | 1 | Last commit (Aug 07, 2024) | Payments |

@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4599
+    stars: 4600
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-12T19:40:42Z'
+    updated_at: '2025-09-13T07:24:54Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4599
+    stars: 4600
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-12T19:40:42Z'
+    updated_at: '2025-09-13T07:24:54Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1009,11 +1009,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 98
+    stars: 99
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2025-08-29T11:58:48Z'
+    updated_at: '2025-09-13T08:03:12Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 144
+    stars: 145
     contributors: 1
     last_activity: Last commit (Jun 27, 2025)
     archived: false
-    updated_at: '2025-08-11T18:05:25Z'
+    updated_at: '2025-09-13T07:39:22Z'
     language: TypeScript
 - name: poseidon
   repo: Turbin3/poseidon
