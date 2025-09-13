@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 448
+    stars: 449
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-12T16:42:12Z'
+    updated_at: '2025-09-13T01:03:56Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 835
+    stars: 836
     contributors: 28
     last_activity: Last commit (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-12T16:38:31Z'
+    updated_at: '2025-09-12T23:58:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 77
+    stars: 78
     contributors: 7
     last_activity: Last commit (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-12T16:13:29Z'
+    updated_at: '2025-09-13T01:37:43Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1604,6 +1604,72 @@ repositories:
     archived: false
     updated_at: '2025-07-23T19:57:23Z'
     language: TypeScript
+- name: moonit-sdk
+  repo: gomoonit/moonit-sdk
+  description: NPM package and code examples for creating buy/sell and mint transactions,
+    and calculating the price of any moon.it tokens on Solana.
+  category: Oracles
+  stars: 63
+  stats:
+    stars: 63
+    contributors: 5
+    last_activity: Last commit (Sep 09, 2025)
+    archived: false
+    updated_at: '2025-09-12T06:35:43Z'
+    language: TypeScript
+- name: IDLGuesser
+  repo: sec3-service/IDLGuesser
+  description: IDL Guesser is an open-source tool that automatically recovers the
+    IDL information from closed-source Anchor-based Solana programs.
+  category: SDKs & Tooling
+  stars: 138
+  stats:
+    stars: 138
+    contributors: 2
+    last_activity: Last commit (Aug 12, 2025)
+    archived: false
+    updated_at: '2025-09-12T01:03:35Z'
+    language: Rust
+- name: Pump.fun-Smart-Contract
+  repo: justshiftjk/Pump.fun-Smart-Contract
+  description: This is a forked version of Pump.fun smart contract (Solana Pumpfun
+    Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract
+    SDK)
+  category: SDKs & Tooling
+  stars: 114
+  stats:
+    stars: 114
+    contributors: 1
+    last_activity: Last commit (Apr 21, 2025)
+    archived: false
+    updated_at: '2025-08-26T16:17:02Z'
+    language: Rust
+- name: identity-swap
+  repo: civicteam/identity-swap
+  description: An Automatic Money Market (AMM) dApp that  demonstrates the concept
+    of Decentralised Identity on the  Solana SPL Token-Swap program.
+  category: DeFi
+  stars: 33
+  stats:
+    stars: 33
+    contributors: 2
+    last_activity: Last commit (Nov 12, 2020)
+    archived: false
+    updated_at: '2025-07-21T05:37:07Z'
+    language: TypeScript
+- name: solana-cli-program-template
+  repo: hashblock/solana-cli-program-template
+  description: A template with cookie cutter CLI, Program and Integration tests for
+    Solana blockchain
+  category: SDKs & Tooling
+  stars: 51
+  stats:
+    stars: 51
+    contributors: 1
+    last_activity: Last commit (Dec 31, 2022)
+    archived: false
+    updated_at: '2025-02-09T14:04:48Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
