@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3344
+    stars: 3345
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-11T16:01:19Z'
+    updated_at: '2025-09-13T21:16:31Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1549,9 +1549,9 @@ repositories:
   stats:
     stars: 65
     contributors: 2
-    last_activity: Last commit (Jul 16, 2025)
+    last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-11T14:29:18Z'
+    updated_at: '2025-09-13T21:10:01Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
