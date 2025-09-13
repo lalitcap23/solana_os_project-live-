@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4602
+    stars: 4603
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-13T13:03:24Z'
+    updated_at: '2025-09-13T13:47:11Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 299
+    stars: 300
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-12T15:20:24Z'
+    updated_at: '2025-09-13T14:14:04Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4602
+    stars: 4603
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-13T13:03:24Z'
+    updated_at: '2025-09-13T13:47:11Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 79
+    stars: 80
     contributors: 7
     last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-13T13:10:33Z'
+    updated_at: '2025-09-13T14:09:57Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
