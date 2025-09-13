@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 635
+    stars: 636
     contributors: 64
     last_activity: Last commit (Nov 01, 2024)
     archived: false
-    updated_at: '2025-09-01T06:47:15Z'
+    updated_at: '2025-09-13T21:24:52Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
