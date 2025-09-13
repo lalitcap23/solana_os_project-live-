@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1915
+    stars: 1916
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-11T21:10:20Z'
+    updated_at: '2025-09-13T18:01:10Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-13T13:09:22Z'
+    updated_at: '2025-09-13T17:21:44Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 138
+    stars: 139
     contributors: 2
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-09-12T01:03:35Z'
+    updated_at: '2025-09-13T17:26:21Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
