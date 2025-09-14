@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14394
+    stars: 14397
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-13T22:51:51Z'
+    updated_at: '2025-09-14T01:42:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v2.3.8 (Sep 05, 2025)
     archived: false
-    updated_at: '2025-09-13T05:58:34Z'
+    updated_at: '2025-09-13T23:27:24Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 342
+    stars: 345
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-13T10:37:11Z'
+    updated_at: '2025-09-14T01:42:37Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -845,11 +845,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 119
+    stars: 120
     contributors: 1
     last_activity: Last commit (Jan 13, 2025)
     archived: false
-    updated_at: '2025-09-12T03:32:01Z'
+    updated_at: '2025-09-14T01:41:45Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 80
+    stars: 81
     contributors: 7
     last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-13T17:13:41Z'
+    updated_at: '2025-09-14T00:15:15Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
