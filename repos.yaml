@@ -758,7 +758,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-11T10:56:05Z'
+    updated_at: '2025-09-14T10:00:52Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
