@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 157
+    stars: 158
     contributors: 6
     last_activity: Last commit (Sep 14, 2025)
     archived: false
-    updated_at: '2025-09-14T16:02:32Z'
+    updated_at: '2025-09-14T19:07:26Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 81
+    stars: 82
     contributors: 7
     last_activity: Last commit (Sep 14, 2025)
     archived: false
-    updated_at: '2025-09-14T16:01:20Z'
+    updated_at: '2025-09-14T19:08:56Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 65
+    stars: 66
     contributors: 2
     last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-13T21:10:01Z'
+    updated_at: '2025-09-14T19:09:07Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
