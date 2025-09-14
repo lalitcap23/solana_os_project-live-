@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14397
+    stars: 14396
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-14T13:39:18Z'
+    updated_at: '2025-09-14T16:14:13Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 122
+    stars: 123
     contributors: 150
     last_activity: vote-interface@v4.0.1 (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-12T01:20:38Z'
+    updated_at: '2025-09-14T16:16:11Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 409
+    stars: 410
     contributors: 8
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-13T03:13:31Z'
+    updated_at: '2025-09-14T15:48:14Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 157
     contributors: 6
-    last_activity: Last commit (Sep 13, 2025)
+    last_activity: Last commit (Sep 14, 2025)
     archived: false
-    updated_at: '2025-09-13T17:21:44Z'
+    updated_at: '2025-09-14T16:02:32Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1009,11 +1009,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 99
+    stars: 98
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2025-09-13T08:03:12Z'
+    updated_at: '2025-09-14T16:14:16Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 81
     contributors: 7
-    last_activity: Last commit (Sep 13, 2025)
+    last_activity: Last commit (Sep 14, 2025)
     archived: false
-    updated_at: '2025-09-14T00:15:15Z'
+    updated_at: '2025-09-14T16:01:20Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
