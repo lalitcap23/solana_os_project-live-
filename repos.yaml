@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 537
+    stars: 538
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-13T19:04:01Z'
+    updated_at: '2025-09-15T05:11:59Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 375
+    stars: 376
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2025-09-09T15:46:00Z'
+    updated_at: '2025-09-15T04:43:43Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
