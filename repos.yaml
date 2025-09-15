@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4605
+    stars: 4606
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-14T16:33:20Z'
+    updated_at: '2025-09-15T06:47:31Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4605
+    stars: 4606
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-14T16:33:20Z'
+    updated_at: '2025-09-15T06:47:31Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 529
+    stars: 530
     contributors: 14
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-13T03:46:31Z'
+    updated_at: '2025-09-15T06:47:40Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
