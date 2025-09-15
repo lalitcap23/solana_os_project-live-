@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 272
+    stars: 273
     contributors: 11
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-08-26T04:05:42Z'
+    updated_at: '2025-09-14T23:55:17Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 158
+    stars: 159
     contributors: 6
     last_activity: Last commit (Sep 14, 2025)
     archived: false
-    updated_at: '2025-09-14T19:07:26Z'
+    updated_at: '2025-09-15T01:47:35Z'
     language: Rust
 - name: radar
   repo: Auditware/radar

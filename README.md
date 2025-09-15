@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-09-14
+Last updated: 2025-09-15
 
 ## Directory
 
@@ -115,7 +115,7 @@ Last updated: 2025-09-14
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 331 | 19 | Last commit (Sep 10, 2025) | NFTs & Programs |
 | solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 169 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
 | solana-candy-factory | Solana blockchain candy machine app boilerplate on top of Metaplex Candy Machine. NextJS, Tailwind, Anchor, SolanaLabs.React, dev/mainnet automation scripts. | https://github.com/kevinfaveri/solana-candy-factory | 296 | 4 | Last commit (May 17, 2023) | NFTs & Programs |
-| anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 272 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
+| anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 273 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
 | metaplex | A directory of what the Metaplex Foundation works on! | https://github.com/metaplex-foundation/metaplex | 3.3k | 155 | v1.2.0 (Mar 16, 2022) | NFTs & Programs |
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 716 | 25 | v0.44.1 (Aug 25, 2025) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 636 | 64 | Last commit (Nov 01, 2024) | NFTs & Programs |
@@ -161,7 +161,7 @@ Last updated: 2025-09-14
 | pirate-bootcamp | A pirate-theme bootcamp for getting up to speed on Solana programming! | https://github.com/solana-developers/pirate-bootcamp | 315 | 4 | Last commit (Sep 05, 2023) | DeFi |
 | solana-escrow | Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/ | https://github.com/paul-schaaf/solana-escrow | 310 | 3 | Archived; Last commit (Jan 23, 2022) | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/ChangeYourself0613/Solana-Arbitrage-Bot | 251 | 1 | solana-arbitrage-bot2 (May 26, 2025) | DeFi |
-| sol-trade-sdk | A comprehensive Rust SDK for seamless interaction with Solana DEX trading programs. This SDK provides a robust set of tools and interfaces to integrate PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications. | https://github.com/0xfnzero/sol-trade-sdk | 158 | 6 | Last commit (Sep 14, 2025) | DeFi |
+| sol-trade-sdk | A comprehensive Rust SDK for seamless interaction with Solana DEX trading programs. This SDK provides a robust set of tools and interfaces to integrate PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications. | https://github.com/0xfnzero/sol-trade-sdk | 159 | 6 | Last commit (Sep 14, 2025) | DeFi |
 | Payment-gateway | Payment gateway for solana with advanced Private key management and address sweeping via indexer | https://github.com/alxn787/Payment-gateway | 9 | 1 | Last commit (Jul 12, 2025) | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot | — | — | Active | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot on Pump Swap, Raydium, Orca, Meteora swap program with rust language | https://github.com/AV1080p/Solana-Arbitrage-Bot | 467 | 1 | Last commit (Sep 06, 2025) | DeFi |
