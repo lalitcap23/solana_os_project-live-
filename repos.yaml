@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4607
+    stars: 4608
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T07:28:07Z'
+    updated_at: '2025-09-15T14:26:02Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4607
+    stars: 4608
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T07:28:07Z'
+    updated_at: '2025-09-15T14:26:02Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 548
+    stars: 549
     contributors: 1
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-15T13:43:39Z'
+    updated_at: '2025-09-15T14:37:43Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 159
+    stars: 160
     contributors: 6
     last_activity: Last commit (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-15T13:12:57Z'
+    updated_at: '2025-09-15T14:52:57Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 60
+    stars: 61
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-13T03:50:01Z'
+    updated_at: '2025-09-15T14:44:44Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 51
     contributors: 6
-    last_activity: Last commit (Sep 12, 2025)
+    last_activity: Last commit (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-12T02:49:48Z'
+    updated_at: '2025-09-15T15:02:55Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 84
     contributors: 7
-    last_activity: Last commit (Sep 14, 2025)
+    last_activity: Last commit (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-15T02:34:03Z'
+    updated_at: '2025-09-15T14:44:58Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
