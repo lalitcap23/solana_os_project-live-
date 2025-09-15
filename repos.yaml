@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-15T12:52:49Z'
+    updated_at: '2025-09-15T21:41:15Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 143
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-15T05:11:59Z'
+    updated_at: '2025-09-15T22:16:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
