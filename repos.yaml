@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4609
+    stars: 4610
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T15:37:48Z'
+    updated_at: '2025-09-15T18:34:00Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-15T17:46:49Z'
+    updated_at: '2025-09-15T19:16:49Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4609
+    stars: 4610
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T15:37:48Z'
+    updated_at: '2025-09-15T18:34:00Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-15T14:44:44Z'
+    updated_at: '2025-09-15T19:04:23Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 51
+    stars: 52
     contributors: 6
     last_activity: Last commit (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-15T16:08:21Z'
+    updated_at: '2025-09-15T18:38:07Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
