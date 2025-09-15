@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.1 (Sep 09, 2025)
     archived: false
-    updated_at: '2025-09-14T16:16:11Z'
+    updated_at: '2025-09-15T08:38:01Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1916
+    stars: 1917
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-13T18:01:10Z'
+    updated_at: '2025-09-15T08:33:18Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-09-05T13:15:11Z'
+    updated_at: '2025-09-15T09:21:20Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-15T03:48:07Z'
+    updated_at: '2025-09-15T09:26:16Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
