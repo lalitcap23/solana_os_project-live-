@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14396
+    stars: 14397
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-14T20:09:36Z'
+    updated_at: '2025-09-15T08:20:37Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4606
+    stars: 4607
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T06:47:31Z'
+    updated_at: '2025-09-15T07:28:07Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4606
+    stars: 4607
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T06:47:31Z'
+    updated_at: '2025-09-15T07:28:07Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 169
+    stars: 170
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-09-11T14:46:39Z'
+    updated_at: '2025-09-15T07:50:43Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 292
+    stars: 293
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-09-03T12:53:09Z'
+    updated_at: '2025-09-15T08:12:59Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
