@@ -18,7 +18,7 @@ repositories:
   stats:
     stars: 1346
     contributors: 362
-    last_activity: v2.3.8 (Sep 05, 2025)
+    last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
     updated_at: '2025-09-15T12:57:37Z'
     language: Rust
@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-15T11:53:57Z'
+    updated_at: '2025-09-15T15:40:20Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4608
+    stars: 4609
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T14:26:02Z'
+    updated_at: '2025-09-15T15:37:48Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4608
+    stars: 4609
     contributors: 302
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T14:26:02Z'
+    updated_at: '2025-09-15T15:37:48Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-15T15:02:55Z'
+    updated_at: '2025-09-15T16:08:21Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
