@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-15T17:09:51Z'
+    updated_at: '2025-09-15T17:46:49Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 117
+    stars: 118
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-11T08:12:44Z'
+    updated_at: '2025-09-15T18:31:36Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
