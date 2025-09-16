@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 838
     contributors: 28
-    last_activity: Last commit (Sep 15, 2025)
+    last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T02:04:36Z'
+    updated_at: '2025-09-16T16:32:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 84
     contributors: 7
-    last_activity: Last commit (Sep 15, 2025)
+    last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-15T14:44:58Z'
+    updated_at: '2025-09-16T16:45:02Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
