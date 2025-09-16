@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14398
+    stars: 14401
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-16T06:05:00Z'
+    updated_at: '2025-09-16T07:51:19Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1347
+    stars: 1348
     contributors: 362
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-16T04:48:44Z'
+    updated_at: '2025-09-16T07:45:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -89,18 +89,18 @@ repositories:
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-09-15T09:21:20Z'
+    updated_at: '2025-09-16T08:19:37Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 212
+    stars: 213
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-09-11T00:38:57Z'
+    updated_at: '2025-09-16T07:57:41Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.9.1 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-16T07:05:31Z'
+    updated_at: '2025-09-16T07:34:42Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
