@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 452
+    stars: 453
     contributors: 27
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T12:10:15Z'
+    updated_at: '2025-09-16T13:56:35Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -330,7 +330,7 @@ repositories:
     contributors: 19
     last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T02:48:02Z'
+    updated_at: '2025-09-16T13:48:24Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1153,7 +1153,7 @@ repositories:
     contributors: 19
     last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T02:48:02Z'
+    updated_at: '2025-09-16T13:48:24Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 52
+    stars: 53
     contributors: 6
     last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T05:46:28Z'
+    updated_at: '2025-09-16T14:24:40Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
