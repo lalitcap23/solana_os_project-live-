@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 300
+    stars: 301
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-16T17:31:24Z'
+    updated_at: '2025-09-16T22:42:51Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
