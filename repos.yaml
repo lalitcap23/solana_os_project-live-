@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14397
+    stars: 14398
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-16T04:42:14Z'
+    updated_at: '2025-09-16T06:05:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 538
+    stars: 539
     contributors: 145
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-16T00:31:54Z'
+    updated_at: '2025-09-16T06:12:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 313
+    stars: 314
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-11T15:54:54Z'
+    updated_at: '2025-09-16T05:47:17Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 139
+    stars: 140
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-09-03T21:56:03Z'
+    updated_at: '2025-09-16T05:36:27Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 52
     contributors: 6
-    last_activity: Last commit (Sep 15, 2025)
+    last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-15T18:38:07Z'
+    updated_at: '2025-09-16T05:46:28Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
