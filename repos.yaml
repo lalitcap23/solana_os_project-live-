@@ -43,7 +43,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T18:34:00Z'
+    updated_at: '2025-09-16T14:28:59Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-15T18:34:00Z'
+    updated_at: '2025-09-16T14:28:59Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T14:24:40Z'
+    updated_at: '2025-09-16T15:15:18Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
