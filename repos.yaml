@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14402
+    stars: 14403
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-16T12:13:21Z'
+    updated_at: '2025-09-16T15:27:40Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-16T13:05:38Z'
+    updated_at: '2025-09-16T16:04:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-16T12:31:23Z'
+    updated_at: '2025-09-16T15:53:05Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 161
     contributors: 6
-    last_activity: Last commit (Sep 15, 2025)
+    last_activity: Last commit (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-16T00:00:13Z'
+    updated_at: '2025-09-16T16:27:02Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-15T19:44:28Z'
+    updated_at: '2025-09-16T16:04:40Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 467
+    stars: 468
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-14T21:55:26Z'
+    updated_at: '2025-09-16T15:40:12Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
