@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1350
+    stars: 1351
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-17T04:20:12Z'
+    updated_at: '2025-09-17T12:29:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 346
+    stars: 347
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-16T03:06:44Z'
+    updated_at: '2025-09-17T12:03:03Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 332
     contributors: 19
-    last_activity: Last commit (Sep 16, 2025)
+    last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-16T13:48:24Z'
+    updated_at: '2025-09-17T12:26:09Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 296
+    stars: 297
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-09-05T07:45:57Z'
+    updated_at: '2025-09-17T12:26:02Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 332
     contributors: 19
-    last_activity: Last commit (Sep 16, 2025)
+    last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-16T13:48:24Z'
+    updated_at: '2025-09-17T12:26:09Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
