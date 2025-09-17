@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-17T14:51:36Z'
+    updated_at: '2025-09-17T16:36:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 315
+    stars: 316
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-17T09:48:28Z'
+    updated_at: '2025-09-17T17:01:22Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 839
     contributors: 28
-    last_activity: Last commit (Sep 16, 2025)
+    last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-16T19:47:41Z'
+    updated_at: '2025-09-17T16:32:14Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-16T11:16:34Z'
+    updated_at: '2025-09-17T16:34:34Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
