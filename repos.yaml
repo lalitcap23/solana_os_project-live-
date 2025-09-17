@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-17T18:11:14Z'
+    updated_at: '2025-09-17T20:17:55Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -817,11 +817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 195
+    stars: 196
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-09-11T15:46:10Z'
+    updated_at: '2025-09-17T20:16:30Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 66
+    stars: 67
     contributors: 2
     last_activity: Last commit (Sep 13, 2025)
     archived: false
-    updated_at: '2025-09-14T19:09:07Z'
+    updated_at: '2025-09-17T19:53:13Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 141
+    stars: 142
     contributors: 2
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-09-16T20:38:27Z'
+    updated_at: '2025-09-17T19:38:20Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
