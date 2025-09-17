@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14401
+    stars: 14402
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-17T08:26:19Z'
+    updated_at: '2025-09-17T10:02:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 205
+    stars: 206
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-14T03:03:39Z'
+    updated_at: '2025-09-17T09:34:28Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 314
+    stars: 315
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-16T05:47:17Z'
+    updated_at: '2025-09-17T09:48:28Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1378,10 +1378,10 @@ repositories:
   stars: 43
   stats:
     stars: 43
-    contributors: 1
+    contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-08-26T09:46:34Z'
+    updated_at: '2025-09-17T10:04:43Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
