@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-17T12:29:20Z'
+    updated_at: '2025-09-17T14:20:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4613
+    stars: 4614
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-17T13:17:43Z'
+    updated_at: '2025-09-17T13:45:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4613
+    stars: 4614
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-17T13:17:43Z'
+    updated_at: '2025-09-17T13:45:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4142
+    stars: 4143
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-09-16T03:33:12Z'
+    updated_at: '2025-09-17T14:17:40Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 270
+    stars: 271
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-09T15:57:03Z'
+    updated_at: '2025-09-17T13:48:46Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 114
+    stars: 113
     contributors: 1
     last_activity: Last commit (Apr 21, 2025)
     archived: false
-    updated_at: '2025-08-26T16:17:02Z'
+    updated_at: '2025-09-17T14:22:32Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
