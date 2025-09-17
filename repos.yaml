@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-17T21:29:18Z'
+    updated_at: '2025-09-17T22:18:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 541
+    stars: 542
     contributors: 145
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-16T20:39:41Z'
+    updated_at: '2025-09-17T22:28:08Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
