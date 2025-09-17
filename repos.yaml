@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14402
+    stars: 14401
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-16T18:57:20Z'
+    updated_at: '2025-09-17T08:26:19Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 53
     contributors: 6
-    last_activity: Last commit (Sep 16, 2025)
+    last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-16T15:15:18Z'
+    updated_at: '2025-09-17T07:51:06Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 144
+    stars: 145
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-09-16T17:53:04Z'
+    updated_at: '2025-09-17T07:25:48Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor

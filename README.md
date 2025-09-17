@@ -80,13 +80,13 @@ Last updated: 2025-09-17
 | pumpfun-smart-contract-frontend-backend | Solana Pumpfun smart contract & Frontend & Backend | https://github.com/0xalberto/pumpfun-smart-contract-frontend-backend | 118 | 1 | Last commit (Sep 01, 2025) | SDKs & Tooling |
 | Solana-Pumpfun-Smart-Contract-Token-2022 | pumpfun clone: tax token pump.fun smart contract (pumpfun fork), solana pump fun smart contract (token2022, raydium cpmm) | https://github.com/cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022 | 195 | 2 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | solana-pumpfun-trader | buy/sell functions for Solana SPL tokens created on pump.fun. | https://github.com/degenfrends/solana-pumpfun-trader | 71 | 2 | v0.0.16 (Jun 22, 2024) | SDKs & Tooling |
-| typhoon | 🌪️ Solana Sealevel Framework | https://github.com/exotic-markets-labs/typhoon | 53 | 6 | Last commit (Sep 16, 2025) | SDKs & Tooling |
+| typhoon | 🌪️ Solana Sealevel Framework | https://github.com/exotic-markets-labs/typhoon | 53 | 6 | Last commit (Sep 17, 2025) | SDKs & Tooling |
 | Solana-Sniper-Memecoin-Bot | The combination project of sniper and shitcoin bot connecting with Raydium SDK on Solana. This bot includes numerous functions like Jito Service, Unwrapping Sol, Token creation, Auto Airdrop, Market creation, Token Acount Freeze, LP Token Burn, Pool creation, Buy/Sell Tokens, Add/Remove Liquidity. | https://github.com/justshiftjk/Solana-Sniper-Memecoin-Bot | 117 | 1 | Last commit (Jun 26, 2025) | SDKs & Tooling |
 | gamba | SDK for building web3 betting games on Solana | https://github.com/gamba-labs/gamba | 69 | 12 | Last commit (Aug 27, 2025) | SDKs & Tooling |
 | sns-sdk | Solana Name Service SDKs monorepo | https://github.com/SolanaNameService/sns-sdk | 63 | 10 | @bonfida/spl-name-service@3.0.1 (Aug 07, 2024) | SDKs & Tooling |
 | Solana-Token-Staking-Smart-Contract | Solana token staking smart contract  | https://github.com/cutupdev/Solana-Token-Staking-Smart-Contract | 144 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | Solana-Token-Presale-Smart-Contract | Solana presale smart contract | https://github.com/cutupdev/Solana-Token-Presale-Smart-Contract | 145 | 1 | Last commit (Jun 27, 2025) | SDKs & Tooling |
-| poseidon | A Transpiler to convert your Solana programs from Typescript to Anchor | https://github.com/Turbin3/poseidon | 144 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
+| poseidon | A Transpiler to convert your Solana programs from Typescript to Anchor | https://github.com/Turbin3/poseidon | 145 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
 | native-to-anchor | Generate Anchor IDL for Native Solana Programs. | https://github.com/acheroncrypto/native-to-anchor | 141 | 1 | Last commit (Aug 21, 2022) | SDKs & Tooling |
 | solana-token-kit | Solana Token Kit for creating, launching and managing Solana SPL Tokens | https://github.com/wurambo/solana-token-kit | 47 | 1 | Last commit (May 10, 2024) | SDKs & Tooling |
 | spl-token-faucet | Solana program that makes Token Faucets possible | https://github.com/paul-schaaf/spl-token-faucet | 38 | 1 | Last commit (Dec 15, 2020) | SDKs & Tooling |
