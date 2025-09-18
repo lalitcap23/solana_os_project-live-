@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14409
+    stars: 14410
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-18T16:37:23Z'
+    updated_at: '2025-09-18T17:33:47Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-18T16:19:36Z'
+    updated_at: '2025-09-18T18:31:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 532
     contributors: 14
-    last_activity: Last commit (Sep 11, 2025)
+    last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-17T11:00:38Z'
+    updated_at: '2025-09-18T18:33:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 134
+    stars: 151
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-18T17:18:17Z'
+    updated_at: '2025-09-18T17:44:47Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
