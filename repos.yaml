@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14404
+    stars: 14406
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-18T08:33:19Z'
+    updated_at: '2025-09-18T11:02:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 453
+    stars: 454
     contributors: 27
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-18T02:46:24Z'
+    updated_at: '2025-09-18T11:15:01Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 840
+    stars: 841
     contributors: 28
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-18T08:32:20Z'
+    updated_at: '2025-09-18T10:47:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
