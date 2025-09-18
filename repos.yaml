@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14408
+    stars: 14409
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-18T14:27:10Z'
+    updated_at: '2025-09-18T16:37:23Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 106
+    stars: 134
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-18T16:28:23Z'
+    updated_at: '2025-09-18T17:18:17Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 841
     contributors: 28
-    last_activity: Last commit (Sep 17, 2025)
+    last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2025-09-18T10:47:18Z'
+    updated_at: '2025-09-18T16:30:33Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
