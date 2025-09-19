@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14412
+    stars: 14413
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-19T03:45:26Z'
+    updated_at: '2025-09-19T09:21:40Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 156
+    stars: 162
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T08:26:28Z'
+    updated_at: '2025-09-19T09:24:09Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 126
+    stars: 175
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-19T08:30:56Z'
+    updated_at: '2025-09-19T09:26:09Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
