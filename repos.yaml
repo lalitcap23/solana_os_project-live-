@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-18T22:53:38Z'
+    updated_at: '2025-09-19T00:53:16Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4616
+    stars: 4615
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-18T22:39:44Z'
+    updated_at: '2025-09-18T23:52:39Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -78,7 +78,7 @@ repositories:
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-17T06:10:06Z'
+    updated_at: '2025-09-19T00:42:08Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4616
+    stars: 4615
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-18T22:39:44Z'
+    updated_at: '2025-09-18T23:52:39Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 317
+    stars: 316
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-18T09:42:58Z'
+    updated_at: '2025-09-18T23:52:43Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -626,11 +626,11 @@ repositories:
   category: NFTs & Programs
   stars: 96
   stats:
-    stars: 97
+    stars: 96
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-09-09T04:37:50Z'
+    updated_at: '2025-09-18T23:52:39Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 162
+    stars: 163
     contributors: 6
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-17T06:26:36Z'
+    updated_at: '2025-09-19T01:02:10Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
