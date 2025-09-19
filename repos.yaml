@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 297
+    stars: 298
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-17T23:30:40Z'
+    updated_at: '2025-09-19T07:33:08Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 148
+    stars: 156
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T07:21:33Z'
+    updated_at: '2025-09-19T08:26:28Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1670,6 +1670,19 @@ repositories:
     archived: false
     updated_at: '2025-02-09T14:04:48Z'
     language: Rust
+- name: Solana-Arbitrage-Trading-Bot
+  repo: ApexArb/Solana-Arbitrage-Trading-Bot
+  description: Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter
+    (ULTRA/SWAP).
+  category: DeFi
+  stars: 126
+  stats:
+    stars: 126
+    contributors: 1
+    last_activity: Last commit (Sep 17, 2025)
+    archived: false
+    updated_at: '2025-09-19T08:30:56Z'
+    language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
