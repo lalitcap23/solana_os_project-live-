@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-18T22:49:44Z'
+    updated_at: '2025-09-19T10:47:40Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 293
+    stars: 294
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-09-15T08:12:59Z'
+    updated_at: '2025-09-19T11:15:49Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 532
     contributors: 14
-    last_activity: Last commit (Sep 17, 2025)
+    last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-18T18:33:05Z'
+    updated_at: '2025-09-19T10:32:53Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 166
+    stars: 169
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T10:24:54Z'
+    updated_at: '2025-09-19T11:18:12Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1281,9 +1281,9 @@ repositories:
   stats:
     stars: 69
     contributors: 12
-    last_activity: Last commit (Aug 27, 2025)
+    last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-12T15:57:41Z'
+    updated_at: '2025-09-19T10:51:59Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 178
+    stars: 183
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-19T09:47:48Z'
+    updated_at: '2025-09-19T10:53:46Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
