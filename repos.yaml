@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4067
+    stars: 4068
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-19T00:42:08Z'
+    updated_at: '2025-09-19T17:38:30Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-15T19:16:49Z'
+    updated_at: '2025-09-19T18:01:55Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-19T05:47:35Z'
+    updated_at: '2025-09-19T18:27:21Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 173
+    stars: 176
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T13:18:19Z'
+    updated_at: '2025-09-19T17:58:11Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 86
+    stars: 87
     contributors: 7
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-19T17:10:19Z'
+    updated_at: '2025-09-19T18:03:11Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
