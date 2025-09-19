@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-19T16:59:58Z'
+    updated_at: '2025-09-19T19:44:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-19T10:47:40Z'
+    updated_at: '2025-09-19T20:05:25Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2608
+    stars: 2609
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-19T12:57:14Z'
+    updated_at: '2025-09-19T19:52:21Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -434,7 +434,7 @@ repositories:
   stats:
     stars: 343
     contributors: 4
-    last_activity: No releases
+    last_activity: Last commit (Feb 24, 2023)
     archived: false
     updated_at: '2025-08-25T13:34:08Z'
     language: Rust
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 532
+    stars: 533
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-19T11:30:37Z'
+    updated_at: '2025-09-19T19:52:58Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 176
+    stars: 177
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T17:58:11Z'
+    updated_at: '2025-09-19T19:29:29Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
