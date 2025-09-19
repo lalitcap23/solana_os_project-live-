@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14411
+    stars: 14412
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-18T20:26:00Z'
+    updated_at: '2025-09-19T03:45:26Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4616
+    stars: 4617
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-19T02:14:46Z'
+    updated_at: '2025-09-19T03:47:48Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-16T22:42:51Z'
+    updated_at: '2025-09-19T03:13:51Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4616
+    stars: 4617
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-19T02:14:46Z'
+    updated_at: '2025-09-19T03:47:48Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 542
+    stars: 543
     contributors: 145
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-17T22:28:08Z'
+    updated_at: '2025-09-19T04:03:07Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 152
+    stars: 153
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-18T18:47:24Z'
+    updated_at: '2025-09-19T04:27:28Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 251
+    stars: 252
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-17T16:34:34Z'
+    updated_at: '2025-09-19T03:06:09Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 120
+    stars: 123
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T02:51:50Z'
+    updated_at: '2025-09-19T04:20:58Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
