@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-19T10:14:20Z'
+    updated_at: '2025-09-19T12:33:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 206
+    stars: 207
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-09-17T09:34:28Z'
+    updated_at: '2025-09-19T11:21:44Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 316
+    stars: 317
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-18T23:52:43Z'
+    updated_at: '2025-09-19T11:21:56Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -770,7 +770,7 @@ repositories:
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-19T10:32:53Z'
+    updated_at: '2025-09-19T11:30:37Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -831,11 +831,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 163
+    stars: 164
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-09-12T17:47:15Z'
+    updated_at: '2025-09-19T11:22:05Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 163
+    stars: 164
     contributors: 6
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-19T01:02:10Z'
+    updated_at: '2025-09-19T12:32:39Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 169
+    stars: 171
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T11:18:12Z'
+    updated_at: '2025-09-19T12:40:43Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
