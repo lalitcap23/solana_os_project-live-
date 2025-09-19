@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1356
+    stars: 1357
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-19T12:33:40Z'
+    updated_at: '2025-09-19T12:53:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2607
+    stars: 2608
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-18T20:27:23Z'
+    updated_at: '2025-09-19T12:57:14Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 171
+    stars: 173
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-19T12:40:43Z'
+    updated_at: '2025-09-19T13:18:19Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
