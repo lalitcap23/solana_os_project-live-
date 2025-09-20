@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-20T20:43:41Z'
+    updated_at: '2025-09-20T21:36:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1272
+    stars: 1271
     contributors: 45
     last_activity: Last commit (Jul 23, 2025)
     archived: false
-    updated_at: '2025-09-19T09:50:54Z'
+    updated_at: '2025-09-20T21:42:37Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 271
+    stars: 272
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-17T13:48:46Z'
+    updated_at: '2025-09-20T22:16:21Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 220
+    stars: 246
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-20T21:17:17Z'
+    updated_at: '2025-09-20T22:18:20Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
