@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14413
+    stars: 14414
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-19T09:21:40Z'
+    updated_at: '2025-09-20T12:38:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2609
+    stars: 2610
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-19T19:52:21Z'
+    updated_at: '2025-09-20T12:04:41Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1920
+    stars: 1921
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-19T16:49:49Z'
+    updated_at: '2025-09-20T12:04:48Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 544
+    stars: 545
     contributors: 1
     last_activity: Last commit (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-18T13:04:55Z'
+    updated_at: '2025-09-20T12:38:07Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 218
+    stars: 220
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-20T10:41:07Z'
+    updated_at: '2025-09-20T12:09:47Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 184
+    stars: 185
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-19T15:09:41Z'
+    updated_at: '2025-09-20T11:26:36Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50

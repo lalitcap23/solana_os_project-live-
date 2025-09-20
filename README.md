@@ -63,7 +63,7 @@ Last updated: 2025-09-20
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 294 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 271 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
 | solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 547 | 1 | Last commit (Sep 11, 2025) | SDKs & Tooling |
-| solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 544 | 1 | Last commit (Sep 11, 2025) | SDKs & Tooling |
+| solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 545 | 1 | Last commit (Sep 11, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 202 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 197 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
 | solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 155 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
@@ -77,7 +77,7 @@ Last updated: 2025-09-20
 | solana-sign-with-payment | Prove ownership of a Solana address by asking the user to send a small amount | https://github.com/kizzx2/solana-sign-with-payment | 8 | 1 | Last commit (May 19, 2022) | SDKs & Tooling |
 | pumpfun-smartcontract-solana | Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract SDK) | https://github.com/printz-labs/pumpfun-smartcontract-solana | — | — | Active | SDKs & Tooling |
 | star_frame | High performance, modular solana program framework | https://github.com/staratlasmeta/star_frame | 62 | 10 | v0.25.1 (Sep 11, 2025) | SDKs & Tooling |
-| pumpfun-smart-contract-frontend-backend | Solana Pumpfun smart contract & Frontend & Backend | https://github.com/0xalberto/pumpfun-smart-contract-frontend-backend | 218 | 1 | Last commit (Sep 01, 2025) | SDKs & Tooling |
+| pumpfun-smart-contract-frontend-backend | Solana Pumpfun smart contract & Frontend & Backend | https://github.com/0xalberto/pumpfun-smart-contract-frontend-backend | 220 | 1 | Last commit (Sep 01, 2025) | SDKs & Tooling |
 | Solana-Pumpfun-Smart-Contract-Token-2022 | pumpfun clone: tax token pump.fun smart contract (pumpfun fork), solana pump fun smart contract (token2022, raydium cpmm) | https://github.com/cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022 | 195 | 2 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | solana-pumpfun-trader | buy/sell functions for Solana SPL tokens created on pump.fun. | https://github.com/degenfrends/solana-pumpfun-trader | 71 | 2 | v0.0.16 (Jun 22, 2024) | SDKs & Tooling |
 | typhoon | 🌪️ Solana Sealevel Framework | https://github.com/exotic-markets-labs/typhoon | 53 | 6 | Last commit (Sep 17, 2025) | SDKs & Tooling |
@@ -170,7 +170,7 @@ Last updated: 2025-09-20
 | solana-streamer | A lightweight Rust library for real-time event streaming from Solana DEX trading programs. This library provides efficient event parsing and subscription capabilities for PumpFun, PumpSwap, Bonk, and Raydium CPMM protocols. | https://github.com/0xfnzero/solana-streamer | 87 | 7 | Last commit (Sep 19, 2025) | DeFi |
 | solana-txn | A simple transaction listener that subscribes to blocks on Solana using the Rust programming language | https://github.com/JoshuaSum/solana-txn | 73 | 1 | Last commit (Jun 13, 2024) | DeFi |
 | identity-swap | An Automatic Money Market (AMM) dApp that  demonstrates the concept of Decentralised Identity on the  Solana SPL Token-Swap program. | https://github.com/civicteam/identity-swap | 33 | 2 | Last commit (Nov 12, 2020) | DeFi |
-| Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 184 | 1 | Last commit (Sep 17, 2025) | DeFi |
+| Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 185 | 1 | Last commit (Sep 17, 2025) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 63 | 5 | Last commit (Sep 09, 2025) | Oracles |
 
 - Stars/Contributors: Snapshot values; “—” indicates to-be-filled or varies (especially for org-level entries or during repo migrations).
