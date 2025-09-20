@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 272
+    stars: 273
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-20T22:16:21Z'
+    updated_at: '2025-09-20T22:42:56Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 62
+    stars: 63
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-19T18:27:21Z'
+    updated_at: '2025-09-20T22:45:32Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 229
+    stars: 232
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-20T21:02:57Z'
+    updated_at: '2025-09-20T23:18:08Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 246
+    stars: 263
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-20T22:18:20Z'
+    updated_at: '2025-09-20T23:20:23Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
