@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1360
+    stars: 1359
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-21T10:19:36Z'
+    updated_at: '2025-09-21T16:44:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4619
+    stars: 4618
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T15:35:22Z'
+    updated_at: '2025-09-21T16:43:36Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4073
+    stars: 4072
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-21T15:23:55Z'
+    updated_at: '2025-09-21T16:44:11Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4619
+    stars: 4618
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T15:35:22Z'
+    updated_at: '2025-09-21T16:43:36Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 21, 2025)
     archived: false
-    updated_at: '2025-09-21T16:05:31Z'
+    updated_at: '2025-09-21T17:14:46Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
