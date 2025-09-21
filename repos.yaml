@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4069
+    stars: 4071
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-21T09:52:32Z'
+    updated_at: '2025-09-21T10:59:43Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3348
+    stars: 3349
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-21T04:59:01Z'
+    updated_at: '2025-09-21T10:41:57Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1206,7 +1206,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-21T09:51:29Z'
+    updated_at: '2025-09-21T10:22:21Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
