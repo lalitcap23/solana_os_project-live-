@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 243
+    stars: 247
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-21T06:06:16Z'
+    updated_at: '2025-09-21T08:21:35Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 53
     contributors: 6
-    last_activity: Last commit (Sep 17, 2025)
+    last_activity: Last commit (Sep 21, 2025)
     archived: false
-    updated_at: '2025-09-17T07:51:06Z'
+    updated_at: '2025-09-21T08:12:10Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1677,12 +1677,27 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 322
+    stars: 329
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-21T05:08:39Z'
+    updated_at: '2025-09-21T07:36:00Z'
     language: JavaScript
+- name: pumpfun-laserstream-sniper-rust
+  repo: 0xalberto/pumpfun-laserstream-sniper-rust
+  description: Ultra Fast Rust PumpFun Sniper Bot is a high-performance, low-latency
+    sniper bot built in Rust designed for the Solana blockchain pumpfun-sniper-bot
+    pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot pumpfun-sniper-bot
+    pumpfun-sniper-bot
+  category: SDKs & Tooling
+  stars: 196
+  stats:
+    stars: 196
+    contributors: 1
+    last_activity: Last commit (Aug 29, 2025)
+    archived: false
+    updated_at: '2025-09-21T08:22:48Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
