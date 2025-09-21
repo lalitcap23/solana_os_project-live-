@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14415
+    stars: 14416
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-21T04:19:09Z'
+    updated_at: '2025-09-21T05:50:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 316
+    stars: 317
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-09-20T13:56:06Z'
+    updated_at: '2025-09-21T06:16:43Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 165
+    stars: 166
     contributors: 6
     last_activity: Last commit (Sep 20, 2025)
     archived: false
-    updated_at: '2025-09-20T19:30:40Z'
+    updated_at: '2025-09-21T05:47:11Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 240
+    stars: 243
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-21T04:33:42Z'
+    updated_at: '2025-09-21T06:06:16Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 89
+    stars: 90
     contributors: 7
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-20T19:30:06Z'
+    updated_at: '2025-09-21T05:48:24Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
