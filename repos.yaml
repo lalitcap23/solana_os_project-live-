@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14422
+    stars: 14423
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-21T18:21:06Z'
+    updated_at: '2025-09-21T20:23:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4621
+    stars: 4622
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T19:43:20Z'
+    updated_at: '2025-09-21T20:45:01Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4621
+    stars: 4622
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T19:43:20Z'
+    updated_at: '2025-09-21T20:45:01Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 349
+    stars: 350
     contributors: 13
     last_activity: Last commit (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-21T16:09:31Z'
+    updated_at: '2025-09-21T20:37:48Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 317
+    stars: 316
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-09-21T06:16:43Z'
+    updated_at: '2025-09-21T20:39:12Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
