@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14421
+    stars: 14422
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-21T14:28:44Z'
+    updated_at: '2025-09-21T18:21:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1359
+    stars: 1360
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-21T16:44:21Z'
+    updated_at: '2025-09-21T17:57:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4618
+    stars: 4619
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T16:43:36Z'
+    updated_at: '2025-09-21T18:21:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2610
+    stars: 2611
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-20T12:04:41Z'
+    updated_at: '2025-09-21T18:21:36Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,22 +74,22 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4072
+    stars: 4073
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-21T16:44:11Z'
+    updated_at: '2025-09-21T18:21:21Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
   stats:
-    stars: 9
+    stars: 10
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-09-16T08:19:37Z'
+    updated_at: '2025-09-21T18:24:47Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4618
+    stars: 4619
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-21T16:43:36Z'
+    updated_at: '2025-09-21T18:21:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 21, 2025)
     archived: false
-    updated_at: '2025-09-21T17:14:46Z'
+    updated_at: '2025-09-21T17:25:42Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 63
+    stars: 64
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-20T22:45:32Z'
+    updated_at: '2025-09-21T17:47:55Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
