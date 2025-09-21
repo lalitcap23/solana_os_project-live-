@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3347
+    stars: 3348
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-17T02:14:19Z'
+    updated_at: '2025-09-21T04:59:01Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 239
+    stars: 240
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-09-21T03:23:54Z'
+    updated_at: '2025-09-21T04:33:42Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 313
+    stars: 322
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-21T04:27:46Z'
+    updated_at: '2025-09-21T05:08:39Z'
     language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
