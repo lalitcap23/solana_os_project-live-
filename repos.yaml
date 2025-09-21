@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14420
+    stars: 14421
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-21T13:08:01Z'
+    updated_at: '2025-09-21T14:28:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 842
     contributors: 28
-    last_activity: Last commit (Sep 20, 2025)
+    last_activity: Last commit (Sep 21, 2025)
     archived: false
-    updated_at: '2025-09-21T10:05:34Z'
+    updated_at: '2025-09-21T14:20:26Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 21, 2025)
     archived: false
-    updated_at: '2025-09-21T08:12:10Z'
+    updated_at: '2025-09-21T14:35:41Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
