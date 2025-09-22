@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1367
+    stars: 1368
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-22T10:21:48Z'
+    updated_at: '2025-09-22T12:00:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4627
+    stars: 4628
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-22T09:41:13Z'
+    updated_at: '2025-09-22T11:41:11Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -163,10 +163,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 410
-    contributors: 8
+    contributors: 10
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-22T11:11:41Z'
+    updated_at: '2025-09-22T11:34:48Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4627
+    stars: 4628
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-22T09:41:13Z'
+    updated_at: '2025-09-22T11:41:11Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3354
+    stars: 3355
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-22T10:34:39Z'
+    updated_at: '2025-09-22T12:46:16Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T11:13:39Z'
+    updated_at: '2025-09-22T12:27:01Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
