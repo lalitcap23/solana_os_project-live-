@@ -151,7 +151,7 @@ Last updated: 2025-09-22
 | woocommerce-payment-gateway | StreamPay - WooCommerce + Solana and USDC Payment Gateway | https://github.com/stream-protocol/woocommerce-payment-gateway | 4 | 2 | Last commit (Dec 30, 2022) | Payments |
 | svm-pay | pay and accept payments from anywhere in the world from any solana-vm based network!  works in any country even in space! | https://github.com/openSVM/svm-pay | 4 | 2 | v1.1.0 (Jun 27, 2025) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 212 | 2 | v6.0.62 (Aug 18, 2025) | DeFi |
-| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 457 | 28 | v0.10.0 (Sep 16, 2025) | DeFi |
+| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 458 | 28 | v0.10.0 (Sep 16, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 183 | 4 | Last commit (Aug 21, 2025) | DeFi |
 | Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | — | — | Active | DeFi |
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 193 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
