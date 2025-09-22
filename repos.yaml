@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1372
+    stars: 1373
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-22T18:15:21Z'
+    updated_at: '2025-09-22T19:17:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 762
+    stars: 763
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-09-13T14:17:06Z'
+    updated_at: '2025-09-22T19:02:02Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 333
+    stars: 334
     contributors: 19
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-21T14:16:24Z'
+    updated_at: '2025-09-22T19:12:07Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T18:15:33Z'
+    updated_at: '2025-09-22T19:10:27Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 333
+    stars: 334
     contributors: 19
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-21T14:16:24Z'
+    updated_at: '2025-09-22T19:12:07Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 194
+    stars: 193
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-22T17:43:12Z'
+    updated_at: '2025-09-22T19:03:58Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
