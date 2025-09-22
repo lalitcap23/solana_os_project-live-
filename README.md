@@ -171,7 +171,7 @@ Last updated: 2025-09-22
 | solana-streamer | A lightweight Rust library for real-time event streaming from Solana DEX trading programs. This library provides efficient event parsing and subscription capabilities for PumpFun, PumpSwap, Bonk, and Raydium CPMM protocols. | https://github.com/0xfnzero/solana-streamer | 91 | 7 | Last commit (Sep 19, 2025) | DeFi |
 | solana-txn | A simple transaction listener that subscribes to blocks on Solana using the Rust programming language | https://github.com/JoshuaSum/solana-txn | 73 | 1 | Last commit (Jun 13, 2024) | DeFi |
 | identity-swap | An Automatic Money Market (AMM) dApp that  demonstrates the concept of Decentralised Identity on the  Solana SPL Token-Swap program. | https://github.com/civicteam/identity-swap | 33 | 2 | Last commit (Nov 12, 2020) | DeFi |
-| Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 194 | 1 | Last commit (Sep 17, 2025) | DeFi |
+| Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 193 | 1 | Last commit (Sep 17, 2025) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 63 | 5 | Last commit (Sep 09, 2025) | Oracles |
 
 - Stars/Contributors: Snapshot values; “—” indicates to-be-filled or varies (especially for org-level entries or during repo migrations).
