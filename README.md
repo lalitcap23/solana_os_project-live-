@@ -114,7 +114,7 @@ Last updated: 2025-09-22
 | Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 215 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 375 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 334 | 19 | Last commit (Sep 17, 2025) | NFTs & Programs |
-| solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 170 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
+| solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 171 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
 | solana-candy-factory | Solana blockchain candy machine app boilerplate on top of Metaplex Candy Machine. NextJS, Tailwind, Anchor, SolanaLabs.React, dev/mainnet automation scripts. | https://github.com/kevinfaveri/solana-candy-factory | 296 | 4 | Last commit (May 17, 2023) | NFTs & Programs |
 | anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 273 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
 | metaplex | A directory of what the Metaplex Foundation works on! | https://github.com/metaplex-foundation/metaplex | 3.4k | 155 | v1.2.0 (Mar 16, 2022) | NFTs & Programs |
