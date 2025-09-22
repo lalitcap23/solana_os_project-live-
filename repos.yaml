@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-22T08:09:54Z'
+    updated_at: '2025-09-22T09:20:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-22T07:15:34Z'
+    updated_at: '2025-09-22T08:50:28Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -190,7 +190,7 @@ repositories:
     contributors: 27
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-21T10:13:02Z'
+    updated_at: '2025-09-22T09:21:44Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
