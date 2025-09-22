@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1369
+    stars: 1370
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-22T13:54:29Z'
+    updated_at: '2025-09-22T15:22:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 214
+    stars: 215
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-09-20T11:06:45Z'
+    updated_at: '2025-09-22T14:30:08Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3357
+    stars: 3358
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-22T13:15:22Z'
+    updated_at: '2025-09-22T14:28:50Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T13:19:51Z'
+    updated_at: '2025-09-22T15:13:03Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 115
+    stars: 114
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-21T13:42:02Z'
+    updated_at: '2025-09-22T14:44:29Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 167
     contributors: 6
-    last_activity: Last commit (Sep 21, 2025)
+    last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T01:58:39Z'
+    updated_at: '2025-09-22T15:19:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 90
+    stars: 91
     contributors: 7
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-21T05:48:24Z'
+    updated_at: '2025-09-22T15:09:01Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 199
+    stars: 197
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-22T11:10:47Z'
+    updated_at: '2025-09-22T15:04:59Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
