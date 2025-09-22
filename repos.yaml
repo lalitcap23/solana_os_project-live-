@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14423
+    stars: 14425
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-22T03:02:13Z'
+    updated_at: '2025-09-22T08:18:20Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1365
+    stars: 1366
     contributors: 363
     last_activity: v2.3.9 (Sep 12, 2025)
     archived: false
-    updated_at: '2025-09-22T07:14:38Z'
+    updated_at: '2025-09-22T08:09:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 293
+    stars: 294
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-09-21T22:01:43Z'
+    updated_at: '2025-09-22T07:44:21Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3353
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-22T03:48:25Z'
+    updated_at: '2025-09-22T08:27:48Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
