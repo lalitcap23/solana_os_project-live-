@@ -166,7 +166,7 @@ repositories:
     contributors: 8
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-14T15:48:14Z'
+    updated_at: '2025-09-22T11:11:41Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 321
+    stars: 322
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-22T09:41:17Z'
+    updated_at: '2025-09-22T11:01:46Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3353
+    stars: 3354
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-22T08:27:48Z'
+    updated_at: '2025-09-22T10:34:39Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T10:22:18Z'
+    updated_at: '2025-09-22T11:13:39Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 53
     contributors: 6
-    last_activity: Last commit (Sep 21, 2025)
+    last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-21T14:35:41Z'
+    updated_at: '2025-09-22T11:20:15Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 200
+    stars: 199
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-21T13:42:02Z'
+    updated_at: '2025-09-22T11:10:47Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
