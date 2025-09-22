@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1368
+    stars: 1369
     contributors: 363
-    last_activity: v2.3.9 (Sep 12, 2025)
+    last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-22T12:00:13Z'
+    updated_at: '2025-09-22T13:54:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2612
+    stars: 2613
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-22T07:04:17Z'
+    updated_at: '2025-09-22T13:56:44Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 842
     contributors: 28
-    last_activity: Last commit (Sep 21, 2025)
+    last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-21T14:20:26Z'
+    updated_at: '2025-09-22T14:19:25Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 468
+    stars: 469
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-20T11:03:24Z'
+    updated_at: '2025-09-22T14:24:54Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
