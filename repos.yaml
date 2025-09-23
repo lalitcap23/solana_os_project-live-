@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14441
+    stars: 14444
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-23T05:19:05Z'
+    updated_at: '2025-09-23T05:56:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1375
+    stars: 1376
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-23T04:06:48Z'
+    updated_at: '2025-09-23T05:44:28Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4632
+    stars: 4633
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-23T02:46:40Z'
+    updated_at: '2025-09-23T06:09:18Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4075
+    stars: 4076
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-22T09:41:12Z'
+    updated_at: '2025-09-23T05:29:55Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 212
+    stars: 213
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-13T04:16:53Z'
+    updated_at: '2025-09-23T05:39:48Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4632
+    stars: 4633
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-23T02:46:40Z'
+    updated_at: '2025-09-23T06:09:18Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T05:21:46Z'
+    updated_at: '2025-09-23T06:31:32Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 189
+    stars: 188
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-23T04:26:49Z'
+    updated_at: '2025-09-23T05:40:40Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
