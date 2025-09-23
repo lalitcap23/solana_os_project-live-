@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 126
+    stars: 127
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-23T03:15:46Z'
+    updated_at: '2025-09-23T08:57:21Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -190,7 +190,7 @@ repositories:
     contributors: 28
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-22T16:14:51Z'
+    updated_at: '2025-09-23T08:47:58Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T08:12:52Z'
+    updated_at: '2025-09-23T09:15:09Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T08:21:30Z'
+    updated_at: '2025-09-23T08:56:41Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 168
+    stars: 169
     contributors: 6
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-23T00:54:22Z'
+    updated_at: '2025-09-23T08:41:09Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 173
+    stars: 171
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-23T08:25:45Z'
+    updated_at: '2025-09-23T09:22:39Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
