@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14446
+    stars: 14450
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-23T07:04:28Z'
+    updated_at: '2025-09-23T08:19:12Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1376
+    stars: 1377
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-23T06:45:12Z'
+    updated_at: '2025-09-23T08:17:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T07:11:06Z'
+    updated_at: '2025-09-23T08:12:52Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -755,10 +755,10 @@ repositories:
   stars: 533
   stats:
     stars: 546
-    contributors: 1
+    contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T06:55:18Z'
+    updated_at: '2025-09-23T08:21:30Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 64
+    stars: 65
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-21T17:47:55Z'
+    updated_at: '2025-09-23T08:05:31Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 176
+    stars: 173
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-23T07:20:15Z'
+    updated_at: '2025-09-23T08:25:45Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
