@@ -37,7 +37,7 @@ Last updated: 2025-09-23
 |---|---|---|---|---|---|---|
 | Project | Description | Repo | Stars | Contributors | Last Activity | Category |
 |---|---|---|---|---|---|---|
-| Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.4k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
+| Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.5k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.4k | 363 | v2.3.10 (Sep 19, 2025) | Infrastructure |
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 127 | 150 | vote-interface@v4.0.2 (Sep 15, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.6k | 301 | v0.31.1 (Apr 19, 2025) | SDKs & Tooling |
