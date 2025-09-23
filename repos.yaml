@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-23T12:35:35Z'
+    updated_at: '2025-09-23T13:53:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 127
+    stars: 128
     contributors: 150
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-23T08:57:21Z'
+    updated_at: '2025-09-23T14:20:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-23T07:13:39Z'
+    updated_at: '2025-09-23T13:45:41Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-23T07:13:39Z'
+    updated_at: '2025-09-23T13:45:41Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T12:58:35Z'
+    updated_at: '2025-09-23T14:23:45Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-23T13:00:43Z'
+    updated_at: '2025-09-23T14:14:29Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 842
     contributors: 28
-    last_activity: Last commit (Sep 22, 2025)
+    last_activity: Last commit (Sep 23, 2025)
     archived: false
-    updated_at: '2025-09-22T14:19:25Z'
+    updated_at: '2025-09-23T14:18:27Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 256
+    stars: 257
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-09-20T10:22:30Z'
+    updated_at: '2025-09-23T13:38:12Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
