@@ -43,7 +43,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-24T04:03:51Z'
+    updated_at: '2025-09-24T05:34:42Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 764
+    stars: 765
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-09-22T19:32:04Z'
+    updated_at: '2025-09-24T06:02:56Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -178,7 +178,7 @@ repositories:
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-24T04:03:51Z'
+    updated_at: '2025-09-24T05:34:42Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T05:00:10Z'
+    updated_at: '2025-09-24T05:59:00Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T04:59:29Z'
+    updated_at: '2025-09-24T05:55:35Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
