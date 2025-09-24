@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-24T13:12:48Z'
+    updated_at: '2025-09-24T13:58:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 334
     contributors: 19
-    last_activity: Last commit (Sep 17, 2025)
+    last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-22T19:12:07Z'
+    updated_at: '2025-09-24T14:04:57Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T13:24:28Z'
+    updated_at: '2025-09-24T14:13:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T13:00:39Z'
+    updated_at: '2025-09-24T14:12:17Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 841
     contributors: 28
-    last_activity: Last commit (Sep 23, 2025)
+    last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T11:23:45Z'
+    updated_at: '2025-09-24T14:19:42Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1074,7 +1074,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jul 12, 2025)
     archived: false
-    updated_at: '2025-08-18T06:13:40Z'
+    updated_at: '2025-09-24T13:42:18Z'
     language: PHP
 - name: Payment-gateway
   repo: alxn787/Payment-gateway
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 334
     contributors: 19
-    last_activity: Last commit (Sep 17, 2025)
+    last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-22T19:12:07Z'
+    updated_at: '2025-09-24T14:04:57Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
