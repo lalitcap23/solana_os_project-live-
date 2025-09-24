@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-24T10:29:34Z'
+    updated_at: '2025-09-24T13:12:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 316
+    stars: 317
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-09-22T09:40:56Z'
+    updated_at: '2025-09-24T12:58:16Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T11:59:58Z'
+    updated_at: '2025-09-24T13:24:28Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T12:16:06Z'
+    updated_at: '2025-09-24T13:00:39Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
