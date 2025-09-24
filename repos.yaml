@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 322
+    stars: 323
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-22T11:01:46Z'
+    updated_at: '2025-09-24T01:47:40Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T01:45:29Z'
+    updated_at: '2025-09-24T02:50:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T01:24:17Z'
+    updated_at: '2025-09-24T02:46:09Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 53
+    stars: 54
     contributors: 6
     last_activity: Last commit (Sep 22, 2025)
     archived: false
-    updated_at: '2025-09-22T11:20:15Z'
+    updated_at: '2025-09-24T01:51:27Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
