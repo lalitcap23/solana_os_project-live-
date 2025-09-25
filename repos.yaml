@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1926
+    stars: 1927
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-25T09:25:05Z'
+    updated_at: '2025-09-25T15:44:20Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4078
+    stars: 4079
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-24T15:44:25Z'
+    updated_at: '2025-09-25T15:44:04Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-25T15:17:01Z'
+    updated_at: '2025-09-25T16:27:29Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-25T15:22:29Z'
+    updated_at: '2025-09-25T16:25:25Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-25T13:39:46Z'
+    updated_at: '2025-09-25T16:07:51Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
