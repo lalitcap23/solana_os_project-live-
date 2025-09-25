@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14522
+    stars: 14523
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-25T14:31:47Z'
+    updated_at: '2025-09-25T17:45:58Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 318
+    stars: 319
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-09-25T02:08:52Z'
+    updated_at: '2025-09-25T17:38:58Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 334
+    stars: 335
     contributors: 21
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T14:54:45Z'
+    updated_at: '2025-09-25T17:52:32Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-25T17:19:54Z'
+    updated_at: '2025-09-25T18:23:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 547
+    stars: 548
     contributors: 2
     last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-25T17:01:10Z'
+    updated_at: '2025-09-25T18:31:09Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 334
+    stars: 335
     contributors: 21
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T14:54:45Z'
+    updated_at: '2025-09-25T17:52:32Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 10
     last_activity: v0.25.1 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-23T08:05:31Z'
+    updated_at: '2025-09-25T18:03:49Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
