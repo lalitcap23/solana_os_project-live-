@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14476
+    stars: 14486
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-24T23:15:41Z'
+    updated_at: '2025-09-25T01:44:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1387
+    stars: 1389
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-24T21:12:02Z'
+    updated_at: '2025-09-25T00:55:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4637
+    stars: 4638
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-24T16:54:21Z'
+    updated_at: '2025-09-25T00:24:30Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4637
+    stars: 4638
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-24T16:54:21Z'
+    updated_at: '2025-09-25T00:24:30Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 276
+    stars: 277
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-24T08:55:54Z'
+    updated_at: '2025-09-25T00:45:06Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T23:14:34Z'
+    updated_at: '2025-09-24T23:59:13Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 546
     contributors: 2
-    last_activity: Last commit (Sep 24, 2025)
+    last_activity: Last commit (Sep 25, 2025)
     archived: false
-    updated_at: '2025-09-24T23:10:13Z'
+    updated_at: '2025-09-25T01:25:20Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
