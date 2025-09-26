@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-26T10:21:16Z'
+    updated_at: '2025-09-26T11:01:28Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4141
+    stars: 4142
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-09-21T09:20:38Z'
+    updated_at: '2025-09-26T11:08:30Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 334
+    stars: 335
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-26T07:26:12Z'
+    updated_at: '2025-09-26T10:48:44Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-26T10:34:07Z'
+    updated_at: '2025-09-26T11:14:41Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-26T10:12:28Z'
+    updated_at: '2025-09-26T11:09:39Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
