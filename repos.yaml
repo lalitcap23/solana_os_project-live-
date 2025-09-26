@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-26T07:18:21Z'
+    updated_at: '2025-09-26T08:28:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4639
+    stars: 4640
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-26T03:52:53Z'
+    updated_at: '2025-09-26T07:45:49Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-09-22T10:17:35Z'
+    updated_at: '2025-09-26T08:17:43Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4639
+    stars: 4640
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-26T03:52:53Z'
+    updated_at: '2025-09-26T07:45:49Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 458
-    contributors: 28
+    contributors: 29
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-09-24T09:18:01Z'
+    updated_at: '2025-09-26T07:40:31Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1273
+    stars: 1274
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-25T18:42:12Z'
+    updated_at: '2025-09-26T08:15:43Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 333
+    stars: 334
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-09-26T05:30:44Z'
+    updated_at: '2025-09-26T07:26:12Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-26T07:11:02Z'
+    updated_at: '2025-09-26T07:59:57Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-26T07:18:15Z'
+    updated_at: '2025-09-26T07:58:41Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 103
+    stars: 101
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-09-25T09:10:27Z'
+    updated_at: '2025-09-26T07:48:50Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 128
+    stars: 123
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-09-25T11:43:59Z'
+    updated_at: '2025-09-26T07:48:51Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
