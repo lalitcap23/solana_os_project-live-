@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 577
+    stars: 578
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-09-25T20:52:54Z'
+    updated_at: '2025-09-27T05:47:22Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 193
+    stars: 194
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-09-21T00:24:06Z'
+    updated_at: '2025-09-27T05:47:55Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-09-27T05:12:39Z'
+    updated_at: '2025-09-27T06:00:29Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-09-27T05:00:42Z'
+    updated_at: '2025-09-27T06:25:48Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-09-27T03:32:42Z'
+    updated_at: '2025-09-27T06:25:26Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 94
     contributors: 7
-    last_activity: Last commit (Sep 19, 2025)
+    last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-27T00:04:49Z'
+    updated_at: '2025-09-27T06:09:18Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
