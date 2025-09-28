@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T11:59:22Z'
+    updated_at: '2025-09-28T13:11:40Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T12:25:25Z'
+    updated_at: '2025-09-28T12:59:06Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 848
+    stars: 849
     contributors: 28
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-09-28T12:24:10Z'
+    updated_at: '2025-09-28T13:19:11Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1714,6 +1714,19 @@ repositories:
     archived: false
     updated_at: '2025-09-27T16:06:29Z'
     language: Rust
+- name: StablePay
+  repo: FarseenSh/StablePay
+  description: Enterprise-grade stablecoin payment processor built on Solana that
+    leverages Perena's stablecoin infrastructure.
+  category: Payments
+  stars: 7
+  stats:
+    stars: 7
+    contributors: 2
+    last_activity: Last commit (May 27, 2025)
+    archived: false
+    updated_at: '2025-09-28T13:11:30Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
