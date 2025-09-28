@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 411
+    stars: 412
     contributors: 10
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-27T03:12:40Z'
+    updated_at: '2025-09-28T05:10:59Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 299
+    stars: 300
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-09-24T08:07:12Z'
+    updated_at: '2025-09-28T04:51:28Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T04:20:51Z'
+    updated_at: '2025-09-28T04:58:14Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T04:19:24Z'
+    updated_at: '2025-09-28T05:15:04Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
