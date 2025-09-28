@@ -163,10 +163,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 412
-    contributors: 10
+    contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-28T05:10:59Z'
+    updated_at: '2025-09-28T10:19:00Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T08:58:46Z'
+    updated_at: '2025-09-28T10:10:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T09:12:11Z'
+    updated_at: '2025-09-28T10:20:23Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
