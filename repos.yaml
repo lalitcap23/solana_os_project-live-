@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T06:27:00Z'
+    updated_at: '2025-09-28T07:16:38Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T05:58:46Z'
+    updated_at: '2025-09-28T07:11:57Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 104
     contributors: 4
-    last_activity: Last commit (Sep 01, 2025)
+    last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-08T06:07:38Z'
+    updated_at: '2025-09-28T07:02:05Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 113
+    stars: 114
     contributors: 1
     last_activity: Last commit (Apr 21, 2025)
     archived: false
-    updated_at: '2025-09-17T14:22:32Z'
+    updated_at: '2025-09-28T07:18:27Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
