@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 546
     contributors: 2
-    last_activity: Last commit (Sep 27, 2025)
+    last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-27T23:12:27Z'
+    updated_at: '2025-09-28T01:54:33Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 548
     contributors: 2
-    last_activity: Last commit (Sep 27, 2025)
+    last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-27T22:57:14Z'
+    updated_at: '2025-09-28T00:49:42Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 318
+    stars: 319
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-09-27T15:22:35Z'
+    updated_at: '2025-09-28T01:23:49Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
