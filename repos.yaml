@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14535
+    stars: 14537
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-28T10:57:35Z'
+    updated_at: '2025-09-28T12:13:35Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1393
+    stars: 1394
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-28T06:30:44Z'
+    updated_at: '2025-09-28T11:46:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -166,7 +166,7 @@ repositories:
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-28T10:19:00Z'
+    updated_at: '2025-09-28T11:30:03Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 235
+    stars: 236
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-09-09T05:52:24Z'
+    updated_at: '2025-09-28T12:24:32Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T11:03:43Z'
+    updated_at: '2025-09-28T11:59:22Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-28T11:08:54Z'
+    updated_at: '2025-09-28T12:25:25Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 847
+    stars: 848
     contributors: 28
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-09-27T14:16:30Z'
+    updated_at: '2025-09-28T12:24:10Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1281,9 +1281,9 @@ repositories:
   stats:
     stars: 69
     contributors: 12
-    last_activity: Last commit (Sep 19, 2025)
+    last_activity: Last commit (Sep 28, 2025)
     archived: false
-    updated_at: '2025-09-19T10:51:59Z'
+    updated_at: '2025-09-28T12:41:45Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
