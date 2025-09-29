@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 87
+    stars: 88
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-25T04:42:26Z'
+    updated_at: '2025-09-29T14:08:15Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -249,11 +249,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 70
+    stars: 71
     contributors: 4
     last_activity: 0.1.36 (Aug 29, 2024)
     archived: false
-    updated_at: '2025-09-04T10:43:54Z'
+    updated_at: '2025-09-29T14:04:37Z'
     language: Rust
 - name: sol-ctf-framework
   repo: otter-sec/sol-ctf-framework
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T13:21:09Z'
+    updated_at: '2025-09-29T14:16:40Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T12:55:51Z'
+    updated_at: '2025-09-29T14:13:42Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 849
     contributors: 28
-    last_activity: Last commit (Sep 28, 2025)
+    last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-28T14:15:47Z'
+    updated_at: '2025-09-29T14:14:30Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
