@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14538
+    stars: 14539
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-29T01:56:50Z'
+    updated_at: '2025-09-29T04:01:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.10 (Sep 19, 2025)
     archived: false
-    updated_at: '2025-09-29T02:10:20Z'
+    updated_at: '2025-09-29T03:53:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1927
+    stars: 1928
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-09-28T19:34:50Z'
+    updated_at: '2025-09-29T03:21:42Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4083
+    stars: 4084
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-09-29T01:56:52Z'
+    updated_at: '2025-09-29T04:01:49Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T02:57:05Z'
+    updated_at: '2025-09-29T04:19:39Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T02:38:41Z'
+    updated_at: '2025-09-29T04:22:10Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 55
     contributors: 6
-    last_activity: Last commit (Sep 28, 2025)
+    last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-28T11:00:47Z'
+    updated_at: '2025-09-29T03:48:33Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1472,7 +1472,7 @@ repositories:
     contributors: 1
     last_activity: Release (Apr 11, 2025)
     archived: false
-    updated_at: '2025-09-27T07:18:50Z'
+    updated_at: '2025-09-29T03:24:15Z'
     language: Rust
 - name: profit-script
   repo: tymur999/profit-script
