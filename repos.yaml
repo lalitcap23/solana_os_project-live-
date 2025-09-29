@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-29T18:03:16Z'
+    updated_at: '2025-09-29T19:01:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-29T14:34:56Z'
+    updated_at: '2025-09-29T19:14:06Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-29T17:20:38Z'
+    updated_at: '2025-09-29T19:02:32Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T18:22:54Z'
+    updated_at: '2025-09-29T19:15:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T18:19:56Z'
+    updated_at: '2025-09-29T18:57:50Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
