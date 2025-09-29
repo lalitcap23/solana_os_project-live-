@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14543
+    stars: 14544
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-09-29T13:21:42Z'
+    updated_at: '2025-09-29T15:31:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1398
+    stars: 1399
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-29T14:33:34Z'
+    updated_at: '2025-09-29T16:22:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4648
+    stars: 4649
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-29T04:32:51Z'
+    updated_at: '2025-09-29T16:01:07Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -155,7 +155,7 @@ repositories:
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-29T14:08:15Z'
+    updated_at: '2025-09-29T15:34:11Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4648
+    stars: 4649
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-29T04:32:51Z'
+    updated_at: '2025-09-29T16:01:07Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T14:58:48Z'
+    updated_at: '2025-09-29T16:00:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-09-29T15:15:36Z'
+    updated_at: '2025-09-29T16:09:29Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
