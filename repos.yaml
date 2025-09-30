@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 551
+    stars: 552
     contributors: 146
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-29T19:53:04Z'
+    updated_at: '2025-09-30T05:14:06Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-09-30T04:18:06Z'
+    updated_at: '2025-09-30T04:59:05Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-09-30T03:59:52Z'
+    updated_at: '2025-09-30T05:00:08Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
