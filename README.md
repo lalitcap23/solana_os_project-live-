@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-09-29
+Last updated: 2025-09-30
 
 ## Directory
 
@@ -62,8 +62,8 @@ Last updated: 2025-09-29
 | awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 338 | 2 | Last commit (Jun 18, 2025) | SDKs & Tooling |
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 294 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 279 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
-| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 545 | 2 | Last commit (Sep 29, 2025) | SDKs & Tooling |
-| solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 548 | 2 | Last commit (Sep 29, 2025) | SDKs & Tooling |
+| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 545 | 2 | Last commit (Sep 30, 2025) | SDKs & Tooling |
+| solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 548 | 2 | Last commit (Sep 30, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 202 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 197 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
 | solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 101 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
@@ -80,7 +80,7 @@ Last updated: 2025-09-29
 | pumpfun-smart-contract-frontend-backend | Solana Pumpfun smart contract & Frontend & Backend | https://github.com/0xalberto/pumpfun-smart-contract-frontend-backend | 248 | 1 | Last commit (Sep 01, 2025) | SDKs & Tooling |
 | Solana-Pumpfun-Smart-Contract-Token-2022 | pumpfun clone: tax token pump.fun smart contract (pumpfun fork), solana pump fun smart contract (token2022, raydium cpmm) | https://github.com/cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022 | 194 | 2 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | solana-pumpfun-trader | buy/sell functions for Solana SPL tokens created on pump.fun. | https://github.com/degenfrends/solana-pumpfun-trader | 71 | 2 | v0.0.16 (Jun 22, 2024) | SDKs & Tooling |
-| typhoon | 🌪️ Solana Sealevel Framework | https://github.com/exotic-markets-labs/typhoon | 55 | 6 | Last commit (Sep 29, 2025) | SDKs & Tooling |
+| typhoon | 🌪️ Solana Sealevel Framework | https://github.com/exotic-markets-labs/typhoon | 55 | 6 | Last commit (Sep 30, 2025) | SDKs & Tooling |
 | Solana-Sniper-Memecoin-Bot | The combination project of sniper and shitcoin bot connecting with Raydium SDK on Solana. This bot includes numerous functions like Jito Service, Unwrapping Sol, Token creation, Auto Airdrop, Market creation, Token Acount Freeze, LP Token Burn, Pool creation, Buy/Sell Tokens, Add/Remove Liquidity. | https://github.com/justshiftjk/Solana-Sniper-Memecoin-Bot | 117 | 1 | Last commit (Jun 26, 2025) | SDKs & Tooling |
 | gamba | SDK for building web3 betting games on Solana | https://github.com/gamba-labs/gamba | 69 | 12 | Last commit (Sep 29, 2025) | SDKs & Tooling |
 | sns-sdk | Solana Name Service SDKs monorepo | https://github.com/SolanaNameService/sns-sdk | 64 | 10 | @bonfida/spl-name-service@3.0.1 (Aug 07, 2024) | SDKs & Tooling |
@@ -114,7 +114,7 @@ Last updated: 2025-09-29
 | SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 11 | 21 | type-length-value@v0.9.0 (Aug 11, 2025) | Programs (SPL) |
 | Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 215 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 374 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
-| gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 338 | 21 | Last commit (Sep 24, 2025) | NFTs & Programs |
+| gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 339 | 21 | Last commit (Sep 24, 2025) | NFTs & Programs |
 | solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 171 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
 | solana-candy-factory | Solana blockchain candy machine app boilerplate on top of Metaplex Candy Machine. NextJS, Tailwind, Anchor, SolanaLabs.React, dev/mainnet automation scripts. | https://github.com/kevinfaveri/solana-candy-factory | 297 | 4 | Last commit (May 17, 2023) | NFTs & Programs |
 | anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 273 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
@@ -129,7 +129,7 @@ Last updated: 2025-09-29
 | solana-anchor-react-minimal-example | Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start! | https://github.com/256hax/solana-anchor-react-minimal-example | 97 | 3 | v1.1.0 (Nov 23, 2023) | NFTs & Programs |
 | create-solana-dapp | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | https://github.com/solana-foundation/create-solana-dapp | 539 | 14 | Last commit (Sep 19, 2025) | NFTs & Programs |
 | solana-tools | A bunch of tools to help people in the Solana ecosystem. This website includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools are scheduled... | https://github.com/cryptoloutre/solana-tools | 209 | 4 | Last commit (Dec 03, 2024) | NFTs & Programs |
-| gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/gillsdk/gill | 338 | 21 | Last commit (Sep 24, 2025) | NFTs & Programs |
+| gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/gillsdk/gill | 339 | 21 | Last commit (Sep 24, 2025) | NFTs & Programs |
 | Solana-Unreal-SDK | A complete Unreal plugin and toolkit for building blockchain games on Solana with Unreal Engine 5. | https://github.com/Bifrost-Technologies/Solana-Unreal-SDK | 82 | 1 | Last commit (Mar 30, 2024) | NFTs & Programs |
 | solana-mint-ui | Mint UI for NFTs on Solana | https://github.com/edceds/solana-mint-ui | 50 | 2 | Last commit (Feb 06, 2024) | NFTs & Programs |
 | digital-asset-validator-plugin | The NFT Geyser plugin that powers metaplex APIs | https://github.com/metaplex-foundation/digital-asset-validator-plugin | 46 | 19 | v2.0.0 (Mar 26, 2025) | NFTs & Programs |
