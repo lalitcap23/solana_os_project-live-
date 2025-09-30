@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-09-30T17:11:11Z'
+    updated_at: '2025-09-30T17:55:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 554
+    stars: 555
     contributors: 146
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-09-30T17:17:55Z'
+    updated_at: '2025-09-30T18:09:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-09-30T17:13:10Z'
+    updated_at: '2025-09-30T18:16:17Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-09-30T17:09:21Z'
+    updated_at: '2025-09-30T17:56:18Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1506,11 +1506,11 @@ repositories:
   category: DeFi
   stars: 37
   stats:
-    stars: 37
+    stars: 38
     contributors: 1
     last_activity: Last commit (Feb 20, 2025)
     archived: false
-    updated_at: '2025-09-08T00:20:28Z'
+    updated_at: '2025-09-30T18:07:07Z'
     language: JavaScript
 - name: solana-streamer
   repo: 0xfnzero/solana-streamer
