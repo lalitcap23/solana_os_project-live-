@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-01T16:12:03Z'
+    updated_at: '2025-10-01T20:01:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4146
+    stars: 4147
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-01T18:31:27Z'
+    updated_at: '2025-10-01T19:21:04Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -292,7 +292,7 @@ repositories:
     contributors: 146
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-10-01T18:41:53Z'
+    updated_at: '2025-10-01T19:46:52Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-01T19:12:39Z'
+    updated_at: '2025-10-01T20:18:12Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -959,9 +959,9 @@ repositories:
   stats:
     stars: 148
     contributors: 5
-    last_activity: Last commit (Aug 15, 2025)
+    last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-09-09T08:17:35Z'
+    updated_at: '2025-10-01T20:19:14Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
