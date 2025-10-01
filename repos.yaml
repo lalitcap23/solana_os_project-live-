@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4653
+    stars: 4654
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-30T21:20:03Z'
+    updated_at: '2025-10-01T05:32:28Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4653
+    stars: 4654
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-09-30T21:20:03Z'
+    updated_at: '2025-10-01T05:32:28Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 171
+    stars: 172
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-09-22T21:15:02Z'
+    updated_at: '2025-10-01T06:10:09Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-01T05:16:10Z'
+    updated_at: '2025-10-01T06:24:05Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 548
+    stars: 549
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-09-30T20:15:02Z'
+    updated_at: '2025-10-01T06:26:47Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
