@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-01T10:01:24Z'
+    updated_at: '2025-10-01T11:38:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-30T11:40:55Z'
+    updated_at: '2025-10-01T12:26:07Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-01T11:13:44Z'
+    updated_at: '2025-10-01T12:35:22Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1721,11 +1721,11 @@ repositories:
   category: Payments
   stars: 7
   stats:
-    stars: 8
+    stars: 9
     contributors: 2
     last_activity: Last commit (May 27, 2025)
     archived: false
-    updated_at: '2025-09-28T13:45:03Z'
+    updated_at: '2025-10-01T12:45:16Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
