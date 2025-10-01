@@ -66,7 +66,7 @@ Last updated: 2025-10-01
 | solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 549 | 2 | Last commit (Sep 30, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 202 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 197 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
-| solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 101 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
+| solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 100 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
 | solana-spl-tutorial | This repository contains full tutorial on Solana SPL token | https://github.com/YosephKS/solana-spl-tutorial | 75 | 1 | Last commit (Feb 12, 2022) | SDKs & Tooling |
 | solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 850 | 28 | Last commit (Sep 30, 2025) | SDKs & Tooling |
 | anchor-escrow | Escrow program implemented in Anchor | https://github.com/ironaddicteddog/anchor-escrow | 193 | 3 | Last commit (Aug 29, 2024) | SDKs & Tooling |
@@ -122,7 +122,7 @@ Last updated: 2025-10-01
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 717 | 25 | v0.44.1 (Aug 25, 2025) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 636 | 64 | Last commit (Nov 01, 2024) | NFTs & Programs |
 | treat-toolbox | Treat Toolbox: Generative NFT Utility for Candy Machine / Solana | https://github.com/theskeletoncrew/treat-toolbox | 270 | 11 | Last commit (Apr 25, 2022) | NFTs & Programs |
-| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 192 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
+| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 193 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
 | compressed-nfts | Example code to use compressed NFTs (using state compression) on Solana | https://github.com/solana-developers/compressed-nfts | 126 | 2 | Last commit (Jan 18, 2024) | NFTs & Programs |
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 120 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 109 | 18 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |
