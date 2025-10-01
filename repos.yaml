@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4654
+    stars: 4656
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-01T05:32:28Z'
+    updated_at: '2025-10-01T18:16:15Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -144,7 +144,7 @@ repositories:
     contributors: 16
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-01T12:26:07Z'
+    updated_at: '2025-10-01T18:07:43Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4654
+    stars: 4656
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-01T05:32:28Z'
+    updated_at: '2025-10-01T18:16:15Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4144
+    stars: 4146
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-01T09:56:01Z'
+    updated_at: '2025-10-01T18:31:27Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-01T17:14:31Z'
+    updated_at: '2025-10-01T18:22:55Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1551,7 +1551,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-09-24T17:44:42Z'
+    updated_at: '2025-10-01T18:23:33Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
