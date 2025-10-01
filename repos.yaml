@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-01T15:14:51Z'
+    updated_at: '2025-10-01T16:12:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 151
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-09-30T14:21:44Z'
+    updated_at: '2025-10-01T15:39:09Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-10-01T09:22:08Z'
+    updated_at: '2025-10-01T16:26:10Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-01T15:16:15Z'
+    updated_at: '2025-10-01T16:20:00Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 548
+    stars: 549
     contributors: 2
     last_activity: Last commit (Sep 30, 2025)
     archived: false
-    updated_at: '2025-10-01T12:55:01Z'
+    updated_at: '2025-10-01T15:44:35Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-01T01:30:54Z'
+    updated_at: '2025-10-01T16:20:57Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 99
+    stars: 98
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-10-01T15:24:35Z'
+    updated_at: '2025-10-01T16:04:04Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
