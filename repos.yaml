@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14549
+    stars: 14550
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-01T21:22:25Z'
+    updated_at: '2025-10-02T01:32:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1405
+    stars: 1406
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-01T21:22:16Z'
+    updated_at: '2025-10-02T00:55:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2625
+    stars: 2626
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-09-30T23:40:32Z'
+    updated_at: '2025-10-02T00:42:28Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -327,10 +327,10 @@ repositories:
   stars: 312
   stats:
     stars: 339
-    contributors: 21
-    last_activity: Last commit (Oct 01, 2025)
+    contributors: 23
+    last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-01T22:01:29Z'
+    updated_at: '2025-10-02T01:07:10Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 545
     contributors: 2
-    last_activity: Last commit (Oct 01, 2025)
+    last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-01T23:13:24Z'
+    updated_at: '2025-10-02T01:10:55Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 178
+    stars: 179
     contributors: 6
     last_activity: Last commit (Sep 27, 2025)
     archived: false
-    updated_at: '2025-10-01T07:54:07Z'
+    updated_at: '2025-10-02T01:26:44Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1150,10 +1150,10 @@ repositories:
   stars: 315
   stats:
     stars: 339
-    contributors: 21
-    last_activity: Last commit (Oct 01, 2025)
+    contributors: 23
+    last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-01T22:01:29Z'
+    updated_at: '2025-10-02T01:07:10Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 145
+    stars: 146
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-09-17T07:25:48Z'
+    updated_at: '2025-10-01T23:35:29Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
