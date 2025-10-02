@@ -107,11 +107,11 @@ repositories:
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 29
+    stars: 30
     contributors: 5
     last_activity: js@v0.3.0 (Jan 27, 2025)
     archived: false
-    updated_at: '2025-09-22T04:57:40Z'
+    updated_at: '2025-10-02T09:44:51Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-02T09:16:37Z'
+    updated_at: '2025-10-02T10:16:01Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
