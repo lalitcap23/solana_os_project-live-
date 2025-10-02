@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-02T13:16:53Z'
+    updated_at: '2025-10-02T14:15:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4657
+    stars: 4658
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-02T09:05:19Z'
+    updated_at: '2025-10-02T13:58:37Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4657
+    stars: 4658
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-02T09:05:19Z'
+    updated_at: '2025-10-02T13:58:37Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-02T13:23:45Z'
+    updated_at: '2025-10-02T14:15:17Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 98
+    stars: 95
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-10-01T09:39:01Z'
+    updated_at: '2025-10-02T14:02:06Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 850
     contributors: 28
-    last_activity: Last commit (Oct 01, 2025)
+    last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-01T14:12:10Z'
+    updated_at: '2025-10-02T14:10:49Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 98
+    stars: 89
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-10-01T16:04:04Z'
+    updated_at: '2025-10-02T14:06:00Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
