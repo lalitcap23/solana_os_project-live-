@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-02T18:06:37Z'
+    updated_at: '2025-10-02T19:39:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-02T19:12:43Z'
+    updated_at: '2025-10-02T20:17:13Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 89
+    stars: 90
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-10-02T14:06:00Z'
+    updated_at: '2025-10-02T19:23:05Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
