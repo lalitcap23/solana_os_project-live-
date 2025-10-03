@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 323
+    stars: 324
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-09-28T16:42:26Z'
+    updated_at: '2025-10-03T18:33:00Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 555
+    stars: 556
     contributors: 146
     last_activity: v3.0.3 (Sep 11, 2025)
     archived: false
-    updated_at: '2025-10-03T18:06:02Z'
+    updated_at: '2025-10-03T18:43:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T18:21:56Z'
+    updated_at: '2025-10-03T19:12:38Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
