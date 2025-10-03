@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 412
+    stars: 413
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-09-28T20:26:53Z'
+    updated_at: '2025-10-03T03:18:54Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T02:54:10Z'
+    updated_at: '2025-10-03T03:26:28Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
