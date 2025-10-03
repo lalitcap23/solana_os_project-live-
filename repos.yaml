@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1407
+    stars: 1408
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-03T01:51:03Z'
+    updated_at: '2025-10-03T04:45:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 136
+    stars: 137
     contributors: 151
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-10-01T23:03:24Z'
+    updated_at: '2025-10-03T04:59:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4658
+    stars: 4657
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-02T18:20:21Z'
+    updated_at: '2025-10-03T04:57:11Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 215
+    stars: 214
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-09-27T01:50:46Z'
+    updated_at: '2025-10-03T04:43:10Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 88
+    stars: 87
     contributors: 6
     last_activity: v0.3.3 (Aug 05, 2025)
     archived: false
-    updated_at: '2025-09-29T19:02:32Z'
+    updated_at: '2025-10-03T04:41:07Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4658
+    stars: 4657
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-02T18:20:21Z'
+    updated_at: '2025-10-03T04:57:11Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T04:18:21Z'
+    updated_at: '2025-10-03T05:15:06Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 256
+    stars: 257
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-03T03:41:04Z'
+    updated_at: '2025-10-03T05:04:23Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1363,11 +1363,11 @@ repositories:
   category: NFTs & Programs
   stars: 46
   stats:
-    stars: 46
+    stars: 45
     contributors: 19
     last_activity: v2.0.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-07-27T07:19:32Z'
+    updated_at: '2025-10-03T04:46:34Z'
     language: Rust
 - name: On_chain
   repo: mrtnetwork/On_chain
