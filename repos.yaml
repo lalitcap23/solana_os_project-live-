@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T12:32:04Z'
+    updated_at: '2025-10-03T13:23:10Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 258
+    stars: 259
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-03T09:34:40Z'
+    updated_at: '2025-10-03T13:12:40Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 104
     contributors: 4
-    last_activity: Last commit (Sep 28, 2025)
+    last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-09-28T11:15:14Z'
+    updated_at: '2025-10-03T13:21:10Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 472
+    stars: 474
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-10-03T09:00:06Z'
+    updated_at: '2025-10-03T13:11:40Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1533,11 +1533,11 @@ repositories:
   category: DeFi
   stars: 73
   stats:
-    stars: 73
+    stars: 74
     contributors: 1
     last_activity: Last commit (Jun 13, 2024)
     archived: false
-    updated_at: '2025-09-18T07:11:30Z'
+    updated_at: '2025-10-03T13:16:28Z'
     language: Rust
 - name: pumpfun-sdk
   repo: 0xfnzero/pumpfun-sdk
