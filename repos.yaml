@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-02T15:03:46Z'
+    updated_at: '2025-10-03T00:55:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 545
     contributors: 2
-    last_activity: Last commit (Oct 02, 2025)
+    last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-02T23:13:54Z'
+    updated_at: '2025-10-03T01:10:42Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 97
+    stars: 98
     contributors: 7
     last_activity: Last commit (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-01T07:00:00Z'
+    updated_at: '2025-10-03T01:28:58Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
