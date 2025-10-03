@@ -40,7 +40,7 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4658
-    contributors: 301
+    contributors: 300
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
     updated_at: '2025-10-03T08:23:21Z'
@@ -175,7 +175,7 @@ repositories:
   stars: 4533
   stats:
     stars: 4658
-    contributors: 301
+    contributors: 300
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
     updated_at: '2025-10-03T08:23:21Z'
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T08:20:15Z'
+    updated_at: '2025-10-03T09:16:05Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 181
     contributors: 6
-    last_activity: Last commit (Sep 27, 2025)
+    last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-02T18:28:52Z'
+    updated_at: '2025-10-03T09:10:37Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 471
+    stars: 472
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-09-28T16:34:16Z'
+    updated_at: '2025-10-03T09:00:06Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
