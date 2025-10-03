@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2627
+    stars: 2626
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-02T07:33:26Z'
+    updated_at: '2025-10-03T22:05:33Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 766
+    stars: 765
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-09-29T19:54:21Z'
+    updated_at: '2025-10-03T22:14:40Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -141,10 +141,10 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 300
-    contributors: 16
+    contributors: 18
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-01T18:07:43Z'
+    updated_at: '2025-10-03T21:42:51Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4147
+    stars: 4146
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-02T06:51:11Z'
+    updated_at: '2025-10-03T22:13:04Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T21:13:00Z'
+    updated_at: '2025-10-03T22:13:48Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
