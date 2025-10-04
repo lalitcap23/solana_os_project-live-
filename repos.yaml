@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14549
+    stars: 14550
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-03T22:22:38Z'
+    updated_at: '2025-10-04T01:18:53Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-03T20:02:04Z'
+    updated_at: '2025-10-03T23:33:26Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 545
     contributors: 2
-    last_activity: Last commit (Oct 03, 2025)
+    last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-03T23:13:41Z'
+    updated_at: '2025-10-04T01:08:06Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 851
+    stars: 853
     contributors: 28
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T14:10:02Z'
+    updated_at: '2025-10-04T01:22:35Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 98
     contributors: 7
-    last_activity: Last commit (Sep 26, 2025)
+    last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-03T01:28:58Z'
+    updated_at: '2025-10-04T00:44:19Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
