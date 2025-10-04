@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14554
+    stars: 14553
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-04T13:15:48Z'
+    updated_at: '2025-10-04T14:04:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4664
+    stars: 4662
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-04T10:48:06Z'
+    updated_at: '2025-10-04T13:59:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1930
+    stars: 1929
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-02T07:40:51Z'
+    updated_at: '2025-10-04T14:09:33Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4095
+    stars: 4094
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-04T10:47:50Z'
+    updated_at: '2025-10-04T14:07:47Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4664
+    stars: 4662
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-04T10:48:06Z'
+    updated_at: '2025-10-04T13:59:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -236,11 +236,11 @@ repositories:
   category: SDKs & Tooling
   stars: 93
   stats:
-    stars: 94
+    stars: 93
     contributors: 6
     last_activity: Last commit (Nov 08, 2024)
     archived: false
-    updated_at: '2025-09-10T09:45:39Z'
+    updated_at: '2025-10-04T14:15:01Z'
     language: Rust
 - name: znap
   repo: heavy-duty/znap
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4146
+    stars: 4145
     contributors: 11
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-03T22:13:04Z'
+    updated_at: '2025-10-04T14:10:51Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1278
+    stars: 1277
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-04T12:12:27Z'
+    updated_at: '2025-10-04T14:12:53Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T13:18:34Z'
+    updated_at: '2025-10-04T14:12:57Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 853
     contributors: 28
-    last_activity: Last commit (Oct 03, 2025)
+    last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T01:22:35Z'
+    updated_at: '2025-10-04T14:09:26Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
