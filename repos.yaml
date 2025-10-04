@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1409
+    stars: 1410
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-04T12:43:07Z'
+    updated_at: '2025-10-04T22:11:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4096
+    stars: 4097
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-04T17:56:35Z'
+    updated_at: '2025-10-04T21:25:57Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T21:12:33Z'
+    updated_at: '2025-10-04T22:13:09Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
