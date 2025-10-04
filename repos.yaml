@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4663
+    stars: 4664
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-04T15:00:20Z'
+    updated_at: '2025-10-04T17:59:35Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4095
+    stars: 4096
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-04T14:57:20Z'
+    updated_at: '2025-10-04T17:56:35Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4663
+    stars: 4664
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-04T15:00:20Z'
+    updated_at: '2025-10-04T17:59:35Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T17:11:54Z'
+    updated_at: '2025-10-04T18:20:11Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
