@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1279
+    stars: 1278
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-04T04:26:41Z'
+    updated_at: '2025-10-04T12:12:27Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T11:11:33Z'
+    updated_at: '2025-10-04T12:28:51Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 181
+    stars: 182
     contributors: 6
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T09:10:37Z'
+    updated_at: '2025-10-04T12:13:40Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 99
+    stars: 100
     contributors: 7
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T07:59:27Z'
+    updated_at: '2025-10-04T12:09:09Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
