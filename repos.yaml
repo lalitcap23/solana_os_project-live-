@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14554
+    stars: 14553
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-04T14:57:29Z'
+    updated_at: '2025-10-04T15:56:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 137
+    stars: 138
     contributors: 151
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-10-03T08:09:51Z'
+    updated_at: '2025-10-04T15:23:55Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 765
+    stars: 764
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-10-03T22:14:40Z'
+    updated_at: '2025-10-04T15:40:27Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T15:13:03Z'
+    updated_at: '2025-10-04T16:17:07Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
