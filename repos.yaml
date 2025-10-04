@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4097
+    stars: 4098
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-04T21:25:57Z'
+    updated_at: '2025-10-04T22:52:50Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3366
+    stars: 3365
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-09-23T01:09:59Z'
+    updated_at: '2025-10-04T22:48:15Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T22:13:09Z'
+    updated_at: '2025-10-04T23:13:39Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
