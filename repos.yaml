@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 214
+    stars: 213
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-09-24T16:20:01Z'
+    updated_at: '2025-10-04T19:00:34Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 04, 2025)
     archived: false
-    updated_at: '2025-10-04T18:20:11Z'
+    updated_at: '2025-10-04T19:10:45Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
