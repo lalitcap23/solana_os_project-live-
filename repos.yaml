@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 340
+    stars: 341
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T20:55:18Z'
+    updated_at: '2025-10-05T21:58:35Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1278
+    stars: 1279
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-05T20:12:47Z'
+    updated_at: '2025-10-05T21:37:54Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 05, 2025)
     archived: false
-    updated_at: '2025-10-05T21:12:38Z'
+    updated_at: '2025-10-05T22:14:03Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 340
+    stars: 341
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T20:55:18Z'
+    updated_at: '2025-10-05T21:58:35Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
