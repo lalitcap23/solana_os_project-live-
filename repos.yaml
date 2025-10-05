@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 05, 2025)
     archived: false
-    updated_at: '2025-10-05T17:12:04Z'
+    updated_at: '2025-10-05T18:20:01Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1291,11 +1291,11 @@ repositories:
   category: SDKs & Tooling
   stars: 63
   stats:
-    stars: 64
+    stars: 65
     contributors: 10
     last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
     archived: false
-    updated_at: '2025-09-28T03:56:04Z'
+    updated_at: '2025-10-05T17:25:22Z'
     language: TypeScript
 - name: Solana-Token-Staking-Smart-Contract
   repo: cutupdev/Solana-Token-Staking-Smart-Contract
