@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14559
+    stars: 14560
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-06T08:12:54Z'
+    updated_at: '2025-10-06T08:54:04Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 341
+    stars: 342
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-05T21:58:35Z'
+    updated_at: '2025-10-06T09:17:40Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 288
+    stars: 289
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-10-02T14:47:05Z'
+    updated_at: '2025-10-06T08:34:30Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T08:21:26Z'
+    updated_at: '2025-10-06T09:19:35Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 260
+    stars: 261
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-04T10:07:30Z'
+    updated_at: '2025-10-06T08:46:45Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 341
+    stars: 342
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-05T21:58:35Z'
+    updated_at: '2025-10-06T09:17:40Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
