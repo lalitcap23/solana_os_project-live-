@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-06T22:06:58Z'
+    updated_at: '2025-10-06T22:37:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -152,10 +152,10 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 87
-    contributors: 6
+    contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T20:45:31Z'
+    updated_at: '2025-10-06T22:50:50Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T22:14:07Z'
+    updated_at: '2025-10-06T23:13:55Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
