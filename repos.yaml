@@ -111,7 +111,7 @@ repositories:
     contributors: 5
     last_activity: js@v0.3.0 (Jan 27, 2025)
     archived: false
-    updated_at: '2025-10-05T18:31:17Z'
+    updated_at: '2025-10-06T01:08:02Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 545
     contributors: 2
-    last_activity: Last commit (Oct 05, 2025)
+    last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-05T23:12:32Z'
+    updated_at: '2025-10-06T01:13:08Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 542
+    stars: 543
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-04T15:00:30Z'
+    updated_at: '2025-10-05T23:37:12Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
