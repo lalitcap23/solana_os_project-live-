@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14559
+    stars: 14558
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-06T10:05:10Z'
+    updated_at: '2025-10-06T13:57:41Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 279
+    stars: 280
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-09-29T13:27:58Z'
+    updated_at: '2025-10-06T14:06:23Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T13:26:18Z'
+    updated_at: '2025-10-06T14:16:09Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 854
     contributors: 28
-    last_activity: Last commit (Oct 05, 2025)
+    last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T12:31:12Z'
+    updated_at: '2025-10-06T14:06:39Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 10
     last_activity: v0.26.1 (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-02T20:37:20Z'
+    updated_at: '2025-10-06T14:24:10Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
