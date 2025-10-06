@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 138
+    stars: 139
     contributors: 151
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-10-05T16:34:04Z'
+    updated_at: '2025-10-06T12:36:04Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T11:13:33Z'
+    updated_at: '2025-10-06T12:33:47Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 853
+    stars: 854
     contributors: 28
     last_activity: Last commit (Oct 05, 2025)
     archived: false
-    updated_at: '2025-10-05T14:34:53Z'
+    updated_at: '2025-10-06T12:31:12Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 117
+    stars: 118
     contributors: 1
     last_activity: Last commit (Jun 26, 2025)
     archived: false
-    updated_at: '2025-09-12T03:40:14Z'
+    updated_at: '2025-10-06T11:28:28Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
