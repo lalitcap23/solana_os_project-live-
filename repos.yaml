@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14560
+    stars: 14561
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-06T19:07:22Z'
+    updated_at: '2025-10-07T08:07:54Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1413
+    stars: 1414
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-07T01:49:15Z'
+    updated_at: '2025-10-07T08:08:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 464
-    contributors: 29
+    contributors: 30
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-10-06T10:22:30Z'
+    updated_at: '2025-10-07T07:24:37Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 324
+    stars: 325
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-10-06T20:21:24Z'
+    updated_at: '2025-10-07T08:30:42Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-07T07:15:57Z'
+    updated_at: '2025-10-07T08:21:41Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
