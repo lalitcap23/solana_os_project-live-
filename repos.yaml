@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14563
+    stars: 14564
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-07T12:58:06Z'
+    updated_at: '2025-10-07T16:28:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 139
     contributors: 151
-    last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
+    last_activity: account@v3.1.0 (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-07T03:25:25Z'
+    updated_at: '2025-10-07T15:45:41Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4675
+    stars: 4676
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-07T08:38:31Z'
+    updated_at: '2025-10-07T15:32:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -85,11 +85,11 @@ repositories:
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
   stats:
-    stars: 11
+    stars: 12
     contributors: 21
     last_activity: type-length-value@v0.9.0 (Aug 11, 2025)
     archived: false
-    updated_at: '2025-10-02T10:45:28Z'
+    updated_at: '2025-10-07T16:07:41Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4675
+    stars: 4676
     contributors: 301
     last_activity: v0.31.1 (Apr 19, 2025)
     archived: false
-    updated_at: '2025-10-07T08:38:31Z'
+    updated_at: '2025-10-07T15:32:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 545
+    stars: 546
     contributors: 2
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-07T15:17:45Z'
+    updated_at: '2025-10-07T16:19:42Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 183
     contributors: 6
-    last_activity: Last commit (Oct 05, 2025)
+    last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-06T06:40:34Z'
+    updated_at: '2025-10-07T15:48:22Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
