@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-06T22:37:10Z'
+    updated_at: '2025-10-07T00:03:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-06T22:50:50Z'
+    updated_at: '2025-10-06T23:59:59Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 545
     contributors: 2
-    last_activity: Last commit (Oct 06, 2025)
+    last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-06T23:13:55Z'
+    updated_at: '2025-10-07T01:11:43Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 544
+    stars: 545
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-06T15:25:30Z'
+    updated_at: '2025-10-07T00:12:38Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 118
+    stars: 119
     contributors: 1
     last_activity: Last commit (Jun 26, 2025)
     archived: false
-    updated_at: '2025-10-06T11:28:28Z'
+    updated_at: '2025-10-07T00:25:20Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 71
+    stars: 72
     contributors: 12
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-10-04T08:48:36Z'
+    updated_at: '2025-10-06T23:55:14Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 200
+    stars: 201
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-05T16:11:32Z'
+    updated_at: '2025-10-07T01:22:51Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
