@@ -31,7 +31,7 @@ repositories:
     contributors: 151
     last_activity: vote-interface@v4.0.2 (Sep 15, 2025)
     archived: false
-    updated_at: '2025-10-06T15:03:49Z'
+    updated_at: '2025-10-07T03:25:25Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-07T02:55:10Z'
+    updated_at: '2025-10-07T03:28:36Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
