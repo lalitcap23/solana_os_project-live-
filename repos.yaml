@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-07T21:26:56Z'
+    updated_at: '2025-10-07T23:45:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4099
+    stars: 4100
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-06T21:45:09Z'
+    updated_at: '2025-10-07T23:30:24Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -249,11 +249,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 71
+    stars: 70
     contributors: 4
     last_activity: 0.1.36 (Aug 29, 2024)
     archived: false
-    updated_at: '2025-09-29T14:04:37Z'
+    updated_at: '2025-10-08T00:56:02Z'
     language: Rust
 - name: sol-ctf-framework
   repo: otter-sec/sol-ctf-framework
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 288
+    stars: 289
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-10-06T16:29:51Z'
+    updated_at: '2025-10-08T00:45:05Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 546
     contributors: 2
-    last_activity: Last commit (Oct 07, 2025)
+    last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-07T23:13:58Z'
+    updated_at: '2025-10-08T01:11:32Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
