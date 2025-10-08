@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-08T14:41:34Z'
+    updated_at: '2025-10-08T15:27:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -107,11 +107,11 @@ repositories:
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 31
+    stars: 30
     contributors: 5
     last_activity: js@v0.3.0 (Jan 27, 2025)
     archived: false
-    updated_at: '2025-10-06T01:08:02Z'
+    updated_at: '2025-10-08T15:55:37Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -613,11 +613,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 109
+    stars: 108
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2025-08-13T02:37:31Z'
+    updated_at: '2025-10-08T15:55:37Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -678,11 +678,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 6
+    stars: 9
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-09-03T08:42:16Z'
+    updated_at: '2025-10-08T16:07:06Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-08T15:16:58Z'
+    updated_at: '2025-10-08T16:20:08Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
