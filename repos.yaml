@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 139
+    stars: 140
     contributors: 151
     last_activity: bn254@v3.1.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-08T07:10:18Z'
+    updated_at: '2025-10-08T10:39:18Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 636
+    stars: 637
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-02T20:49:49Z'
+    updated_at: '2025-10-08T10:49:36Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-08T10:16:49Z'
+    updated_at: '2025-10-08T11:13:25Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 551
     contributors: 2
-    last_activity: Last commit (Oct 06, 2025)
+    last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-07T22:21:05Z'
+    updated_at: '2025-10-08T10:50:20Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
