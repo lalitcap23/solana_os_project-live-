@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-09T16:37:58Z'
+    updated_at: '2025-10-09T17:42:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 215
+    stars: 216
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-10-09T01:16:01Z'
+    updated_at: '2025-10-09T17:35:10Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 300
+    stars: 301
     contributors: 18
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-08T18:35:49Z'
+    updated_at: '2025-10-09T18:16:53Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1282
+    stars: 1283
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-09T16:03:36Z'
+    updated_at: '2025-10-09T18:24:07Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T17:14:50Z'
+    updated_at: '2025-10-09T18:23:03Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 57
+    stars: 58
     contributors: 6
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T09:09:06Z'
+    updated_at: '2025-10-09T17:36:38Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 145
+    stars: 146
     contributors: 2
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-10-09T11:43:41Z'
+    updated_at: '2025-10-09T17:47:21Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
