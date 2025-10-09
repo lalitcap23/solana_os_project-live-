@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-09T12:01:54Z'
+    updated_at: '2025-10-09T14:07:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4685
+    stars: 4686
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T07:18:32Z'
+    updated_at: '2025-10-09T13:58:39Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4102
+    stars: 4103
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-09T04:00:46Z'
+    updated_at: '2025-10-09T13:53:22Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4685
+    stars: 4686
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T07:18:32Z'
+    updated_at: '2025-10-09T13:58:39Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T13:27:35Z'
+    updated_at: '2025-10-09T14:16:27Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 856
     contributors: 28
-    last_activity: Last commit (Oct 08, 2025)
+    last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-08T15:24:14Z'
+    updated_at: '2025-10-09T14:07:32Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
