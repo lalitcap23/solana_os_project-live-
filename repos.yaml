@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14565
+    stars: 14566
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-09T04:00:45Z'
+    updated_at: '2025-10-09T04:55:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -540,11 +540,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 717
+    stars: 718
     contributors: 25
     last_activity: v0.44.1 (Aug 25, 2025)
     archived: false
-    updated_at: '2025-09-30T22:18:33Z'
+    updated_at: '2025-10-09T05:00:45Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T04:19:13Z'
+    updated_at: '2025-10-09T05:16:08Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
