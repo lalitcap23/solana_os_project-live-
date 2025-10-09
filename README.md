@@ -51,7 +51,7 @@ Last updated: 2025-10-09
 | znap | Performance-first Rust Framework to build APIs compatible with the Solana Actions Spec. | https://github.com/heavy-duty/znap | 70 | 4 | 0.1.36 (Aug 29, 2024) | SDKs & Tooling |
 | sol-ctf-framework | Framework for Solana CTF challenges | https://github.com/otter-sec/sol-ctf-framework | 69 | 6 | Last commit (May 24, 2025) | SDKs & Tooling |
 | ethereum-boilerplate | The ultimate NextJS Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called "Ethereum Boilerplate" it works with any EVM system and since it uses Moralis SDK You can even use it on Solana!  Happy BUIDL!👷‍♂️ | https://github.com/ethereum-boilerplate/ethereum-boilerplate | 4.1k | 12 | Last commit (Apr 26, 2023) | SDKs & Tooling |
-| kit | Solana JavaScript SDK | https://github.com/anza-xyz/kit | 562 | 147 | v4.0.0 (Oct 08, 2025) | SDKs & Tooling |
+| kit | Solana JavaScript SDK | https://github.com/anza-xyz/kit | 563 | 147 | v4.0.0 (Oct 08, 2025) | SDKs & Tooling |
 | js-wallet-sdk | Multi-chain typescript signature sdk, supports bitcoin, ethereum, solana, cosmos, etc. | https://github.com/okx/js-wallet-sdk | 353 | 13 | Last commit (Oct 09, 2025) | SDKs & Tooling |
 | program-examples | A repository of Solana program examples | https://github.com/solana-developers/program-examples | 1.3k | 46 | Last commit (Sep 24, 2025) | SDKs & Tooling |
 | Solana_Dice_SmartContract | This project is a simple on-chain Dice Game smart contract built for the Solana blockchain using Rust and the Anchor framework. It demonstrates the fundamentals of Solana program development, including instruction handling, randomness simulation, state management, and token transfers. | https://github.com/kinexbt/Solana_Dice_SmartContract | 587 | 1 | Last commit (Aug 29, 2025) | SDKs & Tooling |
@@ -72,7 +72,7 @@ Last updated: 2025-10-09
 | anchor-escrow | Escrow program implemented in Anchor | https://github.com/ironaddicteddog/anchor-escrow | 193 | 3 | Last commit (Aug 29, 2024) | SDKs & Tooling |
 | pumpfun-rs | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. | https://github.com/nhuxhr/pumpfun-rs | 151 | 5 | Last commit (Oct 01, 2025) | SDKs & Tooling |
 | Solana-Auditors-Bootcamp | Learn to audit Solana programs and help secure the ecosystem. Take your security practices to the next level and get certified by Ackee Blockchain Security. It's free, too. | https://github.com/Ackee-Blockchain/Solana-Auditors-Bootcamp | 142 | 2 | Last commit (Sep 23, 2024) | SDKs & Tooling |
-| radar | A static analysis tool for anchor rust programs. | https://github.com/Auditware/radar | 104 | 4 | Last commit (Oct 03, 2025) | SDKs & Tooling |
+| radar | A static analysis tool for anchor rust programs. | https://github.com/Auditware/radar | 105 | 4 | Last commit (Oct 03, 2025) | SDKs & Tooling |
 | odoo-solana-payments | Allows you to accept a variety of currencies (USDT, USDC, BTC, SOL) via the solana blockchain | https://github.com/t-900-a/odoo-solana-payments | 11 | 1 | Archived; Last commit (Nov 18, 2020) | SDKs & Tooling |
 | solana-sign-with-payment | Prove ownership of a Solana address by asking the user to send a small amount | https://github.com/kizzx2/solana-sign-with-payment | 8 | 1 | Last commit (May 19, 2022) | SDKs & Tooling |
 | pumpfun-smartcontract-solana | Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract SDK) | https://github.com/printz-labs/pumpfun-smartcontract-solana | — | — | Active | SDKs & Tooling |
@@ -174,6 +174,7 @@ Last updated: 2025-10-09
 | solana-txn | A simple transaction listener that subscribes to blocks on Solana using the Rust programming language | https://github.com/JoshuaSum/solana-txn | 73 | 1 | Last commit (Jun 13, 2024) | DeFi |
 | identity-swap | An Automatic Money Market (AMM) dApp that  demonstrates the concept of Decentralised Identity on the  Solana SPL Token-Swap program. | https://github.com/civicteam/identity-swap | 33 | 2 | Last commit (Nov 12, 2020) | DeFi |
 | Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 78 | 1 | Last commit (Sep 17, 2025) | DeFi |
+| NEW Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | Multichain Web3 Framework — supports Pump.fun (Solana), Four.meme (BNB), and Xpad.fun (EVM) with smart contracts, backend, and frontend integrations. Compatible with Raydium, Meteora, Pumpswap, and Uniswap on Solana & EVM (Monad, BNB, Ethereum L1/L2). | https://github.com/Tru3Bliss/Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | 214 | 1 | Last commit (Jun 20, 2025) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 61 | 5 | Last commit (Sep 09, 2025) | Oracles |
 
 - Stars/Contributors: Snapshot values; “—” indicates to-be-filled or varies (especially for org-level entries or during repo migrations).

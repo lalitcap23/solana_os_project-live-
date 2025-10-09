@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-09T16:29:30Z'
+    updated_at: '2025-10-09T16:37:58Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4687
+    stars: 4688
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T16:01:20Z'
+    updated_at: '2025-10-09T16:45:24Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4687
+    stars: 4688
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T16:01:20Z'
+    updated_at: '2025-10-09T16:45:24Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 562
+    stars: 563
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-09T09:10:41Z'
+    updated_at: '2025-10-09T17:12:12Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T16:21:14Z'
+    updated_at: '2025-10-09T17:14:50Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 104
+    stars: 105
     contributors: 4
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-03T13:21:10Z'
+    updated_at: '2025-10-09T17:04:47Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1727,6 +1727,21 @@ repositories:
     archived: false
     updated_at: '2025-10-01T12:45:16Z'
     language: TypeScript
+- name: Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun
+  repo: Tru3Bliss/Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun
+  description: Multichain Web3 Framework — supports Pump.fun (Solana), Four.meme (BNB),
+    and Xpad.fun (EVM) with smart contracts, backend, and frontend integrations. Compatible
+    with Raydium, Meteora, Pumpswap, and Uniswap on Solana & EVM (Monad, BNB, Ethereum
+    L1/L2).
+  category: DeFi
+  stars: 214
+  stats:
+    stars: 214
+    contributors: 1
+    last_activity: Last commit (Jun 20, 2025)
+    archived: false
+    updated_at: '2025-10-09T16:55:25Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
