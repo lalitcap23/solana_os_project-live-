@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14566
+    stars: 14565
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-09T04:55:49Z'
+    updated_at: '2025-10-09T06:07:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -343,9 +343,9 @@ repositories:
   stats:
     stars: 197
     contributors: 1
-    last_activity: Last commit (Aug 26, 2025)
+    last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T01:40:34Z'
+    updated_at: '2025-10-09T06:28:06Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T05:16:08Z'
+    updated_at: '2025-10-09T06:24:59Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 57
     contributors: 6
-    last_activity: Last commit (Sep 30, 2025)
+    last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-05T10:19:31Z'
+    updated_at: '2025-10-09T06:14:15Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
