@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4684
+    stars: 4685
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T03:31:00Z'
+    updated_at: '2025-10-09T07:18:32Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4684
+    stars: 4685
     contributors: 301
     last_activity: v0.32.0 (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T03:31:00Z'
+    updated_at: '2025-10-09T07:18:32Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 348
+    stars: 349
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-08T14:31:30Z'
+    updated_at: '2025-10-09T06:51:38Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T06:24:59Z'
+    updated_at: '2025-10-09T07:15:31Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -919,11 +919,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 311
+    stars: 312
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2025-09-29T19:53:06Z'
+    updated_at: '2025-10-09T07:11:11Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 348
+    stars: 349
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-08T14:31:30Z'
+    updated_at: '2025-10-09T06:51:38Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 69
+    stars: 68
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-08T15:06:56Z'
+    updated_at: '2025-10-09T06:46:16Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
