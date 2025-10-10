@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 236
+    stars: 237
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-10-07T02:35:25Z'
+    updated_at: '2025-10-10T04:36:49Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-10T04:18:53Z'
+    updated_at: '2025-10-10T05:16:05Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
