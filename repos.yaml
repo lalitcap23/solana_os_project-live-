@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-10T09:33:43Z'
+    updated_at: '2025-10-10T11:39:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 212
+    stars: 213
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-10T07:36:36Z'
+    updated_at: '2025-10-10T11:42:51Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 280
+    stars: 281
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-10-06T14:06:23Z'
+    updated_at: '2025-10-10T11:34:55Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-10T11:14:06Z'
+    updated_at: '2025-10-10T12:33:33Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 551
     contributors: 2
-    last_activity: Last commit (Oct 08, 2025)
+    last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-08T10:50:20Z'
+    updated_at: '2025-10-10T12:29:45Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1738,9 +1738,9 @@ repositories:
   stats:
     stars: 215
     contributors: 1
-    last_activity: Last commit (Jun 20, 2025)
+    last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-10T09:54:02Z'
+    updated_at: '2025-10-10T12:34:07Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
