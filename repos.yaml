@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4150
+    stars: 4149
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-10T01:32:18Z'
+    updated_at: '2025-10-10T10:57:55Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-10T10:17:11Z'
+    updated_at: '2025-10-10T11:14:06Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
