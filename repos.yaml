@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-10T11:39:32Z'
+    updated_at: '2025-10-10T12:58:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-10T12:33:33Z'
+    updated_at: '2025-10-10T13:25:19Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 186
+    stars: 187
     contributors: 6
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-09T20:18:07Z'
+    updated_at: '2025-10-10T12:54:38Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1492,11 +1492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 38
   stats:
-    stars: 39
+    stars: 40
     contributors: 1
     last_activity: Last commit (Dec 15, 2020)
     archived: false
-    updated_at: '2025-09-19T16:04:34Z'
+    updated_at: '2025-10-10T13:27:23Z'
     language: Rust
 - name: Solana-Memecoin-CLI
   repo: earthskyorg/Solana-Memecoin-CLI
