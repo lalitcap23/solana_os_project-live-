@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 470
+    stars: 471
     contributors: 30
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-10-10T05:30:20Z'
+    updated_at: '2025-10-11T00:50:46Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 328
+    stars: 329
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-10-08T22:06:18Z'
+    updated_at: '2025-10-10T23:26:02Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 546
     contributors: 2
-    last_activity: Last commit (Oct 10, 2025)
+    last_activity: Last commit (Oct 11, 2025)
     archived: false
-    updated_at: '2025-10-10T23:14:02Z'
+    updated_at: '2025-10-11T01:09:28Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
