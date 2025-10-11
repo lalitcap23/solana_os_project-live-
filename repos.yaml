@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14567
+    stars: 14568
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-11T04:50:58Z'
+    updated_at: '2025-10-11T11:36:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1427
+    stars: 1428
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-11T09:21:02Z'
+    updated_at: '2025-10-11T11:36:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 341
+    stars: 340
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-03T11:53:41Z'
+    updated_at: '2025-10-11T11:39:00Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 11, 2025)
     archived: false
-    updated_at: '2025-10-11T11:11:46Z'
+    updated_at: '2025-10-11T12:29:01Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -944,11 +944,11 @@ repositories:
   category: SDKs & Tooling
   stars: 193
   stats:
-    stars: 193
+    stars: 194
     contributors: 3
     last_activity: Last commit (Aug 29, 2024)
     archived: false
-    updated_at: '2025-08-02T01:14:00Z'
+    updated_at: '2025-10-11T12:12:45Z'
     language: Rust
 - name: pumpfun-rs
   repo: nhuxhr/pumpfun-rs
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 143
+    stars: 142
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-10-10T21:22:04Z'
+    updated_at: '2025-10-11T11:38:55Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 201
+    stars: 202
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-07T18:17:09Z'
+    updated_at: '2025-10-11T12:26:39Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
