@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14569
+    stars: 14570
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-11T13:31:31Z'
+    updated_at: '2025-10-11T15:14:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 11, 2025)
     archived: false
-    updated_at: '2025-10-11T14:12:31Z'
+    updated_at: '2025-10-11T15:12:44Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 142
+    stars: 143
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-10-11T11:38:55Z'
+    updated_at: '2025-10-11T14:36:09Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
