@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-12T11:11:38Z'
+    updated_at: '2025-10-12T12:29:04Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 188
     contributors: 6
-    last_activity: Last commit (Oct 08, 2025)
+    last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-12T02:07:54Z'
+    updated_at: '2025-10-12T12:30:46Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
