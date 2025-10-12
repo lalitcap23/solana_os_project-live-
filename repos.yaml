@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 291
+    stars: 292
     contributors: 1
     last_activity: Last commit (Aug 26, 2025)
     archived: false
-    updated_at: '2025-10-09T14:44:27Z'
+    updated_at: '2025-10-12T02:12:50Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-12T01:15:19Z'
+    updated_at: '2025-10-12T02:59:46Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 187
+    stars: 188
     contributors: 6
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-10T12:54:38Z'
+    updated_at: '2025-10-12T02:07:54Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
