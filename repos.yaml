@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4695
+    stars: 4696
     contributors: 302
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-12T03:41:05Z'
+    updated_at: '2025-10-12T17:46:22Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 301
+    stars: 302
     contributors: 18
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-12T06:48:07Z'
+    updated_at: '2025-10-12T17:43:10Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4695
+    stars: 4696
     contributors: 302
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-12T03:41:05Z'
+    updated_at: '2025-10-12T17:46:22Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-12T17:12:08Z'
+    updated_at: '2025-10-12T18:20:25Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 59
+    stars: 60
     contributors: 6
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-12T10:54:50Z'
+    updated_at: '2025-10-12T17:35:20Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
