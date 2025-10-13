@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-13T15:18:42Z'
+    updated_at: '2025-10-13T17:10:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -144,7 +144,7 @@ repositories:
     contributors: 18
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-12T17:43:10Z'
+    updated_at: '2025-10-13T16:41:17Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-13T16:19:32Z'
+    updated_at: '2025-10-13T17:14:06Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 547
+    stars: 548
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-12T09:51:58Z'
+    updated_at: '2025-10-13T17:13:28Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
