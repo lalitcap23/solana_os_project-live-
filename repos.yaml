@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 237
+    stars: 238
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-10-10T04:36:49Z'
+    updated_at: '2025-10-12T23:43:55Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 354
+    stars: 355
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-09T23:12:38Z'
+    updated_at: '2025-10-13T01:19:29Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3365
+    stars: 3366
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-12T03:25:35Z'
+    updated_at: '2025-10-12T23:37:43Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 546
     contributors: 2
-    last_activity: Last commit (Oct 12, 2025)
+    last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-12T23:13:30Z'
+    updated_at: '2025-10-13T01:17:08Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1389,11 +1389,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 35
+    stars: 36
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2025-10-04T14:27:59Z'
+    updated_at: '2025-10-12T23:36:19Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
