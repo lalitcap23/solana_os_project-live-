@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-13T09:19:31Z'
+    updated_at: '2025-10-13T10:19:38Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 60
     contributors: 6
-    last_activity: Last commit (Oct 09, 2025)
+    last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-12T17:35:20Z'
+    updated_at: '2025-10-13T10:08:54Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 116
+    stars: 117
     contributors: 1
     last_activity: Last commit (Apr 21, 2025)
     archived: false
-    updated_at: '2025-10-12T13:17:40Z'
+    updated_at: '2025-10-13T09:38:27Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
