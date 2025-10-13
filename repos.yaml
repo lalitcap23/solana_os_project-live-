@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 363
     last_activity: v2.3.11 (Sep 26, 2025)
     archived: false
-    updated_at: '2025-10-13T04:12:31Z'
+    updated_at: '2025-10-13T12:45:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: vote-interface@v4.0.3 (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-13T09:16:30Z'
+    updated_at: '2025-10-13T12:44:38Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-13T11:14:01Z'
+    updated_at: '2025-10-13T12:33:56Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 262
+    stars: 263
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-07T13:44:57Z'
+    updated_at: '2025-10-13T11:24:48Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
