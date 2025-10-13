@@ -151,7 +151,7 @@ Last updated: 2025-10-13
 | Solana-Token-Payment-Gateway | Process Solana Net-assembly Token payments and setup Solana webhook for payment notifications. HTML payment form to embed into website, payment QRcode, or payment link. | https://github.com/paracetamol951/Solana-Token-Payment-Gateway | 4 | 1 | Last commit (Sep 12, 2025) | Payments |
 | woocommerce-payment-gateway | StreamPay - WooCommerce + Solana and USDC Payment Gateway | https://github.com/stream-protocol/woocommerce-payment-gateway | 4 | 2 | Last commit (Dec 30, 2022) | Payments |
 | svm-pay | pay and accept payments from anywhere in the world from any solana-vm based network!  works in any country even in space! | https://github.com/openSVM/svm-pay | 4 | 2 | v1.1.0 (Jun 27, 2025) | Payments |
-| StablePay | Enterprise-grade stablecoin payment processor built on Solana that leverages Perena's stablecoin infrastructure. | https://github.com/FarseenSh/StablePay | 9 | 2 | Last commit (May 27, 2025) | Payments |
+| StablePay | Enterprise-grade stablecoin payment processor built on Solana that leverages Perena's stablecoin infrastructure. | https://github.com/FarseenSh/StablePay | 10 | 2 | Last commit (May 27, 2025) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 215 | 2 | v6.0.62 (Aug 18, 2025) | DeFi |
 | carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 473 | 30 | v0.10.0 (Sep 16, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 183 | 4 | Last commit (Aug 21, 2025) | DeFi |
