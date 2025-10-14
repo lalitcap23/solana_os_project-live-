@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4700
-    contributors: 302
+    contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-14T02:18:21Z'
+    updated_at: '2025-10-14T03:33:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 4700
-    contributors: 302
+    contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-14T02:18:21Z'
+    updated_at: '2025-10-14T03:33:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 564
+    stars: 565
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-12T08:24:16Z'
+    updated_at: '2025-10-14T04:27:38Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 301
+    stars: 302
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-10-05T12:04:58Z'
+    updated_at: '2025-10-14T04:25:22Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T02:58:20Z'
+    updated_at: '2025-10-14T04:19:25Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
