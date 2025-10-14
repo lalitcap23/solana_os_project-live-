@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-14T20:14:52Z'
+    updated_at: '2025-10-14T21:14:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 473
+    stars: 474
     contributors: 30
     last_activity: v0.10.0 (Sep 16, 2025)
     archived: false
-    updated_at: '2025-10-12T00:03:51Z'
+    updated_at: '2025-10-14T21:19:34Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
