@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: bls-signatures@v1.0.0 (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T10:54:38Z'
+    updated_at: '2025-10-14T22:25:35Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
