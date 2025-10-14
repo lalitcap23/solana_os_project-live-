@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-14T16:34:52Z'
+    updated_at: '2025-10-14T17:49:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -483,7 +483,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-13T03:13:19Z'
+    updated_at: '2025-10-14T18:24:36Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T17:14:26Z'
+    updated_at: '2025-10-14T17:46:20Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 860
+    stars: 861
     contributors: 28
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T14:00:15Z'
+    updated_at: '2025-10-14T17:30:24Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
