@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1438
+    stars: 1439
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-14T14:15:52Z'
+    updated_at: '2025-10-14T15:09:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T14:17:09Z'
+    updated_at: '2025-10-14T15:18:13Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 71
+    stars: 72
     contributors: 12
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-10-14T07:54:01Z'
+    updated_at: '2025-10-14T14:44:13Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
