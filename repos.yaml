@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3366
+    stars: 3367
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-12T23:37:43Z'
+    updated_at: '2025-10-14T06:22:34Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -745,7 +745,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-14T05:15:37Z'
+    updated_at: '2025-10-14T06:24:47Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1271,7 +1271,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jun 26, 2025)
     archived: false
-    updated_at: '2025-10-07T00:25:20Z'
+    updated_at: '2025-10-14T06:02:39Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
