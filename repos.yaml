@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14576
+    stars: 14577
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-15T00:52:14Z'
+    updated_at: '2025-10-15T08:43:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T05:50:29Z'
+    updated_at: '2025-10-15T09:21:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4705
+    stars: 4707
     contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T04:22:45Z'
+    updated_at: '2025-10-15T08:51:29Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4705
+    stars: 4707
     contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T04:22:45Z'
+    updated_at: '2025-10-15T08:51:29Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 293
+    stars: 294
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-14T13:21:16Z'
+    updated_at: '2025-10-15T09:15:31Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3365
+    stars: 3366
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-15T07:12:59Z'
+    updated_at: '2025-10-15T09:15:00Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -564,11 +564,11 @@ repositories:
   category: NFTs & Programs
   stars: 270
   stats:
-    stars: 269
+    stars: 270
     contributors: 11
     last_activity: Last commit (Apr 25, 2022)
     archived: false
-    updated_at: '2025-10-14T13:20:47Z'
+    updated_at: '2025-10-15T09:15:04Z'
     language: TypeScript
 - name: shank
   repo: metaplex-foundation/shank
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 193
+    stars: 194
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-10-14T13:21:17Z'
+    updated_at: '2025-10-15T09:15:32Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 551
+    stars: 552
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-12T15:54:48Z'
+    updated_at: '2025-10-15T08:38:53Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -845,11 +845,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 120
+    stars: 121
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2025-10-14T13:21:11Z'
+    updated_at: '2025-10-15T09:15:26Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 861
+    stars: 862
     contributors: 28
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-15T06:24:06Z'
+    updated_at: '2025-10-15T09:11:07Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 71
+    stars: 72
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2025-10-14T13:21:15Z'
+    updated_at: '2025-10-15T09:15:30Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 116
+    stars: 117
     contributors: 1
     last_activity: Last commit (Apr 21, 2025)
     archived: false
-    updated_at: '2025-10-14T13:21:16Z'
+    updated_at: '2025-10-15T09:15:31Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
