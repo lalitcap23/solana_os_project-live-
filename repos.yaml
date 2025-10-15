@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T17:19:14Z'
+    updated_at: '2025-10-15T19:42:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 475
+    stars: 476
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-10-04T12:54:08Z'
+    updated_at: '2025-10-15T20:02:56Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
