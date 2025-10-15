@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 565
+    stars: 566
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-14T04:27:38Z'
+    updated_at: '2025-10-15T02:59:26Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 292
+    stars: 293
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-13T21:48:12Z'
+    updated_at: '2025-10-15T02:40:40Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
