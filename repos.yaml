@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T09:21:19Z'
+    updated_at: '2025-10-15T10:18:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -343,9 +343,9 @@ repositories:
   stats:
     stars: 197
     contributors: 1
-    last_activity: Last commit (Oct 09, 2025)
+    last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-09T06:28:06Z'
+    updated_at: '2025-10-15T10:24:05Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -1742,6 +1742,20 @@ repositories:
     archived: false
     updated_at: '2025-10-13T23:56:02Z'
     language: Rust
+- name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
+  repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
+  description: Multi-wallet bundler for Solana token launches on pump.fun/pumpfun,
+    bonk.fun/bonkfun, letsbonk, and bags.fm. Atomic execution with Jito bundles and
+    Raydium SDK v2. MEV-protected trading bot with dual Jito/Lil Jito support.
+  category: Wallets & Mobile
+  stars: 197
+  stats:
+    stars: 197
+    contributors: 1
+    last_activity: Last commit (Oct 15, 2025)
+    archived: false
+    updated_at: '2025-10-15T10:24:05Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
