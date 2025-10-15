@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14577
+    stars: 14578
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-15T16:17:27Z'
+    updated_at: '2025-10-15T17:57:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -141,10 +141,10 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 302
-    contributors: 18
+    contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-13T20:50:44Z'
+    updated_at: '2025-10-15T17:51:56Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3366
+    stars: 3367
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-15T09:15:00Z'
+    updated_at: '2025-10-15T17:45:40Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
