@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T15:48:04Z'
+    updated_at: '2025-10-15T17:19:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 68
+    stars: 69
     contributors: 10
-    last_activity: v0.26.1 (Oct 02, 2025)
+    last_activity: v0.26.2 (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-14T02:35:55Z'
+    updated_at: '2025-10-15T17:11:07Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
