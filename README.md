@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-10-14
+Last updated: 2025-10-15
 
 ## Directory
 
@@ -90,7 +90,7 @@ Last updated: 2025-10-14
 | native-to-anchor | Generate Anchor IDL for Native Solana Programs. | https://github.com/acheroncrypto/native-to-anchor | 140 | 1 | Last commit (Aug 21, 2022) | SDKs & Tooling |
 | solana-token-kit | Solana Token Kit for creating, launching and managing Solana SPL Tokens | https://github.com/wurambo/solana-token-kit | 47 | 1 | Last commit (May 10, 2024) | SDKs & Tooling |
 | spl-token-faucet | Solana program that makes Token Faucets possible | https://github.com/paul-schaaf/spl-token-faucet | 40 | 1 | Last commit (Dec 15, 2020) | SDKs & Tooling |
-| pumpfun-sdk | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.  Resources | https://github.com/0xfnzero/pumpfun-sdk | 71 | 2 | Last commit (Oct 08, 2025) | SDKs & Tooling |
+| pumpfun-sdk | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.  Resources | https://github.com/0xfnzero/pumpfun-sdk | 72 | 2 | Last commit (Oct 08, 2025) | SDKs & Tooling |
 | IDLGuesser | IDL Guesser is an open-source tool that automatically recovers the IDL information from closed-source Anchor-based Solana programs. | https://github.com/sec3-service/IDLGuesser | 147 | 2 | Last commit (Aug 12, 2025) | SDKs & Tooling |
 | Pump.fun-Smart-Contract | This is a forked version of Pump.fun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun smart contract development Tool, Pumpfun smart contract SDK) | https://github.com/justshiftjk/Pump.fun-Smart-Contract | 116 | 1 | Last commit (Apr 21, 2025) | SDKs & Tooling |
 | solana-cli-program-template | A template with cookie cutter CLI, Program and Integration tests for Solana blockchain | https://github.com/hashblock/solana-cli-program-template | 51 | 1 | Last commit (Dec 31, 2022) | SDKs & Tooling |
@@ -122,7 +122,7 @@ Last updated: 2025-10-14
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 719 | 25 | v0.44.1 (Aug 25, 2025) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 637 | 64 | Last commit (Oct 02, 2025) | NFTs & Programs |
 | treat-toolbox | Treat Toolbox: Generative NFT Utility for Candy Machine / Solana | https://github.com/theskeletoncrew/treat-toolbox | 269 | 11 | Last commit (Apr 25, 2022) | NFTs & Programs |
-| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 196 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
+| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 197 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
 | compressed-nfts | Example code to use compressed NFTs (using state compression) on Solana | https://github.com/solana-developers/compressed-nfts | 126 | 2 | Last commit (Jan 18, 2024) | NFTs & Programs |
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 120 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 110 | 18 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |

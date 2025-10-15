@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14575
+    stars: 14576
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-14T15:53:22Z'
+    updated_at: '2025-10-15T00:52:14Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 196
+    stars: 197
     contributors: 7
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-10-07T12:45:12Z'
+    updated_at: '2025-10-15T01:37:12Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 71
+    stars: 72
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-14T05:22:52Z'
+    updated_at: '2025-10-15T00:06:58Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
