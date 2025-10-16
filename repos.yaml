@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-16T07:20:05Z'
+    updated_at: '2025-10-16T11:57:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: bls-signatures@v1.0.0 (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-15T13:28:25Z'
+    updated_at: '2025-10-16T12:16:20Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
