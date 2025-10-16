@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4709
+    stars: 4710
     contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T13:03:02Z'
+    updated_at: '2025-10-16T08:22:05Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4709
+    stars: 4710
     contributors: 303
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T13:03:02Z'
+    updated_at: '2025-10-16T08:22:05Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -831,11 +831,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 164
+    stars: 163
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-10-03T02:08:28Z'
+    updated_at: '2025-10-16T08:15:24Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 93
+    stars: 92
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-10-08T16:51:11Z'
+    updated_at: '2025-10-16T08:17:06Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1058,11 +1058,11 @@ repositories:
   category: SDKs & Tooling
   stars: 10
   stats:
-    stars: 11
+    stars: 10
     contributors: 1
     last_activity: Last commit (Nov 18, 2020)
     archived: true
-    updated_at: '2025-10-06T14:45:22Z'
+    updated_at: '2025-10-16T08:17:27Z'
     language: Python
 - name: wc-solana-pay
   repo: aztemi/wc-solana-pay
