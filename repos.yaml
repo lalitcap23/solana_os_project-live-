@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14578
+    stars: 14579
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-15T17:57:59Z'
+    updated_at: '2025-10-16T10:04:15Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4109
+    stars: 4110
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-14T08:43:10Z'
+    updated_at: '2025-10-16T09:37:23Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 566
+    stars: 567
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-15T02:59:26Z'
+    updated_at: '2025-10-16T10:24:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 356
+    stars: 357
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-14T14:00:41Z'
+    updated_at: '2025-10-16T10:06:43Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
