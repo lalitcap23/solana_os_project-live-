@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14579
+    stars: 14580
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-16T10:04:15Z'
+    updated_at: '2025-10-16T22:30:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -678,11 +678,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 9
+    stars: 10
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-10-08T16:07:06Z'
+    updated_at: '2025-10-16T22:22:38Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
