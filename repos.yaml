@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 567
+    stars: 568
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-16T10:24:00Z'
+    updated_at: '2025-10-16T20:44:02Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 295
+    stars: 297
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-16T19:25:16Z'
+    updated_at: '2025-10-16T21:19:07Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
