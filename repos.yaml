@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 146
+    stars: 147
     contributors: 152
     last_activity: bls-signatures@v1.0.0 (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-16T12:16:20Z'
+    updated_at: '2025-10-16T13:35:01Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 862
     contributors: 28
-    last_activity: Last commit (Oct 15, 2025)
+    last_activity: Last commit (Oct 16, 2025)
     archived: false
-    updated_at: '2025-10-15T14:02:15Z'
+    updated_at: '2025-10-16T13:59:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 188
     contributors: 6
-    last_activity: Last commit (Oct 14, 2025)
+    last_activity: Last commit (Oct 16, 2025)
     archived: false
-    updated_at: '2025-10-14T09:34:14Z'
+    updated_at: '2025-10-16T14:20:18Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
