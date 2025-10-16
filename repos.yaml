@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-15T22:06:22Z'
+    updated_at: '2025-10-16T01:45:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 292
+    stars: 291
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-15T22:39:47Z'
+    updated_at: '2025-10-15T23:24:01Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 343
+    stars: 344
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-14T18:35:51Z'
+    updated_at: '2025-10-16T01:33:46Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -944,11 +944,11 @@ repositories:
   category: SDKs & Tooling
   stars: 193
   stats:
-    stars: 194
+    stars: 195
     contributors: 3
     last_activity: Last commit (Aug 29, 2024)
     archived: false
-    updated_at: '2025-10-11T12:12:45Z'
+    updated_at: '2025-10-16T00:27:53Z'
     language: Rust
 - name: pumpfun-rs
   repo: nhuxhr/pumpfun-rs
