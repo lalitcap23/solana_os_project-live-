@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-17T02:42:43Z'
+    updated_at: '2025-10-17T04:39:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 186
+    stars: 187
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-16T08:55:40Z'
+    updated_at: '2025-10-17T05:17:13Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1286
+    stars: 1287
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-17T01:12:54Z'
+    updated_at: '2025-10-17T05:16:16Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 281
+    stars: 282
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-16T08:55:40Z'
+    updated_at: '2025-10-17T05:17:15Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 552
+    stars: 553
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-15T08:38:53Z'
+    updated_at: '2025-10-17T05:13:33Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 186
+    stars: 187
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-16T08:55:40Z'
+    updated_at: '2025-10-17T05:17:13Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
