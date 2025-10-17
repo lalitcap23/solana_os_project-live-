@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 108
+    stars: 109
     contributors: 7
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-14T15:36:24Z'
+    updated_at: '2025-10-17T16:07:54Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
