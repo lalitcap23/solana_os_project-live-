@@ -817,11 +817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 196
+    stars: 197
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-10-11T17:28:17Z'
+    updated_at: '2025-10-17T07:22:17Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
