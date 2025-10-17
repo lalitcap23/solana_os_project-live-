@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: bls-signatures@v1.0.0 (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-16T13:35:01Z'
+    updated_at: '2025-10-17T00:18:26Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4149
+    stars: 4150
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-14T11:06:17Z'
+    updated_at: '2025-10-17T00:24:44Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 353
+    stars: 354
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-15T13:02:26Z'
+    updated_at: '2025-10-16T23:28:33Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1285
+    stars: 1286
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-16T05:39:53Z'
+    updated_at: '2025-10-17T01:12:54Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 353
+    stars: 354
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-15T13:02:26Z'
+    updated_at: '2025-10-16T23:28:33Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
