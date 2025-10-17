@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-17T02:22:49Z'
+    updated_at: '2025-10-17T20:42:39Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 300
+    stars: 304
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-17T17:07:45Z'
+    updated_at: '2025-10-17T20:45:54Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
