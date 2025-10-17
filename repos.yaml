@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-16T20:01:25Z'
+    updated_at: '2025-10-17T02:42:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 147
     contributors: 152
-    last_activity: bls-signatures@v1.0.0 (Oct 14, 2025)
+    last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-17T00:18:26Z'
+    updated_at: '2025-10-17T02:22:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 413
+    stars: 414
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-10-15T11:41:34Z'
+    updated_at: '2025-10-17T02:43:07Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 238
+    stars: 239
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-07T09:52:23Z'
+    updated_at: '2025-10-17T02:14:41Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
