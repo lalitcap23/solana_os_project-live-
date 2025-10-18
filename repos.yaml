@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1447
+    stars: 1448
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-18T17:03:17Z'
+    updated_at: '2025-10-18T22:29:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 478
+    stars: 479
     contributors: 30
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-18T21:17:24Z'
+    updated_at: '2025-10-18T22:26:14Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
