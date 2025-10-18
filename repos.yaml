@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 354
+    stars: 355
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-16T23:28:33Z'
+    updated_at: '2025-10-18T20:18:10Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -540,11 +540,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 720
+    stars: 721
     contributors: 25
     last_activity: v0.44.1 (Aug 25, 2025)
     archived: false
-    updated_at: '2025-10-15T21:45:07Z'
+    updated_at: '2025-10-18T19:28:12Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 863
+    stars: 865
     contributors: 28
     last_activity: Last commit (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-18T13:57:13Z'
+    updated_at: '2025-10-18T20:14:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 354
+    stars: 355
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-16T23:28:33Z'
+    updated_at: '2025-10-18T20:18:10Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
