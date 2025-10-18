@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 357
+    stars: 358
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-16T10:06:43Z'
+    updated_at: '2025-10-18T03:48:34Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 283
+    stars: 284
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-18T01:55:11Z'
+    updated_at: '2025-10-18T03:45:24Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
