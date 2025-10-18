@@ -188,7 +188,7 @@ repositories:
   stats:
     stars: 476
     contributors: 30
-    last_activity: v0.10.0 (Sep 16, 2025)
+    last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
     updated_at: '2025-10-18T09:28:33Z'
     language: Rust
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 548
+    stars: 549
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-16T18:06:28Z'
+    updated_at: '2025-10-18T10:43:26Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 152
+    stars: 153
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-15T11:34:06Z'
+    updated_at: '2025-10-18T11:12:37Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
