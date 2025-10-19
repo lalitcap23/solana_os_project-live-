@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 569
+    stars: 570
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-18T08:14:29Z'
+    updated_at: '2025-10-19T14:48:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 356
+    stars: 357
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-19T06:50:18Z'
+    updated_at: '2025-10-19T14:47:04Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 356
+    stars: 357
     contributors: 23
     last_activity: Last commit (Oct 03, 2025)
     archived: false
-    updated_at: '2025-10-19T06:50:18Z'
+    updated_at: '2025-10-19T14:47:04Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
