@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2637
+    stars: 2638
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-15T21:44:51Z'
+    updated_at: '2025-10-19T03:37:05Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 60
     contributors: 6
-    last_activity: Last commit (Oct 14, 2025)
+    last_activity: Last commit (Oct 19, 2025)
     archived: false
-    updated_at: '2025-10-14T10:32:57Z'
+    updated_at: '2025-10-19T03:24:47Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
