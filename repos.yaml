@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14583
+    stars: 14585
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-18T21:42:59Z'
+    updated_at: '2025-10-19T00:48:42Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 330
+    stars: 331
     contributors: 19
     last_activity: 0.11.0 (Aug 14, 2025)
     archived: false
-    updated_at: '2025-10-13T15:08:08Z'
+    updated_at: '2025-10-19T00:51:44Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 553
+    stars: 554
     contributors: 2
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-17T05:13:33Z'
+    updated_at: '2025-10-19T00:57:45Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -793,11 +793,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 208
+    stars: 209
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-10-08T15:24:06Z'
+    updated_at: '2025-10-19T00:10:08Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 188
+    stars: 189
     contributors: 6
     last_activity: Last commit (Oct 16, 2025)
     archived: false
-    updated_at: '2025-10-16T14:20:18Z'
+    updated_at: '2025-10-19T01:39:31Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
