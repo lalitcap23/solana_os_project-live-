@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14586
+    stars: 14585
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-19T13:53:04Z'
+    updated_at: '2025-10-19T18:42:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 218
+    stars: 219
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-10-16T15:47:05Z'
+    updated_at: '2025-10-19T18:39:57Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 358
+    stars: 359
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-18T03:48:34Z'
+    updated_at: '2025-10-19T19:11:20Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 188
+    stars: 189
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-18T21:47:33Z'
+    updated_at: '2025-10-19T18:39:41Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1289
+    stars: 1288
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-19T06:22:47Z'
+    updated_at: '2025-10-19T18:58:29Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 302
+    stars: 303
     contributors: 24
     last_activity: Last commit (Aug 03, 2025)
     archived: false
-    updated_at: '2025-10-14T04:25:22Z'
+    updated_at: '2025-10-19T18:47:34Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 188
+    stars: 189
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-18T21:47:33Z'
+    updated_at: '2025-10-19T18:39:41Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
