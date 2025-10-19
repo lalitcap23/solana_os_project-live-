@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-19T18:42:45Z'
+    updated_at: '2025-10-19T20:15:40Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1291,11 +1291,11 @@ repositories:
   category: SDKs & Tooling
   stars: 63
   stats:
-    stars: 65
+    stars: 66
     contributors: 10
     last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
     archived: false
-    updated_at: '2025-10-05T17:25:22Z'
+    updated_at: '2025-10-19T20:03:39Z'
     language: TypeScript
 - name: Solana-Token-Staking-Smart-Contract
   repo: cutupdev/Solana-Token-Staking-Smart-Contract
