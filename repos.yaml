@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1287
+    stars: 1288
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-17T05:16:16Z'
+    updated_at: '2025-10-19T02:06:45Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
