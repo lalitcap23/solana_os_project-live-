@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-20T13:05:28Z'
+    updated_at: '2025-10-20T14:15:08Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 148
+    stars: 149
     contributors: 152
     last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-19T12:56:36Z'
+    updated_at: '2025-10-20T13:58:14Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4113
+    stars: 4114
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-18T13:57:08Z'
+    updated_at: '2025-10-20T13:38:08Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3368
+    stars: 3369
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-18T08:00:55Z'
+    updated_at: '2025-10-20T13:44:03Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 552
+    stars: 553
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-20T13:32:59Z'
+    updated_at: '2025-10-20T13:42:14Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 865
     contributors: 28
-    last_activity: Last commit (Oct 19, 2025)
+    last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-19T14:03:13Z'
+    updated_at: '2025-10-20T13:55:06Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
