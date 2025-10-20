@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14589
+    stars: 14588
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-20T15:34:42Z'
+    updated_at: '2025-10-20T17:47:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-20T15:35:45Z'
+    updated_at: '2025-10-20T18:28:27Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 314
+    stars: 319
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-19T21:27:27Z'
+    updated_at: '2025-10-20T18:27:56Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 147
+    stars: 148
     contributors: 2
     last_activity: Last commit (Aug 12, 2025)
     archived: false
-    updated_at: '2025-10-10T20:54:54Z'
+    updated_at: '2025-10-20T18:07:32Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
