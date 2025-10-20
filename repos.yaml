@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14587
+    stars: 14588
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-20T10:49:36Z'
+    updated_at: '2025-10-20T14:32:24Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 570
+    stars: 571
     contributors: 147
     last_activity: v4.0.0 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-19T14:48:04Z'
+    updated_at: '2025-10-20T14:35:26Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 287
+    stars: 288
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-20T09:31:01Z'
+    updated_at: '2025-10-20T14:35:26Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 553
+    stars: 554
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-20T13:42:14Z'
+    updated_at: '2025-10-20T15:20:16Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 190
+    stars: 191
     contributors: 6
     last_activity: Last commit (Oct 16, 2025)
     archived: false
-    updated_at: '2025-10-20T01:09:24Z'
+    updated_at: '2025-10-20T14:40:15Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
