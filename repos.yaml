@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 281
+    stars: 282
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-10-10T11:34:55Z'
+    updated_at: '2025-10-20T05:22:39Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 120
+    stars: 121
     contributors: 1
     last_activity: Last commit (Oct 14, 2025)
     archived: false
-    updated_at: '2025-10-19T17:09:40Z'
+    updated_at: '2025-10-20T05:06:08Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
