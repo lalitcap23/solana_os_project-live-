@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 345
+    stars: 346
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-19T10:59:15Z'
+    updated_at: '2025-10-20T06:53:50Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 637
+    stars: 638
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-08T10:49:36Z'
+    updated_at: '2025-10-20T07:08:06Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
