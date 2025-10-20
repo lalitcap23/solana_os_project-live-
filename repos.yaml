@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-13T15:50:42Z'
+    updated_at: '2025-10-20T17:10:05Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 638
+    stars: 639
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-20T07:08:06Z'
+    updated_at: '2025-10-20T16:37:14Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
