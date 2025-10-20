@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1449
+    stars: 1450
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-19T13:18:24Z'
+    updated_at: '2025-10-20T01:30:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -779,11 +779,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 289
+    stars: 290
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2025-10-10T18:05:59Z'
+    updated_at: '2025-10-19T23:37:50Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 189
+    stars: 190
     contributors: 6
     last_activity: Last commit (Oct 16, 2025)
     archived: false
-    updated_at: '2025-10-19T01:39:31Z'
+    updated_at: '2025-10-20T01:09:24Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 60
     contributors: 6
-    last_activity: Last commit (Oct 19, 2025)
+    last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-19T15:57:39Z'
+    updated_at: '2025-10-20T01:28:17Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
