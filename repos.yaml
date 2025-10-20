@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-20T02:57:26Z'
+    updated_at: '2025-10-20T06:10:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 550
+    stars: 551
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-18T17:27:48Z'
+    updated_at: '2025-10-20T06:16:29Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
