@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2639
+    stars: 2640
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-20T08:29:51Z'
+    updated_at: '2025-10-21T08:05:34Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 194
+    stars: 195
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-10-15T09:15:32Z'
+    updated_at: '2025-10-21T07:32:35Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -743,7 +743,7 @@ repositories:
   stats:
     stars: 547
     contributors: 2
-    last_activity: No releases
+    last_activity: Last commit (Oct 14, 2025)
     archived: false
     updated_at: '2025-10-20T19:03:15Z'
     language: TypeScript
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 867
     contributors: 28
-    last_activity: Last commit (Oct 20, 2025)
+    last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T01:34:30Z'
+    updated_at: '2025-10-21T08:13:54Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
