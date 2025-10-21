@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-21T17:51:10Z'
+    updated_at: '2025-10-21T19:52:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1289
+    stars: 1290
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-21T15:42:32Z'
+    updated_at: '2025-10-21T20:00:23Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T18:20:49Z'
+    updated_at: '2025-10-21T20:27:44Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
