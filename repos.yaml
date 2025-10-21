@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-21T08:46:04Z'
+    updated_at: '2025-10-21T11:49:42Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-21T10:31:10Z'
+    updated_at: '2025-10-21T12:37:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2640
+    stars: 2641
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-21T08:05:34Z'
+    updated_at: '2025-10-21T12:42:53Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 415
+    stars: 416
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-10-17T06:13:07Z'
+    updated_at: '2025-10-21T11:21:45Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 481
-    contributors: 30
+    contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-21T09:50:01Z'
+    updated_at: '2025-10-21T12:29:26Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 319
+    stars: 324
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-20T18:27:56Z'
+    updated_at: '2025-10-21T11:38:05Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T11:06:07Z'
+    updated_at: '2025-10-21T11:59:38Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
