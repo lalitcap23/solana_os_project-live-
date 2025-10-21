@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14591
+    stars: 14592
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-21T06:35:39Z'
+    updated_at: '2025-10-21T08:46:04Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 124
+    stars: 125
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-21T03:29:00Z'
+    updated_at: '2025-10-21T08:44:17Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
