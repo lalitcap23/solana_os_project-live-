@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 117
+    stars: 116
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-20T09:38:27Z'
+    updated_at: '2025-10-21T22:06:18Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
