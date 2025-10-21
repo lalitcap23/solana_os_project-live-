@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-20T18:28:27Z'
+    updated_at: '2025-10-21T17:01:46Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 215
+    stars: 216
     contributors: 2
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-13T03:42:26Z'
+    updated_at: '2025-10-21T16:48:16Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -190,7 +190,7 @@ repositories:
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-21T12:29:26Z'
+    updated_at: '2025-10-21T16:33:57Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
