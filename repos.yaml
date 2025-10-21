@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4719
-    contributors: 303
+    contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-21T03:08:23Z'
+    updated_at: '2025-10-21T04:26:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 4719
-    contributors: 303
+    contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-21T03:08:23Z'
+    updated_at: '2025-10-21T04:26:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -678,11 +678,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 10
+    stars: 11
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-10-16T22:22:38Z'
+    updated_at: '2025-10-21T03:57:46Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -1162,10 +1162,10 @@ repositories:
   stars: 51
   stats:
     stars: 69
-    contributors: 10
+    contributors: 11
     last_activity: v0.26.2 (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-15T17:11:07Z'
+    updated_at: '2025-10-21T04:01:41Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 123
+    stars: 124
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-20T13:15:20Z'
+    updated_at: '2025-10-21T03:29:00Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
