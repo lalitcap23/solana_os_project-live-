@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14590
+    stars: 14591
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-21T00:48:19Z'
+    updated_at: '2025-10-21T06:35:39Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -411,7 +411,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-10-17T18:22:37Z'
+    updated_at: '2025-10-21T06:55:00Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -743,7 +743,7 @@ repositories:
   stats:
     stars: 547
     contributors: 2
-    last_activity: Last commit (Oct 14, 2025)
+    last_activity: No releases
     archived: false
     updated_at: '2025-10-20T19:03:15Z'
     language: TypeScript
@@ -1755,6 +1755,20 @@ repositories:
     last_activity: Last commit (Oct 15, 2025)
     archived: false
     updated_at: '2025-10-19T18:39:41Z'
+    language: TypeScript
+- name: Bita_Contract
+  repo: kinexbt/Bita_Contract
+  description: A lightweight on-chain Coin Flip betting game built on the Solana blockchain
+    using Rust and the Anchor framework. This contract allows users to wager SOL (or
+    tokens) on a 50/50 coin flip outcome — win or lose instantly, with no intermediaries.
+  category: SDKs & Tooling
+  stars: 577
+  stats:
+    stars: 577
+    contributors: 1
+    last_activity: Last commit (May 07, 2025)
+    archived: false
+    updated_at: '2025-10-21T06:55:00Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
