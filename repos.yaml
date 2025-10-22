@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 331
+    stars: 332
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-22T01:22:58Z'
+    updated_at: '2025-10-22T21:41:41Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-22T15:12:08Z'
+    updated_at: '2025-10-22T22:11:30Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 73
+    stars: 57
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-13T07:48:45Z'
+    updated_at: '2025-10-22T22:04:40Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
