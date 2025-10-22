@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14594
+    stars: 14595
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-21T22:51:43Z'
+    updated_at: '2025-10-22T02:29:10Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 481
+    stars: 482
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-21T16:33:57Z'
+    updated_at: '2025-10-22T02:38:41Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 555
+    stars: 556
     contributors: 2
     last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T12:55:39Z'
+    updated_at: '2025-10-22T02:51:25Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -831,11 +831,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 163
+    stars: 164
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-10-16T08:15:24Z'
+    updated_at: '2025-10-22T02:50:12Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 59
     contributors: 6
-    last_activity: Last commit (Oct 21, 2025)
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-22T00:10:28Z'
+    updated_at: '2025-10-22T02:40:14Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
