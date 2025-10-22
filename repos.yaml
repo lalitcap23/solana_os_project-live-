@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T14:01:31Z'
+    updated_at: '2025-10-22T14:57:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4722
+    stars: 4723
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T09:31:12Z'
+    updated_at: '2025-10-22T15:17:28Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4722
+    stars: 4723
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T09:31:12Z'
+    updated_at: '2025-10-22T15:17:28Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -691,11 +691,11 @@ repositories:
   category: Wallets & Mobile
   stars: 13
   stats:
-    stars: 13
+    stars: 12
     contributors: 1
     last_activity: Last commit (Aug 10, 2022)
     archived: false
-    updated_at: '2025-06-06T02:43:03Z'
+    updated_at: '2025-10-22T14:42:46Z'
     language: TypeScript
 - name: mobile-wallet-adapter-react-native
   repo: coral-xyz/mobile-wallet-adapter-react-native
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 109
     contributors: 4
-    last_activity: Last commit (Oct 21, 2025)
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-22T07:56:30Z'
+    updated_at: '2025-10-22T15:12:08Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1095,7 +1095,13 @@ repositories:
     amount
   category: SDKs & Tooling
   stars: 8
-  stats: null
+  stats:
+    stars: 8
+    contributors: 1
+    last_activity: Last commit (May 19, 2022)
+    archived: false
+    updated_at: '2024-02-17T06:55:18Z'
+    language: TypeScript
 - name: solana-pay-checkout
   repo: ronylucca/solana-pay-checkout
   description: A point-of-sale web app that allows us to take payments from customers
@@ -1502,9 +1508,9 @@ repositories:
   stats:
     stars: 38
     contributors: 1
-    last_activity: Last commit (Feb 20, 2025)
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-09-30T18:07:07Z'
+    updated_at: '2025-10-22T15:19:22Z'
     language: JavaScript
 - name: solana-streamer
   repo: 0xfnzero/solana-streamer
