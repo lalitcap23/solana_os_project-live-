@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 332
+    stars: 331
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T16:22:16Z'
+    updated_at: '2025-10-22T01:22:58Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 865
+    stars: 866
     contributors: 28
     last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T14:47:34Z'
+    updated_at: '2025-10-22T00:05:14Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 60
+    stars: 59
     contributors: 6
     last_activity: Last commit (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-21T05:29:32Z'
+    updated_at: '2025-10-22T00:10:28Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 72
+    stars: 71
     contributors: 12
     last_activity: Last commit (Sep 29, 2025)
     archived: false
-    updated_at: '2025-10-14T14:44:13Z'
+    updated_at: '2025-10-22T00:10:27Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 213
+    stars: 212
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-16T08:55:31Z'
+    updated_at: '2025-10-22T00:10:27Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
