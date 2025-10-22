@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14596
+    stars: 14595
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-22T11:16:09Z'
+    updated_at: '2025-10-22T13:41:47Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v2.3.13 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T12:35:29Z'
+    updated_at: '2025-10-22T14:01:31Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4115
+    stars: 4114
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-21T19:15:26Z'
+    updated_at: '2025-10-22T13:41:50Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 324
+    stars: 325
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-21T11:38:05Z'
+    updated_at: '2025-10-22T14:25:57Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1095,13 +1095,7 @@ repositories:
     amount
   category: SDKs & Tooling
   stars: 8
-  stats:
-    stars: 8
-    contributors: 1
-    last_activity: Last commit (May 19, 2022)
-    archived: false
-    updated_at: '2024-02-17T06:55:18Z'
-    language: TypeScript
+  stats: null
 - name: solana-pay-checkout
   repo: ronylucca/solana-pay-checkout
   description: A point-of-sale web app that allows us to take payments from customers
