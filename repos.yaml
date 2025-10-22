@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 150
+    stars: 151
     contributors: 152
     last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-21T17:01:46Z'
+    updated_at: '2025-10-22T05:06:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
