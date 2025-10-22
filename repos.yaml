@@ -327,10 +327,10 @@ repositories:
   stars: 312
   stats:
     stars: 357
-    contributors: 23
-    last_activity: Last commit (Oct 03, 2025)
+    contributors: 24
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-19T14:47:04Z'
+    updated_at: '2025-10-22T15:57:41Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 191
     contributors: 6
-    last_activity: Last commit (Oct 16, 2025)
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-20T14:40:15Z'
+    updated_at: '2025-10-22T16:32:34Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1150,10 +1150,10 @@ repositories:
   stars: 315
   stats:
     stars: 357
-    contributors: 23
-    last_activity: Last commit (Oct 03, 2025)
+    contributors: 24
+    last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-19T14:47:04Z'
+    updated_at: '2025-10-22T15:57:41Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
