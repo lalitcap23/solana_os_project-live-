@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1290
+    stars: 1291
     contributors: 46
     last_activity: Last commit (Sep 24, 2025)
     archived: false
-    updated_at: '2025-10-21T20:00:23Z'
+    updated_at: '2025-10-22T09:20:48Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-22T02:40:14Z'
+    updated_at: '2025-10-22T09:20:43Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 212
+    stars: 213
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T00:10:27Z'
+    updated_at: '2025-10-22T08:52:19Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
