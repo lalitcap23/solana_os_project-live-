@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 189
+    stars: 190
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-19T18:39:41Z'
+    updated_at: '2025-10-22T13:00:28Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 189
+    stars: 190
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-19T18:39:41Z'
+    updated_at: '2025-10-22T13:00:28Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
