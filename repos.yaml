@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-23T20:57:13Z'
+    updated_at: '2025-10-23T22:18:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: bn254@v3.1.2 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T16:42:19Z'
+    updated_at: '2025-10-23T22:06:39Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 264
+    stars: 265
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-23T20:43:40Z'
+    updated_at: '2025-10-23T22:10:17Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
