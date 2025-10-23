@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4723
+    stars: 4724
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-23T15:52:49Z'
+    updated_at: '2025-10-23T20:18:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4723
+    stars: 4724
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-23T15:52:49Z'
+    updated_at: '2025-10-23T20:18:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T18:53:23Z'
+    updated_at: '2025-10-23T20:23:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1292
     contributors: 46
-    last_activity: Last commit (Sep 24, 2025)
+    last_activity: Last commit (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-22T17:04:16Z'
+    updated_at: '2025-10-23T20:21:15Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 866
     contributors: 28
-    last_activity: Last commit (Oct 22, 2025)
+    last_activity: Last commit (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-22T19:30:52Z'
+    updated_at: '2025-10-23T19:22:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
