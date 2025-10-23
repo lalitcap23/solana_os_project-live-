@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 482
+    stars: 483
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-22T02:38:41Z'
+    updated_at: '2025-10-23T06:16:47Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 59
     contributors: 6
-    last_activity: Last commit (Oct 22, 2025)
+    last_activity: Last commit (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-22T09:20:43Z'
+    updated_at: '2025-10-23T06:03:29Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
