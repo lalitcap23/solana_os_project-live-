@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-23T04:14:51Z'
+    updated_at: '2025-10-23T05:00:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -40,7 +40,7 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4723
-    contributors: 305
+    contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
     updated_at: '2025-10-22T20:24:50Z'
@@ -175,7 +175,7 @@ repositories:
   stars: 4533
   stats:
     stars: 4723
-    contributors: 305
+    contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
     updated_at: '2025-10-22T20:24:50Z'
