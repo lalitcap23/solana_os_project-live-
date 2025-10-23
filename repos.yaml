@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-23T07:19:44Z'
+    updated_at: '2025-10-23T13:09:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1936
+    stars: 1937
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-21T10:53:24Z'
+    updated_at: '2025-10-23T12:54:50Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 192
+    stars: 193
     contributors: 6
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T00:44:18Z'
+    updated_at: '2025-10-23T13:32:30Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
