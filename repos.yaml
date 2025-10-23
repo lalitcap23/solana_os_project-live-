@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 152
     contributors: 152
-    last_activity: vote-interface@v4.0.4 (Oct 17, 2025)
+    last_activity: bn254@v3.1.2 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T08:53:28Z'
+    updated_at: '2025-10-23T11:17:32Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 553
+    stars: 554
     contributors: 14
     last_activity: Last commit (Sep 19, 2025)
     archived: false
-    updated_at: '2025-10-21T14:47:35Z'
+    updated_at: '2025-10-23T10:38:08Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 143
+    stars: 144
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-10-11T14:36:09Z'
+    updated_at: '2025-10-23T11:01:53Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
