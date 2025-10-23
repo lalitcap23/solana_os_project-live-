@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14599
+    stars: 14600
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-23T08:42:20Z'
+    updated_at: '2025-10-23T21:09:57Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-23T19:04:58Z'
+    updated_at: '2025-10-23T20:57:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -66,7 +66,7 @@ repositories:
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-23T12:54:50Z'
+    updated_at: '2025-10-23T20:46:14Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 358
+    stars: 359
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T07:39:50Z'
+    updated_at: '2025-10-23T21:13:07Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -817,11 +817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 197
+    stars: 196
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-10-17T07:22:17Z'
+    updated_at: '2025-10-23T20:50:02Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 265
+    stars: 264
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-19T09:45:46Z'
+    updated_at: '2025-10-23T20:43:40Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 358
+    stars: 359
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T07:39:50Z'
+    updated_at: '2025-10-23T21:13:07Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
