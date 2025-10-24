@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T09:11:20Z'
+    updated_at: '2025-10-24T12:37:27Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 571
+    stars: 572
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T20:23:04Z'
+    updated_at: '2025-10-24T11:56:11Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 640
+    stars: 641
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-23T11:34:05Z'
+    updated_at: '2025-10-24T12:51:19Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 265
+    stars: 266
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-23T22:10:17Z'
+    updated_at: '2025-10-24T11:45:16Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 193
+    stars: 192
     contributors: 6
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T13:32:30Z'
+    updated_at: '2025-10-24T12:37:32Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
