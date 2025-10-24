@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-23T21:09:57Z'
+    updated_at: '2025-10-24T03:48:18Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T02:24:01Z'
+    updated_at: '2025-10-24T04:00:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -626,11 +626,11 @@ repositories:
   category: NFTs & Programs
   stars: 96
   stats:
-    stars: 97
+    stars: 96
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-09-22T09:41:13Z'
+    updated_at: '2025-10-24T03:48:34Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
