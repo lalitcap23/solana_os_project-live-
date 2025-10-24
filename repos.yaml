@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 361
+    stars: 362
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-23T12:32:46Z'
+    updated_at: '2025-10-24T18:53:40Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 336
+    stars: 340
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-24T18:14:55Z'
+    updated_at: '2025-10-24T19:05:39Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
