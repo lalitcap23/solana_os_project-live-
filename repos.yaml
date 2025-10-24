@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4724
+    stars: 4725
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-23T22:35:08Z'
+    updated_at: '2025-10-24T01:35:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4114
+    stars: 4115
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-22T13:41:50Z'
+    updated_at: '2025-10-24T01:34:43Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 219
+    stars: 220
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-10-19T18:39:57Z'
+    updated_at: '2025-10-24T01:35:07Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4724
+    stars: 4725
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-23T22:35:08Z'
+    updated_at: '2025-10-24T01:35:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 359
+    stars: 360
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T21:13:07Z'
+    updated_at: '2025-10-23T23:36:11Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1292
+    stars: 1293
     contributors: 46
     last_activity: Last commit (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T20:21:15Z'
+    updated_at: '2025-10-24T01:31:23Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -767,10 +767,10 @@ repositories:
   stars: 517
   stats:
     stars: 555
-    contributors: 14
-    last_activity: Last commit (Sep 19, 2025)
+    contributors: 15
+    last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-23T17:55:41Z'
+    updated_at: '2025-10-24T01:12:05Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 866
+    stars: 867
     contributors: 28
     last_activity: Last commit (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T19:22:50Z'
+    updated_at: '2025-10-24T00:16:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 359
+    stars: 360
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-23T21:13:07Z'
+    updated_at: '2025-10-23T23:36:11Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
