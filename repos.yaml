@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T12:37:27Z'
+    updated_at: '2025-10-24T14:21:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 416
+    stars: 415
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-10-21T11:21:45Z'
+    updated_at: '2025-10-24T13:59:22Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-24T11:56:11Z'
+    updated_at: '2025-10-24T14:15:31Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 362
     contributors: 24
-    last_activity: Last commit (Oct 22, 2025)
+    last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-24T05:08:59Z'
+    updated_at: '2025-10-24T13:41:02Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -354,11 +354,11 @@ repositories:
   category: DeFi
   stars: 182
   stats:
-    stars: 183
+    stars: 184
     contributors: 4
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-08-31T05:19:31Z'
+    updated_at: '2025-10-24T13:39:51Z'
     language: TypeScript
 - name: solita
   repo: metaplex-foundation/solita
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 362
     contributors: 24
-    last_activity: Last commit (Oct 22, 2025)
+    last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-24T05:08:59Z'
+    updated_at: '2025-10-24T13:41:02Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1377,11 +1377,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 44
+    stars: 45
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-09-28T18:40:10Z'
+    updated_at: '2025-10-24T13:58:33Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
