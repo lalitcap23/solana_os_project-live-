@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14601
+    stars: 14602
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-24T20:24:30Z'
+    updated_at: '2025-10-24T21:56:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T21:14:11Z'
+    updated_at: '2025-10-24T21:38:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: frozen-abi@v3.0.1 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-24T06:43:31Z'
+    updated_at: '2025-10-24T21:36:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4729
+    stars: 4730
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T15:25:33Z'
+    updated_at: '2025-10-24T22:18:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4729
+    stars: 4730
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T15:25:33Z'
+    updated_at: '2025-10-24T22:18:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 333
+    stars: 334
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-10-24T09:11:21Z'
+    updated_at: '2025-10-24T21:26:41Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -292,7 +292,7 @@ repositories:
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-24T14:15:31Z'
+    updated_at: '2025-10-24T21:52:31Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
