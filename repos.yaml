@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 152
+    stars: 153
     contributors: 152
     last_activity: frozen-abi@v3.0.1 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-23T23:18:18Z'
+    updated_at: '2025-10-24T06:43:31Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4725
+    stars: 4726
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T05:09:41Z'
+    updated_at: '2025-10-24T06:55:13Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4725
+    stars: 4726
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T05:09:41Z'
+    updated_at: '2025-10-24T06:55:13Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
