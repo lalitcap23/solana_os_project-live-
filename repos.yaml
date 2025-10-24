@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14602
+    stars: 14601
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-24T16:06:27Z'
+    updated_at: '2025-10-24T20:24:30Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 867
     contributors: 28
-    last_activity: Last commit (Oct 23, 2025)
+    last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-24T00:16:01Z'
+    updated_at: '2025-10-24T19:50:11Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 52
+    stars: 48
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-24T16:18:01Z'
+    updated_at: '2025-10-24T20:21:24Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
