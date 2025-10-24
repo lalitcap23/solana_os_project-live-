@@ -43,7 +43,7 @@ repositories:
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T01:35:25Z'
+    updated_at: '2025-10-24T05:09:41Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1937
+    stars: 1938
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-23T20:46:14Z'
+    updated_at: '2025-10-24T04:58:48Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -178,7 +178,7 @@ repositories:
     contributors: 306
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-24T01:35:25Z'
+    updated_at: '2025-10-24T05:09:41Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 361
+    stars: 362
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-24T02:55:48Z'
+    updated_at: '2025-10-24T05:08:59Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 174
+    stars: 175
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-10-11T09:29:07Z'
+    updated_at: '2025-10-24T04:51:23Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 197
+    stars: 198
     contributors: 7
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-10-15T01:37:12Z'
+    updated_at: '2025-10-24T04:50:51Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 361
+    stars: 362
     contributors: 24
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-24T02:55:48Z'
+    updated_at: '2025-10-24T05:08:59Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
