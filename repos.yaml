@@ -292,7 +292,7 @@ repositories:
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-24T21:52:31Z'
+    updated_at: '2025-10-24T22:32:47Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 46
+    stars: 45
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-24T20:52:44Z'
+    updated_at: '2025-10-24T23:19:34Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
