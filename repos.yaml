@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T18:29:51Z'
+    updated_at: '2025-10-24T21:14:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -89,18 +89,18 @@ repositories:
     contributors: 21
     last_activity: tlv-account-resolution@v0.11.1 (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-20T09:42:36Z'
+    updated_at: '2025-10-24T21:03:03Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 220
+    stars: 221
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-10-24T01:35:07Z'
+    updated_at: '2025-10-24T21:12:52Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 195
+    stars: 196
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-10-21T07:32:35Z'
+    updated_at: '2025-10-24T20:29:24Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 48
+    stars: 46
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-24T20:21:24Z'
+    updated_at: '2025-10-24T20:52:44Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
