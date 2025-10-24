@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T16:27:14Z'
+    updated_at: '2025-10-24T18:29:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 335
+    stars: 336
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-23T14:51:26Z'
+    updated_at: '2025-10-24T18:14:55Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
