@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4153
+    stars: 4154
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-25T10:40:12Z'
+    updated_at: '2025-10-25T14:44:53Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 193
     contributors: 6
-    last_activity: Last commit (Oct 22, 2025)
+    last_activity: Last commit (Oct 25, 2025)
     archived: false
-    updated_at: '2025-10-24T16:09:20Z'
+    updated_at: '2025-10-25T14:46:45Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 44
+    stars: 42
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-25T02:08:22Z'
+    updated_at: '2025-10-25T14:51:02Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
