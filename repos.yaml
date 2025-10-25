@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-24T23:25:16Z'
+    updated_at: '2025-10-25T02:23:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 589
+    stars: 590
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-19T17:30:14Z'
+    updated_at: '2025-10-25T02:52:12Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 45
+    stars: 44
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-24T23:19:34Z'
+    updated_at: '2025-10-25T02:08:22Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
