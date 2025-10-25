@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1938
+    stars: 1939
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-24T04:58:48Z'
+    updated_at: '2025-10-25T18:31:01Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 221
+    stars: 220
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-10-24T21:12:52Z'
+    updated_at: '2025-10-25T18:51:57Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 340
+    stars: 342
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-24T19:05:39Z'
+    updated_at: '2025-10-25T19:16:00Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 869
     contributors: 28
-    last_activity: Last commit (Oct 24, 2025)
+    last_activity: Last commit (Oct 25, 2025)
     archived: false
-    updated_at: '2025-10-25T16:29:07Z'
+    updated_at: '2025-10-25T19:10:37Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
