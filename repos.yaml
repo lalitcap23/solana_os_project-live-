@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1296
     contributors: 46
-    last_activity: Last commit (Oct 24, 2025)
+    last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-25T18:04:38Z'
+    updated_at: '2025-10-26T03:48:20Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 59
     contributors: 6
-    last_activity: Last commit (Oct 23, 2025)
+    last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-23T06:03:29Z'
+    updated_at: '2025-10-26T03:49:03Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
