@@ -119,10 +119,10 @@ repositories:
   category: DeFi
   stats:
     stars: 216
-    contributors: 2
+    contributors: 3
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-21T16:48:16Z'
+    updated_at: '2025-10-26T00:04:30Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 415
+    stars: 416
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-10-24T13:59:22Z'
+    updated_at: '2025-10-25T23:27:06Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
