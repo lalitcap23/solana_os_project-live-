@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1461
+    stars: 1462
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-26T09:28:18Z'
+    updated_at: '2025-10-26T10:36:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 573
+    stars: 574
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-25T13:17:19Z'
+    updated_at: '2025-10-26T10:57:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 362
+    stars: 363
     contributors: 24
     last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-24T13:41:02Z'
+    updated_at: '2025-10-26T10:50:10Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 348
+    stars: 349
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-22T11:45:53Z'
+    updated_at: '2025-10-26T10:47:19Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -656,7 +656,7 @@ repositories:
     contributors: 24
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-26T09:13:05Z'
+    updated_at: '2025-10-26T11:08:10Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 362
+    stars: 363
     contributors: 24
     last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-24T13:41:02Z'
+    updated_at: '2025-10-26T10:50:10Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
