@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 153
+    stars: 154
     contributors: 152
     last_activity: frozen-abi@v3.0.1 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-24T21:36:48Z'
+    updated_at: '2025-10-26T08:34:01Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1296
+    stars: 1297
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-26T03:48:20Z'
+    updated_at: '2025-10-26T08:30:11Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -654,9 +654,9 @@ repositories:
   stats:
     stars: 304
     contributors: 24
-    last_activity: Last commit (Aug 03, 2025)
+    last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-24T14:52:15Z'
+    updated_at: '2025-10-26T09:13:05Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 869
+    stars: 870
     contributors: 28
     last_activity: Last commit (Oct 25, 2025)
     archived: false
-    updated_at: '2025-10-25T19:10:37Z'
+    updated_at: '2025-10-26T09:07:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 109
     contributors: 4
-    last_activity: Last commit (Oct 25, 2025)
+    last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-25T15:46:19Z'
+    updated_at: '2025-10-26T09:20:44Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
