@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 362
+    stars: 363
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-10-24T18:53:40Z'
+    updated_at: '2025-10-26T06:54:06Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
