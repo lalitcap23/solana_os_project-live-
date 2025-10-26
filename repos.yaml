@@ -166,7 +166,7 @@ repositories:
     contributors: 11
     last_activity: 0.26.0 (Feb 18, 2025)
     archived: false
-    updated_at: '2025-10-25T23:27:06Z'
+    updated_at: '2025-10-26T13:47:46Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
