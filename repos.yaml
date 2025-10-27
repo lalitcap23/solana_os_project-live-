@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14614
+    stars: 14613
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-27T20:22:29Z'
+    updated_at: '2025-10-27T21:35:54Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4740
+    stars: 4741
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T21:00:54Z'
+    updated_at: '2025-10-27T21:29:26Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2646
+    stars: 2645
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-27T09:32:44Z'
+    updated_at: '2025-10-27T21:35:55Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4119
+    stars: 4118
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-27T07:17:35Z'
+    updated_at: '2025-10-27T21:35:55Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4740
+    stars: 4741
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T21:00:54Z'
+    updated_at: '2025-10-27T21:29:26Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 574
+    stars: 573
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-26T10:57:04Z'
+    updated_at: '2025-10-27T21:35:58Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1297
+    stars: 1296
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-27T04:39:08Z'
+    updated_at: '2025-10-27T21:35:57Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 289
+    stars: 288
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-23T14:26:37Z'
+    updated_at: '2025-10-27T22:08:16Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3370
+    stars: 3369
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-27T04:42:26Z'
+    updated_at: '2025-10-27T21:35:56Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1363,11 +1363,11 @@ repositories:
   category: NFTs & Programs
   stars: 46
   stats:
-    stars: 45
+    stars: 46
     contributors: 19
     last_activity: v2.0.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-10-03T04:46:34Z'
+    updated_at: '2025-10-27T21:22:36Z'
     language: Rust
 - name: On_chain
   repo: mrtnetwork/On_chain
@@ -1389,11 +1389,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 36
+    stars: 35
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2025-10-12T23:36:19Z'
+    updated_at: '2025-10-27T21:35:57Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 213
+    stars: 212
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-22T08:52:19Z'
+    updated_at: '2025-10-27T22:08:14Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
