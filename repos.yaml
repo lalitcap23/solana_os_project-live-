@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-27T19:44:53Z'
+    updated_at: '2025-10-27T20:42:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4739
+    stars: 4740
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T16:31:48Z'
+    updated_at: '2025-10-27T21:00:54Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -144,7 +144,7 @@ repositories:
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-27T06:13:09Z'
+    updated_at: '2025-10-27T21:12:10Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4739
+    stars: 4740
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T16:31:48Z'
+    updated_at: '2025-10-27T21:00:54Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 367
+    stars: 368
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T17:47:22Z'
+    updated_at: '2025-10-27T21:04:42Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 557
+    stars: 558
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T15:42:19Z'
+    updated_at: '2025-10-27T20:52:26Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
