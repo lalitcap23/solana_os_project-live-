@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4735
+    stars: 4737
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-26T22:09:32Z'
+    updated_at: '2025-10-27T13:24:28Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4735
+    stars: 4737
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-26T22:09:32Z'
+    updated_at: '2025-10-27T13:24:28Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -190,7 +190,7 @@ repositories:
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-24T01:53:32Z'
+    updated_at: '2025-10-27T13:09:54Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 357
+    stars: 361
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T06:53:26Z'
+    updated_at: '2025-10-27T13:33:15Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 870
+    stars: 871
     contributors: 28
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-26T22:59:21Z'
+    updated_at: '2025-10-27T13:03:26Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 147
+    stars: 148
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-10-12T03:58:14Z'
+    updated_at: '2025-10-27T13:05:34Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 203
+    stars: 204
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-25T10:23:14Z'
+    updated_at: '2025-10-27T13:13:17Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
