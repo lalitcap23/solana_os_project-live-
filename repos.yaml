@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14612
+    stars: 14613
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-26T22:39:05Z'
+    updated_at: '2025-10-27T12:35:39Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.7 (Oct 17, 2025)
     archived: false
-    updated_at: '2025-10-27T10:46:05Z'
+    updated_at: '2025-10-27T11:30:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 240
+    stars: 239
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-26T05:45:14Z'
+    updated_at: '2025-10-27T11:43:50Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4154
+    stars: 4155
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-25T14:44:53Z'
+    updated_at: '2025-10-27T12:50:28Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -1626,9 +1626,9 @@ repositories:
   stats:
     stars: 148
     contributors: 2
-    last_activity: Last commit (Aug 12, 2025)
+    last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-20T18:07:32Z'
+    updated_at: '2025-10-27T12:04:36Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
