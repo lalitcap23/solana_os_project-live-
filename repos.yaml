@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4737
+    stars: 4738
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T13:57:44Z'
+    updated_at: '2025-10-27T15:04:41Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4737
+    stars: 4738
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T13:57:44Z'
+    updated_at: '2025-10-27T15:04:41Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4155
+    stars: 4156
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-27T12:50:28Z'
+    updated_at: '2025-10-27T14:55:44Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -483,7 +483,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T14:21:17Z'
+    updated_at: '2025-10-27T15:14:25Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 148
+    stars: 147
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-10-27T13:05:34Z'
+    updated_at: '2025-10-27T14:32:55Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -1613,9 +1613,9 @@ repositories:
   stats:
     stars: 61
     contributors: 5
-    last_activity: Last commit (Sep 09, 2025)
+    last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-09-28T10:57:03Z'
+    updated_at: '2025-10-27T14:50:39Z'
     language: TypeScript
 - name: IDLGuesser
   repo: sec3-service/IDLGuesser
