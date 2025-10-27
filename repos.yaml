@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 216
+    stars: 217
     contributors: 3
     last_activity: v6.0.62 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-26T00:04:30Z'
+    updated_at: '2025-10-27T08:12:27Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 113
+    stars: 114
     contributors: 7
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-25T21:40:43Z'
+    updated_at: '2025-10-27T07:38:33Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1770,6 +1770,19 @@ repositories:
     archived: false
     updated_at: '2025-10-21T06:55:00Z'
     language: TypeScript
+- name: Solana-Pay-enables-crypto-payments
+  repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
+  description: Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency
+    payments worldwide
+  category: Payments
+  stars: 8
+  stats:
+    stars: 8
+    contributors: 0
+    last_activity: No releases
+    archived: false
+    updated_at: '2025-10-27T08:34:59Z'
+    language: null
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
