@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-27T11:30:54Z'
+    updated_at: '2025-10-27T16:57:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4738
+    stars: 4739
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T15:04:41Z'
+    updated_at: '2025-10-27T16:31:48Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4738
+    stars: 4739
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-27T15:04:41Z'
+    updated_at: '2025-10-27T16:31:48Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 365
+    stars: 366
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T16:30:01Z'
+    updated_at: '2025-10-27T16:54:20Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 41
+    stars: 39
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-27T16:02:28Z'
+    updated_at: '2025-10-27T16:35:23Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
