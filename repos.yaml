@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14613
+    stars: 14614
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-27T12:35:39Z'
+    updated_at: '2025-10-27T20:22:29Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-27T18:43:12Z'
+    updated_at: '2025-10-27T19:44:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -496,7 +496,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-27T19:11:51Z'
+    updated_at: '2025-10-27T19:35:55Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 871
     contributors: 28
-    last_activity: Last commit (Oct 26, 2025)
+    last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T13:03:26Z'
+    updated_at: '2025-10-27T19:49:46Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 4
+    stars: 2
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-27T19:20:00Z'
+    updated_at: '2025-10-27T19:23:42Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
