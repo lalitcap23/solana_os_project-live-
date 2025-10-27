@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: frozen-abi@v3.0.1 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-27T09:42:20Z'
+    updated_at: '2025-10-27T15:46:23Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-23T18:39:12Z'
+    updated_at: '2025-10-27T16:26:36Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 590
+    stars: 591
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-25T02:52:12Z'
+    updated_at: '2025-10-27T16:14:42Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 363
+    stars: 365
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T15:14:25Z'
+    updated_at: '2025-10-27T16:30:01Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 547
     contributors: 2
-    last_activity: Last commit (Oct 25, 2025)
+    last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-25T22:08:58Z'
+    updated_at: '2025-10-27T15:42:43Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 557
     contributors: 2
-    last_activity: Last commit (Oct 25, 2025)
+    last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T01:58:22Z'
+    updated_at: '2025-10-27T15:42:19Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 148
+    stars: 149
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T12:04:36Z'
+    updated_at: '2025-10-27T16:29:21Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 42
+    stars: 41
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-25T14:51:02Z'
+    updated_at: '2025-10-27T16:02:28Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
