@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-27T16:57:46Z'
+    updated_at: '2025-10-27T17:45:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4156
+    stars: 4155
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-10-27T14:55:44Z'
+    updated_at: '2025-10-27T18:10:50Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 366
+    stars: 367
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-27T16:54:20Z'
+    updated_at: '2025-10-27T17:47:22Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 304
+    stars: 303
     contributors: 24
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-26T11:08:10Z'
+    updated_at: '2025-10-27T18:10:46Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 39
+    stars: 8
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-27T16:35:23Z'
+    updated_at: '2025-10-27T18:34:43Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
