@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1465
+    stars: 1466
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-28T16:19:17Z'
+    updated_at: '2025-10-28T17:10:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 266
+    stars: 267
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-26T23:21:51Z'
+    updated_at: '2025-10-28T16:58:31Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 11
     last_activity: v0.26.2 (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-28T07:19:47Z'
+    updated_at: '2025-10-28T17:19:06Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
