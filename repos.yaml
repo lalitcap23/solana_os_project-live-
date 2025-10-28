@@ -190,7 +190,7 @@ repositories:
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-28T16:27:24Z'
+    updated_at: '2025-10-28T20:47:54Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 573
+    stars: 574
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-28T19:07:39Z'
+    updated_at: '2025-10-28T20:45:05Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 358
+    stars: 362
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-28T20:23:31Z'
+    updated_at: '2025-10-28T20:59:28Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
