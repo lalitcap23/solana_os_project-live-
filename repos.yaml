@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1465
+    stars: 1466
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-28T05:47:14Z'
+    updated_at: '2025-10-28T07:18:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 303
+    stars: 302
     contributors: 24
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-27T18:10:46Z'
+    updated_at: '2025-10-28T07:08:20Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 558
+    stars: 559
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T20:52:26Z'
+    updated_at: '2025-10-28T06:47:56Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 70
+    stars: 71
     contributors: 11
     last_activity: v0.26.2 (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-23T02:51:55Z'
+    updated_at: '2025-10-28T07:19:47Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
