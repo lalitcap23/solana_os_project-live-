@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1466
+    stars: 1465
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-28T08:51:47Z'
+    updated_at: '2025-10-28T10:44:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 152
     last_activity: frozen-abi@v3.0.1 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-27T15:46:23Z'
+    updated_at: '2025-10-28T11:10:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4116
+    stars: 4115
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-28T04:23:11Z'
+    updated_at: '2025-10-28T10:44:04Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -190,7 +190,7 @@ repositories:
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-28T08:33:27Z'
+    updated_at: '2025-10-28T11:04:14Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -654,9 +654,9 @@ repositories:
   stats:
     stars: 302
     contributors: 24
-    last_activity: Last commit (Oct 26, 2025)
+    last_activity: Last commit (Oct 28, 2025)
     archived: false
-    updated_at: '2025-10-28T07:08:20Z'
+    updated_at: '2025-10-28T10:49:58Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
