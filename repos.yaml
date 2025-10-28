@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14615
+    stars: 14616
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-28T08:02:01Z'
+    updated_at: '2025-10-28T09:18:41Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-28T08:03:41Z'
+    updated_at: '2025-10-28T08:51:47Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 484
+    stars: 485
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-28T01:15:56Z'
+    updated_at: '2025-10-28T08:33:27Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 355
+    stars: 356
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-27T19:35:55Z'
+    updated_at: '2025-10-28T08:56:40Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 197
+    stars: 198
     contributors: 7
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-10-28T00:53:53Z'
+    updated_at: '2025-10-28T08:39:29Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 560
+    stars: 561
     contributors: 15
     last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-27T06:46:52Z'
+    updated_at: '2025-10-28T08:50:49Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
