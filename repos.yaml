@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 198
+    stars: 199
     contributors: 7
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-10-28T08:39:29Z'
+    updated_at: '2025-10-29T08:13:40Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 196
+    stars: 197
     contributors: 6
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-29T02:04:01Z'
+    updated_at: '2025-10-29T07:47:53Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
