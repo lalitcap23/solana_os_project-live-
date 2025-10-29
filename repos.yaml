@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-29T15:50:06Z'
+    updated_at: '2025-10-29T16:48:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 153
     last_activity: account@v3.2.0 (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-29T13:10:45Z'
+    updated_at: '2025-10-29T17:21:17Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4750
+    stars: 4751
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T13:28:12Z'
+    updated_at: '2025-10-29T17:11:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4117
+    stars: 4118
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-29T09:00:56Z'
+    updated_at: '2025-10-29T17:19:34Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4750
+    stars: 4751
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T13:28:12Z'
+    updated_at: '2025-10-29T17:11:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 11
     last_activity: v0.26.3 (Oct 28, 2025)
     archived: false
-    updated_at: '2025-10-28T18:37:53Z'
+    updated_at: '2025-10-29T17:16:21Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 205
+    stars: 206
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-28T18:22:47Z'
+    updated_at: '2025-10-29T16:53:47Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
