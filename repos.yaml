@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 156
     contributors: 153
-    last_activity: hash@v4.0.0 (Oct 28, 2025)
+    last_activity: account@v3.2.0 (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-29T10:56:27Z'
+    updated_at: '2025-10-29T13:10:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4749
+    stars: 4750
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T09:57:49Z'
+    updated_at: '2025-10-29T13:28:12Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4749
+    stars: 4750
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T09:57:49Z'
+    updated_at: '2025-10-29T13:28:12Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 109
     contributors: 4
-    last_activity: Last commit (Oct 26, 2025)
+    last_activity: Last commit (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-26T17:07:43Z'
+    updated_at: '2025-10-29T12:54:19Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
