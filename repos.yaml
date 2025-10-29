@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-29T09:06:00Z'
+    updated_at: '2025-10-29T10:26:31Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4748
+    stars: 4749
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T09:00:49Z'
+    updated_at: '2025-10-29T09:57:49Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4748
+    stars: 4749
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T09:00:49Z'
+    updated_at: '2025-10-29T09:57:49Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -654,9 +654,9 @@ repositories:
   stats:
     stars: 303
     contributors: 24
-    last_activity: Last commit (Oct 28, 2025)
+    last_activity: Last commit (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-28T21:28:18Z'
+    updated_at: '2025-10-29T10:16:33Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
