@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4745
+    stars: 4747
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T03:56:54Z'
+    updated_at: '2025-10-29T06:32:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4745
+    stars: 4747
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-29T03:56:54Z'
+    updated_at: '2025-10-29T06:32:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 363
+    stars: 364
     contributors: 24
     last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-26T10:50:10Z'
+    updated_at: '2025-10-29T06:13:06Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -345,7 +345,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-28T18:12:19Z'
+    updated_at: '2025-10-29T06:10:05Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -456,7 +456,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-27T22:08:16Z'
+    updated_at: '2025-10-29T06:11:36Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 363
+    stars: 364
     contributors: 24
     last_activity: Last commit (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-26T10:50:10Z'
+    updated_at: '2025-10-29T06:13:06Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1754,7 +1754,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-28T18:12:19Z'
+    updated_at: '2025-10-29T06:10:05Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
