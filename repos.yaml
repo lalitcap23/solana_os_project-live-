@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14620
+    stars: 14621
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-29T11:04:18Z'
+    updated_at: '2025-10-29T18:58:37Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1941
+    stars: 1942
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-29T04:17:13Z'
+    updated_at: '2025-10-29T18:43:21Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 288
+    stars: 289
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-29T06:11:36Z'
+    updated_at: '2025-10-29T18:40:46Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 323
+    stars: 324
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-10-23T09:00:37Z'
+    updated_at: '2025-10-29T18:57:40Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
