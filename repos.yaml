@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 149
+    stars: 150
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-27T16:29:21Z'
+    updated_at: '2025-10-30T17:52:36Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
