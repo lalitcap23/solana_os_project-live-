@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14624
+    stars: 14625
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-30T09:39:05Z'
+    updated_at: '2025-10-30T13:50:17Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4755
+    stars: 4757
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-30T09:59:31Z'
+    updated_at: '2025-10-30T13:50:14Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4755
+    stars: 4757
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-30T09:59:31Z'
+    updated_at: '2025-10-30T13:50:14Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 374
+    stars: 375
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-30T06:58:27Z'
+    updated_at: '2025-10-30T13:53:21Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 549
     contributors: 2
-    last_activity: Last commit (Oct 28, 2025)
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-29T12:15:22Z'
+    updated_at: '2025-10-30T13:47:57Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 559
     contributors: 2
-    last_activity: Last commit (Oct 28, 2025)
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-28T14:54:01Z'
+    updated_at: '2025-10-30T13:48:36Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 197
     contributors: 6
-    last_activity: Last commit (Oct 26, 2025)
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-29T07:47:53Z'
+    updated_at: '2025-10-30T14:12:13Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
