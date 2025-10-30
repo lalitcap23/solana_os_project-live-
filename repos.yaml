@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14623
+    stars: 14624
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-30T09:07:23Z'
+    updated_at: '2025-10-30T09:39:05Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1469
+    stars: 1470
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-30T08:28:09Z'
+    updated_at: '2025-10-30T10:23:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 156
+    stars: 157
     contributors: 153
     last_activity: instruction@v2.3.1 (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-29T23:15:27Z'
+    updated_at: '2025-10-30T09:28:18Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4754
+    stars: 4755
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-30T07:30:11Z'
+    updated_at: '2025-10-30T09:59:31Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4754
+    stars: 4755
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-30T07:30:11Z'
+    updated_at: '2025-10-30T09:59:31Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 376
+    stars: 377
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2025-10-23T11:34:23Z'
+    updated_at: '2025-10-30T10:22:11Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
