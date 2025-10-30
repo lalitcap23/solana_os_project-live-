@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14621
+    stars: 14622
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-29T18:58:37Z'
+    updated_at: '2025-10-29T23:48:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-29T23:09:55Z'
+    updated_at: '2025-10-30T01:05:47Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-10-28T22:01:06Z'
+    updated_at: '2025-10-30T01:30:59Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1299
+    stars: 1300
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-29T18:13:19Z'
+    updated_at: '2025-10-30T01:52:07Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
