@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-30T10:23:00Z'
+    updated_at: '2025-10-30T12:02:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 153
     last_activity: instruction@v2.3.1 (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-30T09:28:18Z'
+    updated_at: '2025-10-30T11:37:34Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1943
+    stars: 1945
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-30T09:16:43Z'
+    updated_at: '2025-10-30T12:40:56Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -327,10 +327,10 @@ repositories:
   stars: 312
   stats:
     stars: 366
-    contributors: 24
-    last_activity: Last commit (Oct 24, 2025)
+    contributors: 25
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-29T10:53:41Z'
+    updated_at: '2025-10-30T12:49:10Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 283
+    stars: 284
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-10-27T06:12:30Z'
+    updated_at: '2025-10-30T11:23:52Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1150,10 +1150,10 @@ repositories:
   stars: 315
   stats:
     stars: 366
-    contributors: 24
-    last_activity: Last commit (Oct 24, 2025)
+    contributors: 25
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-29T10:53:41Z'
+    updated_at: '2025-10-30T12:49:10Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1708,11 +1708,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 2
+    stars: 3
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2025-10-27T19:23:42Z'
+    updated_at: '2025-10-30T12:41:47Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
