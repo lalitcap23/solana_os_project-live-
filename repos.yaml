@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-30T02:07:40Z'
+    updated_at: '2025-10-30T05:00:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -817,11 +817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 196
+    stars: 195
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2025-10-23T20:50:02Z'
+    updated_at: '2025-10-30T05:22:35Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
