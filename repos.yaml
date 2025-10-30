@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1300
+    stars: 1301
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-30T01:52:07Z'
+    updated_at: '2025-10-30T06:01:30Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 92
+    stars: 93
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-10-16T08:17:06Z'
+    updated_at: '2025-10-30T05:30:21Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
