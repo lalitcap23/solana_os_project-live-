@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14630
+    stars: 14629
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-31T14:04:38Z'
+    updated_at: '2025-10-31T14:37:32Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T14:09:04Z'
+    updated_at: '2025-10-31T14:43:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 579
+    stars: 580
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-31T10:28:53Z'
+    updated_at: '2025-10-31T15:22:14Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 376
+    stars: 377
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-31T04:23:41Z'
+    updated_at: '2025-10-31T15:21:14Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 284
+    stars: 285
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-10-30T11:23:52Z'
+    updated_at: '2025-10-31T14:41:17Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 561
     contributors: 15
-    last_activity: Last commit (Oct 24, 2025)
+    last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-10-28T08:50:49Z'
+    updated_at: '2025-10-31T15:10:06Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 201
+    stars: 202
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-31T13:00:20Z'
+    updated_at: '2025-10-31T15:17:49Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
