@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-30T22:22:46Z'
+    updated_at: '2025-10-31T00:40:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 147
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-30T14:46:05Z'
+    updated_at: '2025-10-31T01:50:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
