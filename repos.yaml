@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 577
-    contributors: 147
+    contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-31T01:50:04Z'
+    updated_at: '2025-10-31T01:56:14Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
