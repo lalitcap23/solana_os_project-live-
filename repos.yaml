@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14626
+    stars: 14627
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-10-31T03:39:32Z'
+    updated_at: '2025-10-31T05:22:13Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 72
+    stars: 73
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-15T00:06:58Z'
+    updated_at: '2025-10-31T04:44:11Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
