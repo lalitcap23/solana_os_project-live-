@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T19:16:33Z'
+    updated_at: '2025-10-31T19:27:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4761
+    stars: 4762
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-31T18:34:20Z'
+    updated_at: '2025-10-31T20:08:06Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4761
+    stars: 4762
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-31T18:34:20Z'
+    updated_at: '2025-10-31T20:08:06Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 580
+    stars: 581
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-31T15:22:14Z'
+    updated_at: '2025-10-31T20:10:17Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 366
+    stars: 367
     contributors: 25
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-30T12:49:10Z'
+    updated_at: '2025-10-31T19:24:08Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 874
     contributors: 28
-    last_activity: Last commit (Oct 30, 2025)
+    last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-10-30T22:58:25Z'
+    updated_at: '2025-10-31T19:41:20Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 366
+    stars: 367
     contributors: 25
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-30T12:49:10Z'
+    updated_at: '2025-10-31T19:24:08Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1339,11 +1339,11 @@ repositories:
   category: SDKs & Tooling
   stars: 141
   stats:
-    stars: 141
+    stars: 142
     contributors: 1
     last_activity: Last commit (Aug 21, 2022)
     archived: false
-    updated_at: '2025-10-31T19:02:37Z'
+    updated_at: '2025-10-31T19:39:41Z'
     language: TypeScript
 - name: solana-mint-ui
   repo: edceds/solana-mint-ui
