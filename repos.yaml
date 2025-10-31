@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 374
+    stars: 376
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-31T22:19:31Z'
+    updated_at: '2025-10-31T22:27:28Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 549
     contributors: 2
-    last_activity: Last commit (Oct 30, 2025)
+    last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-10-30T13:47:57Z'
+    updated_at: '2025-10-31T22:33:59Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 559
     contributors: 2
-    last_activity: Last commit (Oct 30, 2025)
+    last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-10-30T13:48:36Z'
+    updated_at: '2025-10-31T22:33:32Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
