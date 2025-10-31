@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T17:55:56Z'
+    updated_at: '2025-10-31T19:16:33Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4760
+    stars: 4761
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-31T17:32:18Z'
+    updated_at: '2025-10-31T18:34:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4760
+    stars: 4761
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-10-31T17:32:18Z'
+    updated_at: '2025-10-31T18:34:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 71
+    stars: 72
     contributors: 11
     last_activity: v0.26.3 (Oct 28, 2025)
     archived: false
-    updated_at: '2025-10-29T17:16:21Z'
+    updated_at: '2025-10-31T18:58:00Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1339,11 +1339,11 @@ repositories:
   category: SDKs & Tooling
   stars: 141
   stats:
-    stars: 140
+    stars: 141
     contributors: 1
     last_activity: Last commit (Aug 21, 2022)
     archived: false
-    updated_at: '2025-09-26T10:21:04Z'
+    updated_at: '2025-10-31T19:02:37Z'
     language: TypeScript
 - name: solana-mint-ui
   repo: edceds/solana-mint-ui
