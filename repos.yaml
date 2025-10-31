@@ -31,7 +31,7 @@ repositories:
     contributors: 153
     last_activity: instruction@v2.3.1 (Oct 29, 2025)
     archived: false
-    updated_at: '2025-10-30T18:39:57Z'
+    updated_at: '2025-10-31T15:25:27Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 642
+    stars: 643
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-29T09:08:40Z'
+    updated_at: '2025-10-31T16:06:18Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
