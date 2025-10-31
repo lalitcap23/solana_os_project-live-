@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T20:26:19Z'
+    updated_at: '2025-10-31T21:33:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-31T20:10:17Z'
+    updated_at: '2025-10-31T21:29:46Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 376
+    stars: 377
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-31T17:32:31Z'
+    updated_at: '2025-10-31T22:05:12Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 370
+    stars: 374
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-30T22:18:33Z'
+    updated_at: '2025-10-31T22:19:31Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
