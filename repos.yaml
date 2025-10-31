@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T10:35:14Z'
+    updated_at: '2025-10-31T13:07:47Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 200
+    stars: 201
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-31T11:43:32Z'
+    updated_at: '2025-10-31T13:00:20Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 115
+    stars: 116
     contributors: 7
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-10-29T02:37:07Z'
+    updated_at: '2025-10-31T12:52:13Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
