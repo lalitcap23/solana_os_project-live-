@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 267
+    stars: 268
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-10-30T18:44:20Z'
+    updated_at: '2025-11-01T15:19:02Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 119
+    stars: 120
     contributors: 7
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-11-01T08:06:59Z'
+    updated_at: '2025-11-01T15:04:36Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
