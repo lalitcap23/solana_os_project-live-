@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 304
+    stars: 305
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-10-27T21:12:10Z'
+    updated_at: '2025-11-01T13:46:43Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 581
+    stars: 582
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-01T10:59:15Z'
+    updated_at: '2025-11-01T13:32:24Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
