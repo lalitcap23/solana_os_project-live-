@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1473
+    stars: 1475
     contributors: 362
     last_activity: v3.0.8 (Oct 24, 2025)
     archived: false
-    updated_at: '2025-10-31T21:33:54Z'
+    updated_at: '2025-11-01T01:31:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 158
     contributors: 153
-    last_activity: instruction@v2.3.1 (Oct 29, 2025)
+    last_activity: define-syscall@v4.0.1 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-10-31T15:25:27Z'
+    updated_at: '2025-11-01T00:07:55Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1945
+    stars: 1946
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-10-30T12:40:56Z'
+    updated_at: '2025-11-01T01:15:11Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 581
+    stars: 582
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-10-31T21:29:46Z'
+    updated_at: '2025-11-01T01:10:50Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
