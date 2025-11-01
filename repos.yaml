@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4120
+    stars: 4121
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-10-31T09:18:18Z'
+    updated_at: '2025-11-01T07:12:28Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1302
+    stars: 1303
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-10-30T16:39:39Z'
+    updated_at: '2025-11-01T06:50:25Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3368
+    stars: 3369
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-10-30T15:21:04Z'
+    updated_at: '2025-11-01T07:14:35Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
