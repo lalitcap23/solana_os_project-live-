@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14629
+    stars: 14630
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-01T09:21:49Z'
+    updated_at: '2025-11-01T10:26:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 158
+    stars: 159
     contributors: 153
     last_activity: define-syscall@v4.0.1 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-01T00:07:55Z'
+    updated_at: '2025-11-01T10:37:09Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 582
+    stars: 581
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-01T01:10:50Z'
+    updated_at: '2025-11-01T10:59:15Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
