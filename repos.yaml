@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14630
+    stars: 14631
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-01T10:26:45Z'
+    updated_at: '2025-11-01T11:32:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 376
+    stars: 377
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-10-31T22:27:28Z'
+    updated_at: '2025-11-01T12:22:37Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 110
+    stars: 111
     contributors: 4
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-30T04:12:52Z'
+    updated_at: '2025-11-01T11:44:56Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
