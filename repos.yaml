@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 582
+    stars: 583
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-01T13:32:24Z'
+    updated_at: '2025-11-01T16:22:33Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
