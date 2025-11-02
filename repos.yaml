@@ -187,7 +187,7 @@ repositories:
   stars: 426
   stats:
     stars: 487
-    contributors: 31
+    contributors: 32
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
     updated_at: '2025-11-02T18:53:59Z'
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 876
     contributors: 28
-    last_activity: Last commit (Nov 01, 2025)
+    last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-11-02T17:59:50Z'
+    updated_at: '2025-11-02T19:39:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 207
+    stars: 208
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-02T02:19:20Z'
+    updated_at: '2025-11-02T19:46:17Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
