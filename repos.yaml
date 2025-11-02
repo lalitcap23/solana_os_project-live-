@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4765
+    stars: 4766
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-02T06:50:34Z'
+    updated_at: '2025-11-02T15:40:40Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4765
+    stars: 4766
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-02T06:50:34Z'
+    updated_at: '2025-11-02T15:40:40Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 377
+    stars: 379
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-10-31T22:05:12Z'
+    updated_at: '2025-11-02T16:05:50Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 285
+    stars: 286
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-10-31T14:41:17Z'
+    updated_at: '2025-11-02T15:29:28Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
