@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4121
+    stars: 4122
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-01T07:12:28Z'
+    updated_at: '2025-11-02T17:29:23Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -228,7 +228,7 @@ repositories:
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-10-23T22:45:45Z'
+    updated_at: '2025-11-02T18:14:43Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 561
+    stars: 562
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-10-31T15:10:06Z'
+    updated_at: '2025-11-02T18:00:24Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 875
+    stars: 876
     contributors: 28
     last_activity: Last commit (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-01T19:40:03Z'
+    updated_at: '2025-11-02T17:59:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
