@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4764
+    stars: 4765
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-01T23:05:18Z'
+    updated_at: '2025-11-02T06:50:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4764
+    stars: 4765
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-01T23:05:18Z'
+    updated_at: '2025-11-02T06:50:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-01T15:19:02Z'
+    updated_at: '2025-11-02T07:03:20Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
