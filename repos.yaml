@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 584
+    stars: 585
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-01T18:46:14Z'
+    updated_at: '2025-11-02T00:47:01Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 205
+    stars: 206
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-01T13:27:24Z'
+    updated_at: '2025-11-02T01:44:21Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 120
+    stars: 121
     contributors: 7
     last_activity: Last commit (Oct 12, 2025)
     archived: false
-    updated_at: '2025-11-01T15:04:36Z'
+    updated_at: '2025-11-02T01:46:51Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
