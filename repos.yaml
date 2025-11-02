@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 549
     contributors: 2
-    last_activity: Last commit (Oct 31, 2025)
+    last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-10-31T22:33:59Z'
+    updated_at: '2025-11-02T20:27:47Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 559
     contributors: 2
-    last_activity: Last commit (Oct 31, 2025)
+    last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-10-31T22:33:32Z'
+    updated_at: '2025-11-02T20:28:09Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -899,7 +899,7 @@ repositories:
     contributors: 28
     last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-11-02T19:39:01Z'
+    updated_at: '2025-11-02T20:59:43Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
