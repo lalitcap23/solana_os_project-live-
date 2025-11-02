@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 486
+    stars: 487
     contributors: 31
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-10-28T20:47:54Z'
+    updated_at: '2025-11-02T10:38:04Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
