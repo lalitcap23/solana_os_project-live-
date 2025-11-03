@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14635
+    stars: 14636
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-03T08:05:07Z'
+    updated_at: '2025-11-03T12:10:51Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -330,7 +330,7 @@ repositories:
     contributors: 25
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-31T19:24:08Z'
+    updated_at: '2025-11-03T11:51:30Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -345,7 +345,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-29T06:10:05Z'
+    updated_at: '2025-11-03T11:48:46Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -919,11 +919,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 312
+    stars: 313
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2025-10-09T07:11:11Z'
+    updated_at: '2025-11-03T12:18:42Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1153,7 +1153,7 @@ repositories:
     contributors: 25
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-10-31T19:24:08Z'
+    updated_at: '2025-11-03T11:51:30Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1754,7 +1754,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-10-29T06:10:05Z'
+    updated_at: '2025-11-03T11:48:46Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
