@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-03T18:28:30Z'
+    updated_at: '2025-11-03T19:01:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 588
-    contributors: 148
+    contributors: 149
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-03T13:27:11Z'
+    updated_at: '2025-11-03T19:11:24Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1122,11 +1122,11 @@ repositories:
   category: Payments
   stars: 6
   stats:
-    stars: 6
+    stars: 7
     contributors: 1
     last_activity: Last commit (Oct 25, 2022)
     archived: false
-    updated_at: '2024-08-17T22:54:49Z'
+    updated_at: '2025-11-03T19:02:33Z'
     language: JavaScript
 - name: pumpfun-smartcontract-solana
   repo: printz-labs/pumpfun-smartcontract-solana
