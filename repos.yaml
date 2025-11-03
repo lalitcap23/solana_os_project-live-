@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-03T17:11:33Z'
+    updated_at: '2025-11-03T18:28:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 153
-    last_activity: define-syscall@v4.0.1 (Nov 01, 2025)
+    last_activity: hash@v4.0.1 (Nov 03, 2025)
     archived: false
-    updated_at: '2025-11-03T16:59:25Z'
+    updated_at: '2025-11-03T17:33:47Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -144,7 +144,7 @@ repositories:
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-11-01T13:46:43Z'
+    updated_at: '2025-11-03T18:17:36Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4156
+    stars: 4157
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-02T14:27:11Z'
+    updated_at: '2025-11-03T17:52:51Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
