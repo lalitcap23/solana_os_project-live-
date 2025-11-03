@@ -31,7 +31,7 @@ repositories:
     contributors: 153
     last_activity: define-syscall@v4.0.1 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-01T10:37:09Z'
+    updated_at: '2025-11-03T13:09:47Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 337
+    stars: 338
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-11-02T17:05:49Z'
+    updated_at: '2025-11-03T13:22:09Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 587
+    stars: 588
     contributors: 148
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-03T10:12:11Z'
+    updated_at: '2025-11-03T13:27:11Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 389
+    stars: 390
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-03T11:03:23Z'
+    updated_at: '2025-11-03T13:05:25Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
