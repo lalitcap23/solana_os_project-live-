@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T15:38:58Z'
+    updated_at: '2025-11-04T17:14:26Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1306
+    stars: 1307
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-04T15:31:35Z'
+    updated_at: '2025-11-04T16:32:52Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 577
+    stars: 578
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-10-21T06:55:00Z'
+    updated_at: '2025-11-04T16:39:50Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 275
+    stars: 276
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-10-29T09:01:52Z'
+    updated_at: '2025-11-04T16:37:42Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -1653,7 +1653,7 @@ repositories:
   stats:
     stars: 32
     contributors: 2
-    last_activity: Active
+    last_activity: Last commit (Nov 12, 2020)
     archived: false
     updated_at: '2025-10-26T17:58:05Z'
     language: TypeScript
@@ -1764,11 +1764,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 577
+    stars: 578
     contributors: 1
     last_activity: Last commit (May 07, 2025)
     archived: false
-    updated_at: '2025-10-21T06:55:00Z'
+    updated_at: '2025-11-04T16:39:50Z'
     language: TypeScript
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
