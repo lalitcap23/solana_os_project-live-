@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T12:33:23Z'
+    updated_at: '2025-11-04T15:04:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 559
+    stars: 560
     contributors: 2
     last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-11-02T20:28:09Z'
+    updated_at: '2025-11-04T15:11:18Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1021,11 +1021,11 @@ repositories:
   category: Payments
   stars: 20
   stats:
-    stars: 20
+    stars: 21
     contributors: 2
     last_activity: Last commit (Jul 13, 2021)
     archived: false
-    updated_at: '2025-01-07T18:07:11Z'
+    updated_at: '2025-11-04T15:00:09Z'
     language: Rust
 - name: solana-payment-processor
   repo: hylcore-V/solana-payment-processor
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 478
+    stars: 479
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-10-26T23:21:54Z'
+    updated_at: '2025-11-04T15:23:45Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
