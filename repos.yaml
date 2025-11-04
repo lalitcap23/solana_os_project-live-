@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4769
+    stars: 4770
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-03T15:26:57Z'
+    updated_at: '2025-11-04T08:08:36Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4769
+    stars: 4770
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-03T15:26:57Z'
+    updated_at: '2025-11-04T08:08:36Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 60
+    stars: 61
     contributors: 6
     last_activity: Last commit (Oct 28, 2025)
     archived: false
-    updated_at: '2025-11-03T06:54:23Z'
+    updated_at: '2025-11-04T07:48:46Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 151
+    stars: 150
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-11-04T02:36:46Z'
+    updated_at: '2025-11-04T08:05:17Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
