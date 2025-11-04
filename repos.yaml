@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T22:01:08Z'
+    updated_at: '2025-11-04T23:08:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 154
     last_activity: sha256-hasher@v3.0.1 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-04T19:16:40Z'
+    updated_at: '2025-11-04T22:32:05Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1307
+    stars: 1308
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-04T16:32:52Z'
+    updated_at: '2025-11-04T23:20:29Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 564
+    stars: 563
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-03T06:58:58Z'
+    updated_at: '2025-11-04T22:37:37Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
