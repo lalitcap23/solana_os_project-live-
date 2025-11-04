@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14636
+    stars: 14637
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-03T12:10:51Z'
+    updated_at: '2025-11-04T08:35:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 488
+    stars: 489
     contributors: 32
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-03T15:53:29Z'
+    updated_at: '2025-11-04T09:21:08Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 212
+    stars: 213
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-04T04:23:38Z'
+    updated_at: '2025-11-04T08:48:56Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 73
+    stars: 74
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-10-31T04:44:11Z'
+    updated_at: '2025-11-04T08:42:55Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
