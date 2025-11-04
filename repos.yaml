@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14637
+    stars: 14638
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-04T08:35:59Z'
+    updated_at: '2025-11-04T15:35:30Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T15:04:15Z'
+    updated_at: '2025-11-04T15:38:58Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 153
     last_activity: hash@v4.0.1 (Nov 03, 2025)
     archived: false
-    updated_at: '2025-11-03T17:33:47Z'
+    updated_at: '2025-11-04T16:12:57Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1307
+    stars: 1306
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-02T14:56:08Z'
+    updated_at: '2025-11-04T15:31:35Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -678,11 +678,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 11
+    stars: 10
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-10-21T03:57:46Z'
+    updated_at: '2025-11-04T16:23:57Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 560
+    stars: 561
     contributors: 2
     last_activity: Last commit (Nov 02, 2025)
     archived: false
-    updated_at: '2025-11-04T15:11:18Z'
+    updated_at: '2025-11-04T15:36:11Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 213
     contributors: 6
-    last_activity: Last commit (Oct 30, 2025)
+    last_activity: Last commit (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-04T08:48:56Z'
+    updated_at: '2025-11-04T15:58:24Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1653,7 +1653,7 @@ repositories:
   stats:
     stars: 32
     contributors: 2
-    last_activity: Last commit (Nov 12, 2020)
+    last_activity: Active
     archived: false
     updated_at: '2025-10-26T17:58:05Z'
     language: TypeScript
