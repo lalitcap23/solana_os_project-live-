@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1485
+    stars: 1484
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-03T23:44:56Z'
+    updated_at: '2025-11-04T12:33:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 222
+    stars: 221
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-01T02:29:14Z'
+    updated_at: '2025-11-04T12:32:51Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-04T10:51:12Z'
+    updated_at: '2025-11-04T12:39:36Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
