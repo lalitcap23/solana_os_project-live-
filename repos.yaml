@@ -540,11 +540,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 721
+    stars: 722
     contributors: 25
     last_activity: v0.44.1 (Aug 25, 2025)
     archived: false
-    updated_at: '2025-10-18T19:28:12Z'
+    updated_at: '2025-11-04T01:59:11Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 210
+    stars: 211
     contributors: 6
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-03T09:13:37Z'
+    updated_at: '2025-11-04T02:11:34Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 150
+    stars: 151
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-10-30T17:52:36Z'
+    updated_at: '2025-11-04T02:36:46Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
