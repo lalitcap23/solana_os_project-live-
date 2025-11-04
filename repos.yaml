@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 875
+    stars: 876
     contributors: 28
     last_activity: Last commit (Nov 03, 2025)
     archived: false
-    updated_at: '2025-11-03T19:36:32Z'
+    updated_at: '2025-11-04T04:37:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1721,11 +1721,11 @@ repositories:
   category: Payments
   stars: 7
   stats:
-    stars: 10
+    stars: 9
     contributors: 2
     last_activity: Last commit (May 27, 2025)
     archived: false
-    updated_at: '2025-10-13T13:22:49Z'
+    updated_at: '2025-11-04T05:21:48Z'
     language: TypeScript
 - name: Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun
   repo: Tru3Bliss/Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun
