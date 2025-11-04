@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 159
-    contributors: 153
+    contributors: 154
     last_activity: hash@v4.0.1 (Nov 03, 2025)
     archived: false
-    updated_at: '2025-11-04T16:12:57Z'
+    updated_at: '2025-11-04T19:16:40Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 290
+    stars: 291
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-10-30T07:15:47Z'
+    updated_at: '2025-11-04T18:47:12Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
