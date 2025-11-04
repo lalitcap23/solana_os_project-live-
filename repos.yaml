@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T21:13:37Z'
+    updated_at: '2025-11-04T22:01:08Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,7 +29,7 @@ repositories:
   stats:
     stars: 159
     contributors: 154
-    last_activity: hash@v4.0.1 (Nov 03, 2025)
+    last_activity: sha256-hasher@v3.0.1 (Nov 04, 2025)
     archived: false
     updated_at: '2025-11-04T19:16:40Z'
     language: Rust
@@ -144,7 +144,7 @@ repositories:
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-11-03T23:52:53Z'
+    updated_at: '2025-11-04T21:32:09Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 287
+    stars: 286
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:13Z'
+    updated_at: '2025-11-04T21:51:53Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 379
+    stars: 377
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:18Z'
+    updated_at: '2025-11-04T21:51:52Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 192
+    stars: 198
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:18Z'
+    updated_at: '2025-11-04T22:11:00Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
