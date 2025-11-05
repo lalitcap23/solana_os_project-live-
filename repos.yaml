@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4770
+    stars: 4771
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-04T08:08:36Z'
+    updated_at: '2025-11-05T06:24:40Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 306
+    stars: 307
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-11-05T01:04:00Z'
+    updated_at: '2025-11-05T05:55:41Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4770
+    stars: 4771
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-04T08:08:36Z'
+    updated_at: '2025-11-05T06:24:40Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -280,7 +280,7 @@ repositories:
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-03T17:52:51Z'
+    updated_at: '2025-11-05T06:23:07Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 391
+    stars: 393
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-03T14:43:17Z'
+    updated_at: '2025-11-05T06:07:50Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 11
     last_activity: v0.26.3 (Oct 28, 2025)
     archived: false
-    updated_at: '2025-10-31T18:58:00Z'
+    updated_at: '2025-11-05T06:03:49Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
