@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-04T23:08:35Z'
+    updated_at: '2025-11-05T00:04:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2650
+    stars: 2651
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-03T08:15:08Z'
+    updated_at: '2025-11-05T00:35:24Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 305
+    stars: 306
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-11-04T21:32:09Z'
+    updated_at: '2025-11-05T01:04:00Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 338
+    stars: 339
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-11-03T13:22:09Z'
+    updated_at: '2025-11-05T00:46:38Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -292,7 +292,7 @@ repositories:
     contributors: 150
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-04T19:22:13Z'
+    updated_at: '2025-11-05T00:18:46Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3369
+    stars: 3368
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-11-01T07:14:35Z'
+    updated_at: '2025-11-05T01:21:59Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1021,11 +1021,11 @@ repositories:
   category: Payments
   stars: 20
   stats:
-    stars: 21
+    stars: 22
     contributors: 2
     last_activity: Last commit (Jul 13, 2021)
     archived: false
-    updated_at: '2025-11-04T15:00:09Z'
+    updated_at: '2025-11-05T01:30:28Z'
     language: Rust
 - name: solana-payment-processor
   repo: hylcore-V/solana-payment-processor
