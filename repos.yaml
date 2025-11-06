@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1309
+    stars: 1310
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-05T14:51:10Z'
+    updated_at: '2025-11-06T06:21:27Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1083,11 +1083,11 @@ repositories:
   category: DeFi
   stars: 9
   stats:
-    stars: 10
+    stars: 11
     contributors: 1
     last_activity: Last commit (Jul 12, 2025)
     archived: false
-    updated_at: '2025-11-06T05:13:42Z'
+    updated_at: '2025-11-06T05:32:57Z'
     language: TypeScript
 - name: solana-sign-with-payment
   repo: kizzx2/solana-sign-with-payment
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 150
+    stars: 151
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-11-03T08:04:40Z'
+    updated_at: '2025-11-06T06:29:30Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
