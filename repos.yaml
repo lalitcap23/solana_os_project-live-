@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-06T12:05:18Z'
+    updated_at: '2025-11-06T15:19:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 240
+    stars: 241
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-03T09:16:45Z'
+    updated_at: '2025-11-06T14:47:31Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 287
+    stars: 288
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-11-05T15:58:49Z'
+    updated_at: '2025-11-06T14:33:35Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1521,10 +1521,10 @@ repositories:
   stars: 77
   stats:
     stars: 122
-    contributors: 7
-    last_activity: Last commit (Oct 12, 2025)
+    contributors: 8
+    last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-02T12:46:54Z'
+    updated_at: '2025-11-06T15:21:06Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
