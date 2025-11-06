@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-06T21:20:02Z'
+    updated_at: '2025-11-06T21:36:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4154
+    stars: 4153
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-06T12:41:53Z'
+    updated_at: '2025-11-06T22:00:29Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 187
+    stars: 185
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-06T20:02:48Z'
+    updated_at: '2025-11-06T21:37:39Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 283
+    stars: 276
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-06T03:26:39Z'
+    updated_at: '2025-11-06T21:57:56Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 210
+    stars: 201
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-06T20:20:59Z'
+    updated_at: '2025-11-06T21:57:56Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 209
+    stars: 207
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-06T20:00:07Z'
+    updated_at: '2025-11-06T21:37:38Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 187
+    stars: 185
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-06T20:02:48Z'
+    updated_at: '2025-11-06T21:37:39Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
