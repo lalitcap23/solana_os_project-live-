@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-06T21:36:00Z'
+    updated_at: '2025-11-06T22:35:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 154
-    last_activity: pubkey@v4.0.0 (Nov 06, 2025)
+    last_activity: sha256-hasher@v3.1.0 (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-06T12:01:43Z'
+    updated_at: '2025-11-06T22:58:25Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 491
+    stars: 492
     contributors: 32
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-06T17:37:57Z'
+    updated_at: '2025-11-06T22:26:40Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 276
+    stars: 274
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-06T21:57:56Z'
+    updated_at: '2025-11-06T22:49:28Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 201
+    stars: 198
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-06T21:57:56Z'
+    updated_at: '2025-11-06T22:49:27Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 114
+    stars: 113
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-11-06T20:01:21Z'
+    updated_at: '2025-11-06T22:49:26Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 207
+    stars: 206
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-06T21:37:38Z'
+    updated_at: '2025-11-06T22:49:27Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
