@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14636
+    stars: 14637
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-05T22:48:20Z'
+    updated_at: '2025-11-06T02:07:04Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1487
+    stars: 1488
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-06T01:31:36Z'
+    updated_at: '2025-11-06T02:23:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 489
+    stars: 490
     contributors: 32
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-04T09:21:08Z'
+    updated_at: '2025-11-06T02:39:22Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 192
+    stars: 191
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-03T11:48:46Z'
+    updated_at: '2025-11-06T03:17:26Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 287
+    stars: 286
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-05T06:40:04Z'
+    updated_at: '2025-11-06T03:17:26Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 213
     contributors: 6
-    last_activity: Last commit (Nov 04, 2025)
+    last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-04T15:58:24Z'
+    updated_at: '2025-11-06T02:02:50Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 192
+    stars: 191
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-03T11:48:46Z'
+    updated_at: '2025-11-06T03:17:26Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
