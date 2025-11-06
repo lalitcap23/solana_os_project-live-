@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-06T19:00:43Z'
+    updated_at: '2025-11-06T19:40:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -327,10 +327,10 @@ repositories:
   stars: 312
   stats:
     stars: 367
-    contributors: 25
+    contributors: 26
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-06T19:19:20Z'
+    updated_at: '2025-11-06T19:34:39Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 188
+    stars: 187
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-06T03:26:39Z'
+    updated_at: '2025-11-06T20:02:48Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 876
     contributors: 28
-    last_activity: Last commit (Nov 05, 2025)
+    last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-05T19:36:48Z'
+    updated_at: '2025-11-06T19:33:40Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1153,7 +1153,7 @@ repositories:
     contributors: 26
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-06T19:19:20Z'
+    updated_at: '2025-11-06T19:34:39Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 204
+    stars: 210
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-05T20:35:39Z'
+    updated_at: '2025-11-06T20:20:59Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 72
+    stars: 71
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2025-10-15T09:15:30Z'
+    updated_at: '2025-11-06T19:32:15Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 115
+    stars: 114
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-10-30T16:07:30Z'
+    updated_at: '2025-11-06T20:01:21Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
@@ -1736,11 +1736,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 210
+    stars: 209
     contributors: 1
     last_activity: Last commit (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:13Z'
+    updated_at: '2025-11-06T20:00:07Z'
     language: Rust
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 188
+    stars: 187
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-11-06T03:26:39Z'
+    updated_at: '2025-11-06T20:02:48Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
