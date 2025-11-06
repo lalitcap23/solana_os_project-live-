@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1489
+    stars: 1490
     contributors: 362
     last_activity: v3.0.9 (Nov 01, 2025)
     archived: false
-    updated_at: '2025-11-06T09:34:44Z'
+    updated_at: '2025-11-06T12:05:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 154
-    last_activity: instruction@v2.3.3 (Nov 05, 2025)
+    last_activity: pubkey@v4.0.0 (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-05T13:36:05Z'
+    updated_at: '2025-11-06T12:01:43Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4122
+    stars: 4123
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-05T22:50:01Z'
+    updated_at: '2025-11-06T11:40:22Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4153
+    stars: 4154
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-05T22:49:02Z'
+    updated_at: '2025-11-06T12:41:53Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1310
+    stars: 1311
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-06T06:21:27Z'
+    updated_at: '2025-11-06T11:40:22Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1783,6 +1783,19 @@ repositories:
     archived: false
     updated_at: '2025-10-27T08:34:59Z'
     language: null
+- name: solana-trading-bot
+  repo: bytemagi/solana-trading-bot
+  description: Solana Trading Bot is an algorithmic trading bot designed to automate
+    the trading process of Solana specific ecosystem tokens.
+  category: SDKs & Tooling
+  stars: 194
+  stats:
+    stars: 194
+    contributors: 1
+    last_activity: Last commit (Mar 30, 2024)
+    archived: false
+    updated_at: '2025-09-11T08:11:32Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
