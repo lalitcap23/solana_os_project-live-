@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14642
+    stars: 14641
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-07T03:15:47Z'
+    updated_at: '2025-11-07T07:28:19Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3368
+    stars: 3367
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-11-05T15:55:45Z'
+    updated_at: '2025-11-07T07:25:07Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 198
+    stars: 206
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-06T22:49:27Z'
+    updated_at: '2025-11-07T08:30:42Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
