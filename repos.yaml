@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4776
+    stars: 4777
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-07T12:02:39Z'
+    updated_at: '2025-11-07T14:49:21Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4776
+    stars: 4777
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-07T12:02:39Z'
+    updated_at: '2025-11-07T14:49:21Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 367
     contributors: 26
-    last_activity: Last commit (Nov 06, 2025)
+    last_activity: Last commit (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-06T19:34:39Z'
+    updated_at: '2025-11-07T15:23:12Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 367
     contributors: 26
-    last_activity: Last commit (Nov 06, 2025)
+    last_activity: Last commit (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-06T19:34:39Z'
+    updated_at: '2025-11-07T15:23:12Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1163,9 +1163,9 @@ repositories:
   stats:
     stars: 72
     contributors: 11
-    last_activity: v0.26.3 (Oct 28, 2025)
+    last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-05T06:03:49Z'
+    updated_at: '2025-11-07T14:52:53Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 151
+    stars: 152
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-11-06T06:29:30Z'
+    updated_at: '2025-11-07T14:54:22Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
