@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14641
+    stars: 14642
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-07T07:28:19Z'
+    updated_at: '2025-11-07T16:35:15Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -17,10 +17,10 @@ repositories:
   category: Infrastructure
   stats:
     stars: 1491
-    contributors: 362
+    contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-07T16:10:21Z'
+    updated_at: '2025-11-07T17:14:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 155
     last_activity: system-interface@v3.0.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-07T15:50:51Z'
+    updated_at: '2025-11-07T16:48:35Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 242
+    stars: 243
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-07T16:13:07Z'
+    updated_at: '2025-11-07T16:52:36Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
