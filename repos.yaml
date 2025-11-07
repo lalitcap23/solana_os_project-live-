@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-07T14:13:28Z'
+    updated_at: '2025-11-07T16:10:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 155
     last_activity: system-interface@v3.0.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-07T14:17:43Z'
+    updated_at: '2025-11-07T15:50:51Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 241
+    stars: 242
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-06T14:47:31Z'
+    updated_at: '2025-11-07T16:13:07Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 324
+    stars: 325
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-10-29T18:57:40Z'
+    updated_at: '2025-11-07T15:58:29Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 150
+    stars: 151
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-11-04T08:05:17Z'
+    updated_at: '2025-11-07T15:33:36Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
