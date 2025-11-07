@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-11-06
+Last updated: 2025-11-07
 
 ## Directory
 
@@ -39,7 +39,7 @@ Last updated: 2025-11-06
 |---|---|---|---|---|---|---|
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.6k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.5k | 362 | v3.0.10 (Nov 04, 2025) | Infrastructure |
-| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 159 | 154 | sha256-hasher@v3.1.0 (Nov 06, 2025) | SDKs & Tooling |
+| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 159 | 154 | system-interface@v3.0.0 (Nov 07, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.8k | 307 | v0.32.1 (Oct 10, 2025) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.6k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 419 | 11 | 0.27.0 (Oct 26, 2025) | SDKs & Tooling |
@@ -179,6 +179,7 @@ Last updated: 2025-11-06
 | identity-swap | An Automatic Money Market (AMM) dApp that  demonstrates the concept of Decentralised Identity on the  Solana SPL Token-Swap program. | https://github.com/civicteam/identity-swap | 32 | 2 | Last commit (Nov 12, 2020) | DeFi |
 | Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 72 | 1 | Last commit (Sep 17, 2025) | DeFi |
 | Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | Multichain Web3 Framework — supports Pump.fun (Solana), Four.meme (BNB), and Xpad.fun (EVM) with smart contracts, backend, and frontend integrations. Compatible with Raydium, Meteora, Pumpswap, and Uniswap on Solana & EVM (Monad, BNB, Ethereum L1/L2). | https://github.com/Tru3Bliss/Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | 206 | 1 | Last commit (Oct 10, 2025) | DeFi |
+| NEW pumpfun-amm-bundler-volumn-maker-bot | Automated PumpFun/Raydium bundler and volume bot for Solana using Jito, multi-wallet distribution, and randomized buy/sell cycles to simulate organic liquidity and improve execution reliability. | https://github.com/Luukogood/pumpfun-amm-bundler-volumn-maker-bot | 6 | 2 | Last commit (Sep 04, 2025) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 61 | 5 | Last commit (Oct 27, 2025) | Oracles |
 
 - Stars/Contributors: Snapshot values; “—” indicates to-be-filled or varies (especially for org-level entries or during repo migrations).

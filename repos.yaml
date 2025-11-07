@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-06T22:35:37Z'
+    updated_at: '2025-11-07T00:39:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 154
-    last_activity: sha256-hasher@v3.1.0 (Nov 06, 2025)
+    last_activity: system-interface@v3.0.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-06T22:58:25Z'
+    updated_at: '2025-11-07T00:14:40Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -1796,6 +1796,20 @@ repositories:
     archived: false
     updated_at: '2025-09-11T08:11:32Z'
     language: TypeScript
+- name: pumpfun-amm-bundler-volumn-maker-bot
+  repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
+  description: Automated PumpFun/Raydium bundler and volume bot for Solana using Jito,
+    multi-wallet distribution, and randomized buy/sell cycles to simulate organic
+    liquidity and improve execution reliability.
+  category: DeFi
+  stars: 6
+  stats:
+    stars: 6
+    contributors: 2
+    last_activity: Last commit (Sep 04, 2025)
+    archived: false
+    updated_at: '2025-11-07T00:19:13Z'
+    language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
