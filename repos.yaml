@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1491
+    stars: 1490
     contributors: 362
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-07T00:39:40Z'
+    updated_at: '2025-11-07T08:44:58Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4774
+    stars: 4775
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-06T21:06:17Z'
+    updated_at: '2025-11-07T09:24:42Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1951
+    stars: 1950
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-11-05T15:39:42Z'
+    updated_at: '2025-11-07T09:23:44Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4774
+    stars: 4775
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-06T21:06:17Z'
+    updated_at: '2025-11-07T09:24:42Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 213
     contributors: 6
-    last_activity: Last commit (Nov 06, 2025)
+    last_activity: Last commit (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-06T02:02:50Z'
+    updated_at: '2025-11-07T09:04:58Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
