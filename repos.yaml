@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14643
+    stars: 14644
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-08T19:08:10Z'
+    updated_at: '2025-11-08T20:36:08Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 210
+    stars: 216
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-07T20:17:35Z'
+    updated_at: '2025-11-08T21:10:06Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 683
+    stars: 686
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T20:15:20Z'
+    updated_at: '2025-11-08T21:21:29Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
