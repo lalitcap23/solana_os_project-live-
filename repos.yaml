@@ -28,7 +28,7 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 159
-    contributors: 155
+    contributors: 156
     last_activity: system-interface@v3.0.0 (Nov 07, 2025)
     archived: false
     updated_at: '2025-11-07T23:18:51Z'
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 549
     contributors: 2
-    last_activity: Last commit (Nov 05, 2025)
+    last_activity: Last commit (Nov 08, 2025)
     archived: false
-    updated_at: '2025-11-05T23:09:39Z'
+    updated_at: '2025-11-08T00:27:19Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 561
     contributors: 2
-    last_activity: Last commit (Nov 05, 2025)
+    last_activity: Last commit (Nov 08, 2025)
     archived: false
-    updated_at: '2025-11-05T23:10:29Z'
+    updated_at: '2025-11-08T00:27:46Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 123
+    stars: 124
     contributors: 8
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-07T19:14:04Z'
+    updated_at: '2025-11-08T01:01:49Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
