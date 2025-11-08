@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14642
+    stars: 14643
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-08T12:40:03Z'
+    updated_at: '2025-11-08T19:08:10Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 677
+    stars: 678
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T18:31:36Z'
+    updated_at: '2025-11-08T18:59:19Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
