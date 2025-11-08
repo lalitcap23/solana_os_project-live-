@@ -107,11 +107,11 @@ repositories:
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 29
+    stars: 30
     contributors: 5
     last_activity: js@v0.3.0 (Jan 27, 2025)
     archived: false
-    updated_at: '2025-10-18T13:05:41Z'
+    updated_at: '2025-11-08T17:15:21Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -420,11 +420,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 489
+    stars: 490
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2025-11-08T14:01:40Z'
+    updated_at: '2025-11-08T16:34:36Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -805,11 +805,11 @@ repositories:
   category: SDKs & Tooling
   stars: 202
   stats:
-    stars: 202
+    stars: 203
     contributors: 1
     last_activity: Last commit (Jul 08, 2021)
     archived: true
-    updated_at: '2025-08-07T00:50:32Z'
+    updated_at: '2025-11-08T16:31:28Z'
     language: Vue
 - name: solana-spl-token-sniper
   repo: danbayk/solana-spl-token-sniper
@@ -919,11 +919,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 313
+    stars: 314
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2025-11-03T12:18:42Z'
+    updated_at: '2025-11-08T16:31:27Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 649
+    stars: 661
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T16:27:16Z'
+    updated_at: '2025-11-08T17:04:32Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
