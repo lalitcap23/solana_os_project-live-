@@ -29,7 +29,7 @@ repositories:
   stats:
     stars: 159
     contributors: 156
-    last_activity: system-interface@v3.0.0 (Nov 07, 2025)
+    last_activity: program-log@v1.0.0 (Nov 08, 2025)
     archived: false
     updated_at: '2025-11-07T23:18:51Z'
     language: Rust
@@ -190,7 +190,7 @@ repositories:
     contributors: 33
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-08T09:20:28Z'
+    updated_at: '2025-11-08T11:03:20Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 288
+    stars: 289
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-11-06T14:33:35Z'
+    updated_at: '2025-11-08T10:53:59Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 423
+    stars: 478
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T10:23:02Z'
+    updated_at: '2025-11-08T11:18:27Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50

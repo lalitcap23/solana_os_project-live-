@@ -39,7 +39,7 @@ Last updated: 2025-11-08
 |---|---|---|---|---|---|---|
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.6k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.5k | 363 | v3.0.10 (Nov 04, 2025) | Infrastructure |
-| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 159 | 156 | system-interface@v3.0.0 (Nov 07, 2025) | SDKs & Tooling |
+| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 159 | 156 | program-log@v1.0.0 (Nov 08, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.8k | 307 | v0.32.1 (Oct 10, 2025) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.6k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 419 | 11 | 0.27.0 (Oct 26, 2025) | SDKs & Tooling |
@@ -61,7 +61,7 @@ Last updated: 2025-11-08
 | Solana-Prediction-Market | Solana Prediction Market where users can create market, add liquidity, and bet | https://github.com/HyperBuildX/Solana-Prediction-Market | 274 | 1 | Last commit (Oct 13, 2025) | SDKs & Tooling |
 | awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 394 | 2 | Last commit (Jun 18, 2025) | SDKs & Tooling |
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 377 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
-| anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 288 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
+| anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 289 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
 | solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 549 | 2 | Last commit (Nov 08, 2025) | SDKs & Tooling |
 | solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 561 | 2 | Last commit (Nov 08, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 202 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
@@ -98,7 +98,7 @@ Last updated: 2025-11-08
 | launch-solana-token | an all-in-one toolkit for experimenting with custom assets and configurations on the **Solana blockchain**. It includes logic for configuring token parameters, simulating liquidity setups (e.g., with **Raydium**) and minimal overhead. Built in **Rust**, provided as a single native application for testing and educational use. | https://github.com/lacydebuger/launch-solana-token | 3 | 1 | sol (Jul 11, 2025) | SDKs & Tooling |
 | Bita_Contract | A lightweight on-chain Coin Flip betting game built on the Solana blockchain using Rust and the Anchor framework. This contract allows users to wager SOL (or tokens) on a 50/50 coin flip outcome — win or lose instantly, with no intermediaries. | https://github.com/kinexbt/Bita_Contract | 578 | 1 | Last commit (May 07, 2025) | SDKs & Tooling |
 | solana-trading-bot | Solana Trading Bot is an algorithmic trading bot designed to automate the trading process of Solana specific ecosystem tokens. | https://github.com/bytemagi/solana-trading-bot | 194 | 1 | Last commit (Mar 30, 2024) | SDKs & Tooling |
-| solana-starter-kit | Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI. | https://github.com/SolanaUpdateTools/solana-starter-kit | 423 | 1 | Last commit (Nov 06, 2025) | SDKs & Tooling |
+| solana-starter-kit | Open-source Solana dApp template with Anchor program, TypeScript client, and Next.js UI. | https://github.com/SolanaUpdateTools/solana-starter-kit | 478 | 1 | Last commit (Nov 06, 2025) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 2.0k | 115 | @solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 766 | 2 | Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 307 | 19 | v2.1.0 (Aug 18, 2025) | Wallets & Mobile |
