@@ -1339,11 +1339,11 @@ repositories:
   category: SDKs & Tooling
   stars: 141
   stats:
-    stars: 142
+    stars: 143
     contributors: 1
     last_activity: Last commit (Aug 21, 2022)
     archived: false
-    updated_at: '2025-10-31T19:39:41Z'
+    updated_at: '2025-11-08T03:13:31Z'
     language: TypeScript
 - name: solana-mint-ui
   repo: edceds/solana-mint-ui

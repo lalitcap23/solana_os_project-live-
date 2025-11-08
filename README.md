@@ -87,7 +87,7 @@ Last updated: 2025-11-08
 | Solana-Token-Staking-Smart-Contract | Solana token staking smart contract  | https://github.com/cutupdev/Solana-Token-Staking-Smart-Contract | 141 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | Solana-Token-Presale-Smart-Contract | Solana presale smart contract | https://github.com/cutupdev/Solana-Token-Presale-Smart-Contract | 142 | 1 | Last commit (Jun 27, 2025) | SDKs & Tooling |
 | poseidon | A Transpiler to convert your Solana programs from Typescript to Anchor | https://github.com/Turbin3/poseidon | 152 | 12 | Last commit (May 20, 2025) | SDKs & Tooling |
-| native-to-anchor | Generate Anchor IDL for Native Solana Programs. | https://github.com/acheroncrypto/native-to-anchor | 142 | 1 | Last commit (Aug 21, 2022) | SDKs & Tooling |
+| native-to-anchor | Generate Anchor IDL for Native Solana Programs. | https://github.com/acheroncrypto/native-to-anchor | 143 | 1 | Last commit (Aug 21, 2022) | SDKs & Tooling |
 | solana-token-kit | Solana Token Kit for creating, launching and managing Solana SPL Tokens | https://github.com/wurambo/solana-token-kit | 47 | 1 | Last commit (May 10, 2024) | SDKs & Tooling |
 | spl-token-faucet | Solana program that makes Token Faucets possible | https://github.com/paul-schaaf/spl-token-faucet | 40 | 1 | Last commit (Dec 15, 2020) | SDKs & Tooling |
 | pumpfun-sdk | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. This SDK provides a robust set of tools and interfaces to integrate PumpFun functionality into your applications.  Resources | https://github.com/0xfnzero/pumpfun-sdk | 74 | 2 | Last commit (Oct 08, 2025) | SDKs & Tooling |
