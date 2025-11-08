@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-08T13:09:42Z'
+    updated_at: '2025-11-08T14:03:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -420,11 +420,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 488
+    stars: 489
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2025-10-30T11:03:07Z'
+    updated_at: '2025-11-08T14:01:40Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -1303,11 +1303,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 141
+    stars: 142
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:19Z'
+    updated_at: '2025-11-08T14:02:36Z'
     language: TypeScript
 - name: Solana-Token-Presale-Smart-Contract
   repo: cutupdev/Solana-Token-Presale-Smart-Contract
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 575
+    stars: 608
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T13:27:55Z'
+    updated_at: '2025-11-08T14:19:14Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
