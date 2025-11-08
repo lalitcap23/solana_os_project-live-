@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14641
+    stars: 14642
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-07T23:15:55Z'
+    updated_at: '2025-11-08T12:40:03Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 156
-    last_activity: program-log@v1.0.0 (Nov 08, 2025)
+    last_activity: transaction@v3.0.2 (Nov 08, 2025)
     archived: false
-    updated_at: '2025-11-07T23:18:51Z'
+    updated_at: '2025-11-08T11:53:42Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2650
+    stars: 2649
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-07T20:09:39Z'
+    updated_at: '2025-11-08T11:36:43Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 394
+    stars: 395
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-05T16:53:46Z'
+    updated_at: '2025-11-08T11:42:42Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 478
+    stars: 542
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T11:18:27Z'
+    updated_at: '2025-11-08T12:45:06Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
