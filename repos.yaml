@@ -1363,11 +1363,11 @@ repositories:
   category: NFTs & Programs
   stars: 46
   stats:
-    stars: 46
+    stars: 47
     contributors: 19
     last_activity: v2.0.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-10-27T21:22:36Z'
+    updated_at: '2025-11-08T22:32:52Z'
     language: Rust
 - name: On_chain
   repo: mrtnetwork/On_chain
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 686
+    stars: 687
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T21:21:29Z'
+    updated_at: '2025-11-08T23:10:50Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
