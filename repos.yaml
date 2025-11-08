@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 153
+    stars: 154
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-10-23T00:20:32Z'
+    updated_at: '2025-11-08T06:55:53Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1810,6 +1810,19 @@ repositories:
     archived: false
     updated_at: '2025-11-07T12:54:47Z'
     language: JavaScript
+- name: solana-starter-kit
+  repo: SolanaUpdateTools/solana-starter-kit
+  description: Open-source Solana dApp template with Anchor program, TypeScript client,
+    and Next.js UI.
+  category: SDKs & Tooling
+  stars: 261
+  stats:
+    stars: 261
+    contributors: 1
+    last_activity: Last commit (Nov 06, 2025)
+    archived: false
+    updated_at: '2025-11-08T07:21:50Z'
+    language: null
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
