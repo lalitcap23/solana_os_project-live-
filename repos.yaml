@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-08T14:03:36Z'
+    updated_at: '2025-11-08T15:26:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4154
+    stars: 4155
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-07T06:33:22Z'
+    updated_at: '2025-11-08T15:24:49Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 593
+    stars: 594
     contributors: 150
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-08T10:17:49Z'
+    updated_at: '2025-11-08T15:30:49Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1808,7 +1808,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-11-07T12:54:47Z'
+    updated_at: '2025-11-08T15:53:23Z'
     language: JavaScript
 - name: solana-starter-kit
   repo: SolanaUpdateTools/solana-starter-kit
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 637
+    stars: 649
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T15:22:06Z'
+    updated_at: '2025-11-08T16:27:16Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
