@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 561
+    stars: 562
     contributors: 2
     last_activity: Last commit (Nov 08, 2025)
     archived: false
-    updated_at: '2025-11-08T00:27:46Z'
+    updated_at: '2025-11-09T16:42:58Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
