@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 156
-    last_activity: instruction-error@v2.1.0 (Nov 09, 2025)
+    last_activity: short-vec@v3.1.0 (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T12:26:46Z'
+    updated_at: '2025-11-09T13:00:22Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4776
+    stars: 4777
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T11:27:47Z'
+    updated_at: '2025-11-09T13:02:43Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4776
+    stars: 4777
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T11:27:47Z'
+    updated_at: '2025-11-09T13:02:43Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 216
     contributors: 6
-    last_activity: Last commit (Nov 07, 2025)
+    last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T01:37:35Z'
+    updated_at: '2025-11-09T13:21:04Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
