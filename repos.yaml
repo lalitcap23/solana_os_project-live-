@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14644
+    stars: 14643
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-08T20:36:08Z'
+    updated_at: '2025-11-09T06:43:17Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4776
+    stars: 4775
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-07T20:09:07Z'
+    updated_at: '2025-11-09T06:46:08Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4122
+    stars: 4121
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-07T17:33:53Z'
+    updated_at: '2025-11-09T06:43:31Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4776
+    stars: 4775
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-07T20:09:07Z'
+    updated_at: '2025-11-09T06:46:08Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
