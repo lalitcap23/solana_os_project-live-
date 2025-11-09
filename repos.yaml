@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 159
+    stars: 158
     contributors: 156
     last_activity: short-vec@v3.1.0 (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T13:00:22Z'
+    updated_at: '2025-11-09T18:18:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4777
+    stars: 4776
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T13:02:43Z'
+    updated_at: '2025-11-09T18:18:56Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4777
+    stars: 4776
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T13:02:43Z'
+    updated_at: '2025-11-09T18:18:56Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 243
+    stars: 242
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-07T16:52:36Z'
+    updated_at: '2025-11-09T18:18:52Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 594
+    stars: 593
     contributors: 150
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-08T15:30:49Z'
+    updated_at: '2025-11-09T18:18:50Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
