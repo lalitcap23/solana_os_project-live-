@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 395
+    stars: 396
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-08T11:42:42Z'
+    updated_at: '2025-11-09T16:02:24Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 217
+    stars: 218
     contributors: 6
     last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T14:52:09Z'
+    updated_at: '2025-11-09T16:04:37Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 125
     contributors: 8
-    last_activity: Last commit (Nov 06, 2025)
+    last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T14:54:22Z'
+    updated_at: '2025-11-09T16:00:12Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
