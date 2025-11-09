@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1496
+    stars: 1497
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-09T07:26:37Z'
+    updated_at: '2025-11-09T11:22:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 159
     contributors: 156
-    last_activity: transaction@v3.0.2 (Nov 08, 2025)
+    last_activity: instruction-error@v2.1.0 (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-08T11:53:42Z'
+    updated_at: '2025-11-09T12:26:46Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4775
+    stars: 4776
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T06:46:08Z'
+    updated_at: '2025-11-09T11:27:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4775
+    stars: 4776
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-09T06:46:08Z'
+    updated_at: '2025-11-09T11:27:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -328,9 +328,9 @@ repositories:
   stats:
     stars: 369
     contributors: 26
-    last_activity: Last commit (Nov 07, 2025)
+    last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-08T10:16:44Z'
+    updated_at: '2025-11-09T12:24:24Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1311
+    stars: 1312
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-06T11:40:22Z'
+    updated_at: '2025-11-09T12:28:50Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 369
     contributors: 26
-    last_activity: Last commit (Nov 07, 2025)
+    last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-08T10:16:44Z'
+    updated_at: '2025-11-09T12:24:24Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
