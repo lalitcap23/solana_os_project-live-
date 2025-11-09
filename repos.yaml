@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 697
+    stars: 699
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-09T04:26:11Z'
+    updated_at: '2025-11-09T04:51:36Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
