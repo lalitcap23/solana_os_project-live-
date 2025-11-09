@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4156
+    stars: 4155
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-09T00:32:52Z'
+    updated_at: '2025-11-09T02:26:54Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -1804,11 +1804,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 9
+    stars: 10
     contributors: 2
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-11-08T15:53:23Z'
+    updated_at: '2025-11-09T02:15:30Z'
     language: JavaScript
 - name: solana-starter-kit
   repo: SolanaUpdateTools/solana-starter-kit
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 691
+    stars: 695
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-09T01:45:54Z'
+    updated_at: '2025-11-09T03:06:39Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
