@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 216
+    stars: 217
     contributors: 6
     last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T13:21:04Z'
+    updated_at: '2025-11-09T14:52:09Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 124
+    stars: 125
     contributors: 8
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-08T01:01:49Z'
+    updated_at: '2025-11-09T14:54:22Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
