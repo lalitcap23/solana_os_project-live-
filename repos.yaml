@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4779
+    stars: 4780
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T12:15:57Z'
+    updated_at: '2025-11-10T15:19:15Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4779
+    stars: 4780
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T12:15:57Z'
+    updated_at: '2025-11-10T15:19:15Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 397
+    stars: 398
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-10T03:21:07Z'
+    updated_at: '2025-11-10T15:02:54Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 124
     contributors: 8
-    last_activity: Last commit (Nov 09, 2025)
+    last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T04:59:22Z'
+    updated_at: '2025-11-10T15:19:16Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1823,6 +1823,21 @@ repositories:
     archived: false
     updated_at: '2025-11-09T04:51:36Z'
     language: null
+- name: solana-pumpfun-smart-contract-token2022
+  repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
+  description: '💊Solana Pumpfun Smart Contract🟣: This Solana Pumpfun Smart Contract
+    utilizes the new SPL token standard, TOKEN2022. Forked and Customized pumpfun
+    smart contract. Pumpfun smart contract development Tool, Pumpfun smart contract
+    SDK'
+  category: SDKs & Tooling
+  stars: 273
+  stats:
+    stars: 273
+    contributors: 1
+    last_activity: Last commit (Nov 10, 2025)
+    archived: false
+    updated_at: '2025-11-10T14:39:24Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
