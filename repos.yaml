@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 594
-    contributors: 150
+    stars: 595
+    contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-10T18:46:10Z'
+    updated_at: '2025-11-10T19:44:07Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 878
+    stars: 879
     contributors: 28
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T18:50:56Z'
+    updated_at: '2025-11-10T19:23:58Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 222
+    stars: 223
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-09T22:15:34Z'
+    updated_at: '2025-11-10T20:29:34Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
