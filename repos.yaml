@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14642
+    stars: 14643
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-10T11:17:10Z'
+    updated_at: '2025-11-10T18:30:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-10T16:57:18Z'
+    updated_at: '2025-11-10T17:43:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1951
+    stars: 1952
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-11-09T23:20:31Z'
+    updated_at: '2025-11-10T17:54:04Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 218
+    stars: 219
     contributors: 6
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T08:44:39Z'
+    updated_at: '2025-11-10T17:53:32Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 249
+    stars: 250
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-10-31T06:50:59Z'
+    updated_at: '2025-11-10T17:33:47Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1381,7 +1381,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-10-24T13:58:33Z'
+    updated_at: '2025-11-10T17:26:16Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
