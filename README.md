@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-11-09
+Last updated: 2025-11-10
 
 ## Directory
 
@@ -62,7 +62,7 @@ Last updated: 2025-11-09
 | awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 396 | 2 | Last commit (Jun 18, 2025) | SDKs & Tooling |
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 377 | 1 | Last commit (Jun 30, 2025) | SDKs & Tooling |
 | anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 289 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
-| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 549 | 2 | Last commit (Nov 08, 2025) | SDKs & Tooling |
+| solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | 550 | 2 | Last commit (Nov 08, 2025) | SDKs & Tooling |
 | solana-trading-bot | Solana Trading Bot - RC: For Solana token sniping and trading, the latest version has completed all optimizations | https://github.com/warp-abbott/solana-trading-bot | 562 | 2 | Last commit (Nov 08, 2025) | SDKs & Tooling |
 | spl-token-ui | Interface for creating and managing SPL Tokens | https://github.com/paul-schaaf/spl-token-ui | 203 | 1 | Archived; Last commit (Jul 08, 2021) | SDKs & Tooling |
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 195 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
@@ -180,7 +180,7 @@ Last updated: 2025-11-09
 | identity-swap | An Automatic Money Market (AMM) dApp that  demonstrates the concept of Decentralised Identity on the  Solana SPL Token-Swap program. | https://github.com/civicteam/identity-swap | 32 | 2 | Last commit (Nov 12, 2020) | DeFi |
 | Solana-Arbitrage-Trading-Bot | Atomic, fast, and pragmatic Solana arbitrage with Jito bundles, Jupiter (ULTRA/SWAP). | https://github.com/ApexArb/Solana-Arbitrage-Trading-Bot | 72 | 1 | Last commit (Sep 17, 2025) | DeFi |
 | Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | Multichain Web3 Framework — supports Pump.fun (Solana), Four.meme (BNB), and Xpad.fun (EVM) with smart contracts, backend, and frontend integrations. Compatible with Raydium, Meteora, Pumpswap, and Uniswap on Solana & EVM (Monad, BNB, Ethereum L1/L2). | https://github.com/Tru3Bliss/Four.meme-Pump.fun-Fork-Fourmeme-Pumpfun | 206 | 1 | Last commit (Oct 10, 2025) | DeFi |
-| pumpfun-amm-bundler-volumn-maker-bot | Automated PumpFun/Raydium bundler and volume bot for Solana using Jito, multi-wallet distribution, and randomized buy/sell cycles to simulate organic liquidity and improve execution reliability. | https://github.com/Luukogood/pumpfun-amm-bundler-volumn-maker-bot | 11 | 2 | Last commit (Sep 04, 2025) | DeFi |
+| pumpfun-amm-bundler-volumn-maker-bot | Automated PumpFun/Raydium bundler and volume bot for Solana using Jito, multi-wallet distribution, and randomized buy/sell cycles to simulate organic liquidity and improve execution reliability. | https://github.com/Luukogood/pumpfun-amm-bundler-volumn-maker-bot | 12 | 2 | Last commit (Sep 04, 2025) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 61 | 5 | Last commit (Oct 27, 2025) | Oracles |
 
 - Stars/Contributors: Snapshot values; “—” indicates to-be-filled or varies (especially for org-level entries or during repo migrations).
