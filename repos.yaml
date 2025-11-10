@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14643
+    stars: 14644
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-10T18:30:00Z'
+    updated_at: '2025-11-10T18:43:17Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2652
+    stars: 2653
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-10T16:58:21Z'
+    updated_at: '2025-11-10T18:57:01Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1952
+    stars: 1951
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-11-10T17:54:04Z'
+    updated_at: '2025-11-10T19:11:30Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4121
+    stars: 4122
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-09T06:43:31Z'
+    updated_at: '2025-11-10T18:38:46Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 593
+    stars: 594
     contributors: 150
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-09T18:18:50Z'
+    updated_at: '2025-11-10T18:46:10Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 878
     contributors: 28
-    last_activity: Last commit (Nov 09, 2025)
+    last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T04:07:23Z'
+    updated_at: '2025-11-10T18:50:56Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
