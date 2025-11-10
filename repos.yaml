@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1497
+    stars: 1499
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-10T09:01:50Z'
+    updated_at: '2025-11-10T12:47:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4778
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T08:27:32Z'
+    updated_at: '2025-11-10T12:15:57Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 222
+    stars: 223
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-10T03:42:55Z'
+    updated_at: '2025-11-10T12:46:56Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4778
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T08:27:32Z'
+    updated_at: '2025-11-10T12:15:57Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 493
+    stars: 494
     contributors: 33
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-10T04:59:22Z'
+    updated_at: '2025-11-10T12:51:00Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 550
     contributors: 2
-    last_activity: Last commit (Nov 08, 2025)
+    last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T00:34:45Z'
+    updated_at: '2025-11-10T12:52:52Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,7 +756,7 @@ repositories:
   stats:
     stars: 563
     contributors: 2
-    last_activity: Last commit (Nov 08, 2025)
+    last_activity: Last commit (Nov 10, 2025)
     archived: false
     updated_at: '2025-11-10T04:34:47Z'
     language: TypeScript
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 111
     contributors: 4
-    last_activity: Last commit (Nov 09, 2025)
+    last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-09T08:45:14Z'
+    updated_at: '2025-11-10T12:25:37Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
