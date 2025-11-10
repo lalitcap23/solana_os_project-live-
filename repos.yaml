@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-10T12:54:30Z'
+    updated_at: '2025-11-10T16:24:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T15:19:15Z'
+    updated_at: '2025-11-10T16:31:40Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T15:19:15Z'
+    updated_at: '2025-11-10T16:31:40Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 370
+    stars: 369
     contributors: 26
     last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-10T07:15:06Z'
+    updated_at: '2025-11-10T15:52:00Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -601,11 +601,11 @@ repositories:
   category: NFTs & Programs
   stars: 121
   stats:
-    stars: 120
+    stars: 119
     contributors: 7
     last_activity: Last commit (Jan 13, 2025)
     archived: false
-    updated_at: '2025-08-25T17:01:23Z'
+    updated_at: '2025-11-10T16:27:25Z'
     language: TypeScript
 - name: digital-asset-rpc-infrastructure
   repo: metaplex-foundation/digital-asset-rpc-infrastructure
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 370
+    stars: 369
     contributors: 26
     last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-10T07:15:06Z'
+    updated_at: '2025-11-10T15:52:00Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 479
+    stars: 480
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-11-04T15:23:45Z'
+    updated_at: '2025-11-10T16:26:20Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
