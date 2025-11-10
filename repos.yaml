@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-10T12:47:51Z'
+    updated_at: '2025-11-10T12:54:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 158
+    stars: 159
     contributors: 156
     last_activity: short-vec@v3.1.0 (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T18:18:48Z'
+    updated_at: '2025-11-10T13:10:38Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -758,7 +758,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T04:34:47Z'
+    updated_at: '2025-11-10T12:53:14Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
