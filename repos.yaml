@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1497
+    stars: 1498
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-09T19:20:52Z'
+    updated_at: '2025-11-10T04:25:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 221
+    stars: 222
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-04T12:32:51Z'
+    updated_at: '2025-11-10T03:42:55Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 419
+    stars: 420
     contributors: 11
     last_activity: 0.27.0 (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-05T18:01:03Z'
+    updated_at: '2025-11-10T03:48:32Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 643
+    stars: 644
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-10-31T16:06:18Z'
+    updated_at: '2025-11-10T03:50:19Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 877
+    stars: 878
     contributors: 28
     last_activity: Last commit (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-09T19:27:26Z'
+    updated_at: '2025-11-10T04:07:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
