@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 159
+    stars: 160
     contributors: 156
     last_activity: short-vec@v3.1.0 (Nov 09, 2025)
     archived: false
-    updated_at: '2025-11-10T13:10:38Z'
+    updated_at: '2025-11-11T21:25:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 75
+    stars: 76
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-11-10T17:02:40Z'
+    updated_at: '2025-11-11T21:25:39Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
