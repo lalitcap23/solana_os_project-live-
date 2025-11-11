@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1499
+    stars: 1498
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-11T07:00:53Z'
+    updated_at: '2025-11-11T10:55:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -409,10 +409,10 @@ repositories:
   stats:
     stars: 578
     contributors: 1
-    last_activity: Last commit (May 07, 2025)
+    last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-04T16:39:50Z'
-    language: TypeScript
+    updated_at: '2025-11-11T10:51:31Z'
+    language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
   description: Code examples for the blog post titled The Complete Guide to Full Stack
@@ -1766,10 +1766,10 @@ repositories:
   stats:
     stars: 578
     contributors: 1
-    last_activity: Last commit (May 07, 2025)
+    last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-04T16:39:50Z'
-    language: TypeScript
+    updated_at: '2025-11-11T11:22:12Z'
+    language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
   description: Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency
