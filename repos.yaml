@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14644
+    stars: 14645
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-11T04:42:44Z'
+    updated_at: '2025-11-11T18:49:03Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4120
+    stars: 4121
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-11T00:08:25Z'
+    updated_at: '2025-11-11T18:55:30Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 879
     contributors: 28
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-10T19:23:58Z'
+    updated_at: '2025-11-11T18:51:03Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 233
+    stars: 234
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-11T18:29:47Z'
+    updated_at: '2025-11-11T18:38:37Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
