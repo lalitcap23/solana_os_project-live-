@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14644
+    stars: 14643
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-10T18:43:17Z'
+    updated_at: '2025-11-11T00:07:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-10T21:41:00Z'
+    updated_at: '2025-11-11T01:39:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4781
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T16:31:40Z'
+    updated_at: '2025-11-11T00:08:42Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4122
+    stars: 4120
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-10T18:38:46Z'
+    updated_at: '2025-11-11T00:08:25Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4781
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-10T16:31:40Z'
+    updated_at: '2025-11-11T00:08:42Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 111
     contributors: 4
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-10T22:57:30Z'
+    updated_at: '2025-11-11T01:10:35Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
