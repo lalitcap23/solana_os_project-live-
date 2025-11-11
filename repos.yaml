@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-11T01:59:03Z'
+    updated_at: '2025-11-11T14:57:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-11T01:59:03Z'
+    updated_at: '2025-11-11T14:57:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 69
+    stars: 70
     contributors: 6
     last_activity: Last commit (May 24, 2025)
     archived: false
-    updated_at: '2025-08-31T15:36:59Z'
+    updated_at: '2025-11-11T15:23:10Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
