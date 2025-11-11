@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14643
+    stars: 14644
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-11T00:07:27Z'
+    updated_at: '2025-11-11T04:42:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 224
+    stars: 225
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-10T20:34:09Z'
+    updated_at: '2025-11-11T05:07:33Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1313
+    stars: 1314
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-09T22:39:34Z'
+    updated_at: '2025-11-11T04:32:45Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 61
     contributors: 6
-    last_activity: Last commit (Nov 07, 2025)
+    last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-07T14:23:54Z'
+    updated_at: '2025-11-11T05:19:30Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
