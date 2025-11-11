@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-11T13:02:07Z'
+    updated_at: '2025-11-11T15:33:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 550
+    stars: 551
     contributors: 2
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-10T12:52:52Z'
+    updated_at: '2025-11-11T15:28:11Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 228
+    stars: 229
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-10T22:09:05Z'
+    updated_at: '2025-11-11T15:54:09Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1838,6 +1838,19 @@ repositories:
     archived: false
     updated_at: '2025-11-10T14:39:24Z'
     language: Rust
+- name: solana-trading-bot
+  repo: ivorn42/solana-trading-bot
+  description: Solana Trading Bot is an algorithmic trading bot designed to automate
+    the trading process of Solana specific ecosystem tokens.
+  category: SDKs & Tooling
+  stars: 194
+  stats:
+    stars: 194
+    contributors: 1
+    last_activity: Last commit (Mar 30, 2024)
+    archived: false
+    updated_at: '2025-09-11T08:11:32Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
