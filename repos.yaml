@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 61
+    stars: 62
     contributors: 6
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-11T05:19:30Z'
+    updated_at: '2025-11-11T07:45:59Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 614
+    stars: 496
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-10T17:08:02Z'
+    updated_at: '2025-11-11T08:25:17Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
