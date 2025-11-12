@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14647
+    stars: 14648
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-12T04:23:07Z'
+    updated_at: '2025-11-12T11:36:22Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 111
     contributors: 4
-    last_activity: Last commit (Nov 11, 2025)
+    last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-11T01:10:35Z'
+    updated_at: '2025-11-12T12:38:03Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 234
+    stars: 235
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-11T18:38:37Z'
+    updated_at: '2025-11-12T12:00:20Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 126
+    stars: 128
     contributors: 8
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-11T13:02:07Z'
+    updated_at: '2025-11-12T12:13:01Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1575,9 +1575,9 @@ repositories:
   stats:
     stars: 4
     contributors: 1
-    last_activity: Last commit (Sep 12, 2025)
+    last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-09-12T11:12:59Z'
+    updated_at: '2025-11-12T12:39:53Z'
     language: Java
 - name: woocommerce-payment-gateway
   repo: stream-protocol/woocommerce-payment-gateway
