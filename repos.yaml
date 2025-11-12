@@ -31,7 +31,7 @@ repositories:
     contributors: 156
     last_activity: sysvar@v3.1.0 (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T05:56:45Z'
+    updated_at: '2025-11-12T14:40:54Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
