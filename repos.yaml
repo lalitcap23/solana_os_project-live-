@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T12:38:03Z'
+    updated_at: '2025-11-12T13:30:19Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 495
+    stars: 486
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-11T11:59:17Z'
+    updated_at: '2025-11-12T13:19:00Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 84
+    stars: 85
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-12T02:23:58Z'
+    updated_at: '2025-11-12T13:13:50Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
