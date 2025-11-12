@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 879
     contributors: 28
-    last_activity: Last commit (Nov 11, 2025)
+    last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-11T18:51:03Z'
+    updated_at: '2025-11-12T18:41:45Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1174,11 +1174,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 82
+    stars: 81
     contributors: 1
     last_activity: Last commit (Mar 30, 2024)
     archived: false
-    updated_at: '2025-08-31T17:19:35Z'
+    updated_at: '2025-11-12T18:51:24Z'
     language: C#
 - name: solana-app-wallet
   repo: 0xPleiades/solana-app-wallet
