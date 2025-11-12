@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-11T22:59:10Z'
+    updated_at: '2025-11-12T01:12:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 160
     contributors: 156
-    last_activity: sdk-ids@v3.1.0 (Nov 11, 2025)
+    last_activity: sysvar@v3.1.0 (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-11T23:15:16Z'
+    updated_at: '2025-11-12T00:01:36Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 87
+    stars: 88
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-10-27T16:26:36Z'
+    updated_at: '2025-11-12T01:43:09Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4157
+    stars: 4156
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-11T12:46:07Z'
+    updated_at: '2025-11-11T23:42:15Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -1850,6 +1850,19 @@ repositories:
     last_activity: Last commit (Mar 30, 2024)
     archived: false
     updated_at: '2025-09-11T08:11:32Z'
+    language: TypeScript
+- name: solanaArtGuard-AI-nft-marketplace
+  repo: machenxi/solanaArtGuard-AI-nft-marketplace
+  description: AI-driven NFT validation system designed to verify the authenticity
+    and originality of artworks minted on the Solana blockchain.
+  category: NFTs & Programs
+  stars: 82
+  stats:
+    stars: 82
+    contributors: 1
+    last_activity: Last commit (Aug 02, 2023)
+    archived: false
+    updated_at: '2025-11-12T00:20:20Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
