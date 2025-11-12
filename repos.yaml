@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-12T19:49:40Z'
+    updated_at: '2025-11-12T22:37:28Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T21:59:19Z'
+    updated_at: '2025-11-12T22:25:00Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
