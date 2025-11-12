@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-12T01:12:41Z'
+    updated_at: '2025-11-12T06:16:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 160
+    stars: 161
     contributors: 156
     last_activity: sysvar@v3.1.0 (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T00:01:36Z'
+    updated_at: '2025-11-12T05:56:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 596
+    stars: 597
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-11T13:54:39Z'
+    updated_at: '2025-11-12T06:05:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 570
+    stars: 571
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-11T09:17:15Z'
+    updated_at: '2025-11-12T06:29:00Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 208
+    stars: 209
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-11-04T21:15:18Z'
+    updated_at: '2025-11-12T06:26:56Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
