@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 495
+    stars: 496
     contributors: 33
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-11T17:39:46Z'
+    updated_at: '2025-11-12T10:53:57Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 591
+    stars: 592
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-10-27T16:14:42Z'
+    updated_at: '2025-11-12T11:13:07Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 325
+    stars: 324
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-11-07T15:58:29Z'
+    updated_at: '2025-11-12T11:09:11Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 72
+    stars: 73
     contributors: 11
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-07T14:52:53Z'
+    updated_at: '2025-11-12T10:33:16Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-11T07:45:59Z'
+    updated_at: '2025-11-12T11:19:56Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
