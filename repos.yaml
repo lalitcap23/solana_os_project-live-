@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 369
+    stars: 370
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T16:07:16Z'
+    updated_at: '2025-11-12T20:40:06Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T18:00:30Z'
+    updated_at: '2025-11-12T21:17:13Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 369
+    stars: 370
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T16:07:16Z'
+    updated_at: '2025-11-12T20:40:06Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 239
+    stars: 240
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-12T18:17:02Z'
+    updated_at: '2025-11-12T21:13:10Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1281,9 +1281,9 @@ repositories:
   stats:
     stars: 72
     contributors: 12
-    last_activity: Last commit (Sep 29, 2025)
+    last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-09T08:26:24Z'
+    updated_at: '2025-11-12T20:48:00Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
