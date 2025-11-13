@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 161
+    stars: 162
     contributors: 156
     last_activity: sysvar@v3.1.0 (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T14:40:54Z'
+    updated_at: '2025-11-13T06:12:21Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 241
+    stars: 242
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-11T22:56:54Z'
+    updated_at: '2025-11-13T05:45:30Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 86
+    stars: 87
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-13T02:37:56Z'
+    updated_at: '2025-11-13T05:30:22Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
