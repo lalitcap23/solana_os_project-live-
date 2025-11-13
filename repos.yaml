@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1502
+    stars: 1504
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-13T07:42:41Z'
+    updated_at: '2025-11-13T09:14:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 87
+    stars: 88
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-13T05:30:22Z'
+    updated_at: '2025-11-13T09:21:52Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -1889,10 +1889,10 @@ repositories:
   stats:
     stars: 28
     contributors: 1
-    last_activity: Last commit (Aug 12, 2025)
+    last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-13T08:29:24Z'
-    language: TypeScript
+    updated_at: '2025-11-13T08:51:10Z'
+    language: HTML
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
