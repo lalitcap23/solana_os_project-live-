@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 420
+    stars: 421
     contributors: 11
     last_activity: 0.27.0 (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-10T03:48:32Z'
+    updated_at: '2025-11-13T15:37:57Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
