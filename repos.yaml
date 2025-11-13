@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1501
+    stars: 1502
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-13T02:02:08Z'
+    updated_at: '2025-11-13T07:42:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1878,6 +1878,20 @@ repositories:
     last_activity: Last commit (May 15, 2025)
     archived: false
     updated_at: '2025-11-12T16:24:26Z'
+    language: TypeScript
+- name: solana-x402-payment
+  repo: michalstefanow/solana-x402-payment
+  description: A modern, refactored Solana trading bot for Pumpswap that features
+    automated market cap monitoring, risk management, comprehensive error handling,
+    and a clean TypeScript architecture with full testing coverage.
+  category: DeFi
+  stars: 28
+  stats:
+    stars: 28
+    contributors: 1
+    last_activity: Last commit (Aug 12, 2025)
+    archived: false
+    updated_at: '2025-11-13T08:29:24Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
