@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 370
+    stars: 371
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T20:40:06Z'
+    updated_at: '2025-11-13T18:40:22Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 578
+    stars: 579
     contributors: 1
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-11T11:22:12Z'
+    updated_at: '2025-11-13T19:09:08Z'
     language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 879
     contributors: 28
-    last_activity: Last commit (Nov 12, 2025)
+    last_activity: Last commit (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-12T18:41:45Z'
+    updated_at: '2025-11-13T18:40:02Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 370
+    stars: 371
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-12T20:40:06Z'
+    updated_at: '2025-11-13T18:40:22Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1764,11 +1764,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 578
+    stars: 579
     contributors: 1
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-11T11:22:12Z'
+    updated_at: '2025-11-13T19:09:08Z'
     language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
