@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 162
     contributors: 156
-    last_activity: sysvar@v3.1.0 (Nov 12, 2025)
+    last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-13T06:12:21Z'
+    updated_at: '2025-11-13T06:44:17Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4781
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-12T09:26:38Z'
+    updated_at: '2025-11-13T06:57:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4781
+    stars: 4779
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-12T09:26:38Z'
+    updated_at: '2025-11-13T06:57:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 242
+    stars: 243
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-13T05:45:30Z'
+    updated_at: '2025-11-13T07:07:43Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 128
+    stars: 129
     contributors: 8
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-12T12:13:01Z'
+    updated_at: '2025-11-13T07:24:51Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
