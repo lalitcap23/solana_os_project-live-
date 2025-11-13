@@ -31,7 +31,7 @@ repositories:
     contributors: 156
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-13T06:44:17Z'
+    updated_at: '2025-11-13T14:50:37Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -1351,11 +1351,11 @@ repositories:
   category: NFTs & Programs
   stars: 50
   stats:
-    stars: 49
+    stars: 50
     contributors: 2
     last_activity: Last commit (Feb 06, 2024)
     archived: false
-    updated_at: '2025-11-04T10:23:04Z'
+    updated_at: '2025-11-13T15:27:10Z'
     language: TypeScript
 - name: digital-asset-validator-plugin
   repo: metaplex-foundation/digital-asset-validator-plugin
