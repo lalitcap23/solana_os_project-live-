@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14649
+    stars: 14650
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-13T02:45:58Z'
+    updated_at: '2025-11-13T18:05:52Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -100,7 +100,7 @@ repositories:
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-11T05:07:33Z'
+    updated_at: '2025-11-13T17:50:14Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 497
-    contributors: 33
+    contributors: 34
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-12T18:00:38Z'
+    updated_at: '2025-11-13T17:24:58Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
