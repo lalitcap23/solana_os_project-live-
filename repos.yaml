@@ -1174,11 +1174,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 81
+    stars: 82
     contributors: 1
     last_activity: Last commit (Mar 30, 2024)
     archived: false
-    updated_at: '2025-11-12T18:51:24Z'
+    updated_at: '2025-11-13T10:40:02Z'
     language: C#
 - name: solana-app-wallet
   repo: 0xPleiades/solana-app-wallet
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 88
+    stars: 89
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-13T09:21:52Z'
+    updated_at: '2025-11-13T10:48:18Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
