@@ -120,9 +120,9 @@ repositories:
   stats:
     stars: 218
     contributors: 3
-    last_activity: v6.0.62 (Aug 18, 2025)
+    last_activity: v7.0.0 (Nov 14, 2025)
     archived: false
-    updated_at: '2025-10-29T11:01:14Z'
+    updated_at: '2025-11-14T16:18:21Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 371
+    stars: 372
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-13T18:40:22Z'
+    updated_at: '2025-11-14T15:30:35Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 276
+    stars: 277
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-14T02:35:40Z'
+    updated_at: '2025-11-14T15:23:48Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -999,9 +999,9 @@ repositories:
   stats:
     stars: 111
     contributors: 4
-    last_activity: Last commit (Nov 12, 2025)
+    last_activity: Last commit (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-12T22:25:00Z'
+    updated_at: '2025-11-14T15:42:15Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 371
+    stars: 372
     contributors: 26
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-13T18:40:22Z'
+    updated_at: '2025-11-14T15:30:35Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 94
+    stars: 95
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-14T13:06:29Z'
+    updated_at: '2025-11-14T16:29:26Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
