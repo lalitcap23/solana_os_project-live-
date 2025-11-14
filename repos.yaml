@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 243
+    stars: 244
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-13T07:07:43Z'
+    updated_at: '2025-11-14T14:52:58Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-14T09:08:41Z'
+    updated_at: '2025-11-14T14:43:44Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
