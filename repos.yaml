@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 154
+    stars: 153
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-11-08T06:55:53Z'
+    updated_at: '2025-11-14T08:59:46Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1256,7 +1256,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-14T08:05:07Z'
+    updated_at: '2025-11-14T09:08:41Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
