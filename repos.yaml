@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 71
+    stars: 72
     contributors: 6
     last_activity: Last commit (May 24, 2025)
     archived: false
-    updated_at: '2025-11-14T06:14:03Z'
+    updated_at: '2025-11-14T07:37:42Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 62
     contributors: 6
-    last_activity: Last commit (Nov 12, 2025)
+    last_activity: Last commit (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-12T15:50:11Z'
+    updated_at: '2025-11-14T08:05:07Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 461
+    stars: 455
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-14T03:52:16Z'
+    updated_at: '2025-11-14T08:34:01Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
