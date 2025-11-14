@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-14T19:04:04Z'
+    updated_at: '2025-11-14T21:12:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -613,11 +613,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 114
+    stars: 115
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2025-11-08T23:34:20Z'
+    updated_at: '2025-11-14T20:48:23Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 129
+    stars: 130
     contributors: 8
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-13T07:24:51Z'
+    updated_at: '2025-11-14T20:47:01Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 97
+    stars: 99
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-14T19:49:44Z'
+    updated_at: '2025-11-14T20:40:18Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
