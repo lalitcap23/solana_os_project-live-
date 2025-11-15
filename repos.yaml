@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 881
     contributors: 28
-    last_activity: Last commit (Nov 14, 2025)
+    last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T16:09:16Z'
+    updated_at: '2025-11-15T18:37:35Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1832,11 +1832,11 @@ repositories:
   category: SDKs & Tooling
   stars: 273
   stats:
-    stars: 274
+    stars: 277
     contributors: 1
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-12T23:57:20Z'
+    updated_at: '2025-11-15T19:00:14Z'
     language: Rust
 - name: solana-trading-bot
   repo: ivorn42/solana-trading-bot
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 116
+    stars: 117
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-15T18:32:20Z'
+    updated_at: '2025-11-15T18:41:51Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -1893,6 +1893,21 @@ repositories:
     archived: false
     updated_at: '2025-11-13T09:53:07Z'
     language: HTML
+- name: token-presale-smart-contract
+  repo: ivorn42/token-presale-smart-contract
+  description: On-chain token presale smart contract built on Solana, enabling secure,
+    transparent, and automated fundraising for new SPL tokens. Designed for teams
+    launching tokens with trustless contribution tracking, tiered sale rounds, and
+    instant token distribution.
+  category: SDKs & Tooling
+  stars: 95
+  stats:
+    stars: 95
+    contributors: 1
+    last_activity: Last commit (Jul 30, 2024)
+    archived: false
+    updated_at: '2025-11-12T16:45:03Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
