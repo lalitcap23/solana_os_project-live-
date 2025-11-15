@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 372
+    stars: 373
     contributors: 26
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T11:34:27Z'
+    updated_at: '2025-11-15T22:47:43Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3367
+    stars: 3368
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-11-07T07:25:07Z'
+    updated_at: '2025-11-15T22:22:00Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 372
+    stars: 373
     contributors: 26
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T11:34:27Z'
+    updated_at: '2025-11-15T22:47:43Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 118
+    stars: 119
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-15T20:31:30Z'
+    updated_at: '2025-11-15T22:40:25Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
