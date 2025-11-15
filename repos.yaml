@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14651
+    stars: 14650
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-14T02:53:32Z'
+    updated_at: '2025-11-15T01:48:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 99
+    stars: 104
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-14T20:40:18Z'
+    updated_at: '2025-11-15T01:00:50Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
