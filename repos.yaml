@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-14T21:56:04Z'
+    updated_at: '2025-11-15T01:58:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4123
+    stars: 4124
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-14T09:50:19Z'
+    updated_at: '2025-11-15T03:00:56Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 217
+    stars: 218
     contributors: 3
     last_activity: v7.0.0 (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-14T19:39:35Z'
+    updated_at: '2025-11-15T02:23:31Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
