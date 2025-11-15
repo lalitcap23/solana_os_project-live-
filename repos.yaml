@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 221
+    stars: 222
     contributors: 6
     last_activity: Last commit (Nov 12, 2025)
     archived: false
-    updated_at: '2025-11-14T01:12:50Z'
+    updated_at: '2025-11-15T06:05:24Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
