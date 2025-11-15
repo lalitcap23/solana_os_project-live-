@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-15T14:25:42Z'
+    updated_at: '2025-11-15T17:00:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4780
+    stars: 4781
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-15T14:25:42Z'
+    updated_at: '2025-11-15T17:00:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1001,7 +1001,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T16:10:45Z'
+    updated_at: '2025-11-15T16:52:54Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1598,11 +1598,11 @@ repositories:
   category: Payments
   stars: 4
   stats:
-    stars: 4
+    stars: 3
     contributors: 2
     last_activity: v1.1.0 (Jun 27, 2025)
     archived: false
-    updated_at: '2025-07-23T19:57:23Z'
+    updated_at: '2025-11-15T16:58:04Z'
     language: TypeScript
 - name: moonit-sdk
   repo: gomoonit/moonit-sdk
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 113
+    stars: 115
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-15T15:58:16Z'
+    updated_at: '2025-11-15T17:06:24Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
