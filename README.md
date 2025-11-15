@@ -161,7 +161,7 @@ Last updated: 2025-11-15
 | svm-pay | pay and accept payments from anywhere in the world from any solana-vm based network!  works in any country even in space! | https://github.com/openSVM/svm-pay | 4 | 2 | v1.1.0 (Jun 27, 2025) | Payments |
 | StablePay | Enterprise-grade stablecoin payment processor built on Solana that leverages Perena's stablecoin infrastructure. | https://github.com/FarseenSh/StablePay | 9 | 2 | Last commit (May 27, 2025) | Payments |
 | Solana-Pay-enables-crypto-payments | Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency payments worldwide | https://github.com/VomicInevallar3422/Solana-Pay-enables-crypto-payments | 8 | — | No releases | Payments |
-| Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 219 | 3 | v7.0.0 (Nov 14, 2025) | DeFi |
+| Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 220 | 3 | v7.0.0 (Nov 14, 2025) | DeFi |
 | carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 497 | 34 | v0.11.0 (Oct 18, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 184 | 4 | Last commit (Aug 21, 2025) | DeFi |
 | Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | — | — | Active | DeFi |
