@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 766
+    stars: 765
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-10-22T17:22:39Z'
+    updated_at: '2025-11-16T23:20:07Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
