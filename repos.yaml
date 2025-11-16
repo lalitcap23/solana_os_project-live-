@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1514
+    stars: 1515
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-16T18:01:26Z'
+    updated_at: '2025-11-16T22:17:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 449
+    stars: 426
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-14T17:08:06Z'
+    updated_at: '2025-11-16T21:38:18Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
