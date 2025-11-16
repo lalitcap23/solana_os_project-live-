@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14652
+    stars: 14653
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-16T00:28:55Z'
+    updated_at: '2025-11-16T11:22:13Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2654
+    stars: 2653
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-14T03:31:13Z'
+    updated_at: '2025-11-16T11:44:20Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 373
+    stars: 374
     contributors: 26
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T22:47:43Z'
+    updated_at: '2025-11-16T12:17:12Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 551
     contributors: 2
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-11T15:28:11Z'
+    updated_at: '2025-11-16T12:25:36Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 564
     contributors: 2
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-15T15:20:17Z'
+    updated_at: '2025-11-16T12:26:01Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 373
+    stars: 374
     contributors: 26
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T22:47:43Z'
+    updated_at: '2025-11-16T12:17:12Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
