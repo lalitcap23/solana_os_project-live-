@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 601
+    stars: 602
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-16T02:21:49Z'
+    updated_at: '2025-11-16T09:03:54Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 126
+    stars: 127
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-16T07:53:41Z'
+    updated_at: '2025-11-16T09:10:40Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
