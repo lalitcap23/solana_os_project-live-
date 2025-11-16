@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14653
+    stars: 14652
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-16T11:22:13Z'
+    updated_at: '2025-11-16T16:40:16Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 220
+    stars: 221
     contributors: 3
     last_activity: v7.0.0 (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-15T11:10:37Z'
+    updated_at: '2025-11-16T16:57:47Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 574
+    stars: 575
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-16T08:28:09Z'
+    updated_at: '2025-11-16T16:56:59Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
