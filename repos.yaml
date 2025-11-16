@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1314
+    stars: 1315
     contributors: 46
     last_activity: Last commit (Oct 26, 2025)
     archived: false
-    updated_at: '2025-11-14T03:31:46Z'
+    updated_at: '2025-11-16T14:40:32Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1522,9 +1522,9 @@ repositories:
   stats:
     stars: 130
     contributors: 8
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-14T20:47:01Z'
+    updated_at: '2025-11-16T14:49:48Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
