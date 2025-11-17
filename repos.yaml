@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-16T22:17:57Z'
+    updated_at: '2025-11-16T23:29:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 156
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-13T14:50:37Z'
+    updated_at: '2025-11-17T00:55:09Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1315
     contributors: 46
-    last_activity: Last commit (Oct 26, 2025)
+    last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-16T14:40:32Z'
+    updated_at: '2025-11-17T01:55:11Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1533,11 +1533,11 @@ repositories:
   category: DeFi
   stars: 73
   stats:
-    stars: 72
+    stars: 73
     contributors: 1
     last_activity: Last commit (Jun 13, 2024)
     archived: false
-    updated_at: '2025-11-05T07:13:15Z'
+    updated_at: '2025-11-17T00:01:55Z'
     language: Rust
 - name: pumpfun-sdk
   repo: 0xfnzero/pumpfun-sdk
