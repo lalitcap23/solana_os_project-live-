@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 148
+    stars: 149
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-11-13T09:38:04Z'
+    updated_at: '2025-11-17T07:04:30Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 224
+    stars: 225
     contributors: 6
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-16T15:47:30Z'
+    updated_at: '2025-11-17T07:18:22Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
