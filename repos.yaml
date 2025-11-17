@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1516
+    stars: 1517
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T08:12:46Z'
+    updated_at: '2025-11-17T11:41:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 400
+    stars: 401
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-11T04:26:36Z'
+    updated_at: '2025-11-17T11:36:33Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -805,11 +805,11 @@ repositories:
   category: SDKs & Tooling
   stars: 202
   stats:
-    stars: 203
+    stars: 204
     contributors: 1
     last_activity: Last commit (Jul 08, 2021)
     archived: true
-    updated_at: '2025-11-08T16:31:28Z'
+    updated_at: '2025-11-17T11:31:30Z'
     language: Vue
 - name: solana-spl-token-sniper
   repo: danbayk/solana-spl-token-sniper
@@ -919,11 +919,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 314
+    stars: 315
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2025-11-08T16:31:27Z'
+    updated_at: '2025-11-17T11:31:38Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1162,10 +1162,10 @@ repositories:
   stars: 51
   stats:
     stars: 73
-    contributors: 11
+    contributors: 12
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-12T10:33:16Z'
+    updated_at: '2025-11-17T12:03:48Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 195
+    stars: 196
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-15T20:10:09Z'
+    updated_at: '2025-11-17T11:34:14Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 195
+    stars: 196
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-15T20:10:09Z'
+    updated_at: '2025-11-17T11:34:14Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
@@ -1873,11 +1873,11 @@ repositories:
   category: SDKs & Tooling
   stars: 219
   stats:
-    stars: 219
+    stars: 220
     contributors: 1
     last_activity: Last commit (May 15, 2025)
     archived: false
-    updated_at: '2025-11-12T16:24:26Z'
+    updated_at: '2025-11-17T12:19:40Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
