@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-17T17:28:16Z'
+    updated_at: '2025-11-17T19:11:07Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1522,7 +1522,7 @@ repositories:
   stats:
     stars: 131
     contributors: 8
-    last_activity: Last commit (Nov 16, 2025)
+    last_activity: Active
     archived: false
     updated_at: '2025-11-17T08:20:00Z'
     language: Rust
@@ -1612,8 +1612,8 @@ repositories:
   stars: 63
   stats:
     stars: 61
-    contributors: 5
-    last_activity: Last commit (Oct 27, 2025)
+    contributors: 0
+    last_activity: Active
     archived: false
     updated_at: '2025-10-27T14:50:39Z'
     language: TypeScript
