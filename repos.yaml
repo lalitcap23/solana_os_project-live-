@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T22:20:16Z'
+    updated_at: '2025-11-17T23:12:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-11-12T17:19:17Z'
+    updated_at: '2025-11-17T23:14:37Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4156
+    stars: 4155
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-11T23:42:15Z'
+    updated_at: '2025-11-17T22:23:35Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
