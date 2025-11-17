@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 366
+    stars: 367
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-11-07T14:17:29Z'
+    updated_at: '2025-11-17T09:56:14Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 128
+    stars: 127
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-16T16:14:34Z'
+    updated_at: '2025-11-17T10:04:00Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
