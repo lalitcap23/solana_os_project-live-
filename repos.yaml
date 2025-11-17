@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T13:10:44Z'
+    updated_at: '2025-11-17T14:50:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 196
+    stars: 197
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-10-24T20:29:24Z'
+    updated_at: '2025-11-17T14:37:52Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 881
     contributors: 28
-    last_activity: Last commit (Nov 16, 2025)
+    last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-16T18:36:16Z'
+    updated_at: '2025-11-17T15:06:29Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
