@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1515
+    stars: 1516
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T02:55:45Z'
+    updated_at: '2025-11-17T08:12:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1315
+    stars: 1316
     contributors: 46
     last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-17T01:55:11Z'
+    updated_at: '2025-11-17T08:21:36Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 377
+    stars: 376
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-04T21:51:52Z'
+    updated_at: '2025-11-17T07:48:20Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 225
+    stars: 226
     contributors: 6
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-17T07:18:22Z'
+    updated_at: '2025-11-17T08:26:17Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 240
+    stars: 239
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-12T21:13:10Z'
+    updated_at: '2025-11-17T07:48:20Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 481
+    stars: 482
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-11-15T20:59:01Z'
+    updated_at: '2025-11-17T08:06:21Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1303,11 +1303,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 142
+    stars: 141
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-08T14:02:36Z'
+    updated_at: '2025-11-17T07:48:20Z'
     language: TypeScript
 - name: Solana-Token-Presale-Smart-Contract
   repo: cutupdev/Solana-Token-Presale-Smart-Contract
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 142
+    stars: 141
     contributors: 1
     last_activity: Last commit (Jun 27, 2025)
     archived: false
-    updated_at: '2025-11-04T20:22:18Z'
+    updated_at: '2025-11-17T07:48:20Z'
     language: TypeScript
 - name: poseidon
   repo: Turbin3/poseidon
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 130
+    stars: 131
     contributors: 8
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-16T15:31:05Z'
+    updated_at: '2025-11-17T08:20:00Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
