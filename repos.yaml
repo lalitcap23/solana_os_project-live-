@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14653
+    stars: 14654
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-16T18:01:30Z'
+    updated_at: '2025-11-17T03:46:30Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 244
+    stars: 245
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-11-14T14:52:58Z'
+    updated_at: '2025-11-17T04:28:19Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -793,11 +793,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 209
+    stars: 210
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-10-19T00:10:08Z'
+    updated_at: '2025-11-17T04:31:35Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -1506,11 +1506,11 @@ repositories:
   category: DeFi
   stars: 37
   stats:
-    stars: 38
+    stars: 39
     contributors: 1
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-10-22T15:19:22Z'
+    updated_at: '2025-11-17T04:30:44Z'
     language: JavaScript
 - name: solana-streamer
   repo: 0xfnzero/solana-streamer
