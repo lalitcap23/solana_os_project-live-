@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14652
+    stars: 14651
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-17T16:06:06Z'
+    updated_at: '2025-11-17T21:36:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T20:18:36Z'
+    updated_at: '2025-11-17T22:20:16Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 131
+    stars: 132
     contributors: 8
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-17T08:20:00Z'
+    updated_at: '2025-11-17T21:48:04Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
