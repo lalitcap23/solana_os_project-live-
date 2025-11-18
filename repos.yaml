@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14653
+    stars: 14654
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-18T03:51:33Z'
+    updated_at: '2025-11-18T08:48:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1318
+    stars: 1317
     contributors: 46
     last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-18T06:58:21Z'
+    updated_at: '2025-11-18T09:01:55Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 575
+    stars: 574
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-16T16:56:59Z'
+    updated_at: '2025-11-18T09:01:49Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1377,11 +1377,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 45
+    stars: 46
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-11-10T17:26:16Z'
+    updated_at: '2025-11-18T09:10:18Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 197
+    stars: 198
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-18T00:46:56Z'
+    updated_at: '2025-11-18T08:37:35Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 197
+    stars: 198
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-18T00:46:56Z'
+    updated_at: '2025-11-18T08:37:35Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
