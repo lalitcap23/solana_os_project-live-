@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1517
+    stars: 1518
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-18T04:10:55Z'
+    updated_at: '2025-11-18T07:14:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1317
+    stars: 1318
     contributors: 46
     last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-17T20:14:08Z'
+    updated_at: '2025-11-18T06:58:21Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 376
+    stars: 377
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-17T07:48:20Z'
+    updated_at: '2025-11-18T06:53:44Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 239
+    stars: 240
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-17T07:48:20Z'
+    updated_at: '2025-11-18T06:53:44Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1303,11 +1303,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 141
+    stars: 142
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-17T07:48:20Z'
+    updated_at: '2025-11-18T06:53:45Z'
     language: TypeScript
 - name: Solana-Token-Presale-Smart-Contract
   repo: cutupdev/Solana-Token-Presale-Smart-Contract
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 141
+    stars: 142
     contributors: 1
     last_activity: Last commit (Jun 27, 2025)
     archived: false
-    updated_at: '2025-11-17T07:48:20Z'
+    updated_at: '2025-11-18T06:53:45Z'
     language: TypeScript
 - name: poseidon
   repo: Turbin3/poseidon
