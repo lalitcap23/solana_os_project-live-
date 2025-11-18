@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14654
+    stars: 14655
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-18T08:48:27Z'
+    updated_at: '2025-11-18T17:58:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-18T14:58:26Z'
+    updated_at: '2025-11-18T17:50:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1533,11 +1533,11 @@ repositories:
   category: DeFi
   stars: 73
   stats:
-    stars: 73
+    stars: 72
     contributors: 1
     last_activity: Last commit (Jun 13, 2024)
     archived: false
-    updated_at: '2025-11-17T00:01:55Z'
+    updated_at: '2025-11-18T18:34:07Z'
     language: Rust
 - name: pumpfun-sdk
   repo: 0xfnzero/pumpfun-sdk
@@ -1804,11 +1804,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 12
+    stars: 13
     contributors: 2
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-11-17T23:54:13Z'
+    updated_at: '2025-11-18T17:37:01Z'
     language: JavaScript
 - name: solana-starter-kit
   repo: SolanaUpdateTools/solana-starter-kit
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 427
+    stars: 423
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-18T01:42:16Z'
+    updated_at: '2025-11-18T18:34:08Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
