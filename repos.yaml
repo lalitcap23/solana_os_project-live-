@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4155
+    stars: 4156
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-17T22:23:35Z'
+    updated_at: '2025-11-18T02:37:28Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 226
     contributors: 6
-    last_activity: Last commit (Nov 17, 2025)
+    last_activity: Last commit (Nov 18, 2025)
     archived: false
-    updated_at: '2025-11-17T15:34:47Z'
+    updated_at: '2025-11-18T02:08:47Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
