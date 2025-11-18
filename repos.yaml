@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14651
+    stars: 14652
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-17T21:36:49Z'
+    updated_at: '2025-11-18T00:38:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-17T23:12:22Z'
+    updated_at: '2025-11-18T00:55:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-11-17T23:14:37Z'
+    updated_at: '2025-11-17T23:40:52Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 497
+    stars: 498
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-17T14:17:15Z'
+    updated_at: '2025-11-17T23:24:11Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 565
+    stars: 566
     contributors: 2
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-17T17:34:27Z'
+    updated_at: '2025-11-18T01:00:29Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 881
+    stars: 882
     contributors: 28
     last_activity: Last commit (Nov 17, 2025)
     archived: false
-    updated_at: '2025-11-17T15:06:29Z'
+    updated_at: '2025-11-18T00:04:08Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 196
+    stars: 197
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-17T11:34:14Z'
+    updated_at: '2025-11-18T00:46:56Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1804,11 +1804,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 13
+    stars: 12
     contributors: 2
     last_activity: Last commit (Sep 04, 2025)
     archived: false
-    updated_at: '2025-11-17T17:14:30Z'
+    updated_at: '2025-11-17T23:54:13Z'
     language: JavaScript
 - name: solana-starter-kit
   repo: SolanaUpdateTools/solana-starter-kit
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 426
+    stars: 427
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-16T21:38:18Z'
+    updated_at: '2025-11-18T01:42:16Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 196
+    stars: 197
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-17T11:34:14Z'
+    updated_at: '2025-11-18T00:46:56Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 123
+    stars: 122
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-17T17:15:01Z'
+    updated_at: '2025-11-17T23:54:14Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
