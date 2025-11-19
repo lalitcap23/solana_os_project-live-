@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1517
+    stars: 1516
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-19T04:18:41Z'
+    updated_at: '2025-11-19T05:43:12Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1317
+    stars: 1318
     contributors: 46
     last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-19T05:15:26Z'
+    updated_at: '2025-11-19T06:34:35Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 61
     contributors: 6
-    last_activity: Last commit (Nov 14, 2025)
+    last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-18T15:55:12Z'
+    updated_at: '2025-11-19T06:34:56Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
