@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 881
+    stars: 882
     contributors: 28
     last_activity: Last commit (Nov 18, 2025)
     archived: false
-    updated_at: '2025-11-18T15:05:14Z'
+    updated_at: '2025-11-18T23:28:14Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1836,7 +1836,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-15T19:00:14Z'
+    updated_at: '2025-11-19T01:09:50Z'
     language: Rust
 - name: solana-trading-bot
   repo: ivorn42/solana-trading-bot
