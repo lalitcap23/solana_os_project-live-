@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1516
+    stars: 1517
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-19T05:43:12Z'
+    updated_at: '2025-11-19T07:57:51Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 499
+    stars: 500
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-18T20:11:27Z'
+    updated_at: '2025-11-19T07:59:47Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 592
+    stars: 577
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-11-14T23:03:48Z'
+    updated_at: '2025-11-19T08:08:32Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 579
+    stars: 565
     contributors: 1
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-13T19:09:08Z'
+    updated_at: '2025-11-19T08:08:32Z'
     language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 250
+    stars: 241
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-11-10T17:33:47Z'
+    updated_at: '2025-11-19T08:07:28Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 209
+    stars: 200
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-11-12T06:26:56Z'
+    updated_at: '2025-11-19T08:07:29Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -1764,11 +1764,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 579
+    stars: 565
     contributors: 1
     last_activity: Last commit (Nov 11, 2025)
     archived: false
-    updated_at: '2025-11-13T19:09:08Z'
+    updated_at: '2025-11-19T08:08:32Z'
     language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 199
+    stars: 190
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-18T15:16:34Z'
+    updated_at: '2025-11-19T08:08:02Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 416
+    stars: 413
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-18T18:43:35Z'
+    updated_at: '2025-11-19T08:09:05Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 199
+    stars: 190
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-18T15:16:34Z'
+    updated_at: '2025-11-19T08:08:02Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
@@ -1862,7 +1862,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-17T23:54:14Z'
+    updated_at: '2025-11-19T07:34:10Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -1873,11 +1873,11 @@ repositories:
   category: SDKs & Tooling
   stars: 219
   stats:
-    stars: 220
+    stars: 212
     contributors: 1
     last_activity: Last commit (May 15, 2025)
     archived: false
-    updated_at: '2025-11-17T19:58:23Z'
+    updated_at: '2025-11-19T08:08:01Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
@@ -1902,11 +1902,11 @@ repositories:
   category: SDKs & Tooling
   stars: 95
   stats:
-    stars: 95
+    stars: 94
     contributors: 1
     last_activity: Last commit (Jul 30, 2024)
     archived: false
-    updated_at: '2025-11-12T16:45:03Z'
+    updated_at: '2025-11-19T08:06:33Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
