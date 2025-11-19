@@ -1521,10 +1521,10 @@ repositories:
   stars: 77
   stats:
     stars: 132
-    contributors: 8
-    last_activity: Last commit (Nov 16, 2025)
+    contributors: 10
+    last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-17T21:48:04Z'
+    updated_at: '2025-11-19T13:13:55Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
