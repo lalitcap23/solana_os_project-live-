@@ -31,7 +31,7 @@ repositories:
     contributors: 157
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-19T14:55:24Z'
+    updated_at: '2025-11-19T18:44:12Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 374
+    stars: 375
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-16T15:58:06Z'
+    updated_at: '2025-11-19T19:19:54Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-19T15:45:33Z'
+    updated_at: '2025-11-19T19:13:33Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 374
+    stars: 375
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-16T15:58:06Z'
+    updated_at: '2025-11-19T19:19:54Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
