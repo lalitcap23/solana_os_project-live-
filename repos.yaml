@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1516
+    stars: 1517
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-19T13:44:37Z'
+    updated_at: '2025-11-19T15:26:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 165
-    contributors: 156
+    contributors: 157
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-19T11:42:08Z'
+    updated_at: '2025-11-19T14:55:24Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -366,11 +366,11 @@ repositories:
   category: NFTs & Programs
   stars: 169
   stats:
-    stars: 175
+    stars: 176
     contributors: 5
     last_activity: Last commit (Nov 22, 2023)
     archived: false
-    updated_at: '2025-10-24T04:51:23Z'
+    updated_at: '2025-11-19T14:52:49Z'
     language: TypeScript
 - name: program-examples
   repo: solana-developers/program-examples
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 884
     contributors: 28
-    last_activity: Last commit (Nov 18, 2025)
+    last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-19T09:53:56Z'
+    updated_at: '2025-11-19T15:03:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-18T05:32:38Z'
+    updated_at: '2025-11-19T15:03:07Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
