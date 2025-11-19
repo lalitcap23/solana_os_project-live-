@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4786
+    stars: 4787
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-19T04:56:52Z'
+    updated_at: '2025-11-19T16:57:08Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4786
+    stars: 4787
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-19T04:56:52Z'
+    updated_at: '2025-11-19T16:57:08Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4157
+    stars: 4158
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-18T03:30:44Z'
+    updated_at: '2025-11-19T16:55:33Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 276
+    stars: 277
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-11-04T16:37:42Z'
+    updated_at: '2025-11-19T16:49:59Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
