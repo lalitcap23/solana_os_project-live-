@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 164
+    stars: 165
     contributors: 156
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-19T03:49:35Z'
+    updated_at: '2025-11-19T11:42:08Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1951
+    stars: 1952
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-11-18T12:40:58Z'
+    updated_at: '2025-11-19T11:23:45Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4123
+    stars: 4124
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-19T03:46:33Z'
+    updated_at: '2025-11-19T11:21:47Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -236,11 +236,11 @@ repositories:
   category: SDKs & Tooling
   stars: 93
   stats:
-    stars: 94
+    stars: 95
     contributors: 6
     last_activity: Last commit (Nov 08, 2024)
     archived: false
-    updated_at: '2025-10-09T21:28:31Z'
+    updated_at: '2025-11-19T11:30:07Z'
     language: Rust
 - name: znap
   repo: heavy-duty/znap
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1319
+    stars: 1320
     contributors: 46
     last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-19T07:04:46Z'
+    updated_at: '2025-11-19T11:27:35Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 413
+    stars: 412
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-19T08:09:05Z'
+    updated_at: '2025-11-19T11:42:30Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
