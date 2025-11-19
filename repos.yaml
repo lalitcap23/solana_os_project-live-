@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-19T20:20:56Z'
+    updated_at: '2025-11-19T22:53:28Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 197
+    stars: 198
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-11-17T14:37:52Z'
+    updated_at: '2025-11-19T22:45:45Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
