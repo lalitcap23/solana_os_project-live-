@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-19T21:50:12Z'
+    updated_at: '2025-11-20T02:42:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-19T16:57:08Z'
+    updated_at: '2025-11-20T01:53:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 307
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-19T16:57:08Z'
+    updated_at: '2025-11-20T01:53:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1320
     contributors: 46
-    last_activity: Last commit (Nov 19, 2025)
+    last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-19T11:27:35Z'
+    updated_at: '2025-11-20T02:00:22Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1862,7 +1862,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-20T00:18:43Z'
+    updated_at: '2025-11-20T03:07:32Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
