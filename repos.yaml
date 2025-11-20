@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 551
     contributors: 2
-    last_activity: Last commit (Nov 16, 2025)
+    last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-16T12:25:36Z'
+    updated_at: '2025-11-20T10:11:24Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 566
     contributors: 2
-    last_activity: Last commit (Nov 16, 2025)
+    last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-18T01:00:29Z'
+    updated_at: '2025-11-20T10:10:54Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1381,7 +1381,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-11-18T09:10:18Z'
+    updated_at: '2025-11-20T10:16:58Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
