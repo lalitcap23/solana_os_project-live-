@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 164
+    stars: 165
     contributors: 157
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-20T08:45:24Z'
+    updated_at: '2025-11-20T15:07:37Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 884
     contributors: 28
-    last_activity: Last commit (Nov 19, 2025)
+    last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-19T15:03:23Z'
+    updated_at: '2025-11-20T15:02:45Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 131
+    stars: 132
     contributors: 10
     last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-20T14:14:27Z'
+    updated_at: '2025-11-20T14:57:39Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1832,11 +1832,11 @@ repositories:
   category: SDKs & Tooling
   stars: 273
   stats:
-    stars: 277
+    stars: 278
     contributors: 1
     last_activity: Last commit (Nov 10, 2025)
     archived: false
-    updated_at: '2025-11-19T01:09:50Z'
+    updated_at: '2025-11-20T15:28:19Z'
     language: Rust
 - name: solana-trading-bot
   repo: ivorn42/solana-trading-bot
