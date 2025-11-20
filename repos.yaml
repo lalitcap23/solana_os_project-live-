@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4787
-    contributors: 307
+    contributors: 308
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-20T01:53:25Z'
+    updated_at: '2025-11-20T04:20:17Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 4787
-    contributors: 307
+    contributors: 308
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-20T01:53:25Z'
+    updated_at: '2025-11-20T04:20:17Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -382,7 +382,7 @@ repositories:
     contributors: 46
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-20T02:00:22Z'
+    updated_at: '2025-11-20T03:50:39Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 227
     contributors: 6
-    last_activity: Last commit (Nov 18, 2025)
+    last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-18T20:39:27Z'
+    updated_at: '2025-11-20T03:21:41Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 190
+    stars: 191
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-19T08:08:02Z'
+    updated_at: '2025-11-20T04:24:31Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 190
+    stars: 191
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-19T08:08:02Z'
+    updated_at: '2025-11-20T04:24:31Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
