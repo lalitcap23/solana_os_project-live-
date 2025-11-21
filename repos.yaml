@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-21T17:16:55Z'
+    updated_at: '2025-11-21T18:11:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-20T21:22:06Z'
+    updated_at: '2025-11-21T18:18:50Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-11-21T11:18:28Z'
+    updated_at: '2025-11-21T17:41:21Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 12
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-21T17:08:51Z'
+    updated_at: '2025-11-21T17:28:21Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 132
+    stars: 131
     contributors: 10
     last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-11-20T14:57:39Z'
+    updated_at: '2025-11-21T18:01:21Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
