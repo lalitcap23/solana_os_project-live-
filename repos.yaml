@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 4791
-    contributors: 308
+    contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-21T03:09:53Z'
+    updated_at: '2025-11-21T10:35:37Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2652
+    stars: 2653
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-17T16:11:14Z'
+    updated_at: '2025-11-21T10:59:15Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 4791
-    contributors: 308
+    contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-21T03:09:53Z'
+    updated_at: '2025-11-21T10:35:37Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 150
+    stars: 151
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-11-19T17:52:18Z'
+    updated_at: '2025-11-21T11:06:31Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 228
+    stars: 229
     contributors: 6
     last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-11-21T05:06:00Z'
+    updated_at: '2025-11-21T11:18:28Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 150
+    stars: 151
     contributors: 2
     last_activity: Last commit (Oct 27, 2025)
     archived: false
-    updated_at: '2025-11-20T20:45:27Z'
+    updated_at: '2025-11-21T10:44:37Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 113
+    stars: 112
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-11-06T22:49:26Z'
+    updated_at: '2025-11-21T11:21:11Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
