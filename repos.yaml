@@ -31,7 +31,7 @@ repositories:
     contributors: 157
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-20T23:23:38Z'
+    updated_at: '2025-11-21T05:41:30Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1320
+    stars: 1321
     contributors: 46
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-20T03:50:39Z'
+    updated_at: '2025-11-21T05:41:28Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
