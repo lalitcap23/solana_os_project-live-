@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-21T07:25:29Z'
+    updated_at: '2025-11-21T11:44:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2653
+    stars: 2654
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-21T10:59:15Z'
+    updated_at: '2025-11-21T12:46:56Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-21T09:02:14Z'
+    updated_at: '2025-11-21T11:33:38Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 644
+    stars: 643
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2025-11-10T03:50:19Z'
+    updated_at: '2025-11-21T11:45:52Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
