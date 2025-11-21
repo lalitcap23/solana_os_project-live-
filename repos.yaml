@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-21T15:40:36Z'
+    updated_at: '2025-11-21T17:16:55Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 157
     last_activity: packet@v4.0.0 (Nov 13, 2025)
     archived: false
-    updated_at: '2025-11-21T13:19:34Z'
+    updated_at: '2025-11-21T16:38:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 12
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-11-18T14:40:47Z'
+    updated_at: '2025-11-21T17:08:51Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
