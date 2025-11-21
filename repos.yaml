@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-21T11:44:00Z'
+    updated_at: '2025-11-21T15:19:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 379
+    stars: 380
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2025-11-16T14:03:54Z'
+    updated_at: '2025-11-21T14:39:54Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 884
     contributors: 28
-    last_activity: Last commit (Nov 20, 2025)
+    last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-11-20T15:02:45Z'
+    updated_at: '2025-11-21T15:00:55Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 111
+    stars: 112
     contributors: 4
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T16:52:54Z'
+    updated_at: '2025-11-21T14:37:20Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
