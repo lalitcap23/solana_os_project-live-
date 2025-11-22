@@ -120,7 +120,7 @@ Last updated: 2025-11-22
 | solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun | Multi-wallet bundler for Solana token launches on pump.fun/pumpfun, bonk.fun/bonkfun, letsbonk, and bags.fm. Atomic execution with Jito bundles and Raydium SDK v2. MEV-protected trading bot with dual Jito/Lil Jito support. | https://github.com/Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun | 185 | 1 | Last commit (Oct 15, 2025) | Wallets & Mobile |
 | Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.1k | 233 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
 | SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 13 | 21 | tlv-account-resolution@v0.11.1 (Oct 08, 2025) | Programs (SPL) |
-| Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 227 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
+| Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 228 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 380 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 375 | 26 | Last commit (Nov 16, 2025) | NFTs & Programs |
 | solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 176 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
@@ -130,7 +130,7 @@ Last updated: 2025-11-22
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 721 | 25 | v0.44.1 (Aug 25, 2025) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 643 | 64 | Last commit (Oct 02, 2025) | NFTs & Programs |
 | treat-toolbox | Treat Toolbox: Generative NFT Utility for Candy Machine / Solana | https://github.com/theskeletoncrew/treat-toolbox | 270 | 11 | Last commit (Apr 25, 2022) | NFTs & Programs |
-| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 201 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
+| shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 202 | 7 | Last commit (Aug 21, 2025) | NFTs & Programs |
 | compressed-nfts | Example code to use compressed NFTs (using state compression) on Solana | https://github.com/solana-developers/compressed-nfts | 126 | 2 | Last commit (Jan 18, 2024) | NFTs & Programs |
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 119 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 115 | 18 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |
