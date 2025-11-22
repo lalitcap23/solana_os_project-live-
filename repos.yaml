@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4794
+    stars: 4795
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-22T08:55:58Z'
+    updated_at: '2025-11-22T15:21:32Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4794
+    stars: 4795
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-22T08:55:58Z'
+    updated_at: '2025-11-22T15:21:32Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 405
+    stars: 406
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-21T04:41:44Z'
+    updated_at: '2025-11-22T14:37:47Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 884
     contributors: 28
-    last_activity: Last commit (Nov 21, 2025)
+    last_activity: Last commit (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-21T15:00:55Z'
+    updated_at: '2025-11-22T14:59:48Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 151
+    stars: 152
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-11-22T11:48:00Z'
+    updated_at: '2025-11-22T15:02:05Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -1794,7 +1794,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-22T11:17:14Z'
+    updated_at: '2025-11-22T14:24:05Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1849,7 +1849,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-22T11:17:14Z'
+    updated_at: '2025-11-22T14:24:05Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
