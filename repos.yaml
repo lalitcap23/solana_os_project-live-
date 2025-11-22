@@ -975,7 +975,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Sep 23, 2024)
     archived: false
-    updated_at: '2025-11-21T11:06:31Z'
+    updated_at: '2025-11-22T11:48:00Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
