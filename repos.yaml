@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 884
     contributors: 28
-    last_activity: Last commit (Nov 22, 2025)
+    last_activity: Last commit (Nov 23, 2025)
     archived: false
-    updated_at: '2025-11-22T14:59:48Z'
+    updated_at: '2025-11-23T14:58:20Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 71
+    stars: 72
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-11-10T17:04:49Z'
+    updated_at: '2025-11-23T14:54:41Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
