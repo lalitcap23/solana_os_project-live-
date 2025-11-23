@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1524
+    stars: 1523
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-23T04:30:44Z'
+    updated_at: '2025-11-23T04:43:08Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 501
+    stars: 500
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-22T16:58:06Z'
+    updated_at: '2025-11-23T04:43:13Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 239
+    stars: 236
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-10-27T11:43:50Z'
+    updated_at: '2025-11-23T04:43:00Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 578
+    stars: 577
     contributors: 1
     last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-11-23T03:59:19Z'
+    updated_at: '2025-11-23T04:43:25Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 566
+    stars: 565
     contributors: 2
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-20T10:10:54Z'
+    updated_at: '2025-11-23T04:43:01Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 273
+    stars: 272
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-19T19:13:33Z'
+    updated_at: '2025-11-23T04:43:19Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 482
+    stars: 480
     contributors: 1
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2025-11-18T20:02:23Z'
+    updated_at: '2025-11-23T04:42:57Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
