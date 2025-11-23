@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 566
+    stars: 567
     contributors: 2
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-23T12:49:00Z'
+    updated_at: '2025-11-23T16:58:31Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 200
+    stars: 201
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-11-19T08:07:29Z'
+    updated_at: '2025-11-23T16:49:27Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -1873,11 +1873,11 @@ repositories:
   category: SDKs & Tooling
   stars: 219
   stats:
-    stars: 212
+    stars: 213
     contributors: 1
     last_activity: Last commit (May 15, 2025)
     archived: false
-    updated_at: '2025-11-19T08:08:01Z'
+    updated_at: '2025-11-23T16:49:32Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
