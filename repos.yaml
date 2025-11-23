@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14660
+    stars: 14659
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-23T08:26:29Z'
+    updated_at: '2025-11-23T13:20:35Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 551
+    stars: 552
     contributors: 2
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-20T10:11:24Z'
+    updated_at: '2025-11-23T12:52:07Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 565
+    stars: 566
     contributors: 2
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-23T04:43:01Z'
+    updated_at: '2025-11-23T12:49:00Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -989,7 +989,7 @@ repositories:
     contributors: 6
     last_activity: Last commit (Nov 23, 2025)
     archived: false
-    updated_at: '2025-11-23T12:18:13Z'
+    updated_at: '2025-11-23T13:03:08Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 128
+    stars: 129
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-11-06T18:13:28Z'
+    updated_at: '2025-11-23T12:45:04Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
@@ -1506,11 +1506,11 @@ repositories:
   category: DeFi
   stars: 37
   stats:
-    stars: 39
+    stars: 40
     contributors: 1
     last_activity: Last commit (Oct 22, 2025)
     archived: false
-    updated_at: '2025-11-17T04:30:44Z'
+    updated_at: '2025-11-23T12:57:12Z'
     language: JavaScript
 - name: solana-streamer
   repo: 0xfnzero/solana-streamer
