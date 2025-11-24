@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-11-24T17:55:29Z'
+    updated_at: '2025-11-24T19:05:48Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
