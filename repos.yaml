@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14658
+    stars: 14659
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-23T21:43:39Z'
+    updated_at: '2025-11-24T00:33:39Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1524
+    stars: 1525
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-23T21:09:46Z'
+    updated_at: '2025-11-24T00:34:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4799
+    stars: 4800
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-23T22:25:38Z'
+    updated_at: '2025-11-24T01:58:53Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4799
+    stars: 4800
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-23T22:25:38Z'
+    updated_at: '2025-11-24T01:58:53Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 884
+    stars: 885
     contributors: 28
     last_activity: Last commit (Nov 23, 2025)
     archived: false
-    updated_at: '2025-11-23T14:58:20Z'
+    updated_at: '2025-11-23T23:50:59Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
