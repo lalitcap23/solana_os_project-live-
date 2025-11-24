@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-24T10:45:54Z'
+    updated_at: '2025-11-24T11:58:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1954
+    stars: 1955
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-11-23T01:05:24Z'
+    updated_at: '2025-11-24T11:58:46Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -409,9 +409,9 @@ repositories:
   stats:
     stars: 565
     contributors: 1
-    last_activity: Last commit (Nov 11, 2025)
+    last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-11-19T08:08:32Z'
+    updated_at: '2025-11-24T11:48:18Z'
     language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -1766,9 +1766,9 @@ repositories:
   stats:
     stars: 565
     contributors: 1
-    last_activity: Last commit (Nov 11, 2025)
+    last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-11-19T08:08:32Z'
+    updated_at: '2025-11-24T11:48:18Z'
     language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
