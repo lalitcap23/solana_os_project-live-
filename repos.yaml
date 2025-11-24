@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.10 (Nov 04, 2025)
     archived: false
-    updated_at: '2025-11-24T14:14:22Z'
+    updated_at: '2025-11-24T16:27:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 157
     last_activity: program-log@v1.0.1 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-23T20:16:34Z'
+    updated_at: '2025-11-24T15:38:04Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-21T21:06:52Z'
+    updated_at: '2025-11-24T16:21:02Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 279
+    stars: 280
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-23T19:08:08Z'
+    updated_at: '2025-11-24T16:07:00Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
