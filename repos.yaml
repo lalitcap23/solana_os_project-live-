@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-25T21:34:22Z'
+    updated_at: '2025-11-25T22:45:48Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -578,9 +578,9 @@ repositories:
   stats:
     stars: 204
     contributors: 7
-    last_activity: Last commit (Aug 21, 2025)
+    last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-25T06:26:40Z'
+    updated_at: '2025-11-25T22:57:02Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
