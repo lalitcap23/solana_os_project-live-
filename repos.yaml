@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-23T05:27:53Z'
+    updated_at: '2025-11-25T05:32:07Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 203
+    stars: 204
     contributors: 7
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-11-25T02:17:41Z'
+    updated_at: '2025-11-25T06:26:40Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
