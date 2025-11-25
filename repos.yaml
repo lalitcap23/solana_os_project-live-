@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 129
+    stars: 128
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-11-23T12:45:04Z'
+    updated_at: '2025-11-25T09:00:53Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
