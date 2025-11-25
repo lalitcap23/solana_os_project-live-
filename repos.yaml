@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-25T18:31:18Z'
+    updated_at: '2025-11-25T18:52:58Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 502
+    stars: 503
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-25T18:32:14Z'
+    updated_at: '2025-11-25T18:48:20Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -845,11 +845,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 122
+    stars: 123
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2025-11-03T02:44:59Z'
+    updated_at: '2025-11-25T18:41:09Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -1269,9 +1269,9 @@ repositories:
   stats:
     stars: 128
     contributors: 1
-    last_activity: Last commit (Oct 20, 2025)
+    last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-25T09:00:53Z'
+    updated_at: '2025-11-25T19:00:16Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 112
+    stars: 111
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-11-21T11:21:11Z'
+    updated_at: '2025-11-25T19:02:44Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
