@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14661
+    stars: 14662
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-25T07:43:19Z'
+    updated_at: '2025-11-25T13:48:58Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 886
     contributors: 28
-    last_activity: Last commit (Nov 24, 2025)
+    last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-24T13:45:53Z'
+    updated_at: '2025-11-25T13:45:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 325
+    stars: 326
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-11-18T05:42:09Z'
+    updated_at: '2025-11-25T14:03:52Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -972,10 +972,10 @@ repositories:
   stars: 135
   stats:
     stars: 152
-    contributors: 2
-    last_activity: Last commit (Sep 23, 2024)
+    contributors: 3
+    last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-22T15:02:05Z'
+    updated_at: '2025-11-25T14:24:53Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -986,10 +986,10 @@ repositories:
   stars: 125
   stats:
     stars: 231
-    contributors: 6
-    last_activity: Last commit (Nov 23, 2025)
+    contributors: 7
+    last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-24T22:27:09Z'
+    updated_at: '2025-11-25T14:19:33Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
