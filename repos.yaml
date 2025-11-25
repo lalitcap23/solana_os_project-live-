@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1525
+    stars: 1526
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-25T03:55:06Z'
+    updated_at: '2025-11-25T07:16:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 236
+    stars: 237
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-11-23T04:43:00Z'
+    updated_at: '2025-11-25T07:06:41Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 112
+    stars: 113
     contributors: 4
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-21T14:37:20Z'
+    updated_at: '2025-11-25T07:00:46Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1873,11 +1873,11 @@ repositories:
   category: SDKs & Tooling
   stars: 219
   stats:
-    stars: 213
+    stars: 214
     contributors: 1
     last_activity: Last commit (May 15, 2025)
     archived: false
-    updated_at: '2025-11-23T16:49:32Z'
+    updated_at: '2025-11-25T06:57:36Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
