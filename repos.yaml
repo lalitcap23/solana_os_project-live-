@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14660
+    stars: 14661
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-25T03:22:13Z'
+    updated_at: '2025-11-25T07:43:19Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-25T07:16:45Z'
+    updated_at: '2025-11-25T07:43:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 339
+    stars: 340
     contributors: 20
     last_activity: 0.11.1 (Oct 21, 2025)
     archived: false
-    updated_at: '2025-11-05T00:46:38Z'
+    updated_at: '2025-11-25T08:04:51Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
