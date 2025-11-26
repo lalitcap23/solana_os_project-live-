@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 368
+    stars: 369
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-11-24T04:56:19Z'
+    updated_at: '2025-11-26T15:13:42Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -578,9 +578,9 @@ repositories:
   stats:
     stars: 204
     contributors: 7
-    last_activity: Last commit (Nov 25, 2025)
+    last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-11-25T22:57:02Z'
+    updated_at: '2025-11-26T15:14:39Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 232
+    stars: 233
     contributors: 7
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-25T17:54:47Z'
+    updated_at: '2025-11-26T14:49:48Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 400
+    stars: 401
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-25T15:03:38Z'
+    updated_at: '2025-11-26T15:13:12Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
