@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.11.0 (Oct 18, 2025)
     archived: false
-    updated_at: '2025-11-25T18:48:20Z'
+    updated_at: '2025-11-26T04:58:20Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
