@@ -43,7 +43,7 @@ repositories:
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T19:58:44Z'
+    updated_at: '2025-11-26T22:05:06Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2656
+    stars: 2657
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-23T10:46:17Z'
+    updated_at: '2025-11-26T21:58:56Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -178,7 +178,7 @@ repositories:
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T19:58:44Z'
+    updated_at: '2025-11-26T22:05:06Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4159
+    stars: 4160
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-26T01:58:36Z'
+    updated_at: '2025-11-26T22:13:34Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 575
+    stars: 576
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-24T16:45:07Z'
+    updated_at: '2025-11-26T22:18:27Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
