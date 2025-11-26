@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4158
+    stars: 4159
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-11-25T09:52:18Z'
+    updated_at: '2025-11-26T01:58:36Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 152
+    stars: 151
     contributors: 3
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-25T14:24:53Z'
+    updated_at: '2025-11-26T02:43:28Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
