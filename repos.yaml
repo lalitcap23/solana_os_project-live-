@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-26T10:34:22Z'
+    updated_at: '2025-11-26T11:59:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -100,7 +100,7 @@ repositories:
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-11-26T08:20:42Z'
+    updated_at: '2025-11-26T12:20:57Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 604
+    stars: 605
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-11-26T08:31:00Z'
+    updated_at: '2025-11-26T12:47:22Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 280
+    stars: 282
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-24T16:07:00Z'
+    updated_at: '2025-11-26T11:58:46Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 195
+    stars: 196
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-26T10:37:49Z'
+    updated_at: '2025-11-26T11:53:41Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 195
+    stars: 196
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-26T10:37:49Z'
+    updated_at: '2025-11-26T11:53:41Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
