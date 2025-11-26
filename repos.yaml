@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-26T20:19:48Z'
+    updated_at: '2025-11-26T23:21:33Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T22:05:06Z'
+    updated_at: '2025-11-26T22:51:12Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T22:05:06Z'
+    updated_at: '2025-11-26T22:51:12Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
