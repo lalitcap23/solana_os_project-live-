@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1526
+    stars: 1525
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-26T17:47:36Z'
+    updated_at: '2025-11-26T20:19:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4804
+    stars: 4805
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T18:40:04Z'
+    updated_at: '2025-11-26T19:58:44Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4804
+    stars: 4805
     contributors: 309
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T18:40:04Z'
+    updated_at: '2025-11-26T19:58:44Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 290
+    stars: 291
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-11-21T16:04:07Z'
+    updated_at: '2025-11-26T19:49:07Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
