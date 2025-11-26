@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1527
+    stars: 1526
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-26T17:10:28Z'
+    updated_at: '2025-11-26T17:47:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 282
+    stars: 283
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-11-26T11:58:46Z'
+    updated_at: '2025-11-26T18:15:53Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 153
+    stars: 152
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-11-14T08:59:46Z'
+    updated_at: '2025-11-26T17:48:02Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
