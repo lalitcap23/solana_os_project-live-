@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-27T07:46:11Z'
+    updated_at: '2025-11-27T10:40:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1326
+    stars: 1327
     contributors: 46
     last_activity: Last commit (Nov 20, 2025)
     archived: false
-    updated_at: '2025-11-27T06:35:22Z'
+    updated_at: '2025-11-27T10:56:09Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 204
+    stars: 205
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-11-26T15:14:39Z'
+    updated_at: '2025-11-27T10:58:43Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
