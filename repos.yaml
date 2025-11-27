@@ -31,7 +31,7 @@ repositories:
     contributors: 157
     last_activity: sysvar@v3.1.1 (Nov 26, 2025)
     archived: false
-    updated_at: '2025-11-26T23:53:37Z'
+    updated_at: '2025-11-27T07:13:50Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 225
+    stars: 226
     contributors: 3
     last_activity: v7.0.0 (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-25T09:56:22Z'
+    updated_at: '2025-11-27T06:59:33Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 118
+    stars: 120
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-27T02:23:53Z'
+    updated_at: '2025-11-27T07:04:00Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
