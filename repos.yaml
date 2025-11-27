@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 72
+    stars: 73
     contributors: 6
     last_activity: Last commit (May 24, 2025)
     archived: false
-    updated_at: '2025-11-14T07:37:42Z'
+    updated_at: '2025-11-27T16:22:07Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 238
+    stars: 237
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-20T15:51:13Z'
+    updated_at: '2025-11-27T15:55:39Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
