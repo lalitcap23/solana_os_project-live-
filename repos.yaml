@@ -989,7 +989,7 @@ repositories:
     contributors: 7
     last_activity: Last commit (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-27T14:13:48Z'
+    updated_at: '2025-11-27T22:40:20Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
