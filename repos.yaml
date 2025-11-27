@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 888
+    stars: 890
     contributors: 28
-    last_activity: Last commit (Nov 26, 2025)
+    last_activity: Last commit (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-27T02:34:50Z'
+    updated_at: '2025-11-27T14:24:54Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 233
     contributors: 7
-    last_activity: Last commit (Nov 25, 2025)
+    last_activity: Last commit (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-26T14:49:48Z'
+    updated_at: '2025-11-27T14:13:48Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1339,11 +1339,11 @@ repositories:
   category: SDKs & Tooling
   stars: 141
   stats:
-    stars: 143
+    stars: 144
     contributors: 1
     last_activity: Last commit (Aug 21, 2022)
     archived: false
-    updated_at: '2025-11-08T03:13:31Z'
+    updated_at: '2025-11-27T14:25:32Z'
     language: TypeScript
 - name: solana-mint-ui
   repo: edceds/solana-mint-ui
