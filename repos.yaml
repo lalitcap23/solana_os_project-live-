@@ -43,7 +43,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T22:51:12Z'
+    updated_at: '2025-11-27T02:39:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-26T22:51:12Z'
+    updated_at: '2025-11-27T02:39:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 887
+    stars: 888
     contributors: 28
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-11-26T13:44:06Z'
+    updated_at: '2025-11-27T02:34:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 119
+    stars: 118
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-24T07:28:37Z'
+    updated_at: '2025-11-27T02:23:53Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
