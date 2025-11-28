@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4807
+    stars: 4808
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-27T21:38:09Z'
+    updated_at: '2025-11-28T08:54:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4807
+    stars: 4808
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-27T21:38:09Z'
+    updated_at: '2025-11-28T08:54:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 61
     contributors: 6
-    last_activity: Last commit (Nov 26, 2025)
+    last_activity: Last commit (Nov 28, 2025)
     archived: false
-    updated_at: '2025-11-26T07:03:15Z'
+    updated_at: '2025-11-28T09:07:52Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
