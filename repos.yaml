@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4819
+    stars: 4820
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-29T19:07:14Z'
+    updated_at: '2025-11-29T20:00:08Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4131
+    stars: 4132
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-29T11:17:46Z'
+    updated_at: '2025-11-29T20:25:51Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4819
+    stars: 4820
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-29T19:07:14Z'
+    updated_at: '2025-11-29T20:00:08Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1790,11 +1790,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 197
+    stars: 198
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-29T04:17:27Z'
+    updated_at: '2025-11-29T20:17:43Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1845,11 +1845,11 @@ repositories:
   category: SDKs & Tooling
   stars: 194
   stats:
-    stars: 197
+    stars: 198
     contributors: 1
     last_activity: Last commit (Feb 24, 2025)
     archived: false
-    updated_at: '2025-11-29T04:17:27Z'
+    updated_at: '2025-11-29T20:17:43Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
