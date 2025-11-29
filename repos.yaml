@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1533
+    stars: 1532
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-29T00:37:53Z'
+    updated_at: '2025-11-29T03:04:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4812
+    stars: 4814
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-28T21:46:11Z'
+    updated_at: '2025-11-29T03:03:57Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4812
+    stars: 4814
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-28T21:46:11Z'
+    updated_at: '2025-11-29T03:03:57Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1328
     contributors: 46
-    last_activity: Last commit (Nov 20, 2025)
+    last_activity: Last commit (Nov 29, 2025)
     archived: false
-    updated_at: '2025-11-28T02:36:22Z'
+    updated_at: '2025-11-29T02:46:11Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 383
+    stars: 384
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-28T21:45:08Z'
+    updated_at: '2025-11-29T03:15:49Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
