@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2659
+    stars: 2660
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-28T19:50:55Z'
+    updated_at: '2025-11-29T13:36:07Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 369
+    stars: 370
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-11-26T15:13:42Z'
+    updated_at: '2025-11-29T14:02:26Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 890
     contributors: 28
-    last_activity: Last commit (Nov 28, 2025)
+    last_activity: Last commit (Nov 29, 2025)
     archived: false
-    updated_at: '2025-11-28T13:41:11Z'
+    updated_at: '2025-11-29T13:40:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
