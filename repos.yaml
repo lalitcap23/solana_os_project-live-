@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14670
+    stars: 14671
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-29T19:06:53Z'
+    updated_at: '2025-11-30T04:00:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1625,10 +1625,10 @@ repositories:
   stars: 138
   stats:
     stars: 153
-    contributors: 2
-    last_activity: Last commit (Oct 27, 2025)
+    contributors: 3
+    last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-11-28T12:38:27Z'
+    updated_at: '2025-11-30T04:30:58Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
