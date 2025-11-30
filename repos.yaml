@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14672
+    stars: 14673
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-30T12:19:53Z'
+    updated_at: '2025-11-30T16:05:23Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1329
+    stars: 1330
     contributors: 46
     last_activity: Last commit (Nov 29, 2025)
     archived: false
-    updated_at: '2025-11-29T09:08:19Z'
+    updated_at: '2025-11-30T16:28:16Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 579
+    stars: 578
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-29T20:28:20Z'
+    updated_at: '2025-11-30T15:37:47Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 233
     contributors: 7
-    last_activity: Last commit (Nov 27, 2025)
+    last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-11-27T22:40:20Z'
+    updated_at: '2025-11-30T16:15:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 131
+    stars: 132
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-11-30T15:12:44Z'
+    updated_at: '2025-11-30T15:28:47Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
