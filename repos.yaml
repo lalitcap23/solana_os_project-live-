@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4822
+    stars: 4821
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-30T00:18:47Z'
+    updated_at: '2025-11-30T08:05:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4822
+    stars: 4821
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-30T00:18:47Z'
+    updated_at: '2025-11-30T08:05:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-30T01:03:25Z'
+    updated_at: '2025-11-30T07:26:21Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 340
+    stars: 339
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-27T09:14:40Z'
+    updated_at: '2025-11-30T08:04:57Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
