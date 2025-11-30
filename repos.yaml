@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 167
+    stars: 168
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-28T14:47:18Z'
+    updated_at: '2025-11-30T03:09:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 228
+    stars: 229
     contributors: 3
     last_activity: v7.0.0 (Nov 14, 2025)
     archived: false
-    updated_at: '2025-11-29T17:17:12Z'
+    updated_at: '2025-11-30T02:12:17Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 272
+    stars: 273
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-23T04:43:19Z'
+    updated_at: '2025-11-30T03:02:58Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
