@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-11-30T16:05:23Z'
+    updated_at: '2025-11-30T18:41:57Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
