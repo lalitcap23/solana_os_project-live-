@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1532
+    stars: 1533
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-11-29T16:41:49Z'
+    updated_at: '2025-11-30T00:32:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4821
+    stars: 4822
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-29T21:19:21Z'
+    updated_at: '2025-11-30T00:18:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4821
+    stars: 4822
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-11-29T21:19:21Z'
+    updated_at: '2025-11-30T00:18:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 505
+    stars: 506
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-29T12:05:01Z'
+    updated_at: '2025-11-30T01:03:25Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 891
+    stars: 892
     contributors: 28
     last_activity: Last commit (Nov 29, 2025)
     archived: false
-    updated_at: '2025-11-29T14:58:00Z'
+    updated_at: '2025-11-30T00:53:42Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
