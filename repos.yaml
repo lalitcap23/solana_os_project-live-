@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-30T07:26:21Z'
+    updated_at: '2025-11-30T18:13:27Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 394
+    stars: 395
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-30T15:12:41Z'
+    updated_at: '2025-11-30T18:03:54Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 578
+    stars: 579
     contributors: 15
     last_activity: Last commit (Oct 31, 2025)
     archived: false
-    updated_at: '2025-11-30T15:37:47Z'
+    updated_at: '2025-11-30T17:37:13Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 394
+    stars: 395
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-11-30T15:12:41Z'
+    updated_at: '2025-11-30T18:03:54Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
