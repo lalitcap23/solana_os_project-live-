@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-01T07:15:13Z'
+    updated_at: '2025-12-01T08:30:34Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -899,7 +899,7 @@ repositories:
     contributors: 28
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-11-30T22:36:17Z'
+    updated_at: '2025-12-01T07:52:10Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1832,11 +1832,11 @@ repositories:
   category: SDKs & Tooling
   stars: 273
   stats:
-    stars: 279
+    stars: 53
     contributors: 1
-    last_activity: Last commit (Nov 10, 2025)
+    last_activity: Last commit (Dec 01, 2025)
     archived: false
-    updated_at: '2025-11-25T13:14:51Z'
+    updated_at: '2025-12-01T08:36:13Z'
     language: Rust
 - name: solana-trading-bot
   repo: ivorn42/solana-trading-bot
