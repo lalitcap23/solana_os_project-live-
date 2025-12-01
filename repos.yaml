@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14673
+    stars: 14674
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-01T02:31:07Z'
+    updated_at: '2025-12-01T06:52:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-30T03:09:03Z'
+    updated_at: '2025-12-01T07:15:13Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 273
+    stars: 274
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-11-30T03:02:58Z'
+    updated_at: '2025-12-01T07:14:20Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1907,6 +1907,20 @@ repositories:
     last_activity: Last commit (Jul 30, 2024)
     archived: false
     updated_at: '2025-11-19T08:06:33Z'
+    language: TypeScript
+- name: x402-Triton-Gateway
+  repo: praptisharma28/x402-Triton-Gateway
+  description: A production-ready micropayment gateway that implements HTTP 402 (Payment
+    Required) to monetize access to historical Solana blockchain data via Old Faithful.
+    Users pay micro-amounts in USDC to query historical transactions and blocks.
+  category: Payments
+  stars: 14
+  stats:
+    stars: 14
+    contributors: 2
+    last_activity: Last commit (Nov 16, 2025)
+    archived: false
+    updated_at: '2025-12-01T07:24:50Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
