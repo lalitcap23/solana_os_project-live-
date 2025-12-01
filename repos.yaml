@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14674
+    stars: 14676
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-01T06:52:55Z'
+    updated_at: '2025-12-01T15:56:21Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1540
+    stars: 1541
     contributors: 363
     last_activity: v3.0.11 (Nov 22, 2025)
     archived: false
-    updated_at: '2025-12-01T14:27:01Z'
+    updated_at: '2025-12-01T15:57:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-01T08:30:34Z'
+    updated_at: '2025-12-01T16:11:18Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4132
+    stars: 4133
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-11-29T20:25:51Z'
+    updated_at: '2025-12-01T15:39:01Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 136
+    stars: 137
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-01T03:44:15Z'
+    updated_at: '2025-12-01T15:49:51Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
