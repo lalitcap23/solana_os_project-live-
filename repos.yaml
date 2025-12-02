@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-02T10:23:03Z'
+    updated_at: '2025-12-02T13:05:31Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-02T00:31:17Z'
+    updated_at: '2025-12-02T13:17:36Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 894
     contributors: 28
-    last_activity: Last commit (Dec 01, 2025)
+    last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-01T16:45:44Z'
+    updated_at: '2025-12-02T13:38:10Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
