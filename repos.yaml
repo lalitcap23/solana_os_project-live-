@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-02T17:30:50Z'
+    updated_at: '2025-12-02T18:50:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-02T18:32:18Z'
+    updated_at: '2025-12-02T19:17:23Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 233
+    stars: 234
     contributors: 7
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-11-30T16:15:07Z'
+    updated_at: '2025-12-02T19:18:30Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
