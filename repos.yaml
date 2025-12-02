@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14676
+    stars: 14675
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-01T15:56:21Z'
+    updated_at: '2025-12-02T00:38:12Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-01T23:03:17Z'
+    updated_at: '2025-12-02T00:32:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-01T16:11:18Z'
+    updated_at: '2025-12-02T00:31:17Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4825
+    stars: 4827
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-01T09:12:53Z'
+    updated_at: '2025-12-02T00:54:16Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2660
+    stars: 2661
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-11-30T12:19:15Z'
+    updated_at: '2025-12-01T23:35:22Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1958
+    stars: 1959
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-01T12:59:43Z'
+    updated_at: '2025-12-01T23:35:29Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4133
+    stars: 4132
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-01T15:39:01Z'
+    updated_at: '2025-12-02T00:38:12Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4825
+    stars: 4827
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-01T09:12:53Z'
+    updated_at: '2025-12-02T00:54:16Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 409
+    stars: 408
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-11-30T20:36:20Z'
+    updated_at: '2025-12-01T23:25:31Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 291
+    stars: 292
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-11-26T19:49:07Z'
+    updated_at: '2025-12-02T00:24:25Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 138
+    stars: 139
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-01T20:57:44Z'
+    updated_at: '2025-12-01T23:45:32Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
