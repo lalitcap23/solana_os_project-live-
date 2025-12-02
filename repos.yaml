@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-02T20:56:28Z'
+    updated_at: '2025-12-02T23:15:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1281,9 +1281,9 @@ repositories:
   stats:
     stars: 72
     contributors: 12
-    last_activity: Last commit (Nov 12, 2025)
+    last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-11-12T20:48:00Z'
+    updated_at: '2025-12-02T23:22:19Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
