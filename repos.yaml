@@ -120,7 +120,7 @@ repositories:
   stats:
     stars: 229
     contributors: 3
-    last_activity: v7.0.0 (Nov 14, 2025)
+    last_activity: v7.0.1 (Dec 02, 2025)
     archived: false
     updated_at: '2025-11-30T02:12:17Z'
     language: Dockerfile
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 507
+    stars: 508
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-02T03:38:35Z'
+    updated_at: '2025-12-02T11:45:45Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 151
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-01T18:14:51Z'
+    updated_at: '2025-12-02T12:00:43Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
