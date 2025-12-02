@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 370
+    stars: 371
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-11-29T14:02:26Z'
+    updated_at: '2025-12-02T06:28:19Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 408
+    stars: 409
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-12-01T23:25:31Z'
+    updated_at: '2025-12-02T06:09:35Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1354,8 +1354,8 @@ repositories:
     stars: 50
     contributors: 2
     last_activity: Last commit (Feb 06, 2024)
-    archived: false
-    updated_at: '2025-11-13T15:27:10Z'
+    archived: true
+    updated_at: '2025-12-02T06:04:49Z'
     language: TypeScript
 - name: digital-asset-validator-plugin
   repo: metaplex-foundation/digital-asset-validator-plugin
