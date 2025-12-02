@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-02T16:59:06Z'
+    updated_at: '2025-12-02T17:30:50Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4828
+    stars: 4829
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-02T08:09:11Z'
+    updated_at: '2025-12-02T17:56:48Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1960
+    stars: 1961
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-02T03:59:26Z'
+    updated_at: '2025-12-02T17:44:16Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4828
+    stars: 4829
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-02T08:09:11Z'
+    updated_at: '2025-12-02T17:56:48Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 619
-    contributors: 151
+    stars: 620
+    contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-02T13:53:45Z'
+    updated_at: '2025-12-02T18:32:18Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 139
+    stars: 138
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-02T03:16:23Z'
+    updated_at: '2025-12-02T18:10:20Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
