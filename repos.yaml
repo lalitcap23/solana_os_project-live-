@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-02T14:21:12Z'
+    updated_at: '2025-12-02T15:04:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 229
+    stars: 230
     contributors: 3
     last_activity: v7.0.1 (Dec 02, 2025)
     archived: false
-    updated_at: '2025-11-30T02:12:17Z'
+    updated_at: '2025-12-02T15:28:07Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 409
+    stars: 410
     contributors: 2
     last_activity: Last commit (Jun 18, 2025)
     archived: false
-    updated_at: '2025-12-02T06:09:35Z'
+    updated_at: '2025-12-02T14:57:07Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1873,11 +1873,11 @@ repositories:
   category: SDKs & Tooling
   stars: 219
   stats:
-    stars: 215
+    stars: 216
     contributors: 1
     last_activity: Last commit (May 15, 2025)
     archived: false
-    updated_at: '2025-11-27T20:46:08Z'
+    updated_at: '2025-12-02T15:07:54Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
