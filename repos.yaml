@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4832
+    stars: 4833
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-03T19:20:46Z'
+    updated_at: '2025-12-03T22:06:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4832
+    stars: 4833
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-03T19:20:46Z'
+    updated_at: '2025-12-03T22:06:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 72
+    stars: 73
     contributors: 12
     last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-02T23:22:19Z'
+    updated_at: '2025-12-03T21:29:11Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
