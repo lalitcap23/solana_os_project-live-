@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-03T04:14:29Z'
+    updated_at: '2025-12-03T07:30:27Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 230
+    stars: 231
     contributors: 3
     last_activity: v7.0.1 (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-02T15:28:07Z'
+    updated_at: '2025-12-03T08:06:53Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-03T01:34:30Z'
+    updated_at: '2025-12-03T07:56:34Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
