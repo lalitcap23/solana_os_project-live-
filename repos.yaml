@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-03T09:04:06Z'
+    updated_at: '2025-12-03T11:01:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 340
+    stars: 341
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-11-30T21:51:56Z'
+    updated_at: '2025-12-03T10:32:24Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 620
+    stars: 621
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-03T10:27:49Z'
+    updated_at: '2025-12-03T11:16:01Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
