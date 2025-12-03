@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14680
+    stars: 14681
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-03T12:59:50Z'
+    updated_at: '2025-12-03T14:43:47Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4133
+    stars: 4134
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-02T23:46:38Z'
+    updated_at: '2025-12-03T14:43:50Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
