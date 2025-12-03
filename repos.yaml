@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-03T17:58:52Z'
+    updated_at: '2025-12-03T19:49:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-03T18:57:31Z'
+    updated_at: '2025-12-03T19:36:39Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 552
     contributors: 2
-    last_activity: Last commit (Nov 24, 2025)
+    last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-11-24T13:24:53Z'
+    updated_at: '2025-12-03T19:34:00Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 568
     contributors: 2
-    last_activity: Last commit (Nov 24, 2025)
+    last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-02T08:42:50Z'
+    updated_at: '2025-12-03T19:34:27Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1229,7 +1229,7 @@ repositories:
   stars: 462
   stats:
     stars: 480
-    contributors: 1
+    contributors: 0
     last_activity: Last commit (Sep 06, 2025)
     archived: false
     updated_at: '2025-11-23T04:42:57Z'
@@ -1918,9 +1918,9 @@ repositories:
   stats:
     stars: 15
     contributors: 2
-    last_activity: Last commit (Nov 16, 2025)
+    last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-03T05:00:14Z'
+    updated_at: '2025-12-03T19:46:28Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
