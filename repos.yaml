@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-03T11:01:52Z'
+    updated_at: '2025-12-03T15:43:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -63,7 +63,7 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 1963
-    contributors: 115
+    contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
     updated_at: '2025-12-03T13:00:35Z'
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 205
+    stars: 206
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-11-27T10:58:43Z'
+    updated_at: '2025-12-03T16:16:06Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -986,10 +986,10 @@ repositories:
   stars: 125
   stats:
     stars: 235
-    contributors: 7
-    last_activity: Last commit (Nov 30, 2025)
+    contributors: 8
+    last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-03T06:16:59Z'
+    updated_at: '2025-12-03T15:40:47Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
