@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14679
+    stars: 14680
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-03T10:10:59Z'
+    updated_at: '2025-12-03T12:59:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 168
+    stars: 169
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-03T10:17:35Z'
+    updated_at: '2025-12-03T13:16:10Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1962
+    stars: 1963
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-03T06:29:52Z'
+    updated_at: '2025-12-03T13:00:35Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 894
     contributors: 28
-    last_activity: Last commit (Dec 02, 2025)
+    last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-02T13:38:10Z'
+    updated_at: '2025-12-03T13:37:28Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
