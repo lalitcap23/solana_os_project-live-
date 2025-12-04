@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14681
+    stars: 14682
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-04T13:18:41Z'
+    updated_at: '2025-12-04T13:50:57Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-04T12:46:47Z'
+    updated_at: '2025-12-04T14:01:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-04T08:39:55Z'
+    updated_at: '2025-12-04T13:55:28Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 61
+    stars: 62
     contributors: 6
     last_activity: Last commit (Nov 28, 2025)
     archived: false
-    updated_at: '2025-11-28T09:07:52Z'
+    updated_at: '2025-12-04T14:11:09Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
