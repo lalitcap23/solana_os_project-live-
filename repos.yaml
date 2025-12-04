@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14682
+    stars: 14681
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-04T07:37:22Z'
+    updated_at: '2025-12-04T13:18:41Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4835
+    stars: 4834
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-04T11:13:19Z'
+    updated_at: '2025-12-04T13:18:22Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4835
+    stars: 4834
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-04T11:13:19Z'
+    updated_at: '2025-12-04T13:18:22Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 895
     contributors: 28
-    last_activity: Last commit (Dec 03, 2025)
+    last_activity: Last commit (Dec 04, 2025)
     archived: false
-    updated_at: '2025-12-04T03:33:29Z'
+    updated_at: '2025-12-04T13:36:26Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1271,7 +1271,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-11-27T15:26:08Z'
+    updated_at: '2025-12-04T13:29:04Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
