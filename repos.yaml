@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14682
+    stars: 14681
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-04T13:50:57Z'
+    updated_at: '2025-12-04T16:20:31Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 246
+    stars: 247
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-12-04T07:19:13Z'
+    updated_at: '2025-12-04T16:18:12Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
