@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14681
+    stars: 14682
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-03T14:43:47Z'
+    updated_at: '2025-12-04T01:01:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-03T23:21:42Z'
+    updated_at: '2025-12-04T00:52:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4161
+    stars: 4162
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-02T08:38:02Z'
+    updated_at: '2025-12-04T01:35:12Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 581
+    stars: 582
     contributors: 16
     last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-03T23:02:42Z'
+    updated_at: '2025-12-04T01:56:49Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 114
+    stars: 115
     contributors: 4
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-12-02T08:17:40Z'
+    updated_at: '2025-12-04T01:07:36Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
