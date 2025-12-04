@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1545
+    stars: 1546
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-04T14:01:54Z'
+    updated_at: '2025-12-04T18:03:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-04T15:00:50Z'
+    updated_at: '2025-12-04T18:30:10Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 568
+    stars: 569
     contributors: 2
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-03T19:34:27Z'
+    updated_at: '2025-12-04T18:09:54Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -1219,7 +1219,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-12-04T04:17:19Z'
+    updated_at: '2025-12-04T18:09:35Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 203
+    stars: 202
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-11-29T05:57:17Z'
+    updated_at: '2025-12-04T18:39:36Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
