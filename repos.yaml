@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-04T18:03:15Z'
+    updated_at: '2025-12-04T21:24:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 421
+    stars: 422
     contributors: 11
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2025-11-15T07:26:44Z'
+    updated_at: '2025-12-04T21:52:37Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
