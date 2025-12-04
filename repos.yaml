@@ -31,7 +31,7 @@ repositories:
     contributors: 158
     last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-04T07:19:44Z'
+    updated_at: '2025-12-04T11:09:58Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4834
+    stars: 4835
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-04T07:15:26Z'
+    updated_at: '2025-12-04T11:13:19Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 231
+    stars: 232
     contributors: 3
     last_activity: v7.0.1 (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-03T08:06:53Z'
+    updated_at: '2025-12-04T11:17:37Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4834
+    stars: 4835
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-04T07:15:26Z'
+    updated_at: '2025-12-04T11:13:19Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
