@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 376
+    stars: 377
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-12-02T10:07:33Z'
+    updated_at: '2025-12-04T04:17:18Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 894
+    stars: 895
     contributors: 28
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-03T13:37:28Z'
+    updated_at: '2025-12-04T03:33:29Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 235
+    stars: 237
     contributors: 8
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-03T15:40:47Z'
+    updated_at: '2025-12-04T03:58:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 237
+    stars: 238
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-27T15:55:39Z'
+    updated_at: '2025-12-04T04:17:19Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1303,11 +1303,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 142
+    stars: 143
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-11-18T06:53:45Z'
+    updated_at: '2025-12-04T04:17:19Z'
     language: TypeScript
 - name: Solana-Token-Presale-Smart-Contract
   repo: cutupdev/Solana-Token-Presale-Smart-Contract
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 144
   stats:
-    stars: 142
+    stars: 143
     contributors: 1
     last_activity: Last commit (Jun 27, 2025)
     archived: false
-    updated_at: '2025-11-18T06:53:45Z'
+    updated_at: '2025-12-04T04:17:19Z'
     language: TypeScript
 - name: poseidon
   repo: Turbin3/poseidon
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 135
+    stars: 136
     contributors: 10
     last_activity: Last commit (Nov 19, 2025)
     archived: false
-    updated_at: '2025-12-03T10:27:55Z'
+    updated_at: '2025-12-04T03:45:12Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
