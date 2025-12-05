@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1547
+    stars: 1548
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-05T11:06:32Z'
+    updated_at: '2025-12-05T11:41:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 169
+    stars: 170
     contributors: 158
     last_activity: rent@v3.1.0 (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-05T00:04:39Z'
+    updated_at: '2025-12-05T11:42:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 237
     contributors: 8
-    last_activity: Last commit (Dec 03, 2025)
+    last_activity: Last commit (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-04T03:58:07Z'
+    updated_at: '2025-12-05T11:45:29Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
