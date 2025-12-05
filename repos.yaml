@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2661
+    stars: 2662
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-05T01:45:51Z'
+    updated_at: '2025-12-05T09:14:32Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -613,11 +613,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 115
+    stars: 116
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2025-11-14T20:48:23Z'
+    updated_at: '2025-12-05T09:15:10Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
