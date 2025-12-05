@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14681
+    stars: 14682
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-04T23:31:06Z'
+    updated_at: '2025-12-05T12:54:10Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -626,11 +626,11 @@ repositories:
   category: NFTs & Programs
   stars: 96
   stats:
-    stars: 96
+    stars: 97
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2025-10-24T03:48:34Z'
+    updated_at: '2025-12-05T12:54:26Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 895
     contributors: 28
-    last_activity: Last commit (Dec 04, 2025)
+    last_activity: Last commit (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-04T13:36:26Z'
+    updated_at: '2025-12-05T13:36:07Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 129
+    stars: 130
     contributors: 1
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-12-04T13:29:04Z'
+    updated_at: '2025-12-05T12:56:33Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
