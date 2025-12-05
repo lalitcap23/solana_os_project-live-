@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 94
+    stars: 93
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2025-11-07T05:06:39Z'
+    updated_at: '2025-12-05T07:47:39Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1817,11 +1817,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 402
+    stars: 387
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-11-29T19:08:39Z'
+    updated_at: '2025-12-05T07:51:15Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
