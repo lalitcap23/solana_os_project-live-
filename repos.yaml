@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14682
+    stars: 14681
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-04T22:42:32Z'
+    updated_at: '2025-12-04T23:31:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1546
+    stars: 1547
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-04T21:24:39Z'
+    updated_at: '2025-12-05T00:02:16Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 168
+    stars: 169
     contributors: 158
-    last_activity: frozen-abi@v3.1.0 (Nov 27, 2025)
+    last_activity: rent@v3.1.0 (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-04T11:09:58Z'
+    updated_at: '2025-12-05T00:04:39Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2660
+    stars: 2661
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-04T07:13:54Z'
+    updated_at: '2025-12-05T01:45:51Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -1862,7 +1862,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-03T00:04:13Z'
+    updated_at: '2025-12-05T00:31:27Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
