@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 247
+    stars: 248
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-12-04T16:18:12Z'
+    updated_at: '2025-12-05T03:27:38Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -1862,7 +1862,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-05T00:31:27Z'
+    updated_at: '2025-12-05T04:15:19Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
