@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4136
+    stars: 4137
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-05T19:17:48Z'
+    updated_at: '2025-12-06T05:04:04Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 274
+    stars: 275
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-12-01T07:14:20Z'
+    updated_at: '2025-12-06T04:41:05Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
