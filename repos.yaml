@@ -31,7 +31,7 @@ repositories:
     contributors: 159
     last_activity: rent@v3.1.0 (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-06T07:02:03Z'
+    updated_at: '2025-12-06T12:56:27Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 409
+    stars: 410
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-06T12:33:43Z'
+    updated_at: '2025-12-06T12:58:37Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 153
+    stars: 154
     contributors: 3
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-11-30T04:30:58Z'
+    updated_at: '2025-12-06T13:00:00Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
