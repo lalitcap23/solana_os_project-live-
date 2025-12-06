@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 622
+    stars: 623
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-04T18:30:10Z'
+    updated_at: '2025-12-06T09:38:30Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1331
+    stars: 1332
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-04T07:16:48Z'
+    updated_at: '2025-12-06T09:46:25Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
