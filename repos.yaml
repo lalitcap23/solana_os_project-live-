@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4836
+    stars: 4837
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-06T08:29:28Z'
+    updated_at: '2025-12-06T13:41:43Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4836
+    stars: 4837
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-06T08:29:28Z'
+    updated_at: '2025-12-06T13:41:43Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 623
+    stars: 624
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-06T09:38:30Z'
+    updated_at: '2025-12-06T13:46:40Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 897
     contributors: 28
-    last_activity: Last commit (Dec 05, 2025)
+    last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-06T06:55:29Z'
+    updated_at: '2025-12-06T13:34:33Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
