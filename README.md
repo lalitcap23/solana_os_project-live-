@@ -37,8 +37,8 @@ Last updated: 2025-12-06
 |---|---|---|---|---|---|---|
 | Project | Description | Repo | Stars | Contributors | Last Activity | Category |
 |---|---|---|---|---|---|---|
-| Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.7k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
-| Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.6k | 363 | v3.0.12 (Nov 29, 2025) | Infrastructure |
+| Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.7k | 353 | Archived; Active | Infrastructure |
+| Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | — | — | Active | Infrastructure |
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 169 | 159 | rent@v3.1.0 (Dec 05, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.8k | 310 | v0.32.1 (Oct 10, 2025) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.7k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
