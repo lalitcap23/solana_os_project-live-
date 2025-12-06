@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2025-12-05
+Last updated: 2025-12-06
 
 ## Directory
 
@@ -39,7 +39,7 @@ Last updated: 2025-12-05
 |---|---|---|---|---|---|---|
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.7k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.5k | 363 | v3.0.12 (Nov 29, 2025) | Infrastructure |
-| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 169 | 159 | rent@v3.1.0 (Dec 05, 2025) | SDKs & Tooling |
+| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 168 | 159 | rent@v3.1.0 (Dec 05, 2025) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 4.8k | 310 | v0.32.1 (Oct 10, 2025) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.7k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 422 | 11 | v0.27.1 (Nov 15, 2025) | SDKs & Tooling |
@@ -147,7 +147,7 @@ Last updated: 2025-12-05
 | dynamic-nft-metadata | Dynamic NFT Metadata - About a collection of libraries and smart contracts to facilitate dynamic NFT metadata and image generation on Solana with the Metaplex standard. This is used in a variety of ways in the ecosystem to create dynamic and on-chain NFTs | https://github.com/roswelly/dynamic-nft-metadata | 21 | 1 | Last commit (Jun 17, 2025) | NFTs & Programs |
 | candy-machine-ui | Easily customizable Solana Candy Machine V2 with WL support. | https://github.com/crusaderincode/candy-machine-ui | 17 | — | v1.1.1 (Aug 05, 2022) | NFTs & Programs |
 | solana-copytrading-bot | copytrading bot for the Solana blockchain. It monitors transactions like swaps, transfers, and NFTs across platforms like Raydium, PUMP.FUN, Photon, BonkBot, and more — with support for sniping, liquidity management, and token creation filters. | https://github.com/knightlightst/solana-copytrading-bot | 47 | 1 | Release (Apr 11, 2025) | NFTs & Programs |
-| solanaArtGuard-AI-nft-marketplace | AI-driven NFT validation system designed to verify the authenticity and originality of artworks minted on the Solana blockchain. | https://github.com/machenxi/solanaArtGuard-AI-nft-marketplace | 138 | 1 | Last commit (Aug 02, 2023) | NFTs & Programs |
+| solanaArtGuard-AI-nft-marketplace | AI-driven NFT validation system designed to verify the authenticity and originality of artworks minted on the Solana blockchain. | https://github.com/machenxi/solanaArtGuard-AI-nft-marketplace | 139 | 1 | Last commit (Aug 02, 2023) | NFTs & Programs |
 | Candy Machine (Core) | Metaplex Core Candy Machine (Core assets) | https://github.com/metaplex-foundation/mpl-core-candy-machine | 30 | 5 | js@v0.3.0 (Jan 27, 2025) | NFTs & Minting |
 | solana-payments-app | Solana Pay for Commerce Platforms | https://github.com/solana-labs/solana-payments-app | 98 | 5 | Archived; v2.0.0 (Aug 18, 2023) | Payments |
 | solana-payment-processor | Solana payment processor for e-commerce applications | https://github.com/solpayments/solana-payment-processor | 22 | 2 | Last commit (Jul 13, 2021) | Payments |
