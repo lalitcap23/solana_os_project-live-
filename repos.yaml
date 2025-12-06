@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 168
+    stars: 169
     contributors: 159
     last_activity: rent@v3.1.0 (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-05T23:40:09Z'
+    updated_at: '2025-12-06T07:02:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 184
+    stars: 185
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-12-02T04:33:51Z'
+    updated_at: '2025-12-06T07:13:00Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 286
+    stars: 287
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-12-04T06:59:38Z'
+    updated_at: '2025-12-06T07:13:00Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 896
+    stars: 897
     contributors: 28
     last_activity: Last commit (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-05T20:58:56Z'
+    updated_at: '2025-12-06T06:55:29Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 184
+    stars: 185
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-12-02T04:33:51Z'
+    updated_at: '2025-12-06T07:13:00Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
