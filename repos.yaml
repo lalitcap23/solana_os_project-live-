@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14683
+    stars: 14682
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-07T10:47:17Z'
+    updated_at: '2025-12-07T14:55:36Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1550
+    stars: 1551
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-07T11:46:10Z'
+    updated_at: '2025-12-07T14:46:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 426
+    stars: 430
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-07T13:56:50Z'
+    updated_at: '2025-12-07T15:12:18Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -520,7 +520,7 @@ repositories:
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2025-12-04T09:08:20Z'
+    updated_at: '2025-12-07T14:39:18Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 151
+    stars: 152
     contributors: 3
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-12-05T13:51:14Z'
+    updated_at: '2025-12-07T14:42:13Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -1069,7 +1069,13 @@ repositories:
   description: Solana Pay powered payment gateway for WordPress and WooCommerce
   category: Payments
   stars: 9
-  stats: null
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: Last commit (Jul 12, 2025)
+    archived: false
+    updated_at: '2025-09-24T13:42:18Z'
+    language: PHP
 - name: Payment-gateway
   repo: alxn787/Payment-gateway
   description: Payment gateway for solana with advanced Private key management and
