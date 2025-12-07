@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 233
+    stars: 234
     contributors: 3
     last_activity: v7.0.1 (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-05T18:16:44Z'
+    updated_at: '2025-12-07T20:04:49Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 437
+    stars: 438
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-07T17:12:50Z'
+    updated_at: '2025-12-07T20:22:14Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
