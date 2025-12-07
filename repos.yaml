@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14682
+    stars: 14683
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-07T14:55:36Z'
+    updated_at: '2025-12-07T17:07:43Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2661
+    stars: 2662
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-05T09:50:50Z'
+    updated_at: '2025-12-07T16:35:34Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -354,11 +354,11 @@ repositories:
   category: DeFi
   stars: 182
   stats:
-    stars: 184
+    stars: 185
     contributors: 4
     last_activity: Last commit (Aug 21, 2025)
     archived: false
-    updated_at: '2025-10-24T13:39:51Z'
+    updated_at: '2025-12-07T16:35:31Z'
     language: TypeScript
 - name: solita
   repo: metaplex-foundation/solita
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 435
+    stars: 437
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-07T16:14:10Z'
+    updated_at: '2025-12-07T17:12:50Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -793,11 +793,11 @@ repositories:
   category: NFTs & Programs
   stars: 206
   stats:
-    stars: 209
+    stars: 210
     contributors: 4
     last_activity: Last commit (Dec 03, 2024)
     archived: false
-    updated_at: '2025-12-04T07:16:32Z'
+    updated_at: '2025-12-07T16:35:43Z'
     language: TypeScript
 - name: spl-token-ui
   repo: paul-schaaf/spl-token-ui
@@ -971,11 +971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 152
+    stars: 153
     contributors: 3
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-12-07T14:42:13Z'
+    updated_at: '2025-12-07T17:13:33Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
