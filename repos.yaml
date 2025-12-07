@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4161
+    stars: 4160
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-04T07:16:00Z'
+    updated_at: '2025-12-07T00:47:41Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 410
+    stars: 411
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-06T12:58:37Z'
+    updated_at: '2025-12-07T00:14:43Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
