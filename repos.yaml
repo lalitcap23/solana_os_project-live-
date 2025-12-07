@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1551
+    stars: 1552
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-07T14:46:41Z'
+    updated_at: '2025-12-07T19:03:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 239
+    stars: 240
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-12-02T03:38:21Z'
+    updated_at: '2025-12-07T18:35:50Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -989,7 +989,7 @@ repositories:
     contributors: 8
     last_activity: Last commit (Dec 07, 2025)
     archived: false
-    updated_at: '2025-12-07T18:12:58Z'
+    updated_at: '2025-12-07T19:12:03Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
