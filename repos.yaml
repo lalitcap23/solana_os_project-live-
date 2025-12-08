@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 206
+    stars: 207
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-12-08T07:45:59Z'
+    updated_at: '2025-12-08T18:16:48Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 897
+    stars: 898
     contributors: 28
     last_activity: Last commit (Dec 08, 2025)
     archived: false
-    updated_at: '2025-12-08T13:31:07Z'
+    updated_at: '2025-12-08T18:34:21Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1165,7 +1165,7 @@ repositories:
     contributors: 12
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-12-01T21:25:29Z'
+    updated_at: '2025-12-08T18:39:06Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
