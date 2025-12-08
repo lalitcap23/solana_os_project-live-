@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 440
+    stars: 441
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-08T02:17:41Z'
+    updated_at: '2025-12-08T04:23:43Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 155
+    stars: 156
     contributors: 3
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-12-07T14:11:58Z'
+    updated_at: '2025-12-08T03:57:19Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
