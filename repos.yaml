@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-08T14:00:29Z'
+    updated_at: '2025-12-08T15:48:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 452
+    stars: 453
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-08T14:49:47Z'
+    updated_at: '2025-12-08T15:50:48Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1858,11 +1858,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 139
+    stars: 138
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-05T23:50:51Z'
+    updated_at: '2025-12-08T16:37:16Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
