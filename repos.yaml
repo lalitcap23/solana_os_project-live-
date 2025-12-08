@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 626
+    stars: 627
     contributors: 152
     last_activity: v5.0.0 (Oct 23, 2025)
     archived: false
-    updated_at: '2025-12-07T06:09:18Z'
+    updated_at: '2025-12-08T08:05:53Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 442
+    stars: 444
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-08T07:09:08Z'
+    updated_at: '2025-12-08T08:34:36Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 205
+    stars: 206
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-12-07T15:28:05Z'
+    updated_at: '2025-12-08T07:45:59Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
