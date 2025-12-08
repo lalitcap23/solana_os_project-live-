@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14684
+    stars: 14683
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-08T05:55:54Z'
+    updated_at: '2025-12-08T10:33:12Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2662
+    stars: 2661
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-07T16:35:34Z'
+    updated_at: '2025-12-08T10:33:12Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4136
+    stars: 4135
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-07T10:47:16Z'
+    updated_at: '2025-12-08T10:33:15Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-12-01T18:02:10Z'
+    updated_at: '2025-12-08T10:32:26Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 552
     contributors: 2
-    last_activity: Last commit (Dec 03, 2025)
+    last_activity: Last commit (Dec 08, 2025)
     archived: false
-    updated_at: '2025-12-03T19:34:00Z'
+    updated_at: '2025-12-08T10:40:33Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 569
     contributors: 2
-    last_activity: Last commit (Dec 03, 2025)
+    last_activity: Last commit (Dec 08, 2025)
     archived: false
-    updated_at: '2025-12-04T18:09:54Z'
+    updated_at: '2025-12-08T10:40:57Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
