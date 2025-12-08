@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 171
+    stars: 172
     contributors: 159
     last_activity: rent@v3.1.0 (Dec 05, 2025)
     archived: false
-    updated_at: '2025-12-08T14:01:25Z'
+    updated_at: '2025-12-08T17:03:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 453
+    stars: 454
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-08T15:50:48Z'
+    updated_at: '2025-12-08T16:35:02Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 73
+    stars: 72
     contributors: 12
     last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-03T21:29:11Z'
+    updated_at: '2025-12-08T16:37:47Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
