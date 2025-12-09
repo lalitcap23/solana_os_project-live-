@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 288
+    stars: 289
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-12-08T12:02:31Z'
+    updated_at: '2025-12-09T18:53:17Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 378
+    stars: 379
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-12-08T11:58:02Z'
+    updated_at: '2025-12-09T18:57:08Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 71
+    stars: 72
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2025-11-06T19:32:15Z'
+    updated_at: '2025-12-09T18:59:45Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
