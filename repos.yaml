@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 241
+    stars: 242
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2025-12-07T21:09:04Z'
+    updated_at: '2025-12-09T19:31:04Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 572
+    stars: 577
     contributors: 1
     last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-12-08T11:39:24Z'
+    updated_at: '2025-12-09T19:48:41Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 559
+    stars: 564
     contributors: 1
     last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-12-08T11:57:23Z'
+    updated_at: '2025-12-09T19:49:19Z'
     language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -1764,11 +1764,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 559
+    stars: 564
     contributors: 1
     last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-12-08T11:57:23Z'
+    updated_at: '2025-12-09T19:49:19Z'
     language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
