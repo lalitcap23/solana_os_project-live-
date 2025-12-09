@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4161
+    stars: 4160
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-08T13:58:45Z'
+    updated_at: '2025-12-09T13:48:23Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 277
+    stars: 274
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-11-19T16:49:59Z'
+    updated_at: '2025-12-09T13:46:58Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3369
+    stars: 3368
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-12-09T05:22:20Z'
+    updated_at: '2025-12-09T13:45:48Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -540,11 +540,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 721
+    stars: 720
     contributors: 25
     last_activity: v0.44.1 (Aug 25, 2025)
     archived: false
-    updated_at: '2025-11-18T09:45:16Z'
+    updated_at: '2025-12-09T13:48:16Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -564,11 +564,11 @@ repositories:
   category: NFTs & Programs
   stars: 270
   stats:
-    stars: 270
+    stars: 269
     contributors: 11
     last_activity: Last commit (Apr 25, 2022)
     archived: false
-    updated_at: '2025-10-15T09:15:04Z'
+    updated_at: '2025-12-09T13:48:03Z'
     language: TypeScript
 - name: shank
   repo: metaplex-foundation/shank
@@ -601,11 +601,11 @@ repositories:
   category: NFTs & Programs
   stars: 121
   stats:
-    stars: 120
+    stars: 119
     contributors: 7
     last_activity: Last commit (Jan 13, 2025)
     archived: false
-    updated_at: '2025-12-08T11:50:46Z'
+    updated_at: '2025-12-09T13:48:30Z'
     language: TypeScript
 - name: digital-asset-rpc-infrastructure
   repo: metaplex-foundation/digital-asset-rpc-infrastructure
