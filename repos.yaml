@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-09T12:23:03Z'
+    updated_at: '2025-12-09T20:55:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1337
+    stars: 1336
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-09T09:27:28Z'
+    updated_at: '2025-12-09T20:48:49Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 74
+    stars: 73
     contributors: 12
     last_activity: v0.27.0 (Nov 07, 2025)
     archived: false
-    updated_at: '2025-12-09T18:11:49Z'
+    updated_at: '2025-12-09T20:45:45Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1791,8 +1791,8 @@ repositories:
   stars: 194
   stats:
     stars: 202
-    contributors: 1
-    last_activity: Last commit (Dec 09, 2025)
+    contributors: 0
+    last_activity: No releases
     archived: false
     updated_at: '2025-12-09T15:59:46Z'
     language: TypeScript
@@ -1844,13 +1844,7 @@ repositories:
     the trading process of Solana specific ecosystem tokens.
   category: SDKs & Tooling
   stars: 194
-  stats:
-    stars: 202
-    contributors: 1
-    last_activity: Last commit (Dec 09, 2025)
-    archived: false
-    updated_at: '2025-12-09T15:59:46Z'
-    language: TypeScript
+  stats: null
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
   description: AI-driven NFT validation system designed to verify the authenticity
@@ -1872,13 +1866,7 @@ repositories:
     token integration.
   category: SDKs & Tooling
   stars: 219
-  stats:
-    stars: 215
-    contributors: 1
-    last_activity: Last commit (May 15, 2025)
-    archived: false
-    updated_at: '2025-12-08T11:39:23Z'
-    language: TypeScript
+  stats: null
 - name: solana-x402-payment
   repo: michalstefanow/solana-x402-payment
   description: A modern, refactored Solana trading bot for Pumpswap that features
@@ -1901,13 +1889,7 @@ repositories:
     instant token distribution.
   category: SDKs & Tooling
   stars: 95
-  stats:
-    stars: 93
-    contributors: 1
-    last_activity: Last commit (Jul 30, 2024)
-    archived: false
-    updated_at: '2025-12-08T11:39:22Z'
-    language: TypeScript
+  stats: null
 - name: x402-Triton-Gateway
   repo: praptisharma28/x402-Triton-Gateway
   description: A production-ready micropayment gateway that implements HTTP 402 (Payment
