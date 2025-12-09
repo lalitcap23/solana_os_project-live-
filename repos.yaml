@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14684
+    stars: 14685
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-09T11:14:43Z'
+    updated_at: '2025-12-09T16:31:04Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 72
+    stars: 73
     contributors: 12
     last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-08T16:37:47Z'
+    updated_at: '2025-12-09T16:27:35Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
@@ -1794,7 +1794,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-09T06:27:31Z'
+    updated_at: '2025-12-09T15:59:46Z'
     language: TypeScript
 - name: pumpfun-amm-bundler-volumn-maker-bot
   repo: Luukogood/pumpfun-amm-bundler-volumn-maker-bot
@@ -1849,7 +1849,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-09T06:27:31Z'
+    updated_at: '2025-12-09T15:59:46Z'
     language: TypeScript
 - name: solanaArtGuard-AI-nft-marketplace
   repo: machenxi/solanaArtGuard-AI-nft-marketplace
