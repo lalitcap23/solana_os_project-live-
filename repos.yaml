@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-09T02:10:23Z'
+    updated_at: '2025-12-09T09:57:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 235
+    stars: 234
     contributors: 3
     last_activity: v7.0.2 (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-08T09:47:24Z'
+    updated_at: '2025-12-09T10:03:03Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -1083,11 +1083,11 @@ repositories:
   category: DeFi
   stars: 9
   stats:
-    stars: 11
+    stars: 12
     contributors: 1
     last_activity: Last commit (Jul 12, 2025)
     archived: false
-    updated_at: '2025-11-06T05:32:57Z'
+    updated_at: '2025-12-09T10:08:03Z'
     language: TypeScript
 - name: solana-sign-with-payment
   repo: kizzx2/solana-sign-with-payment
