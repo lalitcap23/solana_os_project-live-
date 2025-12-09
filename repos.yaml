@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 898
     contributors: 28
-    last_activity: Last commit (Dec 08, 2025)
+    last_activity: Last commit (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-08T18:34:21Z'
+    updated_at: '2025-12-09T13:30:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
