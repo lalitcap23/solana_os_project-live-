@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-12-08T10:32:26Z'
+    updated_at: '2025-12-09T05:04:21Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3368
+    stars: 3369
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2025-11-15T22:22:00Z'
+    updated_at: '2025-12-09T05:22:20Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
