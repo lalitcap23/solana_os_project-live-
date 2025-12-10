@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 172
     contributors: 159
-    last_activity: rent@v3.1.0 (Dec 05, 2025)
+    last_activity: vote-interface@v5.0.0 (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-08T17:03:03Z'
+    updated_at: '2025-12-09T23:29:33Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4134
+    stars: 4135
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-09T21:24:13Z'
+    updated_at: '2025-12-10T01:22:35Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 577
+    stars: 578
     contributors: 1
     last_activity: Last commit (Nov 21, 2025)
     archived: false
-    updated_at: '2025-12-09T19:48:41Z'
+    updated_at: '2025-12-10T01:12:09Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 898
+    stars: 899
     contributors: 28
     last_activity: Last commit (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-09T13:30:16Z'
+    updated_at: '2025-12-09T23:33:09Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
