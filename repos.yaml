@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1557
+    stars: 1558
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-10T03:17:12Z'
+    updated_at: '2025-12-10T06:05:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -395,9 +395,9 @@ repositories:
   stats:
     stars: 578
     contributors: 1
-    last_activity: Last commit (Nov 21, 2025)
+    last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-10T01:12:09Z'
+    updated_at: '2025-12-10T06:02:24Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
