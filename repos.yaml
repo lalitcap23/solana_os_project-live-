@@ -779,11 +779,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 290
+    stars: 291
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2025-11-06T06:47:26Z'
+    updated_at: '2025-12-10T07:38:46Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
