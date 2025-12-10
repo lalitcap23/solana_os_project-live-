@@ -262,10 +262,10 @@ repositories:
   stars: 67
   stats:
     stars: 73
-    contributors: 6
-    last_activity: Last commit (May 24, 2025)
+    contributors: 7
+    last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-11-27T16:22:07Z'
+    updated_at: '2025-12-10T20:24:47Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1335
+    stars: 1336
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-09T21:24:14Z'
+    updated_at: '2025-12-10T20:28:04Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
