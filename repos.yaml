@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 172
     contributors: 159
-    last_activity: vote-interface@v5.0.0 (Dec 09, 2025)
+    last_activity: bls-signatures@v2.0.0-alpha.1 (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-09T23:29:33Z'
+    updated_at: '2025-12-10T15:36:54Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
