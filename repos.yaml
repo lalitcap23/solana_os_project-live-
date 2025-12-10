@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 461
+    stars: 462
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-10T02:21:50Z'
+    updated_at: '2025-12-10T13:14:28Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 899
     contributors: 28
-    last_activity: Last commit (Dec 09, 2025)
+    last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-09T23:33:09Z'
+    updated_at: '2025-12-10T13:29:24Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 276
+    stars: 277
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-12-10T07:17:40Z'
+    updated_at: '2025-12-10T12:59:33Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
