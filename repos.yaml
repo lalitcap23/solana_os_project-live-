@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-10T09:52:28Z'
+    updated_at: '2025-12-10T11:14:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -656,7 +656,7 @@ repositories:
     contributors: 24
     last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-10T10:23:49Z'
+    updated_at: '2025-12-10T10:37:01Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
