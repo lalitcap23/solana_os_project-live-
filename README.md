@@ -163,6 +163,7 @@ Last updated: 2025-12-10
 | StablePay | Enterprise-grade stablecoin payment processor built on Solana that leverages Perena's stablecoin infrastructure. | https://github.com/FarseenSh/StablePay | 9 | 2 | Last commit (May 27, 2025) | Payments |
 | Solana-Pay-enables-crypto-payments | Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency payments worldwide | https://github.com/VomicInevallar3422/Solana-Pay-enables-crypto-payments | 8 | — | No releases | Payments |
 | x402-Triton-Gateway | A production-ready micropayment gateway that implements HTTP 402 (Payment Required) to monetize access to historical Solana blockchain data via Old Faithful. Users pay micro-amounts in USDC to query historical transactions and blocks. | https://github.com/praptisharma28/x402-Triton-Gateway | 15 | 2 | Last commit (Dec 03, 2025) | Payments |
+| NEW solana-x402-payment | x402 payment on solana | https://github.com/Now-Or-Neverr/solana-x402-payment | 28 | 1 | Last commit (Oct 30, 2025) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 234 | 3 | v7.0.2 (Dec 09, 2025) | DeFi |
 | carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 512 | 35 | v0.12.0 (Nov 27, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 185 | 4 | Last commit (Aug 21, 2025) | DeFi |

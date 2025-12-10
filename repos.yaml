@@ -43,7 +43,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-10T07:18:19Z'
+    updated_at: '2025-12-10T17:24:27Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-10T07:18:19Z'
+    updated_at: '2025-12-10T17:24:27Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -1898,6 +1898,18 @@ repositories:
     archived: false
     updated_at: '2025-12-03T20:34:51Z'
     language: TypeScript
+- name: solana-x402-payment
+  repo: Now-Or-Neverr/solana-x402-payment
+  description: x402 payment on solana
+  category: Payments
+  stars: 28
+  stats:
+    stars: 28
+    contributors: 1
+    last_activity: Last commit (Oct 30, 2025)
+    archived: false
+    updated_at: '2025-11-13T09:53:07Z'
+    language: HTML
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
