@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 400
+    stars: 401
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-12-09T05:39:41Z'
+    updated_at: '2025-12-10T18:11:01Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1149,11 +1149,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 400
+    stars: 401
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2025-12-09T05:39:41Z'
+    updated_at: '2025-12-10T18:11:01Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
