@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14685
+    stars: 14686
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-09T16:31:04Z'
+    updated_at: '2025-12-10T02:56:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-09T21:52:17Z'
+    updated_at: '2025-12-10T03:17:12Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -466,11 +466,11 @@ repositories:
   category: NFTs & Programs
   stars: 295
   stats:
-    stars: 297
+    stars: 298
     contributors: 4
     last_activity: Last commit (May 17, 2023)
     archived: false
-    updated_at: '2025-10-14T02:19:50Z'
+    updated_at: '2025-12-10T02:51:46Z'
     language: TypeScript
 - name: awesome-solana-security
   repo: 0xMacro/awesome-solana-security
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 460
+    stars: 461
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-09T12:07:12Z'
+    updated_at: '2025-12-10T02:21:50Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 304
+    stars: 303
     contributors: 24
     last_activity: Last commit (Oct 29, 2025)
     archived: false
-    updated_at: '2025-11-28T07:08:31Z'
+    updated_at: '2025-12-10T02:24:48Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
