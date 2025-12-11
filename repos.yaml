@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14685
+    stars: 14684
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-11T17:50:12Z'
+    updated_at: '2025-12-11T21:20:14Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 462
+    stars: 463
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-11T14:23:37Z'
+    updated_at: '2025-12-11T20:40:03Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
