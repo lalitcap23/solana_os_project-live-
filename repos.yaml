@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14685
+    stars: 14686
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-11T01:27:18Z'
+    updated_at: '2025-12-11T05:30:29Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1558
+    stars: 1559
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-11T02:13:01Z'
+    updated_at: '2025-12-11T05:53:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 578
+    stars: 580
     contributors: 1
     last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-10T06:02:24Z'
+    updated_at: '2025-12-11T06:12:26Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -407,11 +407,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 564
+    stars: 566
     contributors: 1
     last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-12-09T19:49:19Z'
+    updated_at: '2025-12-11T06:12:49Z'
     language: Rust
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -986,10 +986,10 @@ repositories:
   stars: 125
   stats:
     stars: 240
-    contributors: 8
-    last_activity: Last commit (Dec 07, 2025)
+    contributors: 9
+    last_activity: Last commit (Dec 11, 2025)
     archived: false
-    updated_at: '2025-12-11T02:06:35Z'
+    updated_at: '2025-12-11T05:48:28Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1764,11 +1764,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 564
+    stars: 566
     contributors: 1
     last_activity: Last commit (Nov 24, 2025)
     archived: false
-    updated_at: '2025-12-09T19:49:19Z'
+    updated_at: '2025-12-11T06:12:49Z'
     language: Rust
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
