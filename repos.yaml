@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14686
+    stars: 14684
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-11T05:30:29Z'
+    updated_at: '2025-12-11T16:31:12Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 513
+    stars: 514
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-11T15:13:19Z'
+    updated_at: '2025-12-11T16:23:58Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -654,9 +654,9 @@ repositories:
   stats:
     stars: 303
     contributors: 24
-    last_activity: Last commit (Dec 10, 2025)
+    last_activity: Last commit (Dec 11, 2025)
     archived: false
-    updated_at: '2025-12-10T20:42:07Z'
+    updated_at: '2025-12-11T16:20:58Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
