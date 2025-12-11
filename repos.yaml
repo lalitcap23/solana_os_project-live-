@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 461
+    stars: 462
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-10T18:47:39Z'
+    updated_at: '2025-12-11T14:23:37Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 207
+    stars: 208
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-12-08T18:16:48Z'
+    updated_at: '2025-12-11T13:58:53Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
