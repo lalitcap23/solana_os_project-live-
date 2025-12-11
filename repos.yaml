@@ -1811,11 +1811,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 388
+    stars: 389
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-12-06T16:26:57Z'
+    updated_at: '2025-12-11T09:31:54Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
