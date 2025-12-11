@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14686
+    stars: 14685
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-10T18:55:37Z'
+    updated_at: '2025-12-11T01:27:18Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1965
+    stars: 1964
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-10T06:53:29Z'
+    updated_at: '2025-12-10T23:37:49Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4136
+    stars: 4135
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-10T14:49:39Z'
+    updated_at: '2025-12-10T23:37:44Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -1206,7 +1206,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-12-08T12:00:40Z'
+    updated_at: '2025-12-11T00:40:08Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
