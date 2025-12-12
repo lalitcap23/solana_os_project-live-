@@ -165,7 +165,7 @@ Last updated: 2025-12-12
 | x402-Triton-Gateway | A production-ready micropayment gateway that implements HTTP 402 (Payment Required) to monetize access to historical Solana blockchain data via Old Faithful. Users pay micro-amounts in USDC to query historical transactions and blocks. | https://github.com/praptisharma28/x402-Triton-Gateway | 15 | 2 | Last commit (Dec 03, 2025) | Payments |
 | solana-x402-payment | x402 payment on solana | https://github.com/Now-Or-Neverr/solana-x402-payment | 28 | 1 | Last commit (Oct 30, 2025) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 233 | 3 | v7.0.2 (Dec 09, 2025) | DeFi |
-| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 522 | 35 | v0.12.0 (Nov 27, 2025) | DeFi |
+| carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 523 | 35 | v0.12.0 (Nov 27, 2025) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 185 | 4 | Last commit (Aug 21, 2025) | DeFi |
 | Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | — | — | Active | DeFi |
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 197 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
