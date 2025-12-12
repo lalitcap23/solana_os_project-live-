@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14684
+    stars: 14683
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-11T21:20:14Z'
+    updated_at: '2025-12-12T00:05:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1563
+    stars: 1564
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-11T19:06:32Z'
+    updated_at: '2025-12-12T01:59:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 230
+    stars: 231
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-12-05T02:30:11Z'
+    updated_at: '2025-12-12T00:55:52Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 234
+    stars: 233
     contributors: 3
     last_activity: v7.0.2 (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-09T10:03:03Z'
+    updated_at: '2025-12-12T00:05:31Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -228,7 +228,7 @@ repositories:
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2025-12-08T14:01:02Z'
+    updated_at: '2025-12-12T01:54:52Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
