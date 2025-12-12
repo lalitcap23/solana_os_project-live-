@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1964
+    stars: 1965
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-10T23:37:49Z'
+    updated_at: '2025-12-12T14:10:25Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 765
+    stars: 766
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-12-04T04:40:39Z'
+    updated_at: '2025-12-12T14:08:57Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 88
+    stars: 89
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-12-09T05:04:21Z'
+    updated_at: '2025-12-12T14:16:51Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 156
+    stars: 157
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-12-08T15:02:09Z'
+    updated_at: '2025-12-12T13:44:28Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
