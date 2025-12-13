@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 900
     contributors: 28
-    last_activity: Last commit (Dec 12, 2025)
+    last_activity: Last commit (Dec 13, 2025)
     archived: false
-    updated_at: '2025-12-12T13:27:17Z'
+    updated_at: '2025-12-13T13:25:39Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 277
+    stars: 278
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-12-10T12:59:33Z'
+    updated_at: '2025-12-13T13:00:45Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
