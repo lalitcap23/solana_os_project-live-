@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 523
+    stars: 524
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-12T18:15:07Z'
+    updated_at: '2025-12-13T10:21:54Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 627
+    stars: 628
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-12T18:55:30Z'
+    updated_at: '2025-12-13T09:39:30Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
