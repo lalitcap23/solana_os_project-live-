@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4849
+    stars: 4848
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-12T14:25:51Z'
+    updated_at: '2025-12-13T14:49:19Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4849
+    stars: 4848
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-12T14:25:51Z'
+    updated_at: '2025-12-13T14:49:19Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4160
+    stars: 4161
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-09T13:48:23Z'
+    updated_at: '2025-12-13T14:42:57Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1337
+    stars: 1338
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-11T17:50:14Z'
+    updated_at: '2025-12-13T14:27:52Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -483,7 +483,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-11T20:40:03Z'
+    updated_at: '2025-12-13T14:49:19Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 569
+    stars: 570
     contributors: 2
     last_activity: Last commit (Dec 08, 2025)
     archived: false
-    updated_at: '2025-12-08T10:40:57Z'
+    updated_at: '2025-12-13T14:50:49Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
