@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14685
+    stars: 14686
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-14T10:00:49Z'
+    updated_at: '2025-12-14T15:25:56Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -742,10 +742,10 @@ repositories:
   stars: 556
   stats:
     stars: 553
-    contributors: 2
-    last_activity: Last commit (Dec 08, 2025)
+    contributors: 1
+    last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-12T22:21:18Z'
+    updated_at: '2025-12-14T15:48:24Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -755,10 +755,10 @@ repositories:
   stars: 533
   stats:
     stars: 570
-    contributors: 2
-    last_activity: Last commit (Dec 08, 2025)
+    contributors: 1
+    last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-13T14:50:49Z'
+    updated_at: '2025-12-14T15:40:47Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -831,11 +831,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 165
+    stars: 166
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2025-11-29T05:58:38Z'
+    updated_at: '2025-12-14T15:34:29Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
