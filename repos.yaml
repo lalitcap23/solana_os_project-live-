@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 526
+    stars: 527
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-14T01:34:28Z'
+    updated_at: '2025-12-14T11:08:43Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -1524,7 +1524,7 @@ repositories:
     contributors: 11
     last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-14T08:32:56Z'
+    updated_at: '2025-12-14T11:16:15Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
