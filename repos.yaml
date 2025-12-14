@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4851
+    stars: 4852
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-14T10:07:38Z'
+    updated_at: '2025-12-14T11:21:14Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -84,13 +84,7 @@ repositories:
   repo: solana-program/libraries
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
-  stats:
-    stars: 13
-    contributors: 21
-    last_activity: tlv-account-resolution@v0.11.1 (Oct 08, 2025)
-    archived: false
-    updated_at: '2025-10-29T09:06:51Z'
-    language: Rust
+  stats: null
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
   description: Core NFT/fungible token metadata program & SDKs
@@ -142,7 +136,7 @@ repositories:
   stats:
     stars: 309
     contributors: 19
-    last_activity: v2.1.0 (Aug 18, 2025)
+    last_activity: Active
     archived: false
     updated_at: '2025-12-14T05:37:32Z'
     language: Java
@@ -152,7 +146,7 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 89
-    contributors: 7
+    contributors: 0
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
     updated_at: '2025-12-12T14:16:51Z'
@@ -174,11 +168,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4851
+    stars: 4852
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-14T10:07:38Z'
+    updated_at: '2025-12-14T11:21:14Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -213,7 +207,7 @@ repositories:
   stars: 233
   stats:
     stars: 242
-    contributors: 13
+    contributors: 0
     last_activity: Last commit (Oct 07, 2025)
     archived: false
     updated_at: '2025-12-09T19:31:04Z'
@@ -479,11 +473,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 463
+    stars: 464
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-13T14:49:19Z'
+    updated_at: '2025-12-14T11:21:15Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
