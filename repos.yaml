@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-13T08:46:29Z'
+    updated_at: '2025-12-15T13:33:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 570
+    stars: 571
     contributors: 1
     last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-14T15:40:47Z'
+    updated_at: '2025-12-15T13:42:11Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 900
     contributors: 28
-    last_activity: Last commit (Dec 14, 2025)
+    last_activity: Last commit (Dec 15, 2025)
     archived: false
-    updated_at: '2025-12-14T13:27:43Z'
+    updated_at: '2025-12-15T13:30:15Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
