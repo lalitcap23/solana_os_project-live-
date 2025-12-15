@@ -884,7 +884,7 @@ repositories:
   stars: 75
   stats:
     stars: 76
-    contributors: 0
+    contributors: 1
     last_activity: Last commit (Feb 12, 2022)
     archived: false
     updated_at: '2025-10-23T23:11:05Z'
@@ -946,7 +946,7 @@ repositories:
   stats:
     stars: 195
     contributors: 3
-    last_activity: No releases
+    last_activity: Last commit (Aug 29, 2024)
     archived: false
     updated_at: '2025-10-16T00:27:53Z'
     language: Rust
@@ -999,7 +999,7 @@ repositories:
   stats:
     stars: 116
     contributors: 4
-    last_activity: No releases
+    last_activity: Last commit (Nov 15, 2025)
     archived: false
     updated_at: '2025-12-04T16:59:38Z'
     language: Python
@@ -1034,7 +1034,7 @@ repositories:
   stars: 17
   stats:
     stars: 17
-    contributors: 0
+    contributors: 1
     last_activity: Last commit (Nov 24, 2024)
     archived: false
     updated_at: '2025-08-06T02:55:17Z'
@@ -1121,7 +1121,13 @@ repositories:
     USCD or any other SPL-Token on the Solana Blockchain.
   category: Payments
   stars: 6
-  stats: null
+  stats:
+    stars: 7
+    contributors: 1
+    last_activity: Last commit (Oct 25, 2022)
+    archived: false
+    updated_at: '2025-11-03T19:02:33Z'
+    language: JavaScript
 - name: pumpfun-smartcontract-solana
   repo: printz-labs/pumpfun-smartcontract-solana
   description: Pumpfun smart contract (Solana Pumpfun Smart Contract fork, Pumpfun
@@ -1145,7 +1151,7 @@ repositories:
   stats:
     stars: 401
     contributors: 26
-    last_activity: No releases
+    last_activity: Last commit (Nov 16, 2025)
     archived: false
     updated_at: '2025-12-10T18:11:01Z'
     language: TypeScript
