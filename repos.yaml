@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4853
+    stars: 4854
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-14T13:16:52Z'
+    updated_at: '2025-12-15T09:31:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1964
+    stars: 1965
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-15T08:18:53Z'
+    updated_at: '2025-12-15T09:21:46Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4853
+    stars: 4854
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-14T13:16:52Z'
+    updated_at: '2025-12-15T09:31:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 384
+    stars: 385
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2025-12-14T13:36:41Z'
+    updated_at: '2025-12-15T09:31:30Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -1811,11 +1811,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 389
+    stars: 386
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-12-11T09:31:54Z'
+    updated_at: '2025-12-15T09:18:03Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
