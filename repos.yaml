@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 173
+    stars: 174
     contributors: 159
     last_activity: bls-signatures@v2.0.0-alpha.1 (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-12T12:18:15Z'
+    updated_at: '2025-12-16T05:38:31Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4856
+    stars: 4857
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-16T04:08:02Z'
+    updated_at: '2025-12-16T06:16:35Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4856
+    stars: 4857
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-16T04:08:02Z'
+    updated_at: '2025-12-16T06:16:35Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 629
+    stars: 628
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-13T22:12:40Z'
+    updated_at: '2025-12-16T06:34:42Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
