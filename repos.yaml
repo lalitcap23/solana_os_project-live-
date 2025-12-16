@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-16T20:53:09Z'
+    updated_at: '2025-12-16T23:12:16Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 159
     last_activity: frozen-abi@v3.1.1 (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T14:07:13Z'
+    updated_at: '2025-12-16T22:48:14Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-16T21:26:47Z'
+    updated_at: '2025-12-16T22:34:53Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -617,7 +617,7 @@ repositories:
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2025-12-05T09:15:10Z'
+    updated_at: '2025-12-16T22:40:43Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
