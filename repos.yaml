@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-16T10:40:52Z'
+    updated_at: '2025-12-16T12:46:08Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 174
     contributors: 159
-    last_activity: bls-signatures@v2.0.0-alpha.1 (Dec 10, 2025)
+    last_activity: frozen-abi@v3.1.1 (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T05:38:31Z'
+    updated_at: '2025-12-16T12:43:05Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -408,11 +408,11 @@ repositories:
   stars: 675
   stats:
     stars: 566
-    contributors: 1
-    last_activity: Last commit (Nov 24, 2025)
+    contributors: 2
+    last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-11T06:12:49Z'
-    language: Rust
+    updated_at: '2025-12-16T11:35:16Z'
+    language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
   description: Code examples for the blog post titled The Complete Guide to Full Stack
@@ -1765,11 +1765,11 @@ repositories:
   stars: 577
   stats:
     stars: 566
-    contributors: 1
-    last_activity: Last commit (Nov 24, 2025)
+    contributors: 2
+    last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-11T06:12:49Z'
-    language: Rust
+    updated_at: '2025-12-16T11:35:16Z'
+    language: TypeScript
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
   description: Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency
@@ -1846,11 +1846,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 138
+    stars: 137
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-08T16:37:16Z'
+    updated_at: '2025-12-16T11:44:01Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
