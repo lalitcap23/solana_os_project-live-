@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1562
+    stars: 1563
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-17T07:23:53Z'
+    updated_at: '2025-12-17T11:11:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 273
+    stars: 274
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-12-17T04:06:29Z'
+    updated_at: '2025-12-17T11:11:36Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 151
+    stars: 152
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-12-17T04:06:31Z'
+    updated_at: '2025-12-17T11:11:37Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
