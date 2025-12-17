@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1563
+    stars: 1562
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-17T02:01:54Z'
+    updated_at: '2025-12-17T04:06:31Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 232
+    stars: 233
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2025-12-15T06:46:34Z'
+    updated_at: '2025-12-17T03:38:07Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-17T03:18:19Z'
+    updated_at: '2025-12-17T03:43:27Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 274
+    stars: 273
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-12-09T13:46:58Z'
+    updated_at: '2025-12-17T04:06:29Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 152
+    stars: 151
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2025-12-14T03:26:14Z'
+    updated_at: '2025-12-17T04:06:31Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
