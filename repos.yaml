@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14690
+    stars: 14691
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-17T00:12:48Z'
+    updated_at: '2025-12-17T03:03:33Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-17T01:28:54Z'
+    updated_at: '2025-12-17T02:01:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4136
+    stars: 4137
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-16T19:08:53Z'
+    updated_at: '2025-12-17T03:03:39Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-16T22:34:53Z'
+    updated_at: '2025-12-17T03:18:19Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
