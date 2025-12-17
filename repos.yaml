@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4162
+    stars: 4163
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-16T16:09:24Z'
+    updated_at: '2025-12-17T21:11:57Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 901
+    stars: 903
     contributors: 28
     last_activity: Last commit (Dec 17, 2025)
     archived: false
-    updated_at: '2025-12-17T13:21:38Z'
+    updated_at: '2025-12-17T21:12:25Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
