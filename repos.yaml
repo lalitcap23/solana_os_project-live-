@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14689
+    stars: 14690
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-16T21:17:23Z'
+    updated_at: '2025-12-17T00:12:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-16T23:12:16Z'
+    updated_at: '2025-12-17T01:28:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 174
+    stars: 175
     contributors: 159
     last_activity: frozen-abi@v3.1.1 (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T22:48:14Z'
+    updated_at: '2025-12-16T23:45:54Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4860
+    stars: 4861
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-16T17:23:00Z'
+    updated_at: '2025-12-16T23:24:40Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4860
+    stars: 4861
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-16T17:23:00Z'
+    updated_at: '2025-12-16T23:24:40Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 900
+    stars: 901
     contributors: 28
     last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T13:23:07Z'
+    updated_at: '2025-12-17T00:20:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
