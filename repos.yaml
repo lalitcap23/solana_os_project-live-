@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1564
+    stars: 1565
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-17T16:57:49Z'
+    updated_at: '2025-12-17T18:51:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-17T18:25:54Z'
+    updated_at: '2025-12-17T19:20:40Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
