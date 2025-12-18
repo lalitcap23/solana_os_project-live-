@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14691
+    stars: 14692
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-18T04:59:44Z'
+    updated_at: '2025-12-18T07:20:24Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-18T02:39:16Z'
+    updated_at: '2025-12-18T11:43:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4864
+    stars: 4865
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-18T00:28:15Z'
+    updated_at: '2025-12-18T11:16:45Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4137
+    stars: 4138
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-17T03:03:39Z'
+    updated_at: '2025-12-18T10:50:27Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4864
+    stars: 4865
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-18T00:28:15Z'
+    updated_at: '2025-12-18T11:16:45Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 527
+    stars: 528
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-14T11:08:43Z'
+    updated_at: '2025-12-18T09:04:55Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-18T00:24:38Z'
+    updated_at: '2025-12-18T07:54:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1340
+    stars: 1341
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-16T08:59:55Z'
+    updated_at: '2025-12-18T11:43:16Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 208
+    stars: 209
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-12-11T13:58:53Z'
+    updated_at: '2025-12-18T08:56:07Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 586
     contributors: 16
-    last_activity: Last commit (Dec 02, 2025)
+    last_activity: Last commit (Dec 18, 2025)
     archived: false
-    updated_at: '2025-12-17T15:42:48Z'
+    updated_at: '2025-12-18T11:11:43Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 242
     contributors: 9
-    last_activity: Last commit (Dec 12, 2025)
+    last_activity: Last commit (Dec 18, 2025)
     archived: false
-    updated_at: '2025-12-16T21:21:33Z'
+    updated_at: '2025-12-18T08:48:07Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
