@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-18T00:24:35Z'
+    updated_at: '2025-12-18T02:39:16Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -1252,11 +1252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 63
+    stars: 64
     contributors: 6
     last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T15:39:41Z'
+    updated_at: '2025-12-18T02:00:52Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
