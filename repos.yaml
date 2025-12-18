@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14691
+    stars: 14690
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-17T18:15:42Z'
+    updated_at: '2025-12-18T00:24:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1565
+    stars: 1564
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-17T18:51:53Z'
+    updated_at: '2025-12-18T00:24:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 175
+    stars: 174
     contributors: 159
     last_activity: program-log@v1.1.0 (Dec 17, 2025)
     archived: false
-    updated_at: '2025-12-17T16:49:22Z'
+    updated_at: '2025-12-18T00:24:38Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4865
+    stars: 4864
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-17T23:20:47Z'
+    updated_at: '2025-12-18T00:28:15Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 233
+    stars: 232
     contributors: 3
     last_activity: v7.0.2 (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-12T00:05:31Z'
+    updated_at: '2025-12-18T00:24:35Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4865
+    stars: 4864
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-17T23:20:47Z'
+    updated_at: '2025-12-18T00:28:15Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 628
+    stars: 627
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-17T19:20:40Z'
+    updated_at: '2025-12-18T00:24:38Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -432,11 +432,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 343
+    stars: 342
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2025-12-08T13:59:22Z'
+    updated_at: '2025-12-18T00:24:32Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 239
+    stars: 240
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-12-11T00:40:08Z'
+    updated_at: '2025-12-18T00:02:18Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 131
+    stars: 132
     contributors: 1
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-12-10T09:46:19Z'
+    updated_at: '2025-12-18T01:37:04Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 139
+    stars: 140
     contributors: 11
     last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-14T12:59:35Z'
+    updated_at: '2025-12-17T23:27:07Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1696,7 +1696,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-12-08T11:39:25Z'
+    updated_at: '2025-12-18T00:00:50Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
