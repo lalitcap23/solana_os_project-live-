@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14693
+    stars: 14694
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-20T08:38:36Z'
+    updated_at: '2025-12-20T17:26:24Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1569
+    stars: 1571
     contributors: 363
     last_activity: v3.0.12 (Nov 29, 2025)
     archived: false
-    updated_at: '2025-12-20T03:53:31Z'
+    updated_at: '2025-12-20T18:58:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 175
+    stars: 176
     contributors: 160
-    last_activity: program-log@v1.1.0 (Dec 17, 2025)
+    last_activity: reward-info@v4.0.0 (Dec 20, 2025)
     archived: false
-    updated_at: '2025-12-19T12:01:45Z'
+    updated_at: '2025-12-20T15:52:05Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1966
+    stars: 1967
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-19T02:53:03Z'
+    updated_at: '2025-12-20T23:39:36Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 232
+    stars: 233
     contributors: 3
     last_activity: v7.0.2 (Dec 09, 2025)
     archived: false
-    updated_at: '2025-12-18T00:24:35Z'
+    updated_at: '2025-12-20T15:30:34Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4163
+    stars: 4164
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2025-12-17T21:11:57Z'
+    updated_at: '2025-12-20T15:49:52Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -393,11 +393,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 581
+    stars: 582
     contributors: 1
     last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2025-12-14T22:48:57Z'
+    updated_at: '2025-12-20T22:22:45Z'
     language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 290
+    stars: 291
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-12-19T04:16:23Z'
+    updated_at: '2025-12-20T23:39:01Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 903
+    stars: 902
     contributors: 28
-    last_activity: Last commit (Dec 19, 2025)
+    last_activity: Last commit (Dec 20, 2025)
     archived: false
-    updated_at: '2025-12-19T19:03:41Z'
+    updated_at: '2025-12-20T13:28:00Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -907,11 +907,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 327
+    stars: 328
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2025-12-16T06:57:07Z'
+    updated_at: '2025-12-20T15:36:52Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -997,11 +997,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 117
+    stars: 119
     contributors: 4
     last_activity: Last commit (Nov 15, 2025)
     archived: false
-    updated_at: '2025-12-17T16:03:16Z'
+    updated_at: '2025-12-21T01:09:28Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
