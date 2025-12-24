@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14702
+    stars: 14704
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-23T11:51:11Z'
+    updated_at: '2025-12-23T22:43:03Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1575
+    stars: 1577
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2025-12-23T11:16:10Z'
+    updated_at: '2025-12-23T23:42:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4872
+    stars: 4874
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-23T08:08:17Z'
+    updated_at: '2025-12-23T19:13:30Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-12-22T19:01:19Z'
+    updated_at: '2025-12-23T16:42:10Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4872
+    stars: 4874
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-23T08:08:17Z'
+    updated_at: '2025-12-23T19:13:30Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 902
     contributors: 28
-    last_activity: Last commit (Dec 22, 2025)
+    last_activity: Last commit (Dec 23, 2025)
     archived: false
-    updated_at: '2025-12-22T13:18:23Z'
+    updated_at: '2025-12-23T13:17:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1811,11 +1811,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 386
+    stars: 385
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2025-12-15T09:18:03Z'
+    updated_at: '2025-12-23T22:27:07Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1924,6 +1924,20 @@ repositories:
     archived: false
     updated_at: '2025-12-23T09:55:02Z'
     language: Rust
+- name: crypto-trading-bot-mobile
+  repo: 0xMurk/crypto-trading-bot-mobile
+  description: ' A cross-platform mobile crypto trading bot for Solana, built with
+    Expo + React Native. Connect your Phantom Wallet, monitor coins, and automate
+    trades in real time'
+  category: Wallets & Mobile
+  stars: 10
+  stats:
+    stars: 10
+    contributors: 1
+    last_activity: Last commit (Aug 07, 2025)
+    archived: false
+    updated_at: '2025-11-04T16:23:57Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
