@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14705
+    stars: 14708
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-24T11:12:33Z'
+    updated_at: '2025-12-24T19:19:53Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1577
+    stars: 1576
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2025-12-24T01:16:27Z'
+    updated_at: '2025-12-24T21:38:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4874
+    stars: 4875
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-23T19:13:30Z'
+    updated_at: '2025-12-24T21:04:42Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1965
+    stars: 1964
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-22T11:05:42Z'
+    updated_at: '2025-12-25T01:02:23Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 309
+    stars: 308
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2025-12-14T05:37:32Z'
+    updated_at: '2025-12-25T01:02:27Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4874
+    stars: 4875
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-23T19:13:30Z'
+    updated_at: '2025-12-24T21:04:42Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -190,7 +190,7 @@ repositories:
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-22T15:34:11Z'
+    updated_at: '2025-12-24T15:02:42Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 373
+    stars: 374
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2025-12-10T07:07:20Z'
+    updated_at: '2025-12-24T22:45:11Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 209
+    stars: 210
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2025-12-18T08:56:07Z'
+    updated_at: '2025-12-24T16:51:26Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 902
+    stars: 901
     contributors: 28
-    last_activity: Last commit (Dec 23, 2025)
+    last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-23T13:17:16Z'
+    updated_at: '2025-12-25T01:02:27Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 244
     contributors: 10
-    last_activity: Last commit (Dec 20, 2025)
+    last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-20T08:45:38Z'
+    updated_at: '2025-12-24T13:08:45Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 238
+    stars: 239
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-12-04T18:09:35Z'
+    updated_at: '2025-12-24T14:05:00Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1267,11 +1267,11 @@ repositories:
   category: SDKs & Tooling
   stars: 117
   stats:
-    stars: 131
+    stars: 132
     contributors: 1
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2025-12-21T15:45:10Z'
+    updated_at: '2025-12-25T00:30:54Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 73
+    stars: 74
     contributors: 12
     last_activity: Last commit (Dec 02, 2025)
     archived: false
-    updated_at: '2025-12-09T16:27:35Z'
+    updated_at: '2025-12-24T12:59:16Z'
     language: TypeScript
 - name: sns-sdk
   repo: SolanaNameService/sns-sdk
@@ -1918,11 +1918,11 @@ repositories:
   category: DeFi
   stars: 136
   stats:
-    stars: 141
+    stars: 144
     contributors: 1
     last_activity: Last commit (Dec 22, 2025)
     archived: false
-    updated_at: '2025-12-24T06:11:23Z'
+    updated_at: '2025-12-24T21:03:43Z'
     language: Rust
 - name: crypto-trading-bot-mobile
   repo: 0xMurk/crypto-trading-bot-mobile
@@ -1937,6 +1937,21 @@ repositories:
     last_activity: Last commit (Aug 07, 2025)
     archived: false
     updated_at: '2025-11-04T16:23:57Z'
+    language: TypeScript
+- name: solana-fun-token-launch-pad
+  repo: BlackSky-Jose/solana-fun-token-launch-pad
+  description: A comprehensive Next.js-based token launchpad platform for creating
+    and managing SPL tokens on the Solana blockchain. This application provides an
+    intuitive interface for token creation, liquidity management, market creation,
+    and token authority management
+  category: SDKs & Tooling
+  stars: 128
+  stats:
+    stars: 128
+    contributors: 2
+    last_activity: Last commit (Dec 24, 2025)
+    archived: false
+    updated_at: '2025-12-25T01:07:56Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
