@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14709
+    stars: 14708
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-25T21:03:27Z'
+    updated_at: '2025-12-26T06:06:52Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -43,7 +43,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-25T17:16:40Z'
+    updated_at: '2025-12-26T03:07:44Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-25T17:16:40Z'
+    updated_at: '2025-12-26T03:07:44Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 533
+    stars: 534
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-25T17:44:02Z'
+    updated_at: '2025-12-26T04:55:26Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 346
+    stars: 347
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-23T03:36:35Z'
+    updated_at: '2025-12-26T06:05:59Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1346
+    stars: 1347
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-25T03:38:27Z'
+    updated_at: '2025-12-26T08:44:11Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 198
+    stars: 199
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-12-25T07:56:02Z'
+    updated_at: '2025-12-26T08:34:39Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 588
     contributors: 16
-    last_activity: Last commit (Dec 18, 2025)
+    last_activity: Last commit (Dec 26, 2025)
     archived: false
-    updated_at: '2025-12-25T08:36:57Z'
+    updated_at: '2025-12-26T07:14:21Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 282
+    stars: 283
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2025-12-22T04:27:39Z'
+    updated_at: '2025-12-26T02:07:42Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1087,7 +1087,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jul 12, 2025)
     archived: false
-    updated_at: '2025-12-09T10:08:03Z'
+    updated_at: '2025-12-26T08:01:21Z'
     language: TypeScript
 - name: solana-sign-with-payment
   repo: kizzx2/solana-sign-with-payment
@@ -1846,11 +1846,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 137
+    stars: 138
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2025-12-16T11:44:01Z'
+    updated_at: '2025-12-26T02:23:04Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -1869,11 +1869,11 @@ repositories:
   category: DeFi
   stars: 28
   stats:
-    stars: 28
+    stars: 29
     contributors: 1
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-13T09:53:07Z'
+    updated_at: '2025-12-26T08:50:08Z'
     language: HTML
 - name: token-presale-smart-contract
   repo: ivorn42/token-presale-smart-contract
@@ -1904,11 +1904,11 @@ repositories:
   category: Payments
   stars: 28
   stats:
-    stars: 28
+    stars: 29
     contributors: 1
     last_activity: Last commit (Oct 30, 2025)
     archived: false
-    updated_at: '2025-11-13T09:53:07Z'
+    updated_at: '2025-12-26T08:50:08Z'
     language: HTML
 - name: solana-copy-trading-bot
   repo: AlphaFox000/solana-copy-trading-bot
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 177
+    stars: 189
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-26T01:06:06Z'
+    updated_at: '2025-12-26T12:00:14Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
