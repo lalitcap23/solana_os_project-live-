@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14708
+    stars: 14709
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-26T06:06:52Z'
+    updated_at: '2025-12-27T06:37:13Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4876
+    stars: 4877
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-26T03:07:44Z'
+    updated_at: '2025-12-27T09:26:13Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4876
+    stars: 4877
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-26T03:07:44Z'
+    updated_at: '2025-12-27T09:26:13Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 555
     contributors: 1
-    last_activity: Last commit (Dec 17, 2025)
+    last_activity: Last commit (Dec 27, 2025)
     archived: false
-    updated_at: '2025-12-19T20:27:25Z'
+    updated_at: '2025-12-27T09:12:37Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 572
     contributors: 1
-    last_activity: Last commit (Dec 17, 2025)
+    last_activity: Last commit (Dec 27, 2025)
     archived: false
-    updated_at: '2025-12-17T17:05:50Z'
+    updated_at: '2025-12-27T09:16:30Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 588
+    stars: 589
     contributors: 16
     last_activity: Last commit (Dec 26, 2025)
     archived: false
-    updated_at: '2025-12-26T07:14:21Z'
+    updated_at: '2025-12-27T11:21:04Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 195
+    stars: 206
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-27T00:45:13Z'
+    updated_at: '2025-12-27T12:18:28Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
