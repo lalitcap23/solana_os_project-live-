@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1578
+    stars: 1580
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2025-12-25T15:06:52Z'
+    updated_at: '2025-12-26T20:32:08Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 634
+    stars: 635
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-25T17:17:22Z'
+    updated_at: '2025-12-26T15:16:32Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 199
+    stars: 200
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2025-12-26T08:34:39Z'
+    updated_at: '2025-12-26T21:31:10Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 901
     contributors: 28
-    last_activity: Last commit (Dec 25, 2025)
+    last_activity: Last commit (Dec 26, 2025)
     archived: false
-    updated_at: '2025-12-25T13:16:48Z'
+    updated_at: '2025-12-26T13:14:33Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1922,7 +1922,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Dec 22, 2025)
     archived: false
-    updated_at: '2025-12-24T21:03:43Z'
+    updated_at: '2025-12-26T22:40:36Z'
     language: Rust
 - name: crypto-trading-bot-mobile
   repo: 0xMurk/crypto-trading-bot-mobile
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 189
+    stars: 195
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-26T12:00:14Z'
+    updated_at: '2025-12-27T00:45:13Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
