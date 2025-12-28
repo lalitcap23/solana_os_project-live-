@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14709
+    stars: 14712
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-27T06:37:13Z'
+    updated_at: '2025-12-27T22:02:10Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 179
+    stars: 180
     contributors: 160
     last_activity: account@v3.3.0 (Dec 22, 2025)
     archived: false
-    updated_at: '2025-12-25T15:15:06Z'
+    updated_at: '2025-12-27T12:46:52Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4877
+    stars: 4878
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-27T09:26:13Z'
+    updated_at: '2025-12-27T15:37:50Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2665
+    stars: 2666
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-25T15:56:50Z'
+    updated_at: '2025-12-27T17:16:26Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4877
+    stars: 4878
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-27T09:26:13Z'
+    updated_at: '2025-12-27T15:37:50Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1347
+    stars: 1348
     contributors: 47
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2025-12-26T08:44:11Z'
+    updated_at: '2025-12-28T01:07:35Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -845,11 +845,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 124
+    stars: 125
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2025-12-19T21:59:01Z'
+    updated_at: '2025-12-27T12:48:31Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 901
     contributors: 28
-    last_activity: Last commit (Dec 26, 2025)
+    last_activity: Last commit (Dec 27, 2025)
     archived: false
-    updated_at: '2025-12-26T13:14:33Z'
+    updated_at: '2025-12-27T13:16:07Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 157
+    stars: 158
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-12-25T21:45:35Z'
+    updated_at: '2025-12-27T15:39:03Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1215,11 +1215,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 239
+    stars: 240
     contributors: 2
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2025-12-24T14:05:00Z'
+    updated_at: '2025-12-27T14:44:50Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
@@ -1547,11 +1547,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 75
+    stars: 76
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2025-12-17T06:51:05Z'
+    updated_at: '2025-12-27T15:44:50Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 206
+    stars: 211
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-27T12:18:28Z'
+    updated_at: '2025-12-27T22:33:03Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
