@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14710
+    stars: 14709
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-29T16:57:45Z'
+    updated_at: '2025-12-30T07:33:09Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1584
+    stars: 1585
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2025-12-29T14:59:46Z'
+    updated_at: '2025-12-30T11:28:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-29T16:25:36Z'
+    updated_at: '2025-12-30T02:42:44Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2664
+    stars: 2665
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-29T16:25:30Z'
+    updated_at: '2025-12-30T10:43:22Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4144
+    stars: 4146
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2025-12-29T16:02:50Z'
+    updated_at: '2025-12-30T11:29:46Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -178,7 +178,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-29T16:25:36Z'
+    updated_at: '2025-12-30T02:42:44Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 639
+    stars: 640
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-29T22:35:52Z'
+    updated_at: '2025-12-30T08:03:55Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1349
+    stars: 1348
     contributors: 47
-    last_activity: Last commit (Dec 03, 2025)
+    last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2025-12-28T03:45:07Z'
+    updated_at: '2025-12-30T07:37:40Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 590
+    stars: 591
     contributors: 16
     last_activity: Last commit (Dec 26, 2025)
     archived: false
-    updated_at: '2025-12-29T16:56:32Z'
+    updated_at: '2025-12-30T11:13:13Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 158
+    stars: 159
     contributors: 3
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2025-12-23T06:35:27Z'
+    updated_at: '2025-12-30T06:10:31Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 221
+    stars: 226
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-12-30T01:05:08Z'
+    updated_at: '2025-12-30T09:29:38Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
