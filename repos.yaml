@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14709
+    stars: 14710
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-30T07:33:09Z'
+    updated_at: '2025-12-30T18:36:32Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,18 +20,18 @@ repositories:
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2025-12-30T11:28:19Z'
+    updated_at: '2025-12-30T19:04:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 180
+    stars: 181
     contributors: 160
     last_activity: account@v3.3.0 (Dec 22, 2025)
     archived: false
-    updated_at: '2025-12-27T12:46:52Z'
+    updated_at: '2025-12-30T14:36:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4877
+    stars: 4878
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-30T02:42:44Z'
+    updated_at: '2025-12-30T21:51:36Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 424
+    stars: 425
     contributors: 11
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2025-12-20T12:01:44Z'
+    updated_at: '2025-12-30T23:21:32Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4877
+    stars: 4878
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-30T02:42:44Z'
+    updated_at: '2025-12-30T21:51:36Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1348
+    stars: 1349
     contributors: 47
     last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2025-12-30T07:37:40Z'
+    updated_at: '2025-12-30T13:11:23Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 293
+    stars: 294
     contributors: 1
     last_activity: Last commit (Oct 13, 2025)
     archived: false
-    updated_at: '2025-12-29T15:45:05Z'
+    updated_at: '2025-12-30T20:33:44Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 500
+    stars: 501
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2025-12-29T13:25:05Z'
+    updated_at: '2025-12-30T23:41:04Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 555
     contributors: 1
-    last_activity: Last commit (Dec 27, 2025)
+    last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2025-12-27T09:12:37Z'
+    updated_at: '2025-12-30T21:41:05Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 572
     contributors: 1
-    last_activity: Last commit (Dec 27, 2025)
+    last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2025-12-27T09:16:30Z'
+    updated_at: '2025-12-30T21:40:41Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 902
     contributors: 28
-    last_activity: Last commit (Dec 28, 2025)
+    last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2025-12-29T07:19:11Z'
+    updated_at: '2025-12-30T13:17:59Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -957,11 +957,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 157
+    stars: 158
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2025-12-28T14:01:38Z'
+    updated_at: '2025-12-30T15:54:20Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1072,9 +1072,9 @@ repositories:
   stats:
     stars: 9
     contributors: 1
-    last_activity: Last commit (Jul 12, 2025)
+    last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2025-09-24T13:42:18Z'
+    updated_at: '2025-12-30T13:57:01Z'
     language: PHP
 - name: Payment-gateway
   repo: alxn787/Payment-gateway
@@ -1696,7 +1696,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-12-29T04:22:30Z'
+    updated_at: '2025-12-30T22:02:15Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
