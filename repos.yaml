@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14710
+    stars: 14712
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2025-12-30T18:36:32Z'
+    updated_at: '2025-12-31T09:17:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4878
+    stars: 4879
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-30T21:51:36Z'
+    updated_at: '2025-12-31T09:31:18Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1967
+    stars: 1968
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-29T04:44:57Z'
+    updated_at: '2025-12-31T02:38:17Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4878
+    stars: 4879
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2025-12-30T21:51:36Z'
+    updated_at: '2025-12-31T09:31:18Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 535
+    stars: 536
     contributors: 35
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2025-12-29T12:08:43Z'
+    updated_at: '2025-12-31T03:31:31Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 640
+    stars: 641
     contributors: 152
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2025-12-30T08:03:55Z'
+    updated_at: '2025-12-31T04:36:35Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -652,11 +652,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 303
+    stars: 304
     contributors: 24
     last_activity: Last commit (Dec 11, 2025)
     archived: false
-    updated_at: '2025-12-11T16:20:58Z'
+    updated_at: '2025-12-31T03:38:51Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -1377,11 +1377,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 47
+    stars: 48
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2025-11-26T10:29:46Z'
+    updated_at: '2025-12-31T03:45:10Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
