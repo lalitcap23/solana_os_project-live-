@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1589
+    stars: 1590
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-02T13:33:06Z'
+    updated_at: '2026-01-03T11:13:28Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4882
+    stars: 4883
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-02T04:48:26Z'
+    updated_at: '2026-01-03T06:20:51Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4147
+    stars: 4148
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-01T08:48:16Z'
+    updated_at: '2026-01-03T11:14:56Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 425
+    stars: 426
     contributors: 11
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2025-12-30T23:21:32Z'
+    updated_at: '2026-01-03T11:34:12Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4882
+    stars: 4883
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-02T04:48:26Z'
+    updated_at: '2026-01-03T06:20:51Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 538
+    stars: 539
     contributors: 36
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-01-01T19:45:13Z'
+    updated_at: '2026-01-03T08:39:03Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 188
+    stars: 189
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-12-29T12:19:02Z'
+    updated_at: '2026-01-03T10:23:03Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -831,11 +831,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 170
+    stars: 171
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-01-01T10:51:19Z'
+    updated_at: '2026-01-03T04:18:03Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 903
+    stars: 904
     contributors: 28
-    last_activity: Last commit (Jan 02, 2026)
+    last_activity: Last commit (Jan 03, 2026)
     archived: false
-    updated_at: '2026-01-02T10:51:13Z'
+    updated_at: '2026-01-03T05:07:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 248
+    stars: 247
     contributors: 10
     last_activity: Last commit (Dec 28, 2025)
     archived: false
-    updated_at: '2026-01-02T16:16:52Z'
+    updated_at: '2026-01-03T11:51:43Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1692,11 +1692,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 200
+    stars: 201
     contributors: 1
     last_activity: Last commit (Aug 29, 2025)
     archived: false
-    updated_at: '2025-12-30T22:02:15Z'
+    updated_at: '2026-01-03T10:25:12Z'
     language: Rust
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -1750,11 +1750,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 188
+    stars: 189
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2025-12-29T12:19:02Z'
+    updated_at: '2026-01-03T10:23:03Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 237
+    stars: 245
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2026-01-03T01:04:56Z'
+    updated_at: '2026-01-03T12:05:52Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
