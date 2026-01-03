@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14715
+    stars: 14714
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-02T12:07:06Z'
+    updated_at: '2026-01-02T21:09:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1588
+    stars: 1589
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-02T04:25:28Z'
+    updated_at: '2026-01-02T13:33:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2665
+    stars: 2667
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2025-12-30T10:43:22Z'
+    updated_at: '2026-01-03T00:57:22Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1969
+    stars: 1970
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2025-12-31T13:16:16Z'
+    updated_at: '2026-01-02T23:40:53Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 502
+    stars: 503
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-02T03:23:48Z'
+    updated_at: '2026-01-02T20:10:39Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -654,9 +654,9 @@ repositories:
   stats:
     stars: 304
     contributors: 24
-    last_activity: Last commit (Dec 11, 2025)
+    last_activity: Last commit (Jan 02, 2026)
     archived: false
-    updated_at: '2025-12-31T03:38:51Z'
+    updated_at: '2026-01-02T15:54:26Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 555
     contributors: 1
-    last_activity: Last commit (Jan 01, 2026)
+    last_activity: Last commit (Jan 02, 2026)
     archived: false
-    updated_at: '2026-01-01T13:06:11Z'
+    updated_at: '2026-01-02T14:18:49Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -754,11 +754,11 @@ repositories:
   category: SDKs & Tooling
   stars: 533
   stats:
-    stars: 572
+    stars: 573
     contributors: 1
-    last_activity: Last commit (Jan 01, 2026)
+    last_activity: Last commit (Jan 02, 2026)
     archived: false
-    updated_at: '2026-01-01T13:05:22Z'
+    updated_at: '2026-01-02T21:24:42Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 592
+    stars: 593
     contributors: 16
     last_activity: Last commit (Dec 26, 2025)
     archived: false
-    updated_at: '2026-01-01T02:08:46Z'
+    updated_at: '2026-01-02T19:19:50Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 247
+    stars: 248
     contributors: 10
     last_activity: Last commit (Dec 28, 2025)
     archived: false
-    updated_at: '2026-01-01T19:52:26Z'
+    updated_at: '2026-01-02T16:16:52Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 233
+    stars: 237
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2026-01-02T11:55:28Z'
+    updated_at: '2026-01-03T01:04:56Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
