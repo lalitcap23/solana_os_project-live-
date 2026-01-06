@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14723
+    stars: 14722
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-05T08:11:26Z'
+    updated_at: '2026-01-05T21:44:09Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-05T11:12:58Z'
+    updated_at: '2026-01-06T00:26:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-05T05:33:44Z'
+    updated_at: '2026-01-05T23:32:00Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1972
+    stars: 1971
     contributors: 114
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-01-05T02:15:45Z'
+    updated_at: '2026-01-05T15:52:46Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -155,7 +155,7 @@ repositories:
     contributors: 7
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2025-12-23T16:42:10Z'
+    updated_at: '2026-01-05T21:36:53Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -178,7 +178,7 @@ repositories:
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-05T05:33:44Z'
+    updated_at: '2026-01-05T23:32:00Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 351
+    stars: 352
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-01-05T04:22:57Z'
+    updated_at: '2026-01-05T13:17:35Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 640
-    contributors: 152
+    contributors: 154
     last_activity: v5.1.0 (Dec 12, 2025)
     archived: false
-    updated_at: '2026-01-03T15:19:48Z'
+    updated_at: '2026-01-05T19:06:23Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 505
+    stars: 506
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-04T10:22:06Z'
+    updated_at: '2026-01-05T13:39:58Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 380
+    stars: 379
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-04T15:56:09Z'
+    updated_at: '2026-01-05T16:25:58Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -541,10 +541,10 @@ repositories:
   stars: 714
   stats:
     stars: 720
-    contributors: 25
-    last_activity: v0.44.1 (Aug 25, 2025)
+    contributors: 26
+    last_activity: v0.45.0 (Jan 06, 2026)
     archived: false
-    updated_at: '2025-12-09T13:48:16Z'
+    updated_at: '2026-01-06T00:54:00Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -743,9 +743,9 @@ repositories:
   stats:
     stars: 555
     contributors: 1
-    last_activity: Last commit (Jan 03, 2026)
+    last_activity: Last commit (Jan 05, 2026)
     archived: false
-    updated_at: '2026-01-04T08:35:16Z'
+    updated_at: '2026-01-05T14:10:09Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 573
     contributors: 1
-    last_activity: Last commit (Jan 03, 2026)
+    last_activity: Last commit (Jan 05, 2026)
     archived: false
-    updated_at: '2026-01-03T12:45:33Z'
+    updated_at: '2026-01-05T14:11:31Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 251
+    stars: 252
     contributors: 10
-    last_activity: Last commit (Jan 04, 2026)
+    last_activity: Last commit (Jan 05, 2026)
     archived: false
-    updated_at: '2026-01-04T17:25:22Z'
+    updated_at: '2026-01-05T21:56:51Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1202,11 +1202,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 240
+    stars: 241
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2025-12-18T00:02:18Z'
+    updated_at: '2026-01-05T16:04:57Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 484
+    stars: 485
     contributors: 0
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2026-01-01T15:29:33Z'
+    updated_at: '2026-01-06T00:14:37Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1254,9 +1254,9 @@ repositories:
   stats:
     stars: 64
     contributors: 7
-    last_activity: Last commit (Jan 04, 2026)
+    last_activity: Last commit (Jan 05, 2026)
     archived: false
-    updated_at: '2026-01-04T11:12:59Z'
+    updated_at: '2026-01-05T13:33:47Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1677,11 +1677,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 73
+    stars: 74
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2025-12-11T12:00:03Z'
+    updated_at: '2026-01-06T00:42:30Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
@@ -1918,11 +1918,11 @@ repositories:
   category: DeFi
   stars: 136
   stats:
-    stars: 141
+    stars: 140
     contributors: 1
     last_activity: Last commit (Dec 22, 2025)
     archived: false
-    updated_at: '2025-12-29T12:41:16Z'
+    updated_at: '2026-01-05T13:25:51Z'
     language: Rust
 - name: crypto-trading-bot-mobile
   repo: 0xMurk/crypto-trading-bot-mobile
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 254
+    stars: 257
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2026-01-05T09:42:17Z'
+    updated_at: '2026-01-05T16:03:55Z'
     language: TypeScript
 - name: solana-casino-smart-contract
   repo: FroganBee/solana-casino-smart-contract
