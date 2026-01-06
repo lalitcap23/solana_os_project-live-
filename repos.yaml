@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1594
+    stars: 1596
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-06T00:26:38Z'
+    updated_at: '2026-01-06T12:12:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4884
+    stars: 4886
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-05T23:32:00Z'
+    updated_at: '2026-01-06T08:20:59Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4884
+    stars: 4886
     contributors: 310
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-05T23:32:00Z'
+    updated_at: '2026-01-06T08:20:59Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1352
+    stars: 1353
     contributors: 47
     last_activity: Last commit (Dec 30, 2025)
     archived: false
-    updated_at: '2026-01-05T09:05:44Z'
+    updated_at: '2026-01-06T12:18:40Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -411,7 +411,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T11:35:16Z'
+    updated_at: '2026-01-06T06:59:13Z'
     language: TypeScript
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -768,9 +768,9 @@ repositories:
   stats:
     stars: 594
     contributors: 16
-    last_activity: Last commit (Dec 26, 2025)
+    last_activity: Last commit (Jan 06, 2026)
     archived: false
-    updated_at: '2026-01-04T04:05:46Z'
+    updated_at: '2026-01-06T11:06:31Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -897,9 +897,9 @@ repositories:
   stats:
     stars: 905
     contributors: 28
-    last_activity: Last commit (Jan 05, 2026)
+    last_activity: Last commit (Jan 06, 2026)
     archived: false
-    updated_at: '2026-01-05T05:04:33Z'
+    updated_at: '2026-01-06T05:04:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 252
     contributors: 10
-    last_activity: Last commit (Jan 05, 2026)
+    last_activity: Last commit (Jan 06, 2026)
     archived: false
-    updated_at: '2026-01-05T21:56:51Z'
+    updated_at: '2026-01-06T07:01:59Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1327,11 +1327,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 153
+    stars: 154
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-01-04T12:58:52Z'
+    updated_at: '2026-01-06T04:27:38Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -1768,7 +1768,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2025-12-16T11:35:16Z'
+    updated_at: '2026-01-06T06:59:13Z'
     language: TypeScript
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 257
+    stars: 226
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2026-01-05T16:03:55Z'
+    updated_at: '2026-01-06T12:18:07Z'
     language: TypeScript
 - name: solana-casino-smart-contract
   repo: FroganBee/solana-casino-smart-contract
