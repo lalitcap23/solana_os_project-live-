@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14724
+    stars: 14726
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-07T19:42:08Z'
+    updated_at: '2026-01-08T10:51:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 363
     last_activity: v3.0.13 (Dec 21, 2025)
     archived: false
-    updated_at: '2026-01-08T00:03:51Z'
+    updated_at: '2026-01-08T10:35:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 161
     last_activity: frozen-abi@v3.1.2 (Jan 07, 2026)
     archived: false
-    updated_at: '2026-01-07T23:56:48Z'
+    updated_at: '2026-01-08T09:30:53Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2672
+    stars: 2673
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-07T18:09:35Z'
+    updated_at: '2026-01-08T06:48:50Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 766
+    stars: 765
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: false
-    updated_at: '2025-12-12T14:08:57Z'
+    updated_at: '2026-01-08T09:57:43Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -292,7 +292,7 @@ repositories:
     contributors: 155
     last_activity: v5.3.0 (Jan 07, 2026)
     archived: false
-    updated_at: '2026-01-07T19:36:47Z'
+    updated_at: '2026-01-08T10:25:11Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 507
+    stars: 508
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-07T01:21:51Z'
+    updated_at: '2026-01-08T09:32:18Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -564,11 +564,11 @@ repositories:
   category: NFTs & Programs
   stars: 270
   stats:
-    stars: 269
+    stars: 268
     contributors: 11
     last_activity: Last commit (Apr 25, 2022)
     archived: false
-    updated_at: '2025-12-09T13:48:03Z'
+    updated_at: '2026-01-08T09:57:40Z'
     language: TypeScript
 - name: shank
   repo: metaplex-foundation/shank
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 212
+    stars: 213
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2026-01-04T17:48:50Z'
+    updated_at: '2026-01-08T08:03:25Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 253
     contributors: 10
-    last_activity: Last commit (Jan 07, 2026)
+    last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-07T15:12:43Z'
+    updated_at: '2026-01-08T08:04:48Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1520,11 +1520,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 147
+    stars: 148
     contributors: 11
     last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2026-01-07T04:14:40Z'
+    updated_at: '2026-01-08T03:02:11Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1638,11 +1638,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 110
+    stars: 111
     contributors: 1
     last_activity: Last commit (Oct 20, 2025)
     archived: false
-    updated_at: '2025-12-02T10:07:42Z'
+    updated_at: '2026-01-08T02:31:30Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
@@ -1947,11 +1947,11 @@ repositories:
   category: SDKs & Tooling
   stars: 128
   stats:
-    stars: 213
+    stars: 212
     contributors: 2
     last_activity: Last commit (Dec 24, 2025)
     archived: false
-    updated_at: '2026-01-08T00:24:46Z'
+    updated_at: '2026-01-08T10:19:56Z'
     language: TypeScript
 - name: solana-casino-smart-contract
   repo: FroganBee/solana-casino-smart-contract
