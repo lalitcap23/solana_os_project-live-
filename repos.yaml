@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14727
+    stars: 14726
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-09T23:45:03Z'
+    updated_at: '2026-01-10T09:14:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -18,9 +18,9 @@ repositories:
   stats:
     stars: 1601
     contributors: 363
-    last_activity: v3.0.13 (Dec 21, 2025)
+    last_activity: v3.1.6 (Jan 10, 2026)
     archived: false
-    updated_at: '2026-01-10T00:10:00Z'
+    updated_at: '2026-01-10T10:20:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4886
+    stars: 4888
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-09T13:35:28Z'
+    updated_at: '2026-01-10T09:57:09Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4149
+    stars: 4150
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-09T13:35:31Z'
+    updated_at: '2026-01-10T09:57:09Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4886
+    stars: 4888
     contributors: 311
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-09T13:35:28Z'
+    updated_at: '2026-01-10T09:57:09Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 387
+    stars: 388
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2026-01-08T15:19:54Z'
+    updated_at: '2026-01-10T11:22:56Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 213
+    stars: 212
     contributors: 7
     last_activity: Last commit (Nov 26, 2025)
     archived: false
-    updated_at: '2026-01-08T08:03:25Z'
+    updated_at: '2026-01-10T09:34:52Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 595
+    stars: 596
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-08T17:50:31Z'
+    updated_at: '2026-01-10T09:39:23Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -896,10 +896,10 @@ repositories:
   stars: 816
   stats:
     stars: 905
-    contributors: 28
-    last_activity: Last commit (Jan 09, 2026)
+    contributors: 30
+    last_activity: Last commit (Jan 10, 2026)
     archived: false
-    updated_at: '2026-01-09T16:17:05Z'
+    updated_at: '2026-01-10T12:26:32Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 284
+    stars: 285
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-04T11:40:22Z'
+    updated_at: '2026-01-10T09:57:11Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1987,11 +1987,11 @@ repositories:
   category: Oracles
   stars: 243
   stats:
-    stars: 253
+    stars: 258
     contributors: 1
     last_activity: Last commit (Dec 17, 2025)
     archived: false
-    updated_at: '2026-01-10T01:05:36Z'
+    updated_at: '2026-01-10T10:13:59Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: Solzen33/bypass-bubblemap
