@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14728
+    stars: 14729
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-10T20:38:03Z'
+    updated_at: '2026-01-11T05:55:41Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1602
+    stars: 1604
     contributors: 363
     last_activity: v3.1.6 (Jan 10, 2026)
     archived: false
-    updated_at: '2026-01-10T17:11:05Z'
+    updated_at: '2026-01-11T04:34:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 184
     contributors: 161
-    last_activity: address-lookup-table-interface@v3.0.1 (Jan 08, 2026)
+    last_activity: define-syscall@v5.0.0 (Jan 11, 2026)
     archived: false
-    updated_at: '2026-01-10T00:09:00Z'
+    updated_at: '2026-01-11T03:16:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2674
+    stars: 2673
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-10T17:13:55Z'
+    updated_at: '2026-01-11T03:19:00Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4165
+    stars: 4166
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-01-10T18:23:05Z'
+    updated_at: '2026-01-11T04:27:49Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 373
+    stars: 374
     contributors: 13
     last_activity: Last commit (Oct 09, 2025)
     archived: false
-    updated_at: '2026-01-09T13:35:37Z'
+    updated_at: '2026-01-11T08:14:38Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -434,7 +434,7 @@ repositories:
   stats:
     stars: 344
     contributors: 4
-    last_activity: Active
+    last_activity: Last commit (Feb 24, 2023)
     archived: false
     updated_at: '2025-12-23T10:25:01Z'
     language: Rust
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 905
+    stars: 904
     contributors: 30
     last_activity: Last commit (Jan 10, 2026)
     archived: false
-    updated_at: '2026-01-10T16:16:52Z'
+    updated_at: '2026-01-11T03:19:09Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -932,11 +932,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 285
+    stars: 286
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-10T09:57:11Z'
+    updated_at: '2026-01-11T11:29:10Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1271,7 +1271,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2026-01-08T13:20:47Z'
+    updated_at: '2026-01-11T10:55:15Z'
     language: TypeScript
 - name: gamba
   repo: gamba-labs/gamba
