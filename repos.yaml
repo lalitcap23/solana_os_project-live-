@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14735
+    stars: 14737
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-16T08:22:23Z'
+    updated_at: '2026-01-16T20:12:31Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1612
+    stars: 1613
     contributors: 362
     last_activity: v3.1.6 (Jan 10, 2026)
     archived: false
-    updated_at: '2026-01-16T11:41:20Z'
+    updated_at: '2026-01-16T23:49:27Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4904
+    stars: 4907
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-16T08:18:37Z'
+    updated_at: '2026-01-16T20:23:07Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2675
+    stars: 2676
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-15T17:08:34Z'
+    updated_at: '2026-01-16T16:43:33Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 310
+    stars: 311
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2026-01-15T04:27:13Z'
+    updated_at: '2026-01-16T16:24:08Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4904
+    stars: 4907
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-16T08:18:37Z'
+    updated_at: '2026-01-16T20:23:07Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 645
+    stars: 646
     contributors: 156
     last_activity: v5.4.0 (Jan 13, 2026)
     archived: false
-    updated_at: '2026-01-16T10:03:27Z'
+    updated_at: '2026-01-16T13:57:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -741,11 +741,11 @@ repositories:
   category: SDKs & Tooling
   stars: 556
   stats:
-    stars: 576
+    stars: 577
     contributors: 1
     last_activity: Last commit (Jan 16, 2026)
     archived: false
-    updated_at: '2026-01-16T05:16:41Z'
+    updated_at: '2026-01-16T16:54:55Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-abbott/solana-trading-bot
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 574
     contributors: 1
-    last_activity: Last commit (Jan 15, 2026)
+    last_activity: Last commit (Jan 16, 2026)
     archived: false
-    updated_at: '2026-01-15T13:09:13Z'
+    updated_at: '2026-01-16T13:40:18Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -936,7 +936,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-14T17:17:21Z'
+    updated_at: '2026-01-16T22:06:53Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1228,11 +1228,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 485
+    stars: 484
     contributors: 0
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2026-01-06T00:14:37Z'
+    updated_at: '2026-01-16T12:49:29Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1987,11 +1987,11 @@ repositories:
   category: Oracles
   stars: 243
   stats:
-    stars: 149
+    stars: 150
     contributors: 1
     last_activity: Last commit (Dec 17, 2025)
     archived: false
-    updated_at: '2026-01-16T11:22:29Z'
+    updated_at: '2026-01-16T20:17:55Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: Solzen33/bypass-bubblemap
@@ -2029,11 +2029,27 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 252
+    stars: 258
     contributors: 1
     last_activity: Last commit (Mar 21, 2025)
     archived: false
-    updated_at: '2026-01-15T18:47:57Z'
+    updated_at: '2026-01-16T20:14:08Z'
+    language: Rust
+- name: EVM-Solana-Casino-Games
+  repo: LaChance-Lab/EVM-Solana-Casino-Games
+  description: Blockchain Web3 Solana Casino Game | 🌐Multi-Chain Casino Platform |
+    EVM + Sui |  10 Provably Fair Games | ORAO + Chainlink VRF |  Crash, Plinko, Dice,
+    Blackjack, Roulette, Poker, Hi-Lo, Limbo, Coinflip. Contact for solana casino
+    game building and solana casino game customization evm solana evm solana evm solana
+    evm solana evm solana evm solana
+  category: SDKs & Tooling
+  stars: 238
+  stats:
+    stars: 238
+    contributors: 1
+    last_activity: Last commit (Dec 16, 2025)
+    archived: false
+    updated_at: '2026-01-16T20:14:19Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
