@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14738
+    stars: 14739
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-18T04:00:56Z'
+    updated_at: '2026-01-19T00:00:31Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4911
+    stars: 4912
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-17T22:03:49Z'
+    updated_at: '2026-01-18T22:38:44Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2678
+    stars: 2679
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-18T09:28:36Z'
+    updated_at: '2026-01-18T13:36:23Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4911
+    stars: 4912
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-17T22:03:49Z'
+    updated_at: '2026-01-18T22:38:44Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 574
     contributors: 1
-    last_activity: Last commit (Jan 16, 2026)
+    last_activity: Last commit (Jan 18, 2026)
     archived: false
-    updated_at: '2026-01-16T13:40:18Z'
+    updated_at: '2026-01-18T14:31:00Z'
     language: TypeScript
 - name: create-solana-dapp
   repo: solana-foundation/create-solana-dapp
@@ -766,11 +766,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 597
+    stars: 598
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-15T19:35:12Z'
+    updated_at: '2026-01-18T18:42:15Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -895,11 +895,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 905
+    stars: 906
     contributors: 30
     last_activity: Last commit (Jan 18, 2026)
     archived: false
-    updated_at: '2026-01-18T06:30:00Z'
+    updated_at: '2026-01-18T18:47:57Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -985,11 +985,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 255
+    stars: 256
     contributors: 11
     last_activity: Last commit (Jan 17, 2026)
     archived: false
-    updated_at: '2026-01-17T06:58:57Z'
+    updated_at: '2026-01-18T23:40:39Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1161,11 +1161,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 75
+    stars: 76
     contributors: 12
     last_activity: v0.28.0 (Jan 09, 2026)
     archived: false
-    updated_at: '2026-01-09T15:37:46Z'
+    updated_at: '2026-01-18T19:05:57Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1414,11 +1414,11 @@ repositories:
   category: NFTs & Programs
   stars: 21
   stats:
-    stars: 21
+    stars: 19
     contributors: 1
     last_activity: Last commit (Sep 16, 2023)
     archived: false
-    updated_at: '2025-07-13T06:56:47Z'
+    updated_at: '2026-01-19T00:00:32Z'
     language: TypeScript
 - name: dynamic-nft-metadata
   repo: roswelly/dynamic-nft-metadata
@@ -1624,11 +1624,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 159
+    stars: 160
     contributors: 3
     last_activity: Last commit (Nov 30, 2025)
     archived: false
-    updated_at: '2026-01-09T16:17:47Z'
+    updated_at: '2026-01-18T14:36:33Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -2045,11 +2045,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 243
+    stars: 244
     contributors: 1
     last_activity: Last commit (Dec 16, 2025)
     archived: false
-    updated_at: '2026-01-18T08:36:07Z'
+    updated_at: '2026-01-18T18:50:22Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
