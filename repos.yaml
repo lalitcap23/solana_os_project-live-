@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14749
+    stars: 14748
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-22T10:26:34Z'
+    updated_at: '2026-01-23T00:20:11Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1624
+    stars: 1625
     contributors: 362
     last_activity: v3.1.7 (Jan 19, 2026)
     archived: false
-    updated_at: '2026-01-22T09:43:01Z'
+    updated_at: '2026-01-22T23:27:57Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4921
+    stars: 4920
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-22T10:26:37Z'
+    updated_at: '2026-01-22T21:46:55Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -155,7 +155,7 @@ repositories:
     contributors: 8
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-01-20T04:28:28Z'
+    updated_at: '2026-01-22T18:49:56Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4921
+    stars: 4920
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-22T10:26:37Z'
+    updated_at: '2026-01-22T21:46:55Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 508
+    stars: 512
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-22T10:26:48Z'
+    updated_at: '2026-01-22T21:50:11Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -664,11 +664,11 @@ repositories:
   category: Wallets & Mobile
   stars: 80
   stats:
-    stars: 80
+    stars: 79
     contributors: 2
     last_activity: Last commit (Dec 17, 2022)
     archived: false
-    updated_at: '2025-03-11T06:43:00Z'
+    updated_at: '2026-01-22T22:38:31Z'
     language: Dart
 - name: crypto-trading-bot-mobile
   repo: 0xTan1319/crypto-trading-bot-mobile
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 907
     contributors: 30
-    last_activity: Last commit (Jan 21, 2026)
+    last_activity: Last commit (Jan 22, 2026)
     archived: false
-    updated_at: '2026-01-21T23:38:55Z'
+    updated_at: '2026-01-22T23:36:43Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -920,11 +920,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 285
+    stars: 286
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-22T10:26:40Z'
+    updated_at: '2026-01-22T22:38:42Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -949,7 +949,7 @@ repositories:
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-01-09T16:17:45Z'
+    updated_at: '2026-01-22T19:14:40Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 262
+    stars: 263
     contributors: 11
     last_activity: Last commit (Jan 17, 2026)
     archived: false
-    updated_at: '2026-01-22T03:11:41Z'
+    updated_at: '2026-01-22T14:34:11Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1216,11 +1216,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 484
+    stars: 485
     contributors: 0
     last_activity: Last commit (Sep 06, 2025)
     archived: false
-    updated_at: '2026-01-16T12:49:29Z'
+    updated_at: '2026-01-22T21:05:28Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1814,11 +1814,11 @@ repositories:
   category: SDKs & Tooling
   stars: 273
   stats:
-    stars: 53
+    stars: 54
     contributors: 1
     last_activity: Last commit (Dec 01, 2025)
     archived: false
-    updated_at: '2025-12-15T18:26:59Z'
+    updated_at: '2026-01-22T15:27:15Z'
     language: Rust
 - name: solana-trading-bot
   repo: ivorn42/solana-trading-bot
@@ -1959,7 +1959,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jan 22, 2026)
     archived: false
-    updated_at: '2026-01-22T11:20:42Z'
+    updated_at: '2026-01-22T18:06:34Z'
     language: TypeScript
 - name: Prediction-Market
   repo: novustch/Prediction-Market
@@ -1969,11 +1969,11 @@ repositories:
   category: Oracles
   stars: 243
   stats:
-    stars: 108
+    stars: 105
     contributors: 1
     last_activity: Last commit (Dec 17, 2025)
     archived: false
-    updated_at: '2026-01-22T10:30:58Z'
+    updated_at: '2026-01-22T13:24:29Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: Solzen33/bypass-bubblemap
@@ -1985,7 +1985,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jan 22, 2026)
     archived: false
-    updated_at: '2026-01-22T11:20:42Z'
+    updated_at: '2026-01-22T18:06:34Z'
     language: TypeScript
 - name: solana-fun-token-launch-pad
   repo: Mist-kail/solana-fun-token-launch-pad
@@ -2005,11 +2005,11 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 258
+    stars: 259
     contributors: 1
     last_activity: Last commit (Mar 21, 2025)
     archived: false
-    updated_at: '2026-01-16T20:14:08Z'
+    updated_at: '2026-01-22T18:54:42Z'
     language: Rust
 - name: EVM-Solana-Casino-Games
   repo: LaChance-Lab/EVM-Solana-Casino-Games
@@ -2021,11 +2021,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 258
+    stars: 257
     contributors: 1
-    last_activity: Last commit (Dec 16, 2025)
+    last_activity: Last commit (Jan 22, 2026)
     archived: false
-    updated_at: '2026-01-21T16:47:18Z'
+    updated_at: '2026-01-22T20:49:42Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
