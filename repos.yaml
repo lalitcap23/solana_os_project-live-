@@ -20,7 +20,7 @@ repositories:
     contributors: 362
     last_activity: v3.1.7 (Jan 19, 2026)
     archived: false
-    updated_at: '2026-01-23T11:52:24Z'
+    updated_at: '2026-01-23T23:58:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4921
+    stars: 4922
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-23T11:52:46Z'
+    updated_at: '2026-01-23T22:28:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4155
+    stars: 4157
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-23T12:20:57Z'
+    updated_at: '2026-01-23T20:29:09Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -120,7 +120,7 @@ repositories:
   stats:
     stars: 237
     contributors: 3
-    last_activity: v7.0.4 (Jan 14, 2026)
+    last_activity: v7.0.5 (Jan 23, 2026)
     archived: false
     updated_at: '2026-01-17T15:33:19Z'
     language: Dockerfile
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4921
+    stars: 4922
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-23T11:52:46Z'
+    updated_at: '2026-01-23T22:28:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 156
     last_activity: v5.4.0 (Jan 13, 2026)
     archived: false
-    updated_at: '2026-01-23T09:25:57Z'
+    updated_at: '2026-01-23T16:40:59Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -456,7 +456,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jan 13, 2026)
     archived: false
-    updated_at: '2026-01-22T10:26:41Z'
+    updated_at: '2026-01-23T21:44:15Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 512
+    stars: 513
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-22T21:50:11Z'
+    updated_at: '2026-01-23T19:57:30Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 907
     contributors: 30
-    last_activity: Last commit (Jan 22, 2026)
+    last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-01-22T23:36:43Z'
+    updated_at: '2026-01-23T23:39:15Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -920,11 +920,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 286
+    stars: 285
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-22T22:38:42Z'
+    updated_at: '2026-01-23T17:11:00Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1799,11 +1799,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 356
+    stars: 357
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2026-01-22T10:26:37Z'
+    updated_at: '2026-01-23T19:18:57Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1943,11 +1943,11 @@ repositories:
   category: Payments
   stars: 105
   stats:
-    stars: 103
+    stars: 104
     contributors: 1
     last_activity: Last commit (Jan 20, 2026)
     archived: false
-    updated_at: '2026-01-20T09:07:15Z'
+    updated_at: '2026-01-24T00:02:39Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: FroganBee/bypass-bubblemap
@@ -2025,7 +2025,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-01-23T08:03:35Z'
+    updated_at: '2026-01-23T18:32:05Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -2035,11 +2035,11 @@ repositories:
   category: SDKs & Tooling
   stars: 73
   stats:
-    stars: 73
+    stars: 74
     contributors: 1
     last_activity: Last commit (Dec 14, 2025)
     archived: false
-    updated_at: '2025-12-21T18:46:37Z'
+    updated_at: '2026-01-24T00:02:49Z'
     language: TypeScript
 - name: solana-casino-smart-contract
   repo: Solzen33/solana-casino-smart-contract
@@ -2049,11 +2049,11 @@ repositories:
   category: Payments
   stars: 103
   stats:
-    stars: 103
+    stars: 104
     contributors: 1
     last_activity: Last commit (Jan 20, 2026)
     archived: false
-    updated_at: '2026-01-20T09:07:15Z'
+    updated_at: '2026-01-24T00:02:39Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
