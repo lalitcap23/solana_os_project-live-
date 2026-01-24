@@ -20,18 +20,18 @@ repositories:
     contributors: 362
     last_activity: v3.1.7 (Jan 19, 2026)
     archived: false
-    updated_at: '2026-01-23T23:58:02Z'
+    updated_at: '2026-01-24T12:19:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 192
+    stars: 193
     contributors: 163
     last_activity: bn254@v3.2.1 (Jan 14, 2026)
     archived: false
-    updated_at: '2026-01-22T09:49:00Z'
+    updated_at: '2026-01-24T05:38:02Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2685
+    stars: 2686
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-21T11:49:20Z'
+    updated_at: '2026-01-24T08:32:15Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 237
+    stars: 238
     contributors: 3
     last_activity: v7.0.5 (Jan 23, 2026)
     archived: false
-    updated_at: '2026-01-17T15:33:19Z'
+    updated_at: '2026-01-24T12:03:41Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -380,9 +380,9 @@ repositories:
   stats:
     stars: 1360
     contributors: 48
-    last_activity: Last commit (Jan 15, 2026)
+    last_activity: Last commit (Jan 24, 2026)
     archived: false
-    updated_at: '2026-01-22T10:26:40Z'
+    updated_at: '2026-01-24T07:21:44Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -483,7 +483,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-01-23T19:57:30Z'
+    updated_at: '2026-01-24T07:29:26Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -932,11 +932,11 @@ repositories:
   category: SDKs & Tooling
   stars: 193
   stats:
-    stars: 196
+    stars: 197
     contributors: 3
     last_activity: Last commit (Aug 29, 2024)
     archived: false
-    updated_at: '2026-01-14T15:38:07Z'
+    updated_at: '2026-01-24T08:52:07Z'
     language: Rust
 - name: pumpfun-rs
   repo: nhuxhr/pumpfun-rs
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 153
+    stars: 152
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-01-14T06:36:23Z'
+    updated_at: '2026-01-24T10:23:20Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -2005,11 +2005,11 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 259
+    stars: 260
     contributors: 1
     last_activity: Last commit (Mar 21, 2025)
     archived: false
-    updated_at: '2026-01-22T18:54:42Z'
+    updated_at: '2026-01-24T06:03:30Z'
     language: Rust
 - name: EVM-Solana-Casino-Games
   repo: LaChance-Lab/EVM-Solana-Casino-Games
