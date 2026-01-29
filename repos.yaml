@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14751
+    stars: 14753
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-28T07:12:37Z'
+    updated_at: '2026-01-28T23:18:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -18,9 +18,9 @@ repositories:
   stats:
     stars: 1632
     contributors: 361
-    last_activity: v3.1.7 (Jan 19, 2026)
+    last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-01-28T10:38:49Z'
+    updated_at: '2026-01-28T23:56:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 163
     last_activity: bn254@v3.2.1 (Jan 14, 2026)
     archived: false
-    updated_at: '2026-01-28T09:37:41Z'
+    updated_at: '2026-01-28T15:04:15Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4926
+    stars: 4928
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-27T18:38:13Z'
+    updated_at: '2026-01-28T18:04:45Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2686
+    stars: 2687
     contributors: 126
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-28T02:45:28Z'
+    updated_at: '2026-01-28T15:12:44Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1979
+    stars: 1980
     contributors: 113
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-01-25T01:06:15Z'
+    updated_at: '2026-01-28T15:16:35Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4158
+    stars: 4159
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-28T06:41:11Z'
+    updated_at: '2026-01-28T15:15:57Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4926
+    stars: 4928
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-27T18:38:13Z'
+    updated_at: '2026-01-28T18:04:45Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 546
+    stars: 547
     contributors: 38
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-01-26T21:54:30Z'
+    updated_at: '2026-01-28T17:46:56Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 156
     last_activity: v5.5.1 (Jan 28, 2026)
     archived: false
-    updated_at: '2026-01-28T11:51:50Z'
+    updated_at: '2026-01-28T13:13:37Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -564,11 +564,11 @@ repositories:
   category: NFTs & Programs
   stars: 270
   stats:
-    stars: 268
+    stars: 269
     contributors: 11
     last_activity: Last commit (Apr 25, 2022)
     archived: false
-    updated_at: '2026-01-08T09:57:40Z'
+    updated_at: '2026-01-28T15:16:55Z'
     language: TypeScript
 - name: shank
   repo: metaplex-foundation/shank
@@ -833,11 +833,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 125
+    stars: 126
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2026-01-19T23:04:02Z'
+    updated_at: '2026-01-28T15:17:28Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 93
+    stars: 94
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-01-22T10:26:35Z'
+    updated_at: '2026-01-28T23:31:41Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 265
+    stars: 266
     contributors: 11
     last_activity: v3.4.0 (Jan 27, 2026)
     archived: false
-    updated_at: '2026-01-27T19:30:24Z'
+    updated_at: '2026-01-28T21:24:11Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1468,11 +1468,11 @@ repositories:
   category: DeFi
   stars: 39
   stats:
-    stars: 39
+    stars: 40
     contributors: 1
     last_activity: Last commit (Jun 21, 2024)
     archived: false
-    updated_at: '2025-08-24T23:34:03Z'
+    updated_at: '2026-01-28T19:46:14Z'
     language: TypeScript
 - name: spl-token-faucet
   repo: paul-schaaf/spl-token-faucet
@@ -1969,11 +1969,11 @@ repositories:
   category: Oracles
   stars: 243
   stats:
-    stars: 95
+    stars: 96
     contributors: 1
     last_activity: Last commit (Dec 17, 2025)
     archived: false
-    updated_at: '2026-01-28T07:40:16Z'
+    updated_at: '2026-01-28T16:09:59Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: Solzen33/bypass-bubblemap
@@ -2021,11 +2021,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 267
+    stars: 270
     contributors: 1
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-01-28T02:23:14Z'
+    updated_at: '2026-01-28T17:46:19Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -2061,13 +2061,7 @@ repositories:
     pumpfun trading bot
   category: SDKs & Tooling
   stars: 592
-  stats:
-    stars: 594
-    contributors: 1
-    last_activity: Last commit (Jan 27, 2026)
-    archived: false
-    updated_at: '2026-01-28T09:09:06Z'
-    language: TypeScript
+  stats: null
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
