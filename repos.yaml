@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1638
+    stars: 1639
     contributors: 361
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-01-30T00:25:35Z'
+    updated_at: '2026-01-30T12:29:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 196
+    stars: 197
     contributors: 163
     last_activity: rent@v4.0.0 (Jan 29, 2026)
     archived: false
-    updated_at: '2026-01-29T14:25:59Z'
+    updated_at: '2026-01-30T11:29:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2690
+    stars: 2691
     contributors: 126
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-29T20:11:07Z'
+    updated_at: '2026-01-30T05:06:03Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1980
+    stars: 1979
     contributors: 113
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-01-28T15:16:35Z'
+    updated_at: '2026-01-30T01:24:44Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 178
+    stars: 179
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2026-01-27T18:11:15Z'
+    updated_at: '2026-01-30T03:35:13Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 281
+    stars: 282
     contributors: 1
     last_activity: Last commit (Jan 13, 2026)
     archived: false
-    updated_at: '2026-01-29T11:00:51Z'
+    updated_at: '2026-01-30T02:06:06Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -639,11 +639,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 203
+    stars: 204
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2026-01-25T10:07:11Z'
+    updated_at: '2026-01-30T08:07:41Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -656,7 +656,7 @@ repositories:
     contributors: 24
     last_activity: Last commit (Jan 02, 2026)
     archived: false
-    updated_at: '2026-01-09T13:35:32Z'
+    updated_at: '2026-01-30T11:54:28Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -754,11 +754,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 605
+    stars: 606
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-29T21:29:35Z'
+    updated_at: '2026-01-30T06:22:19Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 912
+    stars: 913
     contributors: 30
-    last_activity: Last commit (Jan 29, 2026)
+    last_activity: Last commit (Jan 30, 2026)
     archived: false
-    updated_at: '2026-01-29T06:59:36Z'
+    updated_at: '2026-01-30T08:37:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -920,11 +920,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 284
+    stars: 285
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-29T19:46:15Z'
+    updated_at: '2026-01-30T05:33:52Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1216,11 +1216,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 485
+    stars: 486
     contributors: 1
     last_activity: Last commit (Jan 26, 2026)
     archived: false
-    updated_at: '2026-01-26T01:04:07Z'
+    updated_at: '2026-01-30T03:26:14Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1535,11 +1535,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 77
+    stars: 78
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2026-01-01T02:03:10Z'
+    updated_at: '2026-01-30T08:45:08Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -1738,11 +1738,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 178
+    stars: 179
     contributors: 1
     last_activity: Last commit (Oct 15, 2025)
     archived: false
-    updated_at: '2026-01-27T18:11:15Z'
+    updated_at: '2026-01-30T03:35:13Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
@@ -1945,9 +1945,9 @@ repositories:
   stats:
     stars: 95
     contributors: 1
-    last_activity: Last commit (Jan 20, 2026)
+    last_activity: Last commit (Jan 30, 2026)
     archived: false
-    updated_at: '2026-01-26T22:56:35Z'
+    updated_at: '2026-01-30T12:22:12Z'
     language: TypeScript
 - name: bypass-bubblemap
   repo: FroganBee/bypass-bubblemap
@@ -2051,9 +2051,9 @@ repositories:
   stats:
     stars: 95
     contributors: 1
-    last_activity: Last commit (Jan 20, 2026)
+    last_activity: Last commit (Jan 30, 2026)
     archived: false
-    updated_at: '2026-01-26T22:56:35Z'
+    updated_at: '2026-01-30T12:22:12Z'
     language: TypeScript
 - name: solana-pumpfun-sniper-bot
   repo: ahmedrabby13/solana-pumpfun-sniper-bot
@@ -2062,6 +2062,19 @@ repositories:
   category: SDKs & Tooling
   stars: 592
   stats: null
+- name: espresso-cash-public
+  repo: brij-digital/espresso-cash-public
+  description: Dart and Flutter apps and libraries maintained by Espresso Cash team
+    for Solana.
+  category: Wallets & Mobile
+  stars: 302
+  stats:
+    stars: 302
+    contributors: 24
+    last_activity: Last commit (Jan 02, 2026)
+    archived: false
+    updated_at: '2026-01-30T11:54:28Z'
+    language: Dart
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
