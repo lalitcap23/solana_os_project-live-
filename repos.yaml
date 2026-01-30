@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14752
+    stars: 14753
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-29T11:43:57Z'
+    updated_at: '2026-01-29T17:54:20Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1635
+    stars: 1638
     contributors: 361
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-01-29T11:53:07Z'
+    updated_at: '2026-01-30T00:25:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 196
     contributors: 163
-    last_activity: bn254@v3.2.1 (Jan 14, 2026)
+    last_activity: rent@v4.0.0 (Jan 29, 2026)
     archived: false
-    updated_at: '2026-01-29T12:21:20Z'
+    updated_at: '2026-01-29T14:25:59Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4928
+    stars: 4929
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-28T18:04:45Z'
+    updated_at: '2026-01-29T17:54:49Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2688
+    stars: 2690
     contributors: 126
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-29T01:21:04Z'
+    updated_at: '2026-01-29T20:11:07Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4160
+    stars: 4161
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-29T02:28:01Z'
+    updated_at: '2026-01-29T17:53:53Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 431
+    stars: 432
     contributors: 11
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2026-01-29T02:15:21Z'
+    updated_at: '2026-01-29T16:38:01Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4928
+    stars: 4929
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-28T18:04:45Z'
+    updated_at: '2026-01-29T17:54:49Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -470,7 +470,7 @@ repositories:
     contributors: 4
     last_activity: Last commit (May 17, 2023)
     archived: false
-    updated_at: '2025-12-10T02:51:46Z'
+    updated_at: '2026-01-29T20:47:56Z'
     language: TypeScript
 - name: awesome-solana-security
   repo: 0xMacro/awesome-solana-security
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 274
+    stars: 275
     contributors: 10
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2025-12-20T08:38:38Z'
+    updated_at: '2026-01-29T14:21:14Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -754,11 +754,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 604
+    stars: 605
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-27T18:27:09Z'
+    updated_at: '2026-01-29T21:29:35Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -920,11 +920,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 285
+    stars: 284
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-01-23T17:11:00Z'
+    updated_at: '2026-01-29T19:46:15Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1190,11 +1190,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 154
+    stars: 153
     contributors: 1
     last_activity: Last commit (Sep 01, 2025)
     archived: false
-    updated_at: '2026-01-28T07:40:01Z'
+    updated_at: '2026-01-29T13:39:47Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1203,11 +1203,11 @@ repositories:
   category: SDKs & Tooling
   stars: 195
   stats:
-    stars: 214
+    stars: 213
     contributors: 1
     last_activity: Last commit (Jun 30, 2025)
     archived: false
-    updated_at: '2026-01-27T20:56:01Z'
+    updated_at: '2026-01-29T19:46:16Z'
     language: Rust
 - name: Solana-Arbitrage-Bot
   repo: AV1080p/Solana-Arbitrage-Bot
