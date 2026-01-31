@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14757
+    stars: 14756
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-31T00:53:27Z'
+    updated_at: '2026-01-31T10:26:02Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1641
+    stars: 1643
     contributors: 361
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-01-30T23:20:52Z'
+    updated_at: '2026-01-31T06:35:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-30T16:21:42Z'
+    updated_at: '2026-01-31T08:47:53Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2690
+    stars: 2691
     contributors: 126
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-01-30T21:24:44Z'
+    updated_at: '2026-01-31T06:52:38Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1981
+    stars: 1982
     contributors: 113
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-01-30T16:25:05Z'
+    updated_at: '2026-01-31T06:37:00Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4161
+    stars: 4162
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-01-29T17:53:53Z'
+    updated_at: '2026-01-31T02:11:55Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -178,7 +178,7 @@ repositories:
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-01-30T16:21:42Z'
+    updated_at: '2026-01-31T08:47:53Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 358
+    stars: 359
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-01-28T12:25:42Z'
+    updated_at: '2026-01-31T03:47:32Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 650
+    stars: 652
     contributors: 156
     last_activity: v5.5.1 (Jan 28, 2026)
     archived: false
-    updated_at: '2026-01-30T16:52:06Z'
+    updated_at: '2026-01-31T06:53:09Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -540,11 +540,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 719
+    stars: 718
     contributors: 26
     last_activity: v0.45.0 (Jan 06, 2026)
     archived: false
-    updated_at: '2026-01-16T08:17:02Z'
+    updated_at: '2026-01-31T01:54:42Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 914
     contributors: 30
-    last_activity: Last commit (Jan 30, 2026)
+    last_activity: Last commit (Jan 31, 2026)
     archived: false
-    updated_at: '2026-01-30T13:29:34Z'
+    updated_at: '2026-01-31T06:29:21Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 64
+    stars: 65
     contributors: 7
     last_activity: Last commit (Jan 28, 2026)
     archived: false
-    updated_at: '2026-01-28T08:47:36Z'
+    updated_at: '2026-01-31T12:16:07Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
