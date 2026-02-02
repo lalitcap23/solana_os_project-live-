@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14758
+    stars: 14760
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-01T14:48:36Z'
+    updated_at: '2026-02-02T11:31:04Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1646
+    stars: 1652
     contributors: 361
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-01T13:44:11Z'
+    updated_at: '2026-02-02T12:16:13Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 198
+    stars: 199
     contributors: 163
     last_activity: vote-interface@v5.1.0 (Jan 30, 2026)
     archived: false
-    updated_at: '2026-02-01T19:02:33Z'
+    updated_at: '2026-02-02T12:13:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 267
+    stars: 268
     contributors: 11
     last_activity: v3.4.0 (Jan 27, 2026)
     archived: false
-    updated_at: '2026-02-01T07:35:51Z'
+    updated_at: '2026-02-02T06:11:09Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2021,11 +2021,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 288
+    stars: 301
     contributors: 1
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-02-01T07:02:00Z'
+    updated_at: '2026-02-02T08:23:46Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
