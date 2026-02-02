@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14756
+    stars: 14758
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-01-31T20:07:53Z'
+    updated_at: '2026-02-01T14:48:36Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,18 +20,18 @@ repositories:
     contributors: 361
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-01T01:04:58Z'
+    updated_at: '2026-02-01T13:44:11Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 197
+    stars: 198
     contributors: 163
     last_activity: vote-interface@v5.1.0 (Jan 30, 2026)
     archived: false
-    updated_at: '2026-01-30T22:39:58Z'
+    updated_at: '2026-02-01T19:02:33Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4165
+    stars: 4166
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-02-01T06:34:29Z'
+    updated_at: '2026-02-01T21:08:59Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 360
+    stars: 361
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-01-31T16:20:34Z'
+    updated_at: '2026-02-01T21:04:54Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -754,11 +754,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 606
+    stars: 607
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-01-30T06:22:19Z'
+    updated_at: '2026-02-01T21:14:10Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 94
+    stars: 95
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-01-28T23:31:41Z'
+    updated_at: '2026-02-01T20:25:21Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 914
     contributors: 30
-    last_activity: Last commit (Jan 31, 2026)
+    last_activity: Last commit (Feb 01, 2026)
     archived: false
-    updated_at: '2026-01-31T22:58:01Z'
+    updated_at: '2026-02-01T22:51:57Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1149,11 +1149,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 77
+    stars: 78
     contributors: 12
     last_activity: v0.28.0 (Jan 09, 2026)
     archived: false
-    updated_at: '2026-01-26T08:01:18Z'
+    updated_at: '2026-02-01T17:01:47Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1369,7 +1369,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-01-27T02:22:53Z'
+    updated_at: '2026-02-01T16:10:31Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
