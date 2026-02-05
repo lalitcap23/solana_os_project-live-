@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14760
+    stars: 14761
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-04T17:05:46Z'
+    updated_at: '2026-02-05T10:14:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-04T22:11:00Z'
+    updated_at: '2026-02-05T12:14:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4934
+    stars: 4936
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-04T17:34:43Z'
+    updated_at: '2026-02-05T12:01:54Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4934
+    stars: 4936
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-04T17:34:43Z'
+    updated_at: '2026-02-05T12:01:54Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 361
+    stars: 362
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-04T17:56:50Z'
+    updated_at: '2026-02-05T11:24:23Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -292,7 +292,7 @@ repositories:
     contributors: 156
     last_activity: v6.0.0 (Feb 04, 2026)
     archived: false
-    updated_at: '2026-02-05T00:01:30Z'
+    updated_at: '2026-02-05T02:25:55Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 275
+    stars: 276
     contributors: 1
     last_activity: Last commit (Feb 04, 2026)
     archived: false
-    updated_at: '2026-02-04T21:21:04Z'
+    updated_at: '2026-02-05T10:29:55Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 547
+    stars: 551
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-04T23:10:51Z'
+    updated_at: '2026-02-05T08:28:58Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -754,11 +754,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 609
+    stars: 610
     contributors: 17
     last_activity: Last commit (Jan 08, 2026)
     archived: false
-    updated_at: '2026-02-04T13:08:36Z'
+    updated_at: '2026-02-05T03:38:29Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -959,11 +959,11 @@ repositories:
   category: SDKs & Tooling
   stars: 135
   stats:
-    stars: 157
+    stars: 159
     contributors: 3
     last_activity: Last commit (Nov 25, 2025)
     archived: false
-    updated_at: '2026-01-23T09:28:57Z'
+    updated_at: '2026-02-05T11:21:34Z'
     language: Rust
 - name: sol-trade-sdk
   repo: 0xfnzero/sol-trade-sdk
@@ -1241,10 +1241,10 @@ repositories:
   stars: 51
   stats:
     stars: 65
-    contributors: 7
-    last_activity: Last commit (Jan 28, 2026)
+    contributors: 8
+    last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-01-31T12:16:07Z'
+    updated_at: '2026-02-05T11:04:48Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -2005,11 +2005,11 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 221
+    stars: 222
     contributors: 1
     last_activity: Last commit (Mar 21, 2025)
     archived: false
-    updated_at: '2026-02-02T22:49:49Z'
+    updated_at: '2026-02-05T07:47:12Z'
     language: Rust
 - name: EVM-Solana-Casino-Games
   repo: LaChance-Lab/EVM-Solana-Casino-Games
@@ -2021,11 +2021,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 306
+    stars: 317
     contributors: 1
     last_activity: Last commit (Feb 03, 2026)
     archived: false
-    updated_at: '2026-02-04T06:41:22Z'
+    updated_at: '2026-02-05T06:34:59Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
