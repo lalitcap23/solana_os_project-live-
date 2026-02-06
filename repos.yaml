@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1656
+    stars: 1659
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-05T12:14:46Z'
+    updated_at: '2026-02-05T23:34:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 165
     last_activity: transaction@v3.1.0 (Feb 04, 2026)
     archived: false
-    updated_at: '2026-02-05T00:47:23Z'
+    updated_at: '2026-02-05T17:35:46Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 242
+    stars: 243
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-02-03T15:45:11Z'
+    updated_at: '2026-02-05T22:04:59Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 432
+    stars: 433
     contributors: 11
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2026-02-03T10:59:56Z'
+    updated_at: '2026-02-06T01:05:40Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -290,9 +290,9 @@ repositories:
   stats:
     stars: 653
     contributors: 156
-    last_activity: v6.0.0 (Feb 04, 2026)
+    last_activity: v6.0.1 (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-05T02:25:55Z'
+    updated_at: '2026-02-05T15:23:34Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -454,9 +454,9 @@ repositories:
   stats:
     stars: 276
     contributors: 1
-    last_activity: Last commit (Feb 04, 2026)
+    last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-05T10:29:55Z'
+    updated_at: '2026-02-05T19:00:26Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 551
+    stars: 552
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-05T08:28:58Z'
+    updated_at: '2026-02-05T13:21:16Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -516,11 +516,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 295
+    stars: 296
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2026-02-04T20:07:34Z'
+    updated_at: '2026-02-05T23:42:21Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -767,11 +767,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 290
+    stars: 289
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2026-01-27T18:39:55Z'
+    updated_at: '2026-02-05T23:50:05Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 915
     contributors: 30
-    last_activity: Last commit (Feb 04, 2026)
+    last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-04T14:27:48Z'
+    updated_at: '2026-02-05T13:03:30Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 268
+    stars: 269
     contributors: 11
     last_activity: v3.4.0 (Jan 27, 2026)
     archived: false
-    updated_at: '2026-02-02T06:11:09Z'
+    updated_at: '2026-02-05T18:27:23Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1244,7 +1244,7 @@ repositories:
     contributors: 8
     last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-05T11:04:48Z'
+    updated_at: '2026-02-05T18:22:09Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1834,11 +1834,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 139
+    stars: 137
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2026-01-24T21:54:06Z'
+    updated_at: '2026-02-05T22:13:02Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
