@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14765
+    stars: 14767
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-06T12:03:00Z'
+    updated_at: '2026-02-06T16:57:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-06T12:22:29Z'
+    updated_at: '2026-02-06T22:17:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4937
+    stars: 4940
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-06T07:08:51Z'
+    updated_at: '2026-02-06T22:47:01Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4937
+    stars: 4940
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-06T07:08:51Z'
+    updated_at: '2026-02-06T22:47:01Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 550
-    contributors: 38
+    contributors: 39
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-04T05:34:34Z'
+    updated_at: '2026-02-06T15:49:43Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 362
+    stars: 363
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-05T11:24:23Z'
+    updated_at: '2026-02-06T16:53:31Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -236,11 +236,11 @@ repositories:
   category: SDKs & Tooling
   stars: 93
   stats:
-    stars: 95
+    stars: 96
     contributors: 6
     last_activity: Last commit (Nov 08, 2024)
     archived: false
-    updated_at: '2025-11-19T11:30:07Z'
+    updated_at: '2026-02-06T22:58:01Z'
     language: Rust
 - name: znap
   repo: heavy-duty/znap
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 552
+    stars: 551
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-05T13:21:16Z'
+    updated_at: '2026-02-06T20:57:22Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 220
-    contributors: 7
-    last_activity: Last commit (Nov 26, 2025)
+    stars: 221
+    contributors: 9
+    last_activity: Last commit (Feb 06, 2026)
     archived: false
-    updated_at: '2026-01-31T20:31:13Z'
+    updated_at: '2026-02-06T18:45:05Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 915
+    stars: 916
     contributors: 30
-    last_activity: Last commit (Feb 05, 2026)
+    last_activity: Last commit (Feb 06, 2026)
     archived: false
-    updated_at: '2026-02-05T13:03:30Z'
+    updated_at: '2026-02-06T22:54:48Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 65
+    stars: 66
     contributors: 8
     last_activity: Last commit (Feb 06, 2026)
     archived: false
-    updated_at: '2026-02-06T06:54:38Z'
+    updated_at: '2026-02-06T23:10:43Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1315,11 +1315,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 152
+    stars: 151
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-01-24T10:23:20Z'
+    updated_at: '2026-02-06T15:47:15Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -2021,11 +2021,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 317
+    stars: 319
     contributors: 1
     last_activity: Last commit (Feb 03, 2026)
     archived: false
-    updated_at: '2026-02-05T06:34:59Z'
+    updated_at: '2026-02-06T18:19:18Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
