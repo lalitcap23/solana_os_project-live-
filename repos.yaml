@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1659
+    stars: 1660
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-06T22:17:03Z'
+    updated_at: '2026-02-07T06:42:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 653
+    stars: 654
     contributors: 156
     last_activity: v6.0.1 (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-06T11:44:36Z'
+    updated_at: '2026-02-07T09:19:31Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 376
+    stars: 375
     contributors: 13
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-02-01T06:11:55Z'
+    updated_at: '2026-02-07T04:53:49Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -378,11 +378,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1362
+    stars: 1364
     contributors: 50
     last_activity: Last commit (Jan 30, 2026)
     archived: false
-    updated_at: '2026-02-04T09:42:29Z'
+    updated_at: '2026-02-07T09:00:15Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 916
+    stars: 915
     contributors: 30
     last_activity: Last commit (Feb 06, 2026)
     archived: false
-    updated_at: '2026-02-06T22:54:48Z'
+    updated_at: '2026-02-07T10:04:53Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -945,11 +945,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 162
+    stars: 161
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-02-01T09:40:37Z'
+    updated_at: '2026-02-07T09:30:22Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 269
+    stars: 270
     contributors: 11
     last_activity: v3.4.0 (Jan 27, 2026)
     archived: false
-    updated_at: '2026-02-05T18:27:23Z'
+    updated_at: '2026-02-07T03:07:24Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1242,9 +1242,9 @@ repositories:
   stats:
     stars: 66
     contributors: 8
-    last_activity: Last commit (Feb 06, 2026)
+    last_activity: Last commit (Feb 07, 2026)
     archived: false
-    updated_at: '2026-02-06T23:10:43Z'
+    updated_at: '2026-02-07T05:05:49Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
