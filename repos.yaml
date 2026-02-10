@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14776
+    stars: 14777
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-09T18:19:06Z'
+    updated_at: '2026-02-10T10:09:20Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1667
-    contributors: 361
+    stars: 1669
+    contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-09T23:58:13Z'
+    updated_at: '2026-02-10T12:51:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 205
+    stars: 206
     contributors: 165
     last_activity: clock@v2.2.3 (Feb 09, 2026)
     archived: false
-    updated_at: '2026-02-09T23:25:27Z'
+    updated_at: '2026-02-10T12:30:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4947
+    stars: 4948
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-09T20:34:10Z'
+    updated_at: '2026-02-10T03:35:21Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4173
+    stars: 4174
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-02-09T21:19:09Z'
+    updated_at: '2026-02-10T10:29:40Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4947
+    stars: 4948
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-09T20:34:10Z'
+    updated_at: '2026-02-10T03:35:21Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 365
+    stars: 366
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-08T20:03:56Z'
+    updated_at: '2026-02-10T03:34:45Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 388
+    stars: 389
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2026-01-31T19:34:39Z'
+    updated_at: '2026-02-10T10:30:38Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -432,11 +432,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 344
+    stars: 345
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2025-12-23T10:25:01Z'
+    updated_at: '2026-02-10T06:05:30Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 278
+    stars: 279
     contributors: 1
     last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-08T23:00:41Z'
+    updated_at: '2026-02-10T04:36:45Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 552
+    stars: 553
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-08T16:20:43Z'
+    updated_at: '2026-02-10T02:12:47Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 915
+    stars: 914
     contributors: 30
-    last_activity: Last commit (Feb 09, 2026)
+    last_activity: Last commit (Feb 10, 2026)
     archived: false
-    updated_at: '2026-02-09T03:27:07Z'
+    updated_at: '2026-02-10T05:50:30Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 63
   stats:
-    stars: 66
+    stars: 67
     contributors: 10
     last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
     archived: false
-    updated_at: '2026-01-09T13:35:35Z'
+    updated_at: '2026-02-10T06:00:47Z'
     language: TypeScript
 - name: Solana-Token-Staking-Smart-Contract
   repo: cutupdev/Solana-Token-Staking-Smart-Contract
@@ -1377,11 +1377,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 34
+    stars: 35
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2026-02-07T12:53:57Z'
+    updated_at: '2026-02-10T10:23:15Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
