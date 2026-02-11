@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14780
+    stars: 14779
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-10T22:42:55Z'
+    updated_at: '2026-02-11T05:55:54Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1669
+    stars: 1671
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-11T01:00:48Z'
+    updated_at: '2026-02-11T11:40:42Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 165
     last_activity: clock@v2.2.3 (Feb 09, 2026)
     archived: false
-    updated_at: '2026-02-10T14:27:59Z'
+    updated_at: '2026-02-11T12:25:52Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4949
+    stars: 4950
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-11T01:09:51Z'
+    updated_at: '2026-02-11T08:35:02Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,18 +55,18 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-02-11T01:09:47Z'
+    updated_at: '2026-02-11T11:22:16Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1983
+    stars: 1986
     contributors: 113
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-02-11T01:09:35Z'
+    updated_at: '2026-02-11T08:35:04Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4173
+    stars: 4174
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-02-10T19:56:25Z'
+    updated_at: '2026-02-11T09:34:12Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4949
+    stars: 4950
     contributors: 312
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-11T01:09:51Z'
+    updated_at: '2026-02-11T08:35:02Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 280
+    stars: 281
     contributors: 1
     last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-10T20:15:52Z'
+    updated_at: '2026-02-11T03:26:44Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 553
+    stars: 554
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-10T02:12:47Z'
+    updated_at: '2026-02-11T03:31:59Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3366
+    stars: 3367
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-02-10T16:58:33Z'
+    updated_at: '2026-02-11T08:35:03Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -887,7 +887,7 @@ repositories:
     contributors: 30
     last_activity: Last commit (Feb 10, 2026)
     archived: false
-    updated_at: '2026-02-10T05:50:30Z'
+    updated_at: '2026-02-11T03:27:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -920,11 +920,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 285
+    stars: 286
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-02-08T16:43:11Z'
+    updated_at: '2026-02-11T02:57:05Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -973,11 +973,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 271
+    stars: 272
     contributors: 11
     last_activity: v3.4.0 (Jan 27, 2026)
     archived: false
-    updated_at: '2026-02-09T20:05:09Z'
+    updated_at: '2026-02-11T02:50:39Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1151,9 +1151,9 @@ repositories:
   stats:
     stars: 79
     contributors: 12
-    last_activity: v0.28.0 (Jan 09, 2026)
+    last_activity: v0.29.0 (Feb 11, 2026)
     archived: false
-    updated_at: '2026-02-09T11:21:08Z'
+    updated_at: '2026-02-11T10:25:50Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1441,11 +1441,11 @@ repositories:
   category: SDKs & Tooling
   stars: 47
   stats:
-    stars: 46
+    stars: 47
     contributors: 1
     last_activity: Last commit (May 10, 2024)
     archived: false
-    updated_at: '2026-01-14T12:32:57Z'
+    updated_at: '2026-02-11T07:09:27Z'
     language: TypeScript
 - name: solana-copytrading-bot
   repo: knightlightst/solana-copytrading-bot
@@ -1600,10 +1600,10 @@ repositories:
   stars: 63
   stats:
     stars: 60
-    contributors: 5
-    last_activity: Last commit (Oct 27, 2025)
+    contributors: 6
+    last_activity: Last commit (Feb 11, 2026)
     archived: false
-    updated_at: '2026-02-09T11:31:19Z'
+    updated_at: '2026-02-11T12:51:40Z'
     language: TypeScript
 - name: IDLGuesser
   repo: sec3-service/IDLGuesser
