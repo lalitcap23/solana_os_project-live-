@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14783
+    stars: 14782
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-14T22:09:21Z'
+    updated_at: '2026-02-15T06:44:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1677
+    stars: 1678
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-14T22:09:53Z'
+    updated_at: '2026-02-15T08:17:26Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 297
+    stars: 298
     contributors: 0
     last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-15T01:11:45Z'
+    updated_at: '2026-02-15T05:44:33Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -613,11 +613,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 117
+    stars: 118
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2026-01-01T23:49:19Z'
+    updated_at: '2026-02-15T09:59:32Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -678,11 +678,11 @@ repositories:
   category: Wallets & Mobile
   stars: 34
   stats:
-    stars: 9
+    stars: 8
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-12-31T18:05:47Z'
+    updated_at: '2026-02-15T08:36:49Z'
     language: TypeScript
 - name: solacademy-wallet
   repo: moviendome/solacademy-wallet
@@ -895,11 +895,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 332
+    stars: 333
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2026-02-03T12:21:39Z'
+    updated_at: '2026-02-15T04:29:53Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -1890,11 +1890,11 @@ repositories:
   category: Wallets & Mobile
   stars: 10
   stats:
-    stars: 9
+    stars: 8
     contributors: 1
     last_activity: Last commit (Aug 07, 2025)
     archived: false
-    updated_at: '2025-12-31T18:05:47Z'
+    updated_at: '2026-02-15T08:36:49Z'
     language: TypeScript
 - name: solana-fun-token-launch-pad
   repo: BlackSky-Jose/solana-fun-token-launch-pad
