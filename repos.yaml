@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1988
+    stars: 1989
     contributors: 113
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-02-12T04:19:21Z'
+    updated_at: '2026-02-16T11:18:00Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 552
+    stars: 553
     contributors: 39
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-15T20:38:56Z'
+    updated_at: '2026-02-16T01:41:04Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 244
+    stars: 245
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-02-06T08:54:55Z'
+    updated_at: '2026-02-16T06:57:19Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 300
+    stars: 303
     contributors: 0
     last_activity: Last commit (Feb 05, 2026)
     archived: false
-    updated_at: '2026-02-15T23:36:36Z'
+    updated_at: '2026-02-16T11:45:08Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -985,11 +985,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 121
+    stars: 122
     contributors: 4
     last_activity: Last commit (Feb 08, 2026)
     archived: false
-    updated_at: '2026-02-08T23:15:52Z'
+    updated_at: '2026-02-16T07:47:11Z'
     language: Python
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1242,9 +1242,9 @@ repositories:
   stats:
     stars: 67
     contributors: 8
-    last_activity: Last commit (Feb 13, 2026)
+    last_activity: Last commit (Feb 16, 2026)
     archived: false
-    updated_at: '2026-02-13T07:46:21Z'
+    updated_at: '2026-02-16T10:47:11Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
