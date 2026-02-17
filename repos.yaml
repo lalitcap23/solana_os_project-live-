@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 208
+    stars: 209
     contributors: 167
     last_activity: transaction@v4.0.0 (Feb 14, 2026)
     archived: false
-    updated_at: '2026-02-14T07:24:32Z'
+    updated_at: '2026-02-17T11:51:29Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 92
+    stars: 93
     contributors: 8
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-02-17T01:09:52Z'
+    updated_at: '2026-02-17T03:29:34Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -249,11 +249,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 70
+    stars: 71
     contributors: 4
     last_activity: 0.1.36 (Aug 29, 2024)
     archived: false
-    updated_at: '2025-10-08T00:56:02Z'
+    updated_at: '2026-02-17T06:18:17Z'
     language: Rust
 - name: sol-ctf-framework
   repo: otter-sec/sol-ctf-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 656
+    stars: 657
     contributors: 158
     last_activity: v6.1.0 (Feb 16, 2026)
     archived: false
-    updated_at: '2026-02-16T20:22:12Z'
+    updated_at: '2026-02-17T12:34:48Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 646
+    stars: 647
     contributors: 64
     last_activity: Last commit (Oct 02, 2025)
     archived: false
-    updated_at: '2026-02-15T22:21:36Z'
+    updated_at: '2026-02-17T08:44:01Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -1242,9 +1242,9 @@ repositories:
   stats:
     stars: 67
     contributors: 8
-    last_activity: Last commit (Feb 17, 2026)
+    last_activity: v0.2.1 (Feb 17, 2026)
     archived: false
-    updated_at: '2026-02-17T01:03:30Z'
+    updated_at: '2026-02-17T05:16:55Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
