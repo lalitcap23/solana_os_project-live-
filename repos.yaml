@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14781
+    stars: 14782
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-19T00:56:07Z'
+    updated_at: '2026-02-19T12:24:18Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-19T00:23:34Z'
+    updated_at: '2026-02-19T04:28:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 93
+    stars: 94
     contributors: 8
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-02-17T03:29:34Z'
+    updated_at: '2026-02-19T08:21:06Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 369
+    stars: 370
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-02-16T13:16:39Z'
+    updated_at: '2026-02-19T09:01:45Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 658
+    stars: 659
     contributors: 158
     last_activity: v6.1.0 (Feb 16, 2026)
     archived: false
-    updated_at: '2026-02-18T15:18:21Z'
+    updated_at: '2026-02-19T10:07:37Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 311
-    contributors: 0
-    last_activity: Last commit (Feb 05, 2026)
+    stars: 313
+    contributors: 1
+    last_activity: Last commit (Feb 19, 2026)
     archived: false
-    updated_at: '2026-02-18T21:59:17Z'
+    updated_at: '2026-02-19T06:54:10Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 915
+    stars: 916
     contributors: 30
     last_activity: Last commit (Feb 18, 2026)
     archived: false
-    updated_at: '2026-02-18T20:16:04Z'
+    updated_at: '2026-02-19T12:26:45Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -987,9 +987,9 @@ repositories:
   stats:
     stars: 122
     contributors: 4
-    last_activity: Last commit (Feb 18, 2026)
+    last_activity: Last commit (Feb 19, 2026)
     archived: false
-    updated_at: '2026-02-18T23:58:32Z'
+    updated_at: '2026-02-19T04:20:44Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
