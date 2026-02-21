@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1684
+    stars: 1686
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-21T00:54:33Z'
+    updated_at: '2026-02-21T12:17:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 412
+    stars: 413
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2026-02-20T20:18:26Z'
+    updated_at: '2026-02-21T09:11:00Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 328
+    stars: 330
     contributors: 1
     last_activity: Last commit (Feb 20, 2026)
     archived: false
-    updated_at: '2026-02-20T23:01:49Z'
+    updated_at: '2026-02-21T11:49:57Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 559
+    stars: 563
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-02-20T23:17:19Z'
+    updated_at: '2026-02-21T11:33:47Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 919
+    stars: 918
     contributors: 30
-    last_activity: Last commit (Feb 20, 2026)
+    last_activity: Last commit (Feb 21, 2026)
     archived: false
-    updated_at: '2026-02-20T15:02:35Z'
+    updated_at: '2026-02-21T09:36:19Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1137,11 +1137,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 412
+    stars: 413
     contributors: 26
     last_activity: Last commit (Nov 16, 2025)
     archived: false
-    updated_at: '2026-02-20T20:18:26Z'
+    updated_at: '2026-02-21T09:11:00Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1240,11 +1240,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 67
+    stars: 68
     contributors: 8
     last_activity: v0.2.1 (Feb 17, 2026)
     archived: false
-    updated_at: '2026-02-20T07:32:09Z'
+    updated_at: '2026-02-21T05:37:37Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1273,11 +1273,11 @@ repositories:
   category: SDKs & Tooling
   stars: 63
   stats:
-    stars: 68
+    stars: 69
     contributors: 10
     last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
     archived: false
-    updated_at: '2026-02-15T22:00:05Z'
+    updated_at: '2026-02-21T03:18:01Z'
     language: TypeScript
 - name: Solana-Token-Staking-Smart-Contract
   repo: cutupdev/Solana-Token-Staking-Smart-Contract
@@ -2050,7 +2050,7 @@ repositories:
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-02-20T16:01:07Z'
+    updated_at: '2026-02-21T12:21:42Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
