@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-02-27T10:49:21Z'
+    updated_at: '2026-02-27T22:00:24Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v3.1.8 (Jan 26, 2026)
     archived: false
-    updated_at: '2026-02-27T12:23:35Z'
+    updated_at: '2026-02-27T23:28:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 168
     last_activity: program-option@v3.0.1 (Feb 26, 2026)
     archived: false
-    updated_at: '2026-02-26T22:27:00Z'
+    updated_at: '2026-02-28T01:01:29Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 315
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-27T04:59:35Z'
+    updated_at: '2026-02-27T13:57:57Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: list-view@v0.1.0 (Feb 25, 2026)
     archived: false
-    updated_at: '2026-02-27T07:14:37Z'
+    updated_at: '2026-02-27T21:47:55Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -120,7 +120,7 @@ repositories:
   stats:
     stars: 242
     contributors: 3
-    last_activity: v7.0.6 (Feb 12, 2026)
+    last_activity: v7.0.7 (Feb 27, 2026)
     archived: false
     updated_at: '2026-02-26T01:46:29Z'
     language: Dockerfile
@@ -144,7 +144,7 @@ repositories:
     contributors: 19
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2026-02-27T06:48:52Z'
+    updated_at: '2026-02-27T21:11:28Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -178,7 +178,7 @@ repositories:
     contributors: 315
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-02-27T04:59:35Z'
+    updated_at: '2026-02-27T13:57:57Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 339
+    stars: 341
     contributors: 2
     last_activity: Last commit (Feb 27, 2026)
     archived: false
-    updated_at: '2026-02-27T12:07:49Z'
+    updated_at: '2026-02-27T19:30:54Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -883,11 +883,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 923
+    stars: 924
     contributors: 31
-    last_activity: Last commit (Feb 26, 2026)
+    last_activity: Last commit (Feb 27, 2026)
     archived: false
-    updated_at: '2026-02-27T02:41:55Z'
+    updated_at: '2026-02-27T14:47:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -895,11 +895,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 333
+    stars: 334
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2026-02-15T04:29:53Z'
+    updated_at: '2026-02-27T15:35:16Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -975,9 +975,9 @@ repositories:
   stats:
     stars: 275
     contributors: 10
-    last_activity: v3.5.5 (Feb 27, 2026)
+    last_activity: v3.5.6 (Feb 27, 2026)
     archived: false
-    updated_at: '2026-02-27T07:07:30Z'
+    updated_at: '2026-02-27T17:02:01Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1244,7 +1244,7 @@ repositories:
     contributors: 8
     last_activity: v0.2.2 (Feb 27, 2026)
     archived: false
-    updated_at: '2026-02-27T11:38:22Z'
+    updated_at: '2026-02-27T16:55:47Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -2118,6 +2118,20 @@ repositories:
     archived: false
     updated_at: '2026-02-27T09:46:04Z'
     language: TypeScript
+- name: solana-trading-bot
+  repo: channeleldernumber/solana-trading-bot
+  description: solana bot || solana trading bot || solana warp trading bot || solana
+    meme sniper bot || solana trade bot || solana trading bot v3 || solana raydium
+    sniper bot
+  category: SDKs & Tooling
+  stars: 77
+  stats:
+    stars: 77
+    contributors: 1
+    last_activity: Last commit (Feb 27, 2026)
+    archived: false
+    updated_at: '2026-02-28T00:40:08Z'
+    language: Shell
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
