@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v3.1.9 (Feb 19, 2026)
     archived: false
-    updated_at: '2026-03-07T01:06:44Z'
+    updated_at: '2026-03-07T02:20:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4971
+    stars: 4970
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-07T00:29:01Z'
+    updated_at: '2026-03-07T11:37:50Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4182
+    stars: 4183
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-03-04T18:12:40Z'
+    updated_at: '2026-03-07T06:50:06Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4971
+    stars: 4970
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-07T00:29:01Z'
+    updated_at: '2026-03-07T11:37:50Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 350
+    stars: 351
     contributors: 2
     last_activity: Last commit (Mar 04, 2026)
     archived: false
-    updated_at: '2026-03-05T19:02:07Z'
+    updated_at: '2026-03-07T09:14:21Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 925
     contributors: 31
-    last_activity: Last commit (Mar 06, 2026)
+    last_activity: Last commit (Mar 07, 2026)
     archived: false
-    updated_at: '2026-03-06T02:35:07Z'
+    updated_at: '2026-03-07T02:32:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -977,7 +977,7 @@ repositories:
     contributors: 10
     last_activity: v3.5.7 (Feb 28, 2026)
     archived: false
-    updated_at: '2026-03-06T08:41:45Z'
+    updated_at: '2026-03-07T03:45:49Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1244,7 +1244,7 @@ repositories:
     contributors: 8
     last_activity: v0.2.2 (Feb 27, 2026)
     archived: false
-    updated_at: '2026-03-05T04:04:06Z'
+    updated_at: '2026-03-07T04:06:34Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1500,7 +1500,7 @@ repositories:
     contributors: 12
     last_activity: v1.2.2 (Feb 23, 2026)
     archived: false
-    updated_at: '2026-03-06T00:43:24Z'
+    updated_at: '2026-03-07T12:24:59Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2070,11 +2070,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 568
+    stars: 569
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-03-03T19:17:28Z'
+    updated_at: '2026-03-07T09:03:08Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2115,7 +2115,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Mar 04, 2026)
     archived: false
-    updated_at: '2026-03-05T23:58:18Z'
+    updated_at: '2026-03-07T11:47:26Z'
     language: TypeScript
 - name: solana-pumpfun-sniper-bot
   repo: HaiderFlorez/solana-pumpfun-sniper-bot
@@ -2128,7 +2128,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Mar 04, 2026)
     archived: false
-    updated_at: '2026-03-05T23:18:02Z'
+    updated_at: '2026-03-07T11:47:24Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: channeleldernumber/solana-trading-bot
