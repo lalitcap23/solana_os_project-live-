@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.10 (Mar 10, 2026)
     archived: false
-    updated_at: '2026-03-16T12:05:38Z'
+    updated_at: '2026-03-17T01:18:28Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 169
     last_activity: frozen-abi@v3.2.2 (Mar 11, 2026)
     archived: false
-    updated_at: '2026-03-16T06:04:05Z'
+    updated_at: '2026-03-17T01:07:46Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4987
+    stars: 4986
     contributors: 313
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-16T08:15:37Z'
+    updated_at: '2026-03-16T16:54:09Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -141,10 +141,10 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 318
-    contributors: 19
+    contributors: 20
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2026-03-06T17:08:29Z'
+    updated_at: '2026-03-16T20:53:34Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 8
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-03-11T18:09:13Z'
+    updated_at: '2026-03-16T20:09:42Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4987
+    stars: 4986
     contributors: 313
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-16T08:15:37Z'
+    updated_at: '2026-03-16T16:54:09Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 377
+    stars: 378
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-03-15T10:05:26Z'
+    updated_at: '2026-03-16T13:50:37Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 670
-    contributors: 160
+    contributors: 161
     last_activity: v6.3.1 (Mar 12, 2026)
     archived: false
-    updated_at: '2026-03-16T10:57:17Z'
+    updated_at: '2026-03-16T17:52:57Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 371
+    stars: 372
     contributors: 2
     last_activity: Last commit (Mar 04, 2026)
     archived: false
-    updated_at: '2026-03-16T05:58:22Z'
+    updated_at: '2026-03-16T22:18:24Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -479,11 +479,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 581
+    stars: 582
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-03-15T10:15:43Z'
+    updated_at: '2026-03-16T19:58:48Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -756,9 +756,9 @@ repositories:
   stats:
     stars: 612
     contributors: 19
-    last_activity: Last commit (Mar 13, 2026)
+    last_activity: Last commit (Mar 16, 2026)
     archived: false
-    updated_at: '2026-03-13T21:24:46Z'
+    updated_at: '2026-03-16T17:16:23Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -975,9 +975,9 @@ repositories:
   stats:
     stars: 285
     contributors: 11
-    last_activity: v3.6.2 (Mar 12, 2026)
+    last_activity: v3.6.4 (Mar 16, 2026)
     archived: false
-    updated_at: '2026-03-15T14:25:05Z'
+    updated_at: '2026-03-16T21:08:32Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1359,11 +1359,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 50
+    stars: 51
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-03-09T11:32:02Z'
+    updated_at: '2026-03-16T17:18:12Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -1712,11 +1712,11 @@ repositories:
   category: DeFi
   stars: 214
   stats:
-    stars: 195
+    stars: 194
     contributors: 1
     last_activity: Last commit (Feb 22, 2026)
     archived: false
-    updated_at: '2026-03-05T18:58:50Z'
+    updated_at: '2026-03-16T21:08:20Z'
     language: TypeScript
 - name: solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
   repo: Tru3Bliss/solana-token-bundler-pumpfun-pump.fun-bonkfun-bonk.fun
@@ -1963,11 +1963,11 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 218
+    stars: 219
     contributors: 1
     last_activity: Last commit (Feb 25, 2026)
     archived: false
-    updated_at: '2026-03-09T07:44:00Z'
+    updated_at: '2026-03-17T00:00:41Z'
     language: Rust
 - name: EVM-Solana-Casino-Games
   repo: LaChance-Lab/EVM-Solana-Casino-Games
@@ -2079,11 +2079,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 218
+    stars: 219
     contributors: 1
     last_activity: Last commit (Feb 25, 2026)
     archived: false
-    updated_at: '2026-03-09T07:44:00Z'
+    updated_at: '2026-03-17T00:00:41Z'
     language: Rust
 - name: anchor-client-gen
   repo: kklas/anchor-client-gen
