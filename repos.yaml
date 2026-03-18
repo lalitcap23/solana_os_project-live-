@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14822
+    stars: 14821
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-03-17T07:15:20Z'
+    updated_at: '2026-03-17T20:08:38Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.10 (Mar 10, 2026)
     archived: false
-    updated_at: '2026-03-17T11:28:16Z'
+    updated_at: '2026-03-17T23:46:50Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 169
     last_activity: frozen-abi@v3.2.2 (Mar 11, 2026)
     archived: false
-    updated_at: '2026-03-17T01:07:46Z'
+    updated_at: '2026-03-17T22:30:11Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4985
-    contributors: 313
+    stars: 4986
+    contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-17T07:18:53Z'
+    updated_at: '2026-03-17T15:36:57Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -144,7 +144,7 @@ repositories:
     contributors: 20
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2026-03-16T20:53:34Z'
+    updated_at: '2026-03-17T17:38:26Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 433
+    stars: 434
     contributors: 12
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2026-03-15T10:50:05Z'
+    updated_at: '2026-03-17T16:06:53Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4985
-    contributors: 313
+    stars: 4986
+    contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-17T07:18:53Z'
+    updated_at: '2026-03-17T15:36:57Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 564
+    stars: 565
     contributors: 40
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-03-16T05:38:31Z'
+    updated_at: '2026-03-17T14:17:17Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 161
     last_activity: v6.3.1 (Mar 12, 2026)
     archived: false
-    updated_at: '2026-03-17T11:06:36Z'
+    updated_at: '2026-03-17T17:44:36Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 371
+    stars: 372
     contributors: 2
     last_activity: Last commit (Mar 04, 2026)
     archived: false
-    updated_at: '2026-03-17T06:57:43Z'
+    updated_at: '2026-03-17T19:03:09Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -576,11 +576,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 224
+    stars: 225
     contributors: 11
     last_activity: Last commit (Mar 15, 2026)
     archived: false
-    updated_at: '2026-03-15T13:05:35Z'
+    updated_at: '2026-03-17T18:17:14Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -2109,7 +2109,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Mar 08, 2026)
     archived: false
-    updated_at: '2026-03-17T02:04:32Z'
+    updated_at: '2026-03-17T20:11:47Z'
     language: TypeScript
 - name: solana-pumpfun-sniper-bot
   repo: HaiderFlorez/solana-pumpfun-sniper-bot
