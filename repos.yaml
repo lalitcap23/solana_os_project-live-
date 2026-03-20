@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14820
+    stars: 14825
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-03-19T10:35:19Z'
+    updated_at: '2026-03-19T22:23:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1719
+    stars: 1718
     contributors: 358
     last_activity: v3.1.10 (Mar 10, 2026)
     archived: false
-    updated_at: '2026-03-19T12:16:26Z'
+    updated_at: '2026-03-20T00:50:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4985
+    stars: 4986
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-18T20:33:49Z'
+    updated_at: '2026-03-19T19:31:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 1993
+    stars: 1994
     contributors: 115
     last_activity: '@solana/wallet-adapter-xdefi@0.1.11 (Jun 10, 2025)'
     archived: false
-    updated_at: '2026-03-19T06:26:30Z'
+    updated_at: '2026-03-19T19:29:42Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4194
+    stars: 4195
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-03-19T11:56:08Z'
+    updated_at: '2026-03-19T18:54:33Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -144,7 +144,7 @@ repositories:
     contributors: 20
     last_activity: v2.1.0 (Aug 18, 2025)
     archived: false
-    updated_at: '2026-03-18T20:46:37Z'
+    updated_at: '2026-03-19T20:18:29Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 8
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-03-18T23:53:58Z'
+    updated_at: '2026-03-19T23:48:48Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4985
+    stars: 4986
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-18T20:33:49Z'
+    updated_at: '2026-03-19T19:31:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 378
+    stars: 379
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-03-16T13:50:37Z'
+    updated_at: '2026-03-19T23:47:21Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4155
+    stars: 4157
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-03-18T08:51:19Z'
+    updated_at: '2026-03-19T23:27:46Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 669
+    stars: 670
     contributors: 161
-    last_activity: v6.4.0 (Mar 18, 2026)
+    last_activity: v6.5.0 (Mar 19, 2026)
     archived: false
-    updated_at: '2026-03-19T08:11:23Z'
+    updated_at: '2026-03-19T16:58:57Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 378
+    stars: 377
     contributors: 13
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-03-14T12:01:14Z'
+    updated_at: '2026-03-19T14:16:06Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -341,11 +341,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 174
+    stars: 175
     contributors: 1
     last_activity: Last commit (Feb 23, 2026)
     archived: false
-    updated_at: '2026-03-07T00:51:04Z'
+    updated_at: '2026-03-19T21:24:47Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -382,7 +382,7 @@ repositories:
     contributors: 51
     last_activity: Last commit (Mar 19, 2026)
     archived: false
-    updated_at: '2026-03-19T09:35:20Z'
+    updated_at: '2026-03-19T14:32:14Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 373
+    stars: 376
     contributors: 2
     last_activity: Last commit (Mar 19, 2026)
     archived: false
-    updated_at: '2026-03-19T06:50:13Z'
+    updated_at: '2026-03-19T23:41:51Z'
     language: Rust
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3363
+    stars: 3365
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-03-18T17:19:22Z'
+    updated_at: '2026-03-19T18:56:30Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 647
+    stars: 648
     contributors: 64
     last_activity: Last commit (Mar 13, 2026)
     archived: false
-    updated_at: '2026-03-13T13:12:25Z'
+    updated_at: '2026-03-19T18:56:31Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -977,7 +977,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.0 (Mar 18, 2026)
     archived: false
-    updated_at: '2026-03-19T02:39:34Z'
+    updated_at: '2026-03-19T17:17:19Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1216,11 +1216,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 487
+    stars: 488
     contributors: 1
     last_activity: Last commit (Jan 26, 2026)
     archived: false
-    updated_at: '2026-03-16T09:50:37Z'
+    updated_at: '2026-03-19T17:53:38Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -1726,11 +1726,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 174
+    stars: 175
     contributors: 1
     last_activity: Last commit (Feb 23, 2026)
     archived: false
-    updated_at: '2026-03-07T00:51:04Z'
+    updated_at: '2026-03-19T21:24:47Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
@@ -2105,11 +2105,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 700
+    stars: 701
     contributors: 1
     last_activity: Last commit (Mar 18, 2026)
     archived: false
-    updated_at: '2026-03-18T15:44:42Z'
+    updated_at: '2026-03-20T00:29:28Z'
     language: TypeScript
 - name: solana-pumpfun-sniper-bot
   repo: HaiderFlorez/solana-pumpfun-sniper-bot
@@ -2144,6 +2144,54 @@ repositories:
     last_activity: Last commit (Mar 16, 2026)
     archived: false
     updated_at: '2026-03-18T12:03:41Z'
+    language: TypeScript
+- name: solana-ohlc-candlestick-data-api
+  repo: vybenetwork/solana-ohlc-candlestick-data-api
+  description: 'Solana OHLC Candlestick Data API: This repository demonstrates how
+    to use the Vybe Solana OHLC candlestick data API to fetch, display, and export
+    OHLC candlestick data for any Token-2022 or SPL token. Use this project as a reference
+    implementation or starter kit for building Solana price charting UIs, backtesting
+    pipelines, and on-chain analytics.'
+  category: SDKs & Tooling
+  stars: 106
+  stats:
+    stars: 106
+    contributors: 1
+    last_activity: Last commit (Mar 19, 2026)
+    archived: false
+    updated_at: '2026-03-20T00:45:37Z'
+    language: TypeScript
+- name: solana-token-stats-metadata-api
+  repo: vybenetwork/solana-token-stats-metadata-api
+  description: 'Solana Token Stats Metadata API: This repository demonstrates how
+    to use the Vybe Solana Token API to fetch comprehensive Solana token stats and
+    metadata for any Token-2022 or SPL token. Use this project as a reference implementation
+    or starter kit for building Solana analytics dashboards, token explorers, and
+    on-chain data products.'
+  category: SDKs & Tooling
+  stars: 105
+  stats:
+    stars: 105
+    contributors: 1
+    last_activity: Last commit (Mar 13, 2026)
+    archived: false
+    updated_at: '2026-03-20T00:45:50Z'
+    language: TypeScript
+- name: solana-historical-trade-data-api
+  repo: vybenetwork/solana-historical-trade-data-api
+  description: 'Solana Historical Trade Data API: This repository demonstrates how
+    to use the Vybe Solana historical trade data API to fetch, filter, and analyze
+    on-chain trade history for any Token-2022 or SPL token. Use this project as a
+    reference implementation or starter kit for building data products such as trade
+    explorers, execution/flow stats and more.'
+  category: SDKs & Tooling
+  stars: 104
+  stats:
+    stars: 104
+    contributors: 1
+    last_activity: Last commit (Mar 13, 2026)
+    archived: false
+    updated_at: '2026-03-20T00:46:41Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
