@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14845
+    stars: 14847
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-03-29T11:49:28Z'
+    updated_at: '2026-03-29T13:49:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1728
+    stars: 1729
     contributors: 358
     last_activity: v3.1.11 (Mar 20, 2026)
     archived: false
-    updated_at: '2026-03-29T07:46:12Z'
+    updated_at: '2026-03-29T19:53:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 4995
+    stars: 4996
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-29T09:56:02Z'
+    updated_at: '2026-03-29T13:49:56Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4205
+    stars: 4207
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-03-29T11:49:30Z'
+    updated_at: '2026-03-29T13:49:48Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 244
+    stars: 245
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-03-27T18:27:56Z'
+    updated_at: '2026-03-29T22:13:53Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 4995
+    stars: 4996
     contributors: 314
     last_activity: v0.32.1 (Oct 10, 2025)
     archived: false
-    updated_at: '2026-03-29T09:56:02Z'
+    updated_at: '2026-03-29T13:49:56Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 566
+    stars: 567
     contributors: 40
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-03-28T14:03:35Z'
+    updated_at: '2026-03-29T13:13:12Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -452,11 +452,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 697
+    stars: 662
     contributors: 4
-    last_activity: Last commit (Mar 28, 2026)
+    last_activity: Last commit (Mar 29, 2026)
     archived: false
-    updated_at: '2026-03-29T10:07:21Z'
+    updated_at: '2026-03-30T01:40:59Z'
     language: TypeScript
 - name: solana-candy-factory
   repo: kevinfaveri/solana-candy-factory
@@ -885,9 +885,9 @@ repositories:
   stats:
     stars: 929
     contributors: 31
-    last_activity: Last commit (Mar 28, 2026)
+    last_activity: Last commit (Mar 29, 2026)
     archived: false
-    updated_at: '2026-03-28T22:36:20Z'
+    updated_at: '2026-03-29T14:41:17Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -977,7 +977,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.2 (Mar 24, 2026)
     archived: false
-    updated_at: '2026-03-28T20:08:42Z'
+    updated_at: '2026-03-29T17:17:41Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2099,11 +2099,11 @@ repositories:
   category: SDKs & Tooling
   stars: 681
   stats:
-    stars: 712
+    stars: 713
     contributors: 1
     last_activity: Last commit (Mar 25, 2026)
     archived: false
-    updated_at: '2026-03-27T11:10:43Z'
+    updated_at: '2026-03-29T20:09:11Z'
     language: TypeScript
 - name: solana-pumpfun-sniper-bot
   repo: HaiderFlorez/solana-pumpfun-sniper-bot
@@ -2120,11 +2120,11 @@ repositories:
   category: SDKs & Tooling
   stars: 77
   stats:
-    stars: 5
+    stars: 6
     contributors: 1
     last_activity: Last commit (Feb 27, 2026)
     archived: false
-    updated_at: '2026-03-26T02:46:23Z'
+    updated_at: '2026-03-29T14:04:45Z'
     language: Shell
 - name: solana-new-pair-sniper-jupiter-v6
   repo: leionion/solana-new-pair-sniper-jupiter-v6
@@ -2207,11 +2207,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 86
+    stars: 87
     contributors: 8
-    last_activity: Last commit (Mar 27, 2026)
+    last_activity: Last commit (Mar 29, 2026)
     archived: false
-    updated_at: '2026-03-29T10:51:34Z'
+    updated_at: '2026-03-29T22:59:17Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
