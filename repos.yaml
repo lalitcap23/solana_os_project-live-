@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14851
+    stars: 14850
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-05T02:11:28Z'
+    updated_at: '2026-04-05T22:20:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 222
+    stars: 223
     contributors: 170
     last_activity: instruction-view@v2.1.0 (Apr 03, 2026)
     archived: false
-    updated_at: '2026-04-05T10:10:43Z'
+    updated_at: '2026-04-05T17:20:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -313,11 +313,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 379
+    stars: 378
     contributors: 13
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-03-25T01:01:44Z'
+    updated_at: '2026-04-05T16:27:00Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -633,11 +633,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 204
+    stars: 205
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2026-04-03T12:10:53Z'
+    updated_at: '2026-04-05T17:11:46Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -877,11 +877,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 927
+    stars: 928
     contributors: 31
-    last_activity: Last commit (Apr 04, 2026)
+    last_activity: Last commit (Apr 05, 2026)
     archived: false
-    updated_at: '2026-04-04T18:24:04Z'
+    updated_at: '2026-04-05T22:26:00Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -971,7 +971,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.2 (Mar 24, 2026)
     archived: false
-    updated_at: '2026-04-04T18:22:56Z'
+    updated_at: '2026-04-05T18:37:28Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1172,11 +1172,11 @@ repositories:
   category: Wallets & Mobile
   stars: 17
   stats:
-    stars: 17
+    stars: 16
     contributors: 1
     last_activity: Last commit (Aug 05, 2025)
     archived: false
-    updated_at: '2025-10-03T22:39:39Z'
+    updated_at: '2026-04-05T14:37:32Z'
     language: Java
 - name: pumpfun-smart-contract-frontend-backend
   repo: 0xalberto/pumpfun-smart-contract-frontend-backend
@@ -1490,11 +1490,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 165
+    stars: 166
     contributors: 12
     last_activity: v1.3.0 (Mar 08, 2026)
     archived: false
-    updated_at: '2026-04-04T18:22:56Z'
+    updated_at: '2026-04-05T22:29:04Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
