@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14850
+    stars: 14847
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-08T11:36:19Z'
+    updated_at: '2026-04-08T16:43:28Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.12 (Apr 03, 2026)
     archived: false
-    updated_at: '2026-04-08T11:47:47Z'
+    updated_at: '2026-04-08T22:45:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 226
     contributors: 170
-    last_activity: transaction@v4.1.0 (Apr 08, 2026)
+    last_activity: wincode-varint@v1.0.0 (Apr 08, 2026)
     archived: false
-    updated_at: '2026-04-08T06:37:12Z'
+    updated_at: '2026-04-08T17:03:40Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5020
+    stars: 5019
     contributors: 314
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-08T07:40:19Z'
+    updated_at: '2026-04-08T16:49:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2723
+    stars: 2722
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-04-08T08:29:47Z'
+    updated_at: '2026-04-08T16:44:32Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,22 +74,22 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4212
+    stars: 4213
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-04-08T03:57:21Z'
+    updated_at: '2026-04-08T15:49:19Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
   stats:
-    stars: 15
+    stars: 16
     contributors: 21
     last_activity: pod@v0.7.3 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-02T16:10:54Z'
+    updated_at: '2026-04-08T18:10:48Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5020
+    stars: 5019
     contributors: 314
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-08T07:40:19Z'
+    updated_at: '2026-04-08T16:49:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,11 +187,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 572
+    stars: 573
     contributors: 40
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-04-08T10:17:09Z'
+    updated_at: '2026-04-08T18:25:50Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -293,7 +293,7 @@ repositories:
     contributors: 163
     last_activity: v6.7.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-08T13:03:32Z'
+    updated_at: '2026-04-08T16:19:15Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -381,9 +381,9 @@ repositories:
   stats:
     stars: 1393
     contributors: 51
-    last_activity: Last commit (Mar 31, 2026)
+    last_activity: Last commit (Apr 08, 2026)
     archived: false
-    updated_at: '2026-04-07T01:45:56Z'
+    updated_at: '2026-04-08T23:36:36Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -749,11 +749,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 619
+    stars: 620
     contributors: 19
     last_activity: Last commit (Mar 16, 2026)
     archived: false
-    updated_at: '2026-04-08T10:09:58Z'
+    updated_at: '2026-04-08T13:18:23Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -854,11 +854,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 96
+    stars: 97
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-04-04T17:46:18Z'
+    updated_at: '2026-04-08T15:48:05Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -1041,11 +1041,11 @@ repositories:
   category: SDKs & Tooling
   stars: 10
   stats:
-    stars: 10
+    stars: 9
     contributors: 1
     last_activity: Last commit (Nov 18, 2020)
     archived: true
-    updated_at: '2025-10-16T08:17:27Z'
+    updated_at: '2026-04-08T16:49:20Z'
     language: Python
 - name: wc-solana-pay
   repo: aztemi/wc-solana-pay
@@ -1805,11 +1805,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 68
+    stars: 65
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2026-04-08T09:16:03Z'
+    updated_at: '2026-04-08T21:21:22Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -2184,11 +2184,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 109
+    stars: 112
     contributors: 8
     last_activity: Last commit (Apr 08, 2026)
     archived: false
-    updated_at: '2026-04-08T10:09:29Z'
+    updated_at: '2026-04-08T22:59:20Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2233,11 +2233,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 57
+    stars: 56
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-04-08T10:51:35Z'
+    updated_at: '2026-04-08T15:29:24Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
