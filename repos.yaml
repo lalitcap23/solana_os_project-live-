@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-11T23:23:43Z'
+    updated_at: '2026-04-12T12:40:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.13 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-11T23:38:04Z'
+    updated_at: '2026-04-12T07:08:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5020
+    stars: 5021
     contributors: 317
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-11T13:47:57Z'
+    updated_at: '2026-04-12T06:50:58Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2006
+    stars: 2007
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-04-11T13:27:06Z'
+    updated_at: '2026-04-12T07:12:56Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5020
+    stars: 5021
     contributors: 317
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-11T13:47:57Z'
+    updated_at: '2026-04-12T06:50:58Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 928
     contributors: 31
-    last_activity: Last commit (Apr 11, 2026)
+    last_activity: Last commit (Apr 12, 2026)
     archived: false
-    updated_at: '2026-04-11T05:46:06Z'
+    updated_at: '2026-04-12T05:45:41Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1799,11 +1799,11 @@ repositories:
   category: NFTs & Programs
   stars: 82
   stats:
-    stars: 58
+    stars: 57
     contributors: 1
     last_activity: Last commit (Aug 02, 2023)
     archived: false
-    updated_at: '2026-04-11T14:50:12Z'
+    updated_at: '2026-04-12T06:54:17Z'
     language: TypeScript
 - name: solana-casino-game-contract
   repo: ivorn42/solana-casino-game-contract
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 119
+    stars: 120
     contributors: 9
     last_activity: Last commit (Apr 11, 2026)
     archived: false
-    updated_at: '2026-04-12T01:28:59Z'
+    updated_at: '2026-04-12T07:54:01Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
