@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14845
+    stars: 14844
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-12T12:40:50Z'
+    updated_at: '2026-04-12T15:58:11Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.13 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-12T07:08:36Z'
+    updated_at: '2026-04-12T18:13:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5021
+    stars: 5020
     contributors: 317
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-12T06:50:58Z'
+    updated_at: '2026-04-12T13:02:55Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-04-11T11:07:24Z'
+    updated_at: '2026-04-12T15:58:00Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5021
+    stars: 5020
     contributors: 317
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-12T06:50:58Z'
+    updated_at: '2026-04-12T13:02:55Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 672
+    stars: 671
     contributors: 163
     last_activity: v6.8.0 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-10T10:27:08Z'
+    updated_at: '2026-04-12T13:02:16Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -379,11 +379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1393
+    stars: 1392
     contributors: 51
     last_activity: Last commit (Apr 08, 2026)
     archived: false
-    updated_at: '2026-04-11T12:01:04Z'
+    updated_at: '2026-04-12T15:58:09Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -919,7 +919,7 @@ repositories:
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-04-11T19:42:46Z'
+    updated_at: '2026-04-13T01:25:11Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -1185,11 +1185,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 150
+    stars: 151
     contributors: 1
     last_activity: Last commit (Mar 23, 2026)
     archived: false
-    updated_at: '2026-04-11T04:23:31Z'
+    updated_at: '2026-04-12T19:46:46Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1663,11 +1663,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 118
+    stars: 117
     contributors: 13
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-11T09:44:44Z'
+    updated_at: '2026-04-12T18:51:42Z'
     language: TypeScript
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -1940,11 +1940,11 @@ repositories:
   category: SDKs & Tooling
   stars: 237
   stats:
-    stars: 107
+    stars: 108
     contributors: 1
     last_activity: Last commit (Feb 25, 2026)
     archived: false
-    updated_at: '2026-04-04T18:23:56Z'
+    updated_at: '2026-04-12T21:01:56Z'
     language: Rust
 - name: EVM-Solana-Casino-Games
   repo: LaChance-Lab/EVM-Solana-Casino-Games
@@ -2056,11 +2056,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 107
+    stars: 108
     contributors: 1
     last_activity: Last commit (Feb 25, 2026)
     archived: false
-    updated_at: '2026-04-04T18:23:56Z'
+    updated_at: '2026-04-12T21:01:56Z'
     language: Rust
 - name: anchor-client-gen
   repo: kklas/anchor-client-gen
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 120
+    stars: 119
     contributors: 9
     last_activity: Last commit (Apr 11, 2026)
     archived: false
-    updated_at: '2026-04-12T07:54:01Z'
+    updated_at: '2026-04-12T17:23:06Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
