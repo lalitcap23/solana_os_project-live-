@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14845
+    stars: 14846
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-14T15:13:44Z'
+    updated_at: '2026-04-15T04:31:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.13 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-14T23:37:15Z'
+    updated_at: '2026-04-15T13:02:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 171
     last_activity: frozen-abi@v3.3.0 (Apr 13, 2026)
     archived: false
-    updated_at: '2026-04-14T16:04:08Z'
+    updated_at: '2026-04-15T10:12:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5024
+    stars: 5025
     contributors: 323
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-15T01:39:18Z'
+    updated_at: '2026-04-15T05:21:08Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5024
+    stars: 5025
     contributors: 323
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-15T01:39:18Z'
+    updated_at: '2026-04-15T05:21:08Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 670
+    stars: 671
     contributors: 163
     last_activity: v6.8.0 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-13T10:42:11Z'
+    updated_at: '2026-04-15T06:56:46Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -814,11 +814,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 173
+    stars: 174
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-04-09T10:28:51Z'
+    updated_at: '2026-04-15T05:26:16Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -878,11 +878,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 929
+    stars: 928
     contributors: 32
-    last_activity: Last commit (Apr 14, 2026)
+    last_activity: Last commit (Apr 15, 2026)
     archived: false
-    updated_at: '2026-04-14T10:34:42Z'
+    updated_at: '2026-04-15T09:48:08Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1185,11 +1185,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 151
+    stars: 150
     contributors: 1
     last_activity: Last commit (Mar 23, 2026)
     archived: false
-    updated_at: '2026-04-13T21:24:51Z'
+    updated_at: '2026-04-15T07:09:35Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1663,11 +1663,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 118
+    stars: 119
     contributors: 13
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-13T19:56:52Z'
+    updated_at: '2026-04-15T08:28:30Z'
     language: TypeScript
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 121
+    stars: 122
     contributors: 9
-    last_activity: Last commit (Apr 13, 2026)
+    last_activity: Last commit (Apr 15, 2026)
     archived: false
-    updated_at: '2026-04-13T22:45:35Z'
+    updated_at: '2026-04-15T12:42:07Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
