@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14844
+    stars: 14845
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-13T02:41:15Z'
+    updated_at: '2026-04-14T15:13:44Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1744
+    stars: 1745
     contributors: 358
     last_activity: v3.1.13 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-14T12:23:20Z'
+    updated_at: '2026-04-14T23:37:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 228
-    contributors: 170
+    contributors: 171
     last_activity: frozen-abi@v3.3.0 (Apr 13, 2026)
     archived: false
-    updated_at: '2026-04-13T08:35:10Z'
+    updated_at: '2026-04-14T16:04:08Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5023
-    contributors: 318
+    stars: 5024
+    contributors: 323
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-14T12:00:53Z'
+    updated_at: '2026-04-15T01:39:18Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4209
+    stars: 4210
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-04-11T11:07:21Z'
+    updated_at: '2026-04-14T15:13:48Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5023
-    contributors: 318
+    stars: 5024
+    contributors: 323
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-14T12:00:53Z'
+    updated_at: '2026-04-15T01:39:18Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -381,9 +381,9 @@ repositories:
   stats:
     stars: 1394
     contributors: 51
-    last_activity: Last commit (Apr 13, 2026)
+    last_activity: Last commit (Apr 14, 2026)
     archived: false
-    updated_at: '2026-04-13T21:36:46Z'
+    updated_at: '2026-04-14T17:08:06Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -474,11 +474,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 595
+    stars: 594
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-04-13T22:21:44Z'
+    updated_at: '2026-04-15T01:47:51Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -523,11 +523,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3362
+    stars: 3363
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-04-14T06:46:33Z'
+    updated_at: '2026-04-14T14:59:59Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -537,9 +537,9 @@ repositories:
   stats:
     stars: 717
     contributors: 26
-    last_activity: v0.47.0 (Mar 24, 2026)
+    last_activity: v0.48.0 (Apr 14, 2026)
     archived: false
-    updated_at: '2026-04-04T18:22:44Z'
+    updated_at: '2026-04-14T17:59:37Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -1611,9 +1611,9 @@ repositories:
   stats:
     stars: 106
     contributors: 1
-    last_activity: Last commit (Oct 20, 2025)
+    last_activity: Last commit (Apr 14, 2026)
     archived: false
-    updated_at: '2026-04-04T17:57:26Z'
+    updated_at: '2026-04-14T20:25:03Z'
     language: Rust
 - name: identity-swap
   repo: civicteam/identity-swap
@@ -2227,11 +2227,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 37
+    stars: 36
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-04-14T05:55:58Z'
+    updated_at: '2026-04-14T17:37:53Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
