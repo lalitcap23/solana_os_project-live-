@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14841
+    stars: 14839
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-18T18:14:01Z'
+    updated_at: '2026-04-19T19:17:56Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1747
+    stars: 1746
     contributors: 358
     last_activity: v3.1.13 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-19T05:38:47Z'
+    updated_at: '2026-04-19T22:32:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 325
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-19T06:28:26Z'
+    updated_at: '2026-04-19T22:31:58Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2721
+    stars: 2719
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-04-17T08:22:36Z'
+    updated_at: '2026-04-19T22:31:56Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -66,7 +66,7 @@ repositories:
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-04-17T17:11:42Z'
+    updated_at: '2026-04-19T20:52:28Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4210
+    stars: 4208
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-04-19T11:38:50Z'
+    updated_at: '2026-04-19T22:31:58Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -179,7 +179,7 @@ repositories:
     contributors: 325
     last_activity: v1.0.0 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-19T06:28:26Z'
+    updated_at: '2026-04-19T22:31:58Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -379,11 +379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1396
+    stars: 1395
     contributors: 51
     last_activity: Last commit (Apr 14, 2026)
     archived: false
-    updated_at: '2026-04-16T18:26:38Z'
+    updated_at: '2026-04-19T19:12:05Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -547,11 +547,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 648
+    stars: 647
     contributors: 64
     last_activity: Last commit (Mar 13, 2026)
     archived: false
-    updated_at: '2026-03-31T22:56:33Z'
+    updated_at: '2026-04-19T19:06:37Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -749,11 +749,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 622
+    stars: 621
     contributors: 19
     last_activity: Last commit (Mar 16, 2026)
     archived: false
-    updated_at: '2026-04-18T10:15:45Z'
+    updated_at: '2026-04-19T19:12:28Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -814,11 +814,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 174
+    stars: 175
     contributors: 1
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-04-15T05:26:16Z'
+    updated_at: '2026-04-19T14:32:40Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 927
     contributors: 32
-    last_activity: Last commit (Apr 18, 2026)
+    last_activity: Last commit (Apr 19, 2026)
     archived: false
-    updated_at: '2026-04-19T02:02:32Z'
+    updated_at: '2026-04-19T22:56:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -992,11 +992,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 97
+    stars: 96
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2026-03-09T22:25:35Z'
+    updated_at: '2026-04-19T19:11:35Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
@@ -1185,11 +1185,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 148
+    stars: 149
     contributors: 1
     last_activity: Last commit (Mar 23, 2026)
     archived: false
-    updated_at: '2026-04-17T15:49:52Z'
+    updated_at: '2026-04-19T21:55:37Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1518,11 +1518,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 75
+    stars: 76
     contributors: 2
     last_activity: Last commit (Oct 08, 2025)
     archived: false
-    updated_at: '2026-04-09T10:29:47Z'
+    updated_at: '2026-04-20T01:16:30Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -1595,11 +1595,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 159
+    stars: 160
     contributors: 3
     last_activity: Last commit (Feb 18, 2026)
     archived: false
-    updated_at: '2026-04-16T14:28:55Z'
+    updated_at: '2026-04-19T13:10:54Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -1770,11 +1770,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 302
+    stars: 300
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2026-04-16T11:30:02Z'
+    updated_at: '2026-04-19T20:55:47Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -1956,11 +1956,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 121
+    stars: 123
     contributors: 1
-    last_activity: Last commit (Feb 22, 2026)
+    last_activity: Last commit (Apr 19, 2026)
     archived: false
-    updated_at: '2026-04-18T02:39:32Z'
+    updated_at: '2026-04-19T19:13:24Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -2014,11 +2014,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 121
+    stars: 123
     contributors: 1
-    last_activity: Last commit (Feb 22, 2026)
+    last_activity: Last commit (Apr 19, 2026)
     archived: false
-    updated_at: '2026-04-18T02:39:32Z'
+    updated_at: '2026-04-19T19:13:24Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
@@ -2180,9 +2180,9 @@ repositories:
   stats:
     stars: 132
     contributors: 15
-    last_activity: Last commit (Apr 18, 2026)
+    last_activity: Last commit (Apr 19, 2026)
     archived: false
-    updated_at: '2026-04-18T23:08:10Z'
+    updated_at: '2026-04-19T13:01:07Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2227,11 +2227,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 49
+    stars: 42
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-04-19T01:42:39Z'
+    updated_at: '2026-04-19T20:55:48Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2264,11 +2264,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 104
+    stars: 107
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-04-19T09:30:55Z'
+    updated_at: '2026-04-19T17:38:01Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
