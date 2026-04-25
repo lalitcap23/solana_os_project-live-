@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14849
+    stars: 14850
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-04-24T23:57:33Z'
+    updated_at: '2026-04-25T08:41:43Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5037
+    stars: 5038
     contributors: 329
     last_activity: v1.0.1 (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-24T19:59:38Z'
+    updated_at: '2026-04-25T11:00:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5037
+    stars: 5038
     contributors: 329
     last_activity: v1.0.1 (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-24T19:59:38Z'
+    updated_at: '2026-04-25T11:00:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -878,11 +878,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 928
+    stars: 929
     contributors: 32
-    last_activity: Last commit (Apr 24, 2026)
+    last_activity: Last commit (Apr 25, 2026)
     archived: false
-    updated_at: '2026-04-24T16:00:33Z'
+    updated_at: '2026-04-25T07:10:10Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1223,11 +1223,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 76
+    stars: 77
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2026-02-22T18:28:08Z'
+    updated_at: '2026-04-25T08:22:06Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
@@ -1956,11 +1956,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 118
+    stars: 119
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-24T21:23:30Z'
+    updated_at: '2026-04-25T06:13:18Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -2014,11 +2014,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 118
+    stars: 119
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-24T21:23:30Z'
+    updated_at: '2026-04-25T06:13:18Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
