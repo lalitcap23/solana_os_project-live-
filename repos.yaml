@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1761
+    stars: 1762
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-04-30T02:03:50Z'
+    updated_at: '2026-04-30T12:51:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2014
+    stars: 2013
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-04-27T12:18:56Z'
+    updated_at: '2026-04-30T06:51:50Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -342,11 +342,11 @@ repositories:
   category: Wallets & Mobile
   stars: 203
   stats:
-    stars: 139
+    stars: 140
     contributors: 1
     last_activity: Last commit (Feb 23, 2026)
     archived: false
-    updated_at: '2026-04-04T17:57:26Z'
+    updated_at: '2026-04-30T04:16:21Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -815,7 +815,7 @@ repositories:
   stars: 161
   stats:
     stars: 174
-    contributors: 1
+    contributors: 0
     last_activity: Last commit (Mar 25, 2025)
     archived: false
     updated_at: '2026-04-29T11:23:54Z'
@@ -878,11 +878,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 929
+    stars: 930
     contributors: 32
-    last_activity: Last commit (Apr 29, 2026)
+    last_activity: Last commit (Apr 30, 2026)
     archived: false
-    updated_at: '2026-04-29T21:19:42Z'
+    updated_at: '2026-04-30T13:26:00Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1721,11 +1721,11 @@ repositories:
   category: Wallets & Mobile
   stars: 197
   stats:
-    stars: 139
+    stars: 140
     contributors: 1
     last_activity: Last commit (Feb 23, 2026)
     archived: false
-    updated_at: '2026-04-04T17:57:26Z'
+    updated_at: '2026-04-30T04:16:21Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
@@ -2180,9 +2180,9 @@ repositories:
   stats:
     stars: 138
     contributors: 16
-    last_activity: Last commit (Apr 21, 2026)
+    last_activity: Last commit (Apr 30, 2026)
     archived: false
-    updated_at: '2026-04-28T10:24:40Z'
+    updated_at: '2026-04-30T11:57:54Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2289,6 +2289,36 @@ repositories:
     archived: false
     updated_at: '2026-04-29T03:59:54Z'
     language: TypeScript
+- name: cryptocurrency.cv
+  repo: nirholas/cryptocurrency.cv
+  description: Free crypto news API - real-time aggregator for Bitcoin, Ethereum,
+    DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical
+    archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server,
+    SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly.
+    Open source.
+  category: DeFi
+  stars: 167
+  stats:
+    stars: 167
+    contributors: 10
+    last_activity: Last commit (Apr 27, 2026)
+    archived: false
+    updated_at: '2026-04-30T10:23:45Z'
+    language: TypeScript
+- name: Ros-X402-Node
+  repo: homebrewroboticsclub/Ros-X402-Node
+  description: A ROS 1 (Noetic) package that turns robot capabilities into paid API
+    endpoints - using Solana’s x402 protocol for pay-to-access control — and includes
+    tools for making and verifying payments to external services.
+  category: Payments
+  stars: 11
+  stats:
+    stars: 11
+    contributors: 3
+    last_activity: Last commit (Apr 27, 2026)
+    archived: false
+    updated_at: '2026-04-30T08:40:08Z'
+    language: Python
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
