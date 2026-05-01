@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-04-30T12:51:35Z'
+    updated_at: '2026-04-30T19:51:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5045
-    contributors: 330
+    contributors: 331
     last_activity: v1.0.1 (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-29T22:21:56Z'
+    updated_at: '2026-04-30T15:38:18Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -176,10 +176,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5045
-    contributors: 330
+    contributors: 331
     last_activity: v1.0.1 (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-29T22:21:56Z'
+    updated_at: '2026-04-30T15:38:18Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -188,10 +188,10 @@ repositories:
   stars: 426
   stats:
     stars: 580
-    contributors: 40
+    contributors: 41
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-04-29T02:59:12Z'
+    updated_at: '2026-04-30T16:04:37Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -200,11 +200,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 380
+    stars: 381
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-04-23T11:22:15Z'
+    updated_at: '2026-04-30T21:36:33Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 677
+    stars: 678
     contributors: 163
     last_activity: v6.8.0 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-04-29T18:08:43Z'
+    updated_at: '2026-04-30T20:49:07Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -608,11 +608,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 119
+    stars: 118
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2026-04-04T17:47:10Z'
+    updated_at: '2026-04-30T21:06:05Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -2221,11 +2221,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 40
+    stars: 42
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-04-22T10:00:01Z'
+    updated_at: '2026-05-01T00:21:38Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 167
+    stars: 175
     contributors: 10
     last_activity: Last commit (Apr 27, 2026)
     archived: false
-    updated_at: '2026-04-30T10:23:45Z'
+    updated_at: '2026-04-30T23:58:13Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
