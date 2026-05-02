@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1763
+    stars: 1764
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-01T23:55:59Z'
+    updated_at: '2026-05-02T04:13:59Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -878,11 +878,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 930
+    stars: 931
     contributors: 32
     last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T00:30:22Z'
+    updated_at: '2026-05-02T05:08:12Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1185,11 +1185,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 155
+    stars: 156
     contributors: 1
     last_activity: v1.0.0 (Apr 20, 2026)
     archived: false
-    updated_at: '2026-04-30T01:07:32Z'
+    updated_at: '2026-05-02T09:29:01Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -2068,11 +2068,11 @@ repositories:
   category: SDKs & Tooling
   stars: 206
   stats:
-    stars: 212
+    stars: 213
     contributors: 8
     last_activity: Last commit (Feb 24, 2026)
     archived: false
-    updated_at: '2026-04-04T17:46:17Z'
+    updated_at: '2026-05-02T11:33:54Z'
     language: TypeScript
 - name: solana-trading-bot
   repo: warp-specke/solana-trading-bot
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 139
+    stars: 140
     contributors: 17
-    last_activity: Last commit (May 01, 2026)
+    last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-01T15:08:29Z'
+    updated_at: '2026-05-02T11:30:02Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 197
+    stars: 200
     contributors: 10
-    last_activity: Last commit (Apr 27, 2026)
+    last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T01:54:10Z'
+    updated_at: '2026-05-02T08:21:31Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
