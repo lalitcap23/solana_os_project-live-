@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5048
+    stars: 5049
     contributors: 331
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T18:15:29Z'
+    updated_at: '2026-05-03T07:49:25Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5048
+    stars: 5049
     contributors: 331
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T18:15:29Z'
+    updated_at: '2026-05-03T07:49:25Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -608,11 +608,11 @@ repositories:
   category: NFTs & Programs
   stars: 109
   stats:
-    stars: 118
+    stars: 119
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2026-05-02T19:44:14Z'
+    updated_at: '2026-05-03T08:49:21Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -878,11 +878,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 931
+    stars: 932
     contributors: 32
-    last_activity: Last commit (May 02, 2026)
+    last_activity: Last commit (May 03, 2026)
     archived: false
-    updated_at: '2026-05-02T19:33:28Z'
+    updated_at: '2026-05-03T08:49:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -972,7 +972,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.4 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T19:01:37Z'
+    updated_at: '2026-05-03T09:30:18Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1211,11 +1211,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 495
+    stars: 496
     contributors: 1
     last_activity: Last commit (Mar 27, 2026)
     archived: false
-    updated_at: '2026-04-26T23:26:49Z'
+    updated_at: '2026-05-03T05:13:05Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 200
+    stars: 204
     contributors: 10
     last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T08:21:31Z'
+    updated_at: '2026-05-03T11:00:43Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
