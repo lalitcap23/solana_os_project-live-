@@ -9,18 +9,18 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-01T16:08:43Z'
+    updated_at: '2026-05-02T20:29:48Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1764
+    stars: 1765
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-02T04:13:59Z'
+    updated_at: '2026-05-02T22:44:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -41,9 +41,9 @@ repositories:
   stats:
     stars: 5048
     contributors: 331
-    last_activity: v1.0.1 (Apr 21, 2026)
+    last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T01:54:03Z'
+    updated_at: '2026-05-02T18:15:29Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -78,7 +78,7 @@ repositories:
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-01T19:29:40Z'
+    updated_at: '2026-05-03T00:51:20Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -129,23 +129,23 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 758
+    stars: 757
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: true
-    updated_at: '2026-04-29T20:44:54Z'
+    updated_at: '2026-05-02T17:23:35Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 325
+    stars: 324
     contributors: 21
     last_activity: '@solana-mobile/mobile-wallet-adapter-walletlib@1.4.3 (Apr 15,
       2026)'
     archived: false
-    updated_at: '2026-04-28T18:19:52Z'
+    updated_at: '2026-05-02T17:23:48Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -177,9 +177,9 @@ repositories:
   stats:
     stars: 5048
     contributors: 331
-    last_activity: v1.0.1 (Apr 21, 2026)
+    last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T01:54:03Z'
+    updated_at: '2026-05-02T18:15:29Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,11 +187,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 581
+    stars: 582
     contributors: 41
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-02T00:12:28Z'
+    updated_at: '2026-05-02T18:30:49Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -293,7 +293,7 @@ repositories:
     contributors: 163
     last_activity: v6.8.0 (Apr 10, 2026)
     archived: false
-    updated_at: '2026-05-01T21:34:50Z'
+    updated_at: '2026-05-02T22:52:40Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -379,11 +379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1402
+    stars: 1401
     contributors: 51
     last_activity: Last commit (May 01, 2026)
     archived: false
-    updated_at: '2026-05-01T14:44:44Z'
+    updated_at: '2026-05-02T17:23:31Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -612,7 +612,7 @@ repositories:
     contributors: 18
     last_activity: v0.6.8 (Feb 22, 2023)
     archived: false
-    updated_at: '2026-04-30T21:06:05Z'
+    updated_at: '2026-05-02T19:44:14Z'
     language: Rust
 - name: solana-anchor-react-minimal-example
   repo: 256hax/solana-anchor-react-minimal-example
@@ -882,7 +882,7 @@ repositories:
     contributors: 32
     last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T05:08:12Z'
+    updated_at: '2026-05-02T19:33:28Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -970,9 +970,9 @@ repositories:
   stats:
     stars: 300
     contributors: 11
-    last_activity: v4.0.3 (Apr 11, 2026)
+    last_activity: v4.0.4 (May 02, 2026)
     archived: false
-    updated_at: '2026-04-29T02:59:13Z'
+    updated_at: '2026-05-02T19:01:37Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1144,11 +1144,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 80
+    stars: 79
     contributors: 12
     last_activity: v0.30.0 (Feb 25, 2026)
     archived: false
-    updated_at: '2026-04-29T02:56:12Z'
+    updated_at: '2026-05-02T17:20:14Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -1304,11 +1304,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 150
+    stars: 151
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-04-29T12:02:37Z'
+    updated_at: '2026-05-02T21:40:44Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -1358,7 +1358,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-04-21T21:39:43Z'
+    updated_at: '2026-05-02T16:25:38Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 140
+    stars: 141
     contributors: 17
     last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-02T11:30:02Z'
+    updated_at: '2026-05-02T20:03:54Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
