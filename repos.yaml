@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14863
+    stars: 14865
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-04T17:37:36Z'
+    updated_at: '2026-05-05T12:41:55Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1769
+    stars: 1770
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-04T22:22:10Z'
+    updated_at: '2026-05-05T08:20:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -145,7 +145,7 @@ repositories:
     last_activity: '@solana-mobile/mobile-wallet-adapter-walletlib@1.4.3 (Apr 15,
       2026)'
     archived: false
-    updated_at: '2026-05-04T17:56:13Z'
+    updated_at: '2026-05-05T08:36:11Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -327,11 +327,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 417
+    stars: 418
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-04-23T11:18:55Z'
+    updated_at: '2026-05-05T05:56:13Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 932
     contributors: 32
-    last_activity: Last commit (May 04, 2026)
+    last_activity: Last commit (May 05, 2026)
     archived: false
-    updated_at: '2026-05-04T23:20:17Z'
+    updated_at: '2026-05-05T11:07:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -940,11 +940,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 164
+    stars: 165
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-05-03T22:57:30Z'
+    updated_at: '2026-05-05T12:29:56Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1132,11 +1132,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 417
+    stars: 418
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-04-23T11:18:55Z'
+    updated_at: '2026-05-05T05:56:13Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1664,7 +1664,7 @@ repositories:
   stars: 196
   stats:
     stars: 121
-    contributors: 13
+    contributors: 12
     last_activity: Last commit (May 04, 2026)
     archived: false
     updated_at: '2026-05-04T16:31:43Z'
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 204
+    stars: 205
     contributors: 10
     last_activity: Last commit (May 02, 2026)
     archived: false
-    updated_at: '2026-05-03T11:00:43Z'
+    updated_at: '2026-05-05T08:07:22Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
