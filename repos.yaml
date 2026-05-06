@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1771
+    stars: 1772
     contributors: 358
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-05T22:45:31Z'
+    updated_at: '2026-05-06T13:30:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 171
     last_activity: transaction@v4.1.1 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-05T22:05:42Z'
+    updated_at: '2026-05-06T12:15:47Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 331
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-05T18:20:20Z'
+    updated_at: '2026-05-06T10:10:31Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -179,7 +179,7 @@ repositories:
     contributors: 331
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-05T18:20:20Z'
+    updated_at: '2026-05-06T10:10:31Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -200,11 +200,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 382
+    stars: 383
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-01T21:41:13Z'
+    updated_at: '2026-05-06T12:04:43Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4149
+    stars: 4150
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-05-01T17:05:01Z'
+    updated_at: '2026-05-06T10:46:13Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 678
+    stars: 679
     contributors: 163
-    last_activity: v6.8.0 (Apr 10, 2026)
+    last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-05T23:13:30Z'
+    updated_at: '2026-05-06T11:04:43Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -381,9 +381,9 @@ repositories:
   stats:
     stars: 1402
     contributors: 51
-    last_activity: Last commit (May 01, 2026)
+    last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-05T18:19:28Z'
+    updated_at: '2026-05-06T03:54:23Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -433,11 +433,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 345
+    stars: 346
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2026-05-05T15:00:21Z'
+    updated_at: '2026-05-06T10:21:13Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -882,7 +882,7 @@ repositories:
     contributors: 32
     last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-06T00:59:53Z'
+    updated_at: '2026-05-06T06:02:08Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1956,11 +1956,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 112
+    stars: 114
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-05-05T23:32:53Z'
+    updated_at: '2026-05-06T09:20:40Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -2014,11 +2014,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 112
+    stars: 114
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-05-05T23:32:53Z'
+    updated_at: '2026-05-06T09:20:40Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 145
+    stars: 146
     contributors: 17
     last_activity: Last commit (May 03, 2026)
     archived: false
-    updated_at: '2026-05-05T18:58:04Z'
+    updated_at: '2026-05-06T06:41:14Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2258,11 +2258,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 123
+    stars: 124
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-05-05T15:01:24Z'
+    updated_at: '2026-05-06T03:08:27Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
