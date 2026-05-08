@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1777
+    stars: 1776
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-07T22:11:15Z'
+    updated_at: '2026-05-08T12:14:15Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5052
-    contributors: 331
+    contributors: 336
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-08T01:43:00Z'
+    updated_at: '2026-05-08T12:27:16Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -176,10 +176,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5052
-    contributors: 331
+    contributors: 336
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-08T01:43:00Z'
+    updated_at: '2026-05-08T12:27:16Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4150
+    stars: 4149
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-05-06T10:46:13Z'
+    updated_at: '2026-05-08T03:00:49Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -293,7 +293,7 @@ repositories:
     contributors: 163
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-07T15:59:11Z'
+    updated_at: '2026-05-08T12:55:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -749,11 +749,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 625
+    stars: 626
     contributors: 19
     last_activity: Last commit (Mar 16, 2026)
     archived: false
-    updated_at: '2026-05-06T02:01:59Z'
+    updated_at: '2026-05-08T03:43:55Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -762,11 +762,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 290
+    stars: 289
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2026-04-29T03:00:47Z'
+    updated_at: '2026-05-08T03:47:54Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -828,11 +828,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 130
+    stars: 129
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2026-04-24T00:10:25Z'
+    updated_at: '2026-05-08T03:47:53Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 933
     contributors: 32
-    last_activity: Last commit (May 07, 2026)
+    last_activity: Last commit (May 08, 2026)
     archived: false
-    updated_at: '2026-05-07T12:04:29Z'
+    updated_at: '2026-05-08T07:01:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -972,7 +972,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.7 (May 05, 2026)
     archived: false
-    updated_at: '2026-05-07T06:59:19Z'
+    updated_at: '2026-05-08T12:48:23Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2178,11 +2178,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 147
+    stars: 148
     contributors: 17
     last_activity: Last commit (May 03, 2026)
     archived: false
-    updated_at: '2026-05-07T17:29:29Z'
+    updated_at: '2026-05-08T09:28:16Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 204
+    stars: 205
     contributors: 10
     last_activity: Last commit (May 07, 2026)
     archived: false
-    updated_at: '2026-05-07T05:10:40Z'
+    updated_at: '2026-05-08T08:23:57Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
