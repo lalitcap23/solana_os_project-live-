@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1776
+    stars: 1775
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-09T04:00:34Z'
+    updated_at: '2026-05-09T17:00:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5054
+    stars: 5055
     contributors: 336
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-09T09:28:54Z'
+    updated_at: '2026-05-09T23:13:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2013
+    stars: 2012
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-05-07T13:05:29Z'
+    updated_at: '2026-05-10T00:07:04Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5054
+    stars: 5055
     contributors: 336
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-09T09:28:54Z'
+    updated_at: '2026-05-09T23:13:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -225,11 +225,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 259
+    stars: 260
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2026-05-08T21:09:30Z'
+    updated_at: '2026-05-09T17:06:35Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4149
+    stars: 4148
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-05-08T03:00:49Z'
+    updated_at: '2026-05-10T01:51:17Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -379,11 +379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1402
+    stars: 1403
     contributors: 51
     last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-07T00:00:12Z'
+    updated_at: '2026-05-09T17:54:36Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -571,11 +571,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 226
+    stars: 227
     contributors: 11
     last_activity: Last commit (Mar 15, 2026)
     archived: false
-    updated_at: '2026-04-29T15:44:36Z'
+    updated_at: '2026-05-09T23:44:27Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -1595,11 +1595,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 161
+    stars: 162
     contributors: 3
     last_activity: Last commit (Feb 18, 2026)
     archived: false
-    updated_at: '2026-05-08T20:02:46Z'
+    updated_at: '2026-05-09T14:21:45Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -2180,9 +2180,9 @@ repositories:
   stats:
     stars: 148
     contributors: 17
-    last_activity: Last commit (May 08, 2026)
+    last_activity: Last commit (May 09, 2026)
     archived: false
-    updated_at: '2026-05-08T19:02:53Z'
+    updated_at: '2026-05-09T17:09:50Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
