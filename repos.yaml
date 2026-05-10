@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14869
+    stars: 14870
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-08T15:55:22Z'
+    updated_at: '2026-05-10T04:49:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-09T17:00:52Z'
+    updated_at: '2026-05-10T06:43:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2012
+    stars: 2014
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-05-10T00:07:04Z'
+    updated_at: '2026-05-10T10:28:21Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 679
+    stars: 680
     contributors: 163
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-08T18:47:05Z'
+    updated_at: '2026-05-10T06:33:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 932
     contributors: 32
-    last_activity: Last commit (May 09, 2026)
+    last_activity: Last commit (May 10, 2026)
     archived: false
-    updated_at: '2026-05-09T10:02:14Z'
+    updated_at: '2026-05-10T04:41:03Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2041,11 +2041,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 576
+    stars: 575
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-05-07T06:59:12Z'
+    updated_at: '2026-05-10T08:49:13Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 208
+    stars: 209
     contributors: 10
     last_activity: Last commit (May 07, 2026)
     archived: false
-    updated_at: '2026-05-08T22:48:39Z'
+    updated_at: '2026-05-10T05:34:35Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
