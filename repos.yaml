@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14872
+    stars: 14870
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-10T21:01:45Z'
+    updated_at: '2026-05-11T07:57:28Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1777
+    stars: 1778
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-10T21:01:49Z'
+    updated_at: '2026-05-11T13:41:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5056
+    stars: 5057
     contributors: 337
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-11T01:17:23Z'
+    updated_at: '2026-05-11T12:33:18Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5056
+    stars: 5057
     contributors: 337
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-11T01:17:23Z'
+    updated_at: '2026-05-11T12:33:18Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,11 +187,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 584
+    stars: 585
     contributors: 41
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-08T20:03:54Z'
+    updated_at: '2026-05-11T07:01:30Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -293,7 +293,7 @@ repositories:
     contributors: 163
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-10T06:33:00Z'
+    updated_at: '2026-05-11T11:07:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -314,11 +314,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 377
+    stars: 378
     contributors: 13
     last_activity: Last commit (Jan 23, 2026)
     archived: false
-    updated_at: '2026-04-11T03:56:36Z'
+    updated_at: '2026-05-11T02:51:54Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -344,9 +344,9 @@ repositories:
   stats:
     stars: 140
     contributors: 1
-    last_activity: Last commit (Feb 23, 2026)
+    last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-05-07T16:10:22Z'
+    updated_at: '2026-05-11T10:57:28Z'
     language: TypeScript
 - name: raydium-sdk-swap-example-typescript
   repo: chainstacklabs/raydium-sdk-swap-example-typescript
@@ -379,11 +379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1403
+    stars: 1404
     contributors: 51
     last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-09T17:54:36Z'
+    updated_at: '2026-05-11T13:17:36Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -880,9 +880,9 @@ repositories:
   stats:
     stars: 932
     contributors: 32
-    last_activity: Last commit (May 10, 2026)
+    last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-05-10T15:12:59Z'
+    updated_at: '2026-05-11T09:49:15Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1268,11 +1268,11 @@ repositories:
   category: SDKs & Tooling
   stars: 63
   stats:
-    stars: 72
+    stars: 73
     contributors: 10
     last_activity: '@bonfida/spl-name-service@3.0.1 (Aug 07, 2024)'
     archived: false
-    updated_at: '2026-05-07T10:13:44Z'
+    updated_at: '2026-05-11T12:56:59Z'
     language: TypeScript
 - name: Solana-Token-Staking-Smart-Contract
   repo: cutupdev/Solana-Token-Staking-Smart-Contract
@@ -1723,9 +1723,9 @@ repositories:
   stats:
     stars: 140
     contributors: 1
-    last_activity: Last commit (Feb 23, 2026)
+    last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-05-07T16:10:22Z'
+    updated_at: '2026-05-11T10:57:28Z'
     language: TypeScript
 - name: Bita_Contract
   repo: kinexbt/Bita_Contract
@@ -2180,9 +2180,9 @@ repositories:
   stats:
     stars: 148
     contributors: 17
-    last_activity: Last commit (May 09, 2026)
+    last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-05-09T17:09:50Z'
+    updated_at: '2026-05-11T13:45:30Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2299,11 +2299,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 209
+    stars: 210
     contributors: 10
     last_activity: Last commit (May 07, 2026)
     archived: false
-    updated_at: '2026-05-10T05:34:35Z'
+    updated_at: '2026-05-11T05:29:18Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2319,6 +2319,18 @@ repositories:
     archived: false
     updated_at: '2026-04-30T08:40:08Z'
     language: Python
+- name: jup-sh
+  repo: jerrywang33/jup-sh
+  description: Risk and settlement for Solana agent payments.
+  category: DeFi
+  stars: 11
+  stats:
+    stars: 11
+    contributors: 1
+    last_activity: Last commit (May 11, 2026)
+    archived: false
+    updated_at: '2026-05-11T14:20:29Z'
+    language: JavaScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
