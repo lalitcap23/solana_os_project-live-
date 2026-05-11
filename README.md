@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-05-10
+Last updated: 2026-05-11
 
 ## Directory
 
@@ -40,10 +40,10 @@ Last updated: 2026-05-10
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.9k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.8k | 359 | v3.1.14 (Apr 24, 2026) | Infrastructure |
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 234 | 171 | transaction@v4.1.1 (Apr 24, 2026) | SDKs & Tooling |
-| Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.1k | 336 | v1.0.2 (May 02, 2026) | SDKs & Tooling |
+| Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.1k | 337 | v1.0.2 (May 02, 2026) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.7k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 440 | 10 | v0.27.1 (Nov 15, 2025) | SDKs & Tooling |
-| anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.1k | 336 | v1.0.2 (May 02, 2026) | SDKs & Tooling |
+| anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.1k | 337 | v1.0.2 (May 02, 2026) | SDKs & Tooling |
 | trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 385 | 20 | 0.12.0 (Nov 27, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 245 | 13 | Last commit (Oct 07, 2025) | SDKs & Tooling |
 | steel | Solana smart contract framework. | https://github.com/regolith-labs/steel | 260 | 7 | 2.1.0 (Oct 23, 2024) | SDKs & Tooling |
@@ -178,7 +178,7 @@ Last updated: 2026-05-10
 | solana-payment-processor | Solana payment processor for e-commerce applications | https://github.com/solpayments/solana-payment-processor | 21 | 2 | Last commit (Jul 13, 2021) | Payments |
 | solana-payment-processor | About Solana payment processor for e-commerce applications | https://github.com/hylcore-V/solana-payment-processor | 17 | 1 | Last commit (Nov 24, 2024) | Payments |
 | solpress-pay | Woocommerce Payment Gateway Plugin Using Solana Pay | https://github.com/solpressplugins/solpress-pay | 11 | 1 | Last commit (Aug 07, 2024) | Payments |
-| wc-solana-pay | Solana Pay powered payment gateway for WordPress and WooCommerce | https://github.com/aztemi/wc-solana-pay | 9 | 1 | Last commit (Feb 19, 2026) | Payments |
+| wc-solana-pay | Solana Pay powered payment gateway for WordPress and WooCommerce | https://github.com/aztemi/wc-solana-pay | 10 | 1 | Last commit (Feb 19, 2026) | Payments |
 | solana-pay-checkout | A point-of-sale web app that allows us to take payments from customers through QR Code in person using Solana Pay. | https://github.com/ronylucca/solana-pay-checkout | 8 | 1 | Last commit (Apr 10, 2022) | Payments |
 | solana-pay-qrcode-generator | A simple way to generate QR Codes and easily accept payments in Solana, USCD or any other SPL-Token on the Solana Blockchain. | https://github.com/valentinmadrid/solana-pay-qrcode-generator | 7 | 1 | Last commit (Oct 25, 2022) | Payments |
 | solana-pay-minimal-example | Solana Pay(@solana/pay) minimal examples and docs. | https://github.com/256hax/solana-pay-minimal-example | 4 | 1 | Last commit (Aug 31, 2023) | Payments |

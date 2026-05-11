@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14870
+    stars: 14872
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-10T04:49:59Z'
+    updated_at: '2026-05-10T21:01:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1775
+    stars: 1777
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-10T06:43:34Z'
+    updated_at: '2026-05-10T21:01:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5055
-    contributors: 336
+    stars: 5056
+    contributors: 337
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-09T23:13:20Z'
+    updated_at: '2026-05-11T01:17:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4217
+    stars: 4218
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-07T12:45:55Z'
+    updated_at: '2026-05-10T16:52:03Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5055
-    contributors: 336
+    stars: 5056
+    contributors: 337
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-09T23:13:20Z'
+    updated_at: '2026-05-11T01:17:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -882,7 +882,7 @@ repositories:
     contributors: 32
     last_activity: Last commit (May 10, 2026)
     archived: false
-    updated_at: '2026-05-10T04:41:03Z'
+    updated_at: '2026-05-10T15:12:59Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1053,11 +1053,11 @@ repositories:
   category: Payments
   stars: 9
   stats:
-    stars: 9
+    stars: 10
     contributors: 1
     last_activity: Last commit (Feb 19, 2026)
     archived: false
-    updated_at: '2026-02-19T14:46:27Z'
+    updated_at: '2026-05-10T20:23:54Z'
     language: PHP
 - name: Payment-gateway
   repo: alxn787/Payment-gateway
