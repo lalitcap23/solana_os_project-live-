@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14876
+    stars: 14877
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-15T15:04:00Z'
+    updated_at: '2026-05-16T12:38:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-15T23:49:51Z'
+    updated_at: '2026-05-16T08:22:58Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5058
+    stars: 5059
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-16T00:56:25Z'
+    updated_at: '2026-05-16T12:38:08Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2722
+    stars: 2723
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-05-14T09:16:37Z'
+    updated_at: '2026-05-16T12:38:12Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2015
+    stars: 2016
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-05-14T04:27:59Z'
+    updated_at: '2026-05-16T12:40:40Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4224
+    stars: 4225
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-15T15:15:23Z'
+    updated_at: '2026-05-16T12:38:10Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5058
+    stars: 5059
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-16T00:56:25Z'
+    updated_at: '2026-05-16T12:38:08Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -200,11 +200,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 387
+    stars: 388
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-15T18:04:13Z'
+    updated_at: '2026-05-16T04:43:22Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 681
+    stars: 682
     contributors: 163
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-15T15:05:50Z'
+    updated_at: '2026-05-16T09:54:30Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -373,11 +373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1404
+    stars: 1405
     contributors: 51
     last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-15T17:11:30Z'
+    updated_at: '2026-05-16T12:40:24Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -966,7 +966,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.9 (May 15, 2026)
     archived: false
-    updated_at: '2026-05-15T22:46:01Z'
+    updated_at: '2026-05-16T07:03:25Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1205,11 +1205,11 @@ repositories:
   category: DeFi
   stars: 462
   stats:
-    stars: 501
+    stars: 502
     contributors: 1
     last_activity: Last commit (Mar 27, 2026)
     archived: false
-    updated_at: '2026-05-13T07:03:05Z'
+    updated_at: '2026-05-16T07:53:53Z'
     language: Rust
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5058
+    stars: 5059
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-16T00:56:25Z'
+    updated_at: '2026-05-16T12:38:08Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
