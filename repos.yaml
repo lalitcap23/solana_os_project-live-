@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14877
+    stars: 14880
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-16T12:38:06Z'
+    updated_at: '2026-05-17T02:24:43Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1788
+    stars: 1789
     contributors: 359
     last_activity: v3.1.14 (Apr 24, 2026)
     archived: false
-    updated_at: '2026-05-16T08:22:58Z'
+    updated_at: '2026-05-16T21:34:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 236
+    stars: 237
     contributors: 172
     last_activity: frozen-abi@v3.4.0 (May 15, 2026)
     archived: false
-    updated_at: '2026-05-15T15:09:19Z'
+    updated_at: '2026-05-17T00:48:11Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 757
+    stars: 758
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: true
-    updated_at: '2026-05-02T17:23:35Z'
+    updated_at: '2026-05-16T15:37:57Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -200,11 +200,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 388
+    stars: 389
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-16T04:43:22Z'
+    updated_at: '2026-05-17T02:24:23Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -808,11 +808,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 175
+    stars: 174
     contributors: 0
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-05-15T06:09:08Z'
+    updated_at: '2026-05-16T20:59:07Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -874,9 +874,9 @@ repositories:
   stats:
     stars: 935
     contributors: 32
-    last_activity: Last commit (May 15, 2026)
+    last_activity: Last commit (May 17, 2026)
     archived: false
-    updated_at: '2026-05-15T13:03:07Z'
+    updated_at: '2026-05-17T01:46:07Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2149,10 +2149,10 @@ repositories:
   stars: 61
   stats:
     stars: 150
-    contributors: 17
-    last_activity: Last commit (May 11, 2026)
+    contributors: 18
+    last_activity: Last commit (May 17, 2026)
     archived: false
-    updated_at: '2026-05-12T20:12:19Z'
+    updated_at: '2026-05-17T02:16:07Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2273,7 +2273,7 @@ repositories:
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-05-14T23:20:36Z'
+    updated_at: '2026-05-16T15:06:21Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2307,12 +2307,25 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5059
+    stars: 5060
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-16T12:38:08Z'
+    updated_at: '2026-05-17T02:27:07Z'
     language: Rust
+- name: mobile_app
+  repo: anonmesh/mobile_app
+  description: Offline-first Solana wallet and encrypted mesh messenger. over BLE
+    · LoRa · TCP. No internet. No SIM. Powered by Arcium + Reticulum.
+  category: Wallets & Mobile
+  stars: 16
+  stats:
+    stars: 16
+    contributors: 2
+    last_activity: v1.0.2 (May 15, 2026)
+    archived: false
+    updated_at: '2026-05-16T18:17:06Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
