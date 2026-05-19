@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14887
+    stars: 14888
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-19T01:44:49Z'
+    updated_at: '2026-05-19T14:34:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -17,10 +17,10 @@ repositories:
   category: Infrastructure
   stats:
     stars: 1789
-    contributors: 359
+    contributors: 358
     last_activity: v4.0.0 (May 16, 2026)
     archived: false
-    updated_at: '2026-05-19T02:33:33Z'
+    updated_at: '2026-05-19T14:14:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 238
     contributors: 173
-    last_activity: program-log@v1.2.0 (May 18, 2026)
+    last_activity: slot-history@v3.0.1 (May 19, 2026)
     archived: false
-    updated_at: '2026-05-18T18:09:25Z'
+    updated_at: '2026-05-19T14:20:53Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T22:54:59Z'
+    updated_at: '2026-05-19T13:25:02Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4225
+    stars: 4224
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-18T22:54:48Z'
+    updated_at: '2026-05-19T12:14:07Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -179,7 +179,7 @@ repositories:
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T22:54:59Z'
+    updated_at: '2026-05-19T13:25:02Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -293,7 +293,7 @@ repositories:
     contributors: 164
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-19T00:40:09Z'
+    updated_at: '2026-05-19T12:43:54Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -745,9 +745,9 @@ repositories:
   stats:
     stars: 628
     contributors: 19
-    last_activity: Last commit (Mar 16, 2026)
+    last_activity: Last commit (May 19, 2026)
     archived: false
-    updated_at: '2026-05-17T09:23:46Z'
+    updated_at: '2026-05-19T13:35:38Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -872,11 +872,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 936
+    stars: 937
     contributors: 32
     last_activity: Last commit (May 19, 2026)
     archived: false
-    updated_at: '2026-05-19T01:54:58Z'
+    updated_at: '2026-05-19T06:04:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -900,7 +900,7 @@ repositories:
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2026-05-15T21:14:54Z'
+    updated_at: '2026-05-19T03:33:45Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1657,11 +1657,11 @@ repositories:
   category: SDKs & Tooling
   stars: 196
   stats:
-    stars: 120
+    stars: 119
     contributors: 12
     last_activity: Last commit (May 04, 2026)
     archived: false
-    updated_at: '2026-05-14T14:50:06Z'
+    updated_at: '2026-05-19T11:38:50Z'
     language: TypeScript
 - name: launch-solana-token
   repo: lacydebuger/launch-solana-token
@@ -2017,11 +2017,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 575
+    stars: 576
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-05-10T08:49:13Z'
+    updated_at: '2026-05-19T05:24:22Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2311,7 +2311,7 @@ repositories:
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T22:54:59Z'
+    updated_at: '2026-05-19T13:25:02Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2335,7 +2335,7 @@ repositories:
   stats:
     stars: 6
     contributors: 1
-    last_activity: v2026.05.18 (May 18, 2026)
+    last_activity: v2026.05.19 (May 19, 2026)
     archived: false
     updated_at: '2026-05-11T12:54:14Z'
     language: JavaScript
