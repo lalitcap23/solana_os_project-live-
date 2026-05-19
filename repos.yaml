@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14884
+    stars: 14887
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-18T06:30:50Z'
+    updated_at: '2026-05-19T01:44:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.0.0 (May 16, 2026)
     archived: false
-    updated_at: '2026-05-18T14:09:12Z'
+    updated_at: '2026-05-19T02:33:33Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 173
     last_activity: program-log@v1.2.0 (May 18, 2026)
     archived: false
-    updated_at: '2026-05-18T14:56:02Z'
+    updated_at: '2026-05-18T18:09:25Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5061
+    stars: 5060
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T07:42:04Z'
+    updated_at: '2026-05-18T22:54:59Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,22 +51,22 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2722
+    stars: 2721
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-05-17T05:26:51Z'
+    updated_at: '2026-05-18T23:01:08Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2016
+    stars: 2018
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-05-16T12:40:40Z'
+    updated_at: '2026-05-19T00:56:56Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -78,7 +78,7 @@ repositories:
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-17T21:07:18Z'
+    updated_at: '2026-05-18T22:54:48Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -120,7 +120,7 @@ repositories:
   stats:
     stars: 251
     contributors: 3
-    last_activity: v7.0.13 (May 14, 2026)
+    last_activity: v7.0.14 (May 18, 2026)
     archived: false
     updated_at: '2026-05-12T06:07:46Z'
     language: Dockerfile
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5061
+    stars: 5060
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T07:42:04Z'
+    updated_at: '2026-05-18T22:54:59Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,11 +187,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 591
+    stars: 593
     contributors: 41
     last_activity: v0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-05-14T21:07:51Z'
+    updated_at: '2026-05-18T20:13:27Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -225,11 +225,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 261
+    stars: 260
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2026-05-13T21:34:09Z'
+    updated_at: '2026-05-18T22:59:19Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4148
+    stars: 4149
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-05-17T17:12:16Z'
+    updated_at: '2026-05-18T20:53:08Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -290,10 +290,10 @@ repositories:
   stars: 511
   stats:
     stars: 682
-    contributors: 163
+    contributors: 164
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-18T14:22:21Z'
+    updated_at: '2026-05-19T00:40:09Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -517,11 +517,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3357
+    stars: 3356
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-05-17T05:26:57Z'
+    updated_at: '2026-05-18T22:59:32Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -628,11 +628,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 206
+    stars: 207
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2026-05-15T11:58:55Z'
+    updated_at: '2026-05-18T17:59:48Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -874,9 +874,9 @@ repositories:
   stats:
     stars: 936
     contributors: 32
-    last_activity: Last commit (May 18, 2026)
+    last_activity: Last commit (May 19, 2026)
     archived: false
-    updated_at: '2026-05-18T09:36:32Z'
+    updated_at: '2026-05-19T01:54:58Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -966,7 +966,7 @@ repositories:
     contributors: 11
     last_activity: v4.0.9 (May 15, 2026)
     archived: false
-    updated_at: '2026-05-18T01:24:33Z'
+    updated_at: '2026-05-18T22:22:15Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1360,11 +1360,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 35
+    stars: 34
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2026-02-10T10:23:15Z'
+    updated_at: '2026-05-18T22:59:42Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
@@ -1487,9 +1487,9 @@ repositories:
   stats:
     stars: 170
     contributors: 13
-    last_activity: v1.4.6 (May 17, 2026)
+    last_activity: v1.4.7 (May 18, 2026)
     archived: false
-    updated_at: '2026-05-17T17:54:36Z'
+    updated_at: '2026-05-18T16:27:57Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 151
+    stars: 153
     contributors: 18
-    last_activity: Last commit (May 17, 2026)
+    last_activity: Last commit (May 18, 2026)
     archived: false
-    updated_at: '2026-05-18T07:31:04Z'
+    updated_at: '2026-05-18T22:08:30Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5061
+    stars: 5060
     contributors: 339
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-18T07:42:04Z'
+    updated_at: '2026-05-18T22:54:59Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2324,7 +2324,7 @@ repositories:
     contributors: 2
     last_activity: v1.0.2 (May 15, 2026)
     archived: false
-    updated_at: '2026-05-18T09:51:03Z'
+    updated_at: '2026-05-18T21:36:11Z'
     language: TypeScript
 - name: teller-solana-dapp
   repo: NadirAliOfficial/teller-solana-dapp
