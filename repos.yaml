@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14891
+    stars: 14893
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-23T22:45:32Z'
+    updated_at: '2026-05-24T13:00:43Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,18 +20,18 @@ repositories:
     contributors: 358
     last_activity: v4.0.0 (May 16, 2026)
     archived: false
-    updated_at: '2026-05-24T01:11:03Z'
+    updated_at: '2026-05-24T07:30:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 239
+    stars: 240
     contributors: 173
     last_activity: zero-copy@v1.1.1 (May 21, 2026)
     archived: false
-    updated_at: '2026-05-23T12:52:28Z'
+    updated_at: '2026-05-24T05:05:20Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5069
+    stars: 5070
     contributors: 340
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-23T22:46:35Z'
+    updated_at: '2026-05-24T08:38:58Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5069
+    stars: 5070
     contributors: 340
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-23T22:46:35Z'
+    updated_at: '2026-05-24T08:38:58Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -468,11 +468,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 587
+    stars: 588
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-05-23T20:39:20Z'
+    updated_at: '2026-05-24T08:50:57Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5069
+    stars: 5070
     contributors: 340
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-23T22:46:35Z'
+    updated_at: '2026-05-24T08:38:58Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
