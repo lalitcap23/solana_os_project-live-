@@ -9,29 +9,29 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-26T17:36:15Z'
+    updated_at: '2026-05-27T11:54:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1801
+    stars: 1803
     contributors: 358
     last_activity: v4.0.0 (May 16, 2026)
     archived: false
-    updated_at: '2026-05-27T01:28:14Z'
+    updated_at: '2026-05-27T14:47:24Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 240
+    stars: 242
     contributors: 174
-    last_activity: zero-copy@v1.1.1 (May 21, 2026)
+    last_activity: transaction@v4.1.2 (May 27, 2026)
     archived: false
-    updated_at: '2026-05-26T18:24:56Z'
+    updated_at: '2026-05-27T14:53:54Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5073
+    stars: 5074
     contributors: 343
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-26T19:00:12Z'
+    updated_at: '2026-05-27T14:33:05Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -89,7 +89,7 @@ repositories:
     contributors: 21
     last_activity: pod@v0.7.3 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-04-26T18:42:25Z'
+    updated_at: '2026-05-27T13:56:06Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -107,11 +107,11 @@ repositories:
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 36
+    stars: 37
     contributors: 6
     last_activity: js@v0.3.0 (Jan 27, 2025)
     archived: false
-    updated_at: '2026-05-20T17:14:17Z'
+    updated_at: '2026-05-27T03:16:53Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5073
+    stars: 5074
     contributors: 343
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-26T19:00:12Z'
+    updated_at: '2026-05-27T14:33:05Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4149
+    stars: 4150
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-05-25T01:54:07Z'
+    updated_at: '2026-05-27T10:11:54Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 685
+    stars: 686
     contributors: 165
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-26T21:57:28Z'
+    updated_at: '2026-05-27T10:18:47Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -373,11 +373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1409
+    stars: 1410
     contributors: 51
     last_activity: Last commit (May 06, 2026)
     archived: false
-    updated_at: '2026-05-25T19:33:47Z'
+    updated_at: '2026-05-27T10:14:19Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -517,11 +517,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3354
+    stars: 3353
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-05-26T17:36:18Z'
+    updated_at: '2026-05-27T08:26:22Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -874,9 +874,9 @@ repositories:
   stats:
     stars: 937
     contributors: 32
-    last_activity: Last commit (May 26, 2026)
+    last_activity: Last commit (May 27, 2026)
     archived: false
-    updated_at: '2026-05-26T15:38:30Z'
+    updated_at: '2026-05-27T08:48:02Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1400,11 +1400,11 @@ repositories:
   category: NFTs & Programs
   stars: 21
   stats:
-    stars: 22
+    stars: 23
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-04-21T16:07:54Z'
+    updated_at: '2026-05-27T08:23:27Z'
     language: TypeScript
 - name: candy-machine-ui
   repo: crusaderincode/candy-machine-ui
@@ -1932,11 +1932,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 116
+    stars: 117
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-05-24T15:06:00Z'
+    updated_at: '2026-05-27T08:02:43Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -1990,11 +1990,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 116
+    stars: 117
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-05-24T15:06:00Z'
+    updated_at: '2026-05-27T08:02:43Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 155
+    stars: 156
     contributors: 18
     last_activity: Last commit (May 18, 2026)
     archived: false
-    updated_at: '2026-05-22T11:56:54Z'
+    updated_at: '2026-05-27T06:28:48Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2269,11 +2269,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 214
+    stars: 215
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-05-27T00:00:38Z'
+    updated_at: '2026-05-27T08:38:54Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5073
+    stars: 5074
     contributors: 343
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-26T19:00:12Z'
+    updated_at: '2026-05-27T14:33:05Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
