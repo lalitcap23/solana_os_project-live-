@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14897
+    stars: 14896
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-05-29T00:52:35Z'
+    updated_at: '2026-05-29T09:49:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.0.0 (May 16, 2026)
     archived: false
-    updated_at: '2026-05-29T02:30:10Z'
+    updated_at: '2026-05-29T14:32:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 174
     last_activity: transaction@v4.1.2 (May 27, 2026)
     archived: false
-    updated_at: '2026-05-28T18:13:31Z'
+    updated_at: '2026-05-29T09:02:36Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5076
+    stars: 5077
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T02:26:11Z'
+    updated_at: '2026-05-29T11:46:00Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4227
+    stars: 4226
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-28T14:33:13Z'
+    updated_at: '2026-05-29T04:09:20Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5076
+    stars: 5077
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T02:26:11Z'
+    updated_at: '2026-05-29T11:46:00Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 685
+    stars: 684
     contributors: 166
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-05-28T18:27:41Z'
+    updated_at: '2026-05-29T11:37:30Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -517,11 +517,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3353
+    stars: 3354
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-05-27T08:26:22Z'
+    updated_at: '2026-05-29T03:11:40Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -872,11 +872,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 938
+    stars: 937
     contributors: 32
-    last_activity: Last commit (May 28, 2026)
+    last_activity: Last commit (May 29, 2026)
     archived: false
-    updated_at: '2026-05-28T14:24:09Z'
+    updated_at: '2026-05-29T11:37:28Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2269,11 +2269,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 217
+    stars: 227
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-05-28T22:12:30Z'
+    updated_at: '2026-05-29T14:46:16Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5076
+    stars: 5077
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T02:26:11Z'
+    updated_at: '2026-05-29T11:46:00Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2378,7 +2378,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-05-28T22:13:01Z'
+    updated_at: '2026-05-29T03:52:19Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
