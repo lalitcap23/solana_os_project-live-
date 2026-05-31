@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5077
+    stars: 5078
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T11:46:00Z'
+    updated_at: '2026-05-30T14:30:13Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-05-30T07:09:28Z'
+    updated_at: '2026-05-30T22:52:48Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4226
+    stars: 4227
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-29T19:20:01Z'
+    updated_at: '2026-05-30T19:02:35Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -163,11 +163,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 439
+    stars: 440
     contributors: 10
     last_activity: v0.27.1 (Nov 15, 2025)
     archived: false
-    updated_at: '2026-05-23T22:45:53Z'
+    updated_at: '2026-05-30T20:09:42Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5077
+    stars: 5078
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T11:46:00Z'
+    updated_at: '2026-05-30T14:30:13Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -468,11 +468,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 590
+    stars: 591
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-05-28T14:46:50Z'
+    updated_at: '2026-05-30T14:18:01Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -2098,9 +2098,9 @@ repositories:
   stats:
     stars: 189
     contributors: 1
-    last_activity: Last commit (May 30, 2026)
+    last_activity: Last commit (May 31, 2026)
     archived: false
-    updated_at: '2026-05-30T10:05:36Z'
+    updated_at: '2026-05-31T00:07:37Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2114,9 +2114,9 @@ repositories:
   stats:
     stars: 185
     contributors: 1
-    last_activity: Last commit (May 30, 2026)
+    last_activity: Last commit (May 31, 2026)
     archived: false
-    updated_at: '2026-05-30T08:46:09Z'
+    updated_at: '2026-05-31T00:07:31Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2130,9 +2130,9 @@ repositories:
   stats:
     stars: 185
     contributors: 1
-    last_activity: Last commit (May 30, 2026)
+    last_activity: Last commit (May 31, 2026)
     archived: false
-    updated_at: '2026-05-30T09:41:38Z'
+    updated_at: '2026-05-31T00:07:36Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5077
+    stars: 5078
     contributors: 344
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-05-29T11:46:00Z'
+    updated_at: '2026-05-30T14:30:13Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2333,11 +2333,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 6
+    stars: 7
     contributors: 1
     last_activity: v2026.05.23 (May 23, 2026)
     archived: false
-    updated_at: '2026-05-28T20:09:26Z'
+    updated_at: '2026-05-30T19:15:30Z'
     language: JavaScript
 - name: solana-wallet-pnl-profit-and-loss-api
   repo: vybenetwork/solana-wallet-pnl-profit-and-loss-api
@@ -2351,9 +2351,9 @@ repositories:
   stats:
     stars: 213
     contributors: 1
-    last_activity: Last commit (May 19, 2026)
+    last_activity: Last commit (May 31, 2026)
     archived: false
-    updated_at: '2026-05-30T05:57:06Z'
+    updated_at: '2026-05-31T00:24:19Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2378,7 +2378,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-05-29T03:52:19Z'
+    updated_at: '2026-05-31T02:34:17Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
