@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1806
+    stars: 1805
     contributors: 359
     last_activity: v4.0.1 (May 29, 2026)
     archived: false
-    updated_at: '2026-06-01T16:56:57Z'
+    updated_at: '2026-06-02T02:16:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -145,7 +145,7 @@ repositories:
     last_activity: '@solana-mobile/mobile-wallet-adapter-walletlib@1.4.3 (Apr 15,
       2026)'
     archived: false
-    updated_at: '2026-06-01T17:15:34Z'
+    updated_at: '2026-06-01T21:49:57Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -427,11 +427,11 @@ repositories:
   category: SDKs & Tooling
   stars: 344
   stats:
-    stars: 344
+    stars: 343
     contributors: 4
     last_activity: Last commit (Feb 24, 2023)
     archived: false
-    updated_at: '2026-05-23T22:45:15Z'
+    updated_at: '2026-06-01T22:46:33Z'
     language: Rust
 - name: Solana-Arbitrage-Bot-Flash-Loan
   repo: deniyuda348/Solana-Arbitrage-Bot-Flash-Loan
@@ -642,7 +642,7 @@ repositories:
   stars: 294
   stats:
     stars: 301
-    contributors: 24
+    contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
     updated_at: '2026-05-18T06:18:20Z'
@@ -1487,9 +1487,9 @@ repositories:
   stats:
     stars: 171
     contributors: 13
-    last_activity: v1.5.5 (Jun 01, 2026)
+    last_activity: v1.5.6 (Jun 01, 2026)
     archived: false
-    updated_at: '2026-06-01T12:20:39Z'
+    updated_at: '2026-06-01T19:28:50Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1975,7 +1975,7 @@ repositories:
   stars: 302
   stats:
     stars: 301
-    contributors: 24
+    contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
     updated_at: '2026-05-18T06:18:20Z'
@@ -2269,11 +2269,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 234
+    stars: 235
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-06-01T16:32:35Z'
+    updated_at: '2026-06-02T01:12:20Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2378,7 +2378,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-01T17:25:07Z'
+    updated_at: '2026-06-02T02:18:04Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
