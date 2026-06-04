@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-06-03
+Last updated: 2026-06-04
 
 ## Directory
 
@@ -68,7 +68,7 @@ Last updated: 2026-06-03
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 197 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
 | solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 98 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
 | solana-spl-tutorial | This repository contains full tutorial on Solana SPL token | https://github.com/YosephKS/solana-spl-tutorial | 77 | 1 | Last commit (Feb 12, 2022) | SDKs & Tooling |
-| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 937 | 32 | Last commit (Jun 03, 2026) | SDKs & Tooling |
+| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 937 | 33 | Last commit (Jun 03, 2026) | SDKs & Tooling |
 | anchor-escrow | Escrow program implemented in Anchor | https://github.com/ironaddicteddog/anchor-escrow | 197 | 3 | Last commit (Aug 29, 2024) | SDKs & Tooling |
 | pumpfun-rs | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. | https://github.com/nhuxhr/pumpfun-rs | 163 | 5 | Last commit (Oct 01, 2025) | SDKs & Tooling |
 | Solana-Auditors-Bootcamp | Learn to audit Solana programs and help secure the ecosystem. Take your security practices to the next level and get certified by Ackee Blockchain Security. It's free, too. | https://github.com/Ackee-Blockchain/Solana-Auditors-Bootcamp | 163 | 3 | Last commit (Nov 25, 2025) | SDKs & Tooling |
@@ -124,7 +124,7 @@ Last updated: 2026-06-03
 | Pumpfun-Solana-Smart-Contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-Solana-Smart-Contract | 313 | 1 | Last commit (Dec 21, 2025) | SDKs & Tooling |
 | Free-Solana-Sniper-Memecoins-Bot-2026 | 🚀 Start sniping Solana now in 2026! Try this premium verified bot 💎 | https://github.com/MemeSnipe/Free-Solana-Sniper-Memecoins-Bot-2026 | 38 | 1 | Last commit (Mar 24, 2026) | SDKs & Tooling |
 | anchor | ⚓ Solana Program Framework | https://github.com/otter-sec/anchor | 5.1k | 345 | v1.0.2 (May 02, 2026) | SDKs & Tooling |
-| NEW solana-trading-bot-v3 | solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot  | https://github.com/cortsdine/solana-trading-bot-v3 | 221 | 1 | Last commit (Jun 03, 2026) | SDKs & Tooling |
+| solana-trading-bot-v3 | solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot  | https://github.com/cortsdine/solana-trading-bot-v3 | 221 | 1 | Last commit (Jun 03, 2026) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 2.0k | 115 | @solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 757 | 2 | Archived; Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 325 | 21 | v2.1.1 (Jun 02, 2026) | Wallets & Mobile |
@@ -145,7 +145,7 @@ Last updated: 2026-06-03
 | solana-mobile-seeker-genesis-holders | Indexes and serves Solana Mobile Seeker Genesis NFT holder data. Tracks which wallets hold Seeker Genesis NFTs, which mint they hold, and since when. | https://github.com/beeman/solana-mobile-seeker-genesis-holders | 7 | 3 | Last commit (May 12, 2026) | Wallets & Mobile |
 | solana-pump.fun-bundler | Multi-wallet bundler for Solana token launches on pump.fun/pumpfun, bonk.fun/bonkfun, letsbonk, and bags.fm. Atomic execution with Jito bundles and Raydium SDK v2. MEV-protected trading bot with dual Jito/Lil Jito support.Solana bundler · Pumpfun bundler · Pump.fun bundler · Bonkfun bundler · Bonk.fun bundler.  | https://github.com/chris-ruther/solana-pump.fun-bundler | — | — | Active | Wallets & Mobile |
 | soulpass-cli-skill | Hardware-secured Solana wallet, trading terminal, and agent identity layer for AI agents. Jupiter DEX swaps, meme coin trading, DeFi yield, trading bots, on-chain identity, encrypted agent-to-agent messaging, service discovery. Keys in Apple Secure Enclave. | https://github.com/SoulPass-AI/soulpass-cli-skill | 7 | — | Last commit (Apr 03, 2026) | Wallets & Mobile |
-| mobile_app | Offline-first Solana wallet and encrypted mesh messenger. over BLE · LoRa · TCP. No internet. No SIM. Powered by Arcium + Reticulum. | https://github.com/anonmesh/mobile_app | 17 | 2 | v1.0.2 (May 15, 2026) | Wallets & Mobile |
+| mobile_app | Offline-first Solana wallet and encrypted mesh messenger. over BLE · LoRa · TCP. No internet. No SIM. Powered by Arcium + Reticulum. | https://github.com/anonmesh/mobile_app | 17 | 2 | v1.0.3 (Jun 03, 2026) | Wallets & Mobile |
 | solana-wallet-pnl-profit-and-loss-api | Solana Wallet PnL API: This repo demonstrates how to use Vybe Solana wallet PnL APIs to fetch, filter, and analyze per-wallet profit and loss (PnL), related wallets, trades, and SPL/Token-2022 token metadata. Use it as a reference or starter kit for analytics dashboards, PnL leaderboards, related-wallet discovery, and similar data products. | https://github.com/vybenetwork/solana-wallet-pnl-profit-and-loss-api | 213 | 1 | Last commit (Jun 03, 2026) | Wallets & Mobile |
 | Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.2k | 233 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
 | SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 15 | 21 | pod@v0.7.3 (Apr 02, 2026) | Programs (SPL) |
