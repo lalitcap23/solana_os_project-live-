@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14896
+    stars: 14898
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-06-03T21:46:34Z'
+    updated_at: '2026-06-04T09:45:56Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1807
+    stars: 1806
     contributors: 359
     last_activity: v4.0.1 (May 29, 2026)
     archived: false
-    updated_at: '2026-06-04T02:29:13Z'
+    updated_at: '2026-06-04T14:05:04Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 242
     contributors: 174
-    last_activity: fee-calculator@v3.2.1 (Jun 03, 2026)
+    last_activity: signature@v3.4.1 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-03T15:43:56Z'
+    updated_at: '2026-06-04T14:18:51Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5081
-    contributors: 345
+    contributors: 346
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-03T23:37:18Z'
+    updated_at: '2026-06-04T14:02:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5081
-    contributors: 345
+    contributors: 346
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-03T23:37:18Z'
+    updated_at: '2026-06-04T14:02:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 594
+    stars: 595
     contributors: 41
-    last_activity: v0.12.0 (Nov 27, 2025)
+    last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-05-31T05:03:34Z'
+    updated_at: '2026-06-04T06:33:46Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 245
+    stars: 246
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-05-31T09:53:10Z'
+    updated_at: '2026-06-04T09:10:55Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4150
+    stars: 4149
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-06-03T21:14:27Z'
+    updated_at: '2026-06-04T13:18:09Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1414
+    stars: 1413
     contributors: 57
     last_activity: Last commit (May 30, 2026)
     archived: false
-    updated_at: '2026-06-03T17:42:58Z'
+    updated_at: '2026-06-04T13:54:02Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -640,11 +640,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 301
+    stars: 302
     contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-05-18T06:18:20Z'
+    updated_at: '2026-06-04T03:11:02Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -873,9 +873,9 @@ repositories:
   stats:
     stars: 937
     contributors: 33
-    last_activity: Last commit (Jun 03, 2026)
+    last_activity: Last commit (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-03T19:39:29Z'
+    updated_at: '2026-06-04T05:46:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1672,11 +1672,11 @@ repositories:
   category: SDKs & Tooling
   stars: 103
   stats:
-    stars: 3
+    stars: 4
     contributors: 1
     last_activity: sol (Jul 11, 2025)
     archived: false
-    updated_at: '2026-02-20T11:38:50Z'
+    updated_at: '2026-06-04T06:04:31Z'
     language: Rust
 - name: StablePay
   repo: FarseenSh/StablePay
@@ -1973,11 +1973,11 @@ repositories:
   category: Wallets & Mobile
   stars: 302
   stats:
-    stars: 301
+    stars: 302
     contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-05-18T06:18:20Z'
+    updated_at: '2026-06-04T03:11:02Z'
     language: Dart
 - name: Web3-EVM-Solana-Casino-Games
   repo: LaChance-Lab/Web3-EVM-Solana-Casino-Games
@@ -2190,11 +2190,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 38
+    stars: 33
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-06-02T17:15:06Z'
+    updated_at: '2026-06-04T12:40:04Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2307,10 +2307,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5081
-    contributors: 345
+    contributors: 346
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-03T23:37:18Z'
+    updated_at: '2026-06-04T14:02:03Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2323,7 +2323,7 @@ repositories:
     contributors: 2
     last_activity: v1.0.3 (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-03T22:28:54Z'
+    updated_at: '2026-06-04T12:18:56Z'
     language: TypeScript
 - name: teller-solana-dapp
   repo: NadirAliOfficial/teller-solana-dapp
@@ -2389,11 +2389,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 221
+    stars: 222
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-03T16:18:24Z'
+    updated_at: '2026-06-04T05:47:29Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
