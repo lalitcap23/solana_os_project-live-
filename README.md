@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-06-05
+Last updated: 2026-06-06
 
 ## Directory
 
@@ -209,7 +209,7 @@ Last updated: 2026-06-05
 | dex-v4 | Orderbook-based on-chain SPL token swap market | https://github.com/Bonfida/dex-v4 | 102 | 7 | Last commit (Feb 22, 2023) | DeFi |
 | pirate-bootcamp | A pirate-theme bootcamp for getting up to speed on Solana programming! | https://github.com/solana-developers/pirate-bootcamp | 337 | 4 | Last commit (Sep 05, 2023) | DeFi |
 | solana-escrow | Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/ | https://github.com/paul-schaaf/solana-escrow | 315 | 3 | Archived; Last commit (Jan 23, 2022) | DeFi |
-| Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/ChangeYourself0613/Solana-Arbitrage-Bot | 289 | 1 | solana-arbitrage-bot2 (May 26, 2025) | DeFi |
+| Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/ChangeYourself0613/Solana-Arbitrage-Bot | 290 | 1 | solana-arbitrage-bot2 (May 26, 2025) | DeFi |
 | sol-trade-sdk | A comprehensive Rust SDK for seamless interaction with Solana DEX trading programs. This SDK provides a robust set of tools and interfaces to integrate PumpFun, PumpSwap, Bonk, and Raydium CPMM functionality into your applications. | https://github.com/0xfnzero/sol-trade-sdk | 310 | 11 | v4.0.15 (Jun 01, 2026) | DeFi |
 | Payment-gateway | Payment gateway for solana with advanced Private key management and address sweeping via indexer | https://github.com/alxn787/Payment-gateway | 14 | 1 | Last commit (Jul 12, 2025) | DeFi |
 | Solana-Arbitrage-Bot | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot | — | — | Active | DeFi |

@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1808
+    stars: 1809
     contributors: 359
     last_activity: v4.0.1 (May 29, 2026)
     archived: false
-    updated_at: '2026-06-05T14:19:51Z'
+    updated_at: '2026-06-05T22:12:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 174
     last_activity: signature@v3.4.1 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-05T12:18:18Z'
+    updated_at: '2026-06-05T21:05:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2729
+    stars: 2730
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-06-04T17:03:46Z'
+    updated_at: '2026-06-05T20:27:57Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 21
     last_activity: '@solana-mobile/wallet-adapter-mobile@2.2.9 (Jun 04, 2026)'
     archived: false
-    updated_at: '2026-06-05T06:52:13Z'
+    updated_at: '2026-06-05T14:50:52Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -292,7 +292,7 @@ repositories:
     contributors: 166
     last_activity: v6.9.0 (May 06, 2026)
     archived: false
-    updated_at: '2026-06-05T09:19:11Z'
+    updated_at: '2026-06-05T14:51:25Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1413
+    stars: 1412
     contributors: 57
     last_activity: Last commit (May 30, 2026)
     archived: false
-    updated_at: '2026-06-04T13:54:02Z'
+    updated_at: '2026-06-05T18:37:11Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -908,11 +908,11 @@ repositories:
   category: DeFi
   stars: 237
   stats:
-    stars: 289
+    stars: 290
     contributors: 1
     last_activity: solana-arbitrage-bot2 (May 26, 2025)
     archived: false
-    updated_at: '2026-06-02T20:08:03Z'
+    updated_at: '2026-06-05T21:20:34Z'
     language: Rust
 - name: anchor-escrow
   repo: ironaddicteddog/anchor-escrow
@@ -2377,7 +2377,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-05T12:30:42Z'
+    updated_at: '2026-06-05T20:06:25Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
