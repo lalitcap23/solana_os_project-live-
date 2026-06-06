@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.0.1 (May 29, 2026)
     archived: false
-    updated_at: '2026-06-05T22:12:44Z'
+    updated_at: '2026-06-06T08:21:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4229
+    stars: 4230
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-05-31T14:59:51Z'
+    updated_at: '2026-06-06T08:03:58Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 757
+    stars: 756
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: true
-    updated_at: '2026-05-23T22:45:18Z'
+    updated_at: '2026-06-06T08:44:14Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -873,9 +873,9 @@ repositories:
   stats:
     stars: 937
     contributors: 32
-    last_activity: Last commit (Jun 05, 2026)
+    last_activity: Last commit (Jun 06, 2026)
     archived: false
-    updated_at: '2026-06-05T10:46:59Z'
+    updated_at: '2026-06-06T05:37:45Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -963,9 +963,9 @@ repositories:
   stats:
     stars: 310
     contributors: 11
-    last_activity: v4.0.15 (Jun 01, 2026)
+    last_activity: v4.0.16 (Jun 06, 2026)
     archived: false
-    updated_at: '2026-06-03T13:13:31Z'
+    updated_at: '2026-06-06T04:31:24Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1216,11 +1216,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 77
+    stars: 78
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2026-04-25T08:22:06Z'
+    updated_at: '2026-06-06T10:54:21Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
@@ -2377,7 +2377,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-05T20:06:25Z'
+    updated_at: '2026-06-06T05:12:43Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
