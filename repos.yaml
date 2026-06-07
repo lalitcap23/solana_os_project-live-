@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1808
+    stars: 1809
     contributors: 359
     last_activity: v4.0.1 (May 29, 2026)
     archived: false
-    updated_at: '2026-06-07T00:23:01Z'
+    updated_at: '2026-06-07T10:41:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 242
+    stars: 243
     contributors: 174
     last_activity: signature@v3.4.1 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-05T21:05:48Z'
+    updated_at: '2026-06-07T08:28:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 252
+    stars: 253
     contributors: 3
     last_activity: v7.0.14 (May 18, 2026)
     archived: false
-    updated_at: '2026-05-30T02:52:15Z'
+    updated_at: '2026-06-07T11:07:59Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -386,13 +386,7 @@ repositories:
     simulation, state management, and token transfers.
   category: SDKs & Tooling
   stars: 681
-  stats:
-    stars: 36
-    contributors: 1
-    last_activity: Last commit (Dec 10, 2025)
-    archived: false
-    updated_at: '2026-06-03T06:38:47Z'
-    language: TypeScript
+  stats: null
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
   description: A lightweight on-chain Coin Flip betting game built on the Solana blockchain
@@ -400,13 +394,7 @@ repositories:
     tokens) on a 50/50 coin flip outcome — win or lose instantly, with no intermediaries.
   category: SDKs & Tooling
   stars: 675
-  stats:
-    stars: 18
-    contributors: 2
-    last_activity: Last commit (Dec 16, 2025)
-    archived: false
-    updated_at: '2026-06-02T08:02:33Z'
-    language: TypeScript
+  stats: null
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
   description: Code examples for the blog post titled The Complete Guide to Full Stack
@@ -1178,11 +1166,11 @@ repositories:
   category: SDKs & Tooling
   stars: 252
   stats:
-    stars: 155
+    stars: 154
     contributors: 1
     last_activity: v1.0.0 (Apr 20, 2026)
     archived: false
-    updated_at: '2026-06-02T05:14:39Z'
+    updated_at: '2026-06-07T07:24:44Z'
     language: TypeScript
 - name: Solana-Pumpfun-Smart-Contract-Token-2022
   repo: cutupdev/Solana-Pumpfun-Smart-Contract-Token-2022
@@ -1450,11 +1438,11 @@ repositories:
   category: DeFi
   stars: 39
   stats:
-    stars: 38
+    stars: 37
     contributors: 1
     last_activity: Last commit (Jun 21, 2024)
     archived: false
-    updated_at: '2026-03-10T22:24:55Z'
+    updated_at: '2026-06-07T13:02:09Z'
     language: TypeScript
 - name: spl-token-faucet
   repo: paul-schaaf/spl-token-faucet
@@ -1715,13 +1703,7 @@ repositories:
     tokens) on a 50/50 coin flip outcome — win or lose instantly, with no intermediaries.
   category: SDKs & Tooling
   stars: 577
-  stats:
-    stars: 18
-    contributors: 2
-    last_activity: Last commit (Dec 16, 2025)
-    archived: false
-    updated_at: '2026-06-02T08:02:33Z'
-    language: TypeScript
+  stats: null
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
   description: Businesses can integrate Solana Pay to accept fast and low-cost cryptocurrency
