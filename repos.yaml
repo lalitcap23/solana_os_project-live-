@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14907
+    stars: 14906
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-06-13T07:43:58Z'
+    updated_at: '2026-06-13T20:07:52Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.0.2 (Jun 05, 2026)
     archived: false
-    updated_at: '2026-06-12T23:45:39Z'
+    updated_at: '2026-06-13T17:13:24Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4228
+    stars: 4229
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-06-12T06:54:03Z'
+    updated_at: '2026-06-13T23:58:37Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 326
+    stars: 327
     contributors: 21
     last_activity: '@solana-mobile/wallet-adapter-mobile@2.2.9 (Jun 04, 2026)'
     archived: false
-    updated_at: '2026-06-13T09:58:56Z'
+    updated_at: '2026-06-13T15:52:33Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 940
+    stars: 942
     contributors: 32
-    last_activity: Last commit (Jun 12, 2026)
+    last_activity: Last commit (Jun 13, 2026)
     archived: false
-    updated_at: '2026-06-12T19:01:59Z'
+    updated_at: '2026-06-13T17:00:37Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2347,7 +2347,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-13T04:01:54Z'
+    updated_at: '2026-06-14T01:32:25Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
