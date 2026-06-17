@@ -18,20 +18,20 @@ repositories:
   stats:
     stars: 1817
     contributors: 359
-    last_activity: v4.0.2 (Jun 05, 2026)
+    last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-16T15:46:37Z'
+    updated_at: '2026-06-17T01:46:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 247
+    stars: 246
     contributors: 174
     last_activity: rent@v4.2.1 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-16T13:58:50Z'
+    updated_at: '2026-06-16T20:11:38Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5086
+    stars: 5084
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-16T15:16:42Z'
+    updated_at: '2026-06-16T21:56:39Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4229
+    stars: 4228
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-06-16T13:53:16Z'
+    updated_at: '2026-06-16T17:20:31Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5086
+    stars: 5084
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-16T15:16:42Z'
+    updated_at: '2026-06-16T21:56:39Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 262
+    stars: 261
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2026-06-16T04:20:04Z'
+    updated_at: '2026-06-16T21:55:08Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 689
+    stars: 688
     contributors: 167
     last_activity: v6.10.0 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-16T08:34:03Z'
+    updated_at: '2026-06-16T17:20:36Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -950,10 +950,10 @@ repositories:
   stars: 125
   stats:
     stars: 312
-    contributors: 11
+    contributors: 12
     last_activity: v4.0.20 (Jun 07, 2026)
     archived: false
-    updated_at: '2026-06-11T18:29:30Z'
+    updated_at: '2026-06-16T17:17:03Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2276,11 +2276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5086
+    stars: 5084
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-16T15:16:42Z'
+    updated_at: '2026-06-16T21:56:39Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2359,11 +2359,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 229
+    stars: 230
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-16T13:54:00Z'
+    updated_at: '2026-06-17T01:46:45Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
