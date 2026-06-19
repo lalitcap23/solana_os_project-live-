@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14915
+    stars: 14918
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-06-18T14:34:29Z'
+    updated_at: '2026-06-19T02:24:46Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1817
+    stars: 1818
     contributors: 360
     last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-18T14:50:10Z'
+    updated_at: '2026-06-18T22:10:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 175
     last_activity: vote-interface@v6.0.1 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-17T18:07:15Z'
+    updated_at: '2026-06-18T21:28:26Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5084
+    stars: 5085
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-17T16:25:19Z'
+    updated_at: '2026-06-18T16:02:54Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2737
+    stars: 2738
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-06-17T11:42:53Z'
+    updated_at: '2026-06-18T15:30:46Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -66,7 +66,7 @@ repositories:
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-06-16T13:53:18Z'
+    updated_at: '2026-06-19T00:51:20Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5084
+    stars: 5085
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-17T16:25:19Z'
+    updated_at: '2026-06-18T16:02:54Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 603
+    stars: 604
     contributors: 41
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-16T04:24:08Z'
+    updated_at: '2026-06-18T14:57:57Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -292,7 +292,7 @@ repositories:
     contributors: 167
     last_activity: v6.10.0 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-18T14:34:05Z'
+    updated_at: '2026-06-19T00:51:18Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 943
+    stars: 944
     contributors: 32
     last_activity: Last commit (Jun 18, 2026)
     archived: false
-    updated_at: '2026-06-18T08:01:15Z'
+    updated_at: '2026-06-19T02:54:25Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -871,11 +871,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 338
+    stars: 339
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2026-06-15T23:29:02Z'
+    updated_at: '2026-06-18T23:30:21Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -1279,11 +1279,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 153
+    stars: 154
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-05-30T08:00:56Z'
+    updated_at: '2026-06-18T22:16:01Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -2154,11 +2154,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 30
+    stars: 29
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-06-09T20:50:33Z'
+    updated_at: '2026-06-19T01:26:03Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2191,11 +2191,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 126
+    stars: 127
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-06-06T17:43:21Z'
+    updated_at: '2026-06-18T20:34:31Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2232,11 +2232,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 236
+    stars: 237
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-06-17T18:00:50Z'
+    updated_at: '2026-06-18T21:41:21Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2270,11 +2270,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5084
+    stars: 5085
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-17T16:25:19Z'
+    updated_at: '2026-06-18T16:02:54Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2383,7 +2383,7 @@ repositories:
     contributors: 40
     last_activity: 2026-05-11 (May 11, 2026)
     archived: false
-    updated_at: '2026-06-18T14:07:40Z'
+    updated_at: '2026-06-18T17:33:30Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2391,11 +2391,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 149
+    stars: 165
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-06-18T14:54:48Z'
+    updated_at: '2026-06-19T02:19:15Z'
     language: null
 search_queries:
 - solana framework language:rust stars:>50
