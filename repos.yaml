@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14916
+    stars: 14917
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-06-19T14:21:32Z'
+    updated_at: '2026-06-19T14:57:41Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1819
+    stars: 1820
     contributors: 360
     last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-19T11:19:43Z'
+    updated_at: '2026-06-19T16:57:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 247
+    stars: 248
     contributors: 175
     last_activity: vote-interface@v6.0.1 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-19T11:43:00Z'
+    updated_at: '2026-06-20T01:58:41Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1414
+    stars: 1415
     contributors: 57
     last_activity: Last commit (May 30, 2026)
     archived: false
-    updated_at: '2026-06-09T16:12:20Z'
+    updated_at: '2026-06-19T17:01:03Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -965,7 +965,7 @@ repositories:
     contributors: 12
     last_activity: v4.0.21 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-17T17:29:05Z'
+    updated_at: '2026-06-19T16:56:22Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1345,7 +1345,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-06-18T09:49:18Z'
+    updated_at: '2026-06-19T18:03:36Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -1482,7 +1482,7 @@ repositories:
     contributors: 13
     last_activity: v1.5.15 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-17T17:49:47Z'
+    updated_at: '2026-06-19T17:16:18Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1507,9 +1507,9 @@ repositories:
   stats:
     stars: 80
     contributors: 2
-    last_activity: Last commit (Oct 08, 2025)
+    last_activity: Last commit (Jun 19, 2026)
     archived: false
-    updated_at: '2026-06-05T02:13:54Z'
+    updated_at: '2026-06-19T17:47:06Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -1998,11 +1998,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 579
+    stars: 580
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-06-14T16:20:03Z'
+    updated_at: '2026-06-20T00:00:39Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2129,11 +2129,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 157
+    stars: 158
     contributors: 18
     last_activity: Last commit (May 31, 2026)
     archived: false
-    updated_at: '2026-05-31T09:00:03Z'
+    updated_at: '2026-06-19T23:23:47Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-19T14:37:22Z'
+    updated_at: '2026-06-19T18:37:09Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 231
+    stars: 233
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-19T05:54:14Z'
+    updated_at: '2026-06-20T02:27:05Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2409,12 +2409,24 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 178
+    stars: 188
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-06-19T13:20:10Z'
+    updated_at: '2026-06-20T02:37:36Z'
     language: null
+- name: solana-programs-list
+  repo: aarjn/solana-programs-list
+  description: Collection of solana programs to learn
+  category: NFTs & Programs
+  stars: 95
+  stats:
+    stars: 95
+    contributors: 8
+    last_activity: Last commit (Mar 29, 2026)
+    archived: false
+    updated_at: '2026-06-07T08:07:21Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
