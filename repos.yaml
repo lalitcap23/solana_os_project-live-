@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1819
+    stars: 1820
     contributors: 360
     last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-21T19:09:42Z'
+    updated_at: '2026-06-22T13:41:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 175
     last_activity: vote-interface@v6.0.1 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-22T00:46:45Z'
+    updated_at: '2026-06-22T11:37:09Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-21T16:45:54Z'
+    updated_at: '2026-06-22T14:51:27Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4228
+    stars: 4229
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-06-21T16:46:21Z'
+    updated_at: '2026-06-22T14:39:44Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 254
+    stars: 253
     contributors: 3
     last_activity: v7.0.16 (Jun 18, 2026)
     archived: false
-    updated_at: '2026-06-21T09:21:39Z'
+    updated_at: '2026-06-22T16:24:06Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -151,11 +151,11 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 98
+    stars: 99
     contributors: 9
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-06-17T17:16:35Z'
+    updated_at: '2026-06-22T16:08:40Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -178,7 +178,7 @@ repositories:
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-21T16:45:54Z'
+    updated_at: '2026-06-22T14:51:27Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 688
-    contributors: 167
+    contributors: 166
     last_activity: v6.10.0 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-19T08:31:38Z'
+    updated_at: '2026-06-22T14:54:16Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -564,11 +564,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 227
+    stars: 228
     contributors: 11
     last_activity: Last commit (Mar 15, 2026)
     archived: false
-    updated_at: '2026-06-21T11:15:27Z'
+    updated_at: '2026-06-22T11:39:27Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -1998,11 +1998,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 580
+    stars: 579
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-06-20T00:00:39Z'
+    updated_at: '2026-06-22T06:15:47Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2209,11 +2209,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 127
+    stars: 128
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-06-18T20:34:31Z'
+    updated_at: '2026-06-22T16:21:45Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2292,7 +2292,7 @@ repositories:
     contributors: 349
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-21T16:45:54Z'
+    updated_at: '2026-06-22T14:51:27Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2314,11 +2314,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 8
+    stars: 9
     contributors: 1
     last_activity: v2026.05.23 (May 23, 2026)
     archived: false
-    updated_at: '2026-05-31T12:09:55Z'
+    updated_at: '2026-06-22T11:20:10Z'
     language: JavaScript
 - name: solana-wallet-pnl-profit-and-loss-api
   repo: vybenetwork/solana-wallet-pnl-profit-and-loss-api
