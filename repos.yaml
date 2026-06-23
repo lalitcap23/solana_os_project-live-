@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-22T22:56:36Z'
+    updated_at: '2026-06-23T14:28:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 175
     last_activity: vote-interface@v6.0.1 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-22T22:45:04Z'
+    updated_at: '2026-06-23T10:18:44Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5090
-    contributors: 349
+    contributors: 350
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-22T18:03:37Z'
+    updated_at: '2026-06-23T14:06:03Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -107,11 +107,11 @@ repositories:
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 38
+    stars: 39
     contributors: 6
     last_activity: release/candy-guard@0.2.3 (May 27, 2026)
     archived: false
-    updated_at: '2026-06-15T09:49:52Z'
+    updated_at: '2026-06-23T13:37:15Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5090
-    contributors: 349
+    contributors: 350
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-22T18:03:37Z'
+    updated_at: '2026-06-23T14:06:03Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -374,9 +374,9 @@ repositories:
   stats:
     stars: 1415
     contributors: 57
-    last_activity: Last commit (Jun 21, 2026)
+    last_activity: Last commit (Jun 23, 2026)
     archived: false
-    updated_at: '2026-06-21T13:31:02Z'
+    updated_at: '2026-06-23T13:01:09Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1808,11 +1808,11 @@ repositories:
   category: Payments
   stars: 14
   stats:
-    stars: 20
+    stars: 21
     contributors: 2
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2026-06-17T07:55:31Z'
+    updated_at: '2026-06-23T09:49:14Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: Now-Or-Neverr/solana-x402-payment
@@ -2289,10 +2289,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5090
-    contributors: 349
+    contributors: 350
     last_activity: v1.0.2 (May 02, 2026)
     archived: false
-    updated_at: '2026-06-22T18:03:37Z'
+    updated_at: '2026-06-23T14:06:03Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2375,7 +2375,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-21T20:53:16Z'
+    updated_at: '2026-06-23T12:49:53Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
