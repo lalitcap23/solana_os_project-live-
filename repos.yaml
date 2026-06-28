@@ -9,18 +9,18 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-06-28T00:44:21Z'
+    updated_at: '2026-06-28T04:01:10Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1829
+    stars: 1831
     contributors: 360
     last_activity: v4.0.3 (Jun 16, 2026)
     archived: false
-    updated_at: '2026-06-28T00:45:13Z'
+    updated_at: '2026-06-28T12:39:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -187,10 +187,10 @@ repositories:
   stars: 426
   stats:
     stars: 607
-    contributors: 41
+    contributors: 42
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-06-25T17:22:52Z'
+    updated_at: '2026-06-28T13:07:13Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -467,11 +467,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 599
+    stars: 598
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-06-27T03:20:10Z'
+    updated_at: '2026-06-28T06:31:25Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 946
+    stars: 947
     contributors: 32
     last_activity: Last commit (Jun 27, 2026)
     archived: false
-    updated_at: '2026-06-27T13:17:48Z'
+    updated_at: '2026-06-28T07:04:12Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -961,11 +961,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 315
+    stars: 314
     contributors: 12
     last_activity: v4.0.21 (Jun 17, 2026)
     archived: false
-    updated_at: '2026-06-27T17:33:35Z'
+    updated_at: '2026-06-28T04:11:23Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-06-27T19:32:54Z'
+    updated_at: '2026-06-28T03:41:33Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2449,11 +2449,11 @@ repositories:
   category: DeFi
   stars: 154
   stats:
-    stars: 247
+    stars: 276
     contributors: 1
     last_activity: Last commit (Jun 27, 2026)
     archived: false
-    updated_at: '2026-06-28T02:19:24Z'
+    updated_at: '2026-06-28T12:02:45Z'
     language: TypeScript
 - name: coinflip-casino-game
   repo: xxniiinxx/coinflip-casino-game
@@ -2465,11 +2465,11 @@ repositories:
   category: DeFi
   stars: 247
   stats:
-    stars: 247
+    stars: 276
     contributors: 1
     last_activity: Last commit (Jun 27, 2026)
     archived: false
-    updated_at: '2026-06-28T02:19:24Z'
+    updated_at: '2026-06-28T12:02:45Z'
     language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
