@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1835
+    stars: 1836
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-03T12:27:29Z'
+    updated_at: '2026-07-03T14:24:53Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5098
-    contributors: 352
+    contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-02T19:41:05Z'
+    updated_at: '2026-07-03T18:02:11Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2743
+    stars: 2744
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-07-03T06:06:51Z'
+    updated_at: '2026-07-03T23:33:52Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4235
+    stars: 4236
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-03T07:03:22Z'
+    updated_at: '2026-07-03T16:08:38Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5098
-    contributors: 352
+    contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-02T19:41:05Z'
+    updated_at: '2026-07-03T18:02:11Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 170
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-02T15:12:55Z'
+    updated_at: '2026-07-03T13:57:16Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 380
+    stars: 379
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2026-06-27T13:46:21Z'
+    updated_at: '2026-07-04T01:15:21Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -755,11 +755,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 288
+    stars: 287
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2026-06-30T04:16:52Z'
+    updated_at: '2026-07-03T19:31:36Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -872,10 +872,10 @@ repositories:
   stars: 816
   stats:
     stars: 948
-    contributors: 33
+    contributors: 34
     last_activity: Last commit (Jul 03, 2026)
     archived: false
-    updated_at: '2026-07-03T12:57:42Z'
+    updated_at: '2026-07-03T21:39:37Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -895,11 +895,11 @@ repositories:
   category: DeFi
   stars: 312
   stats:
-    stars: 312
+    stars: 311
     contributors: 3
     last_activity: Last commit (Jan 23, 2022)
     archived: true
-    updated_at: '2026-07-01T15:41:48Z'
+    updated_at: '2026-07-04T01:15:28Z'
     language: TypeScript
 - name: Solana-Arbitrage-Bot
   repo: ChangeYourself0613/Solana-Arbitrage-Bot
@@ -1808,11 +1808,11 @@ repositories:
   category: Payments
   stars: 14
   stats:
-    stars: 21
+    stars: 22
     contributors: 2
     last_activity: Last commit (Dec 03, 2025)
     archived: false
-    updated_at: '2026-06-23T09:49:14Z'
+    updated_at: '2026-07-03T18:41:25Z'
     language: TypeScript
 - name: solana-x402-payment
   repo: Now-Or-Neverr/solana-x402-payment
@@ -2250,11 +2250,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 251
+    stars: 250
     contributors: 10
     last_activity: Last commit (May 13, 2026)
     archived: false
-    updated_at: '2026-07-02T16:32:27Z'
+    updated_at: '2026-07-03T17:50:57Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2289,10 +2289,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5098
-    contributors: 352
+    contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-02T19:41:05Z'
+    updated_at: '2026-07-03T18:02:11Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2332,9 +2332,9 @@ repositories:
   stats:
     stars: 192
     contributors: 1
-    last_activity: Last commit (Jun 26, 2026)
+    last_activity: Last commit (Jul 03, 2026)
     archived: false
-    updated_at: '2026-06-26T20:14:07Z'
+    updated_at: '2026-07-03T20:00:48Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-07-02T11:21:07Z'
+    updated_at: '2026-07-03T20:00:22Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2401,7 +2401,7 @@ repositories:
     contributors: 40
     last_activity: 2026-05-11 (May 11, 2026)
     archived: false
-    updated_at: '2026-07-02T19:07:57Z'
+    updated_at: '2026-07-03T14:39:12Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2448,13 +2448,7 @@ repositories:
     in MongoDB. '
   category: DeFi
   stars: 154
-  stats:
-    stars: 368
-    contributors: 1
-    last_activity: Last commit (Jul 02, 2026)
-    archived: false
-    updated_at: '2026-07-03T11:38:04Z'
-    language: TypeScript
+  stats: null
 - name: coinflip-casino-game
   repo: xxniiinxx/coinflip-casino-game
   description: 'A full-stack, peer-to-peer coinflip betting casino game on Solana.
@@ -2464,13 +2458,7 @@ repositories:
     in MongoDB. '
   category: DeFi
   stars: 247
-  stats:
-    stars: 368
-    contributors: 1
-    last_activity: Last commit (Jul 02, 2026)
-    archived: false
-    updated_at: '2026-07-03T11:38:04Z'
-    language: TypeScript
+  stats: null
 - name: Croptopia
   repo: playCroptopia/Croptopia
   description: Building Croptopia — a multiplayer farming protocol on Solana. 100
@@ -2478,11 +2466,11 @@ repositories:
   category: SDKs & Tooling
   stars: 646
   stats:
-    stars: 614
+    stars: 510
     contributors: 1
     last_activity: Last commit (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-02T23:53:20Z'
+    updated_at: '2026-07-03T15:42:23Z'
     language: Rust
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
