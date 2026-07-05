@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 ## Directory
 
@@ -124,7 +124,7 @@ Last updated: 2026-07-04
 | Pumpfun-Solana-Smart-Contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-Solana-Smart-Contract | 312 | 1 | Last commit (Dec 21, 2025) | SDKs & Tooling |
 | Free-Solana-Sniper-Memecoins-Bot-2026 | 🚀 Start sniping Solana now in 2026! Try this premium verified bot 💎 | https://github.com/MemeSnipe/Free-Solana-Sniper-Memecoins-Bot-2026 | 28 | 1 | Last commit (Mar 24, 2026) | SDKs & Tooling |
 | anchor | ⚓ Solana Program Framework | https://github.com/otter-sec/anchor | 5.1k | 353 | v1.1.2 (Jun 26, 2026) | SDKs & Tooling |
-| solana-trading-bot-v3 | solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot  | https://github.com/cortsdine/solana-trading-bot-v3 | 236 | 1 | Last commit (Jun 03, 2026) | SDKs & Tooling |
+| solana-trading-bot-v3 | solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot  | https://github.com/cortsdine/solana-trading-bot-v3 | 238 | 1 | Last commit (Jun 03, 2026) | SDKs & Tooling |
 | squid-sdk | TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network. | https://github.com/subsquid/squid-sdk | 1.3k | 40 | 2026-05-11 (May 11, 2026) | SDKs & Tooling |
 | solana-mcp-vybe | Public Solana MCP registry metadata for Vybe Solana API | https://github.com/vybenetwork/solana-mcp-vybe | 213 | 1 | Last commit (May 11, 2026) | SDKs & Tooling |
 | program-examples | A repository of Solana program examples | https://github.com/solana-foundation/program-examples | 1.4k | 60 | Last commit (Jun 30, 2026) | SDKs & Tooling |

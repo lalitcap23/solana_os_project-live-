@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14927
+    stars: 14928
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-03T04:47:41Z'
+    updated_at: '2026-07-04T22:01:01Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1836
+    stars: 1839
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-03T14:24:53Z'
+    updated_at: '2026-07-04T22:01:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -280,7 +280,7 @@ repositories:
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-07-01T21:50:44Z'
+    updated_at: '2026-07-04T19:50:56Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 236
+    stars: 238
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-02T23:40:24Z'
+    updated_at: '2026-07-04T22:06:16Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2397,11 +2397,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1333
+    stars: 1332
     contributors: 40
     last_activity: 2026-05-11 (May 11, 2026)
     archived: false
-    updated_at: '2026-07-03T14:39:12Z'
+    updated_at: '2026-07-04T19:53:16Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
