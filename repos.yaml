@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-04T22:01:01Z'
+    updated_at: '2026-07-05T03:15:08Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-04T22:01:40Z'
+    updated_at: '2026-07-05T10:49:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2744
+    stars: 2745
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-07-03T23:33:52Z'
+    updated_at: '2026-07-05T09:13:28Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 396
+    stars: 397
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-07-01T17:07:51Z'
+    updated_at: '2026-07-05T04:51:31Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -467,11 +467,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 599
+    stars: 600
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-06-29T05:37:23Z'
+    updated_at: '2026-07-05T02:31:35Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -873,9 +873,9 @@ repositories:
   stats:
     stars: 948
     contributors: 34
-    last_activity: Last commit (Jul 04, 2026)
+    last_activity: Last commit (Jul 05, 2026)
     archived: false
-    updated_at: '2026-07-04T09:01:25Z'
+    updated_at: '2026-07-05T09:00:28Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -961,11 +961,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 317
+    stars: 319
     contributors: 12
     last_activity: v4.0.22 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-02T11:04:44Z'
+    updated_at: '2026-07-05T09:26:43Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -973,11 +973,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 144
+    stars: 145
     contributors: 4
     last_activity: Last commit (Jun 29, 2026)
     archived: false
-    updated_at: '2026-06-30T03:56:54Z'
+    updated_at: '2026-07-05T08:44:27Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 238
+    stars: 239
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-04T22:06:16Z'
+    updated_at: '2026-07-05T02:36:37Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2466,11 +2466,11 @@ repositories:
   category: SDKs & Tooling
   stars: 646
   stats:
-    stars: 510
+    stars: 509
     contributors: 1
     last_activity: Last commit (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-03T15:42:23Z'
+    updated_at: '2026-07-05T06:41:42Z'
     language: Rust
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
