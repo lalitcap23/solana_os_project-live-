@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14928
+    stars: 14929
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-05T03:15:08Z'
+    updated_at: '2026-07-06T00:47:17Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-05T10:49:32Z'
+    updated_at: '2026-07-06T01:10:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2029
+    stars: 2030
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-07-04T10:14:40Z'
+    updated_at: '2026-07-06T02:11:04Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -480,11 +480,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 312
+    stars: 313
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-07-02T09:52:28Z'
+    updated_at: '2026-07-06T02:22:46Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -2150,11 +2150,11 @@ repositories:
   category: SDKs & Tooling
   stars: 352
   stats:
-    stars: 312
+    stars: 313
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-07-02T09:52:28Z'
+    updated_at: '2026-07-06T02:22:46Z'
     language: TypeScript
 - name: prediction-market-smart-contract-solana-evm
   repo: L9T-Development/prediction-market-smart-contract-solana-evm
@@ -2250,11 +2250,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 253
+    stars: 254
     contributors: 10
     last_activity: Last commit (Jul 04, 2026)
     archived: false
-    updated_at: '2026-07-04T12:47:32Z'
+    updated_at: '2026-07-05T15:36:22Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-07-03T20:00:22Z'
+    updated_at: '2026-07-06T00:10:51Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 239
+    stars: 241
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-05T02:36:37Z'
+    updated_at: '2026-07-06T00:13:32Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2481,7 +2481,7 @@ repositories:
   stats:
     stars: 10
     contributors: 1
-    last_activity: v2026.05.25 (Jul 01, 2026)
+    last_activity: v2026.05.26 (Jul 05, 2026)
     archived: false
     updated_at: '2026-07-01T21:05:43Z'
     language: JavaScript
