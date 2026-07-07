@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1839
+    stars: 1840
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-06T11:52:57Z'
+    updated_at: '2026-07-06T20:24:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2746
+    stars: 2747
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-07-06T03:19:55Z'
+    updated_at: '2026-07-06T17:18:07Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4140
+    stars: 4139
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-07-04T19:50:56Z'
+    updated_at: '2026-07-06T19:00:19Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -1226,7 +1226,7 @@ repositories:
     contributors: 8
     last_activity: v0.3.0 (Apr 07, 2026)
     archived: false
-    updated_at: '2026-04-16T09:31:27Z'
+    updated_at: '2026-07-06T17:36:42Z'
     language: Rust
 - name: Solana-Sniper-Memecoin-Bot
   repo: justshiftjk/Solana-Sniper-Memecoin-Bot
@@ -1998,11 +1998,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 579
+    stars: 578
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-06-27T13:46:41Z'
+    updated_at: '2026-07-06T19:16:13Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2332,9 +2332,9 @@ repositories:
   stats:
     stars: 192
     contributors: 1
-    last_activity: Last commit (Jul 03, 2026)
+    last_activity: Last commit (Jul 06, 2026)
     archived: false
-    updated_at: '2026-07-03T20:00:48Z'
+    updated_at: '2026-07-06T19:11:22Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-07-06T15:19:16Z'
+    updated_at: '2026-07-06T21:10:48Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 241
+    stars: 242
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-06T13:04:13Z'
+    updated_at: '2026-07-06T21:11:26Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
