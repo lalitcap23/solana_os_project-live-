@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-07T13:33:34Z'
+    updated_at: '2026-07-07T22:26:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 250
-    contributors: 176
+    contributors: 177
     last_activity: vote-interface@v6.0.3 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-07T13:33:37Z'
+    updated_at: '2026-07-07T23:45:55Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4237
+    stars: 4236
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-07T09:08:32Z'
+    updated_at: '2026-07-07T18:14:06Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -86,10 +86,10 @@ repositories:
   category: Programs (SPL)
   stats:
     stars: 15
-    contributors: 21
+    contributors: 22
     last_activity: pod@v0.7.3 (Apr 02, 2026)
     archived: false
-    updated_at: '2026-05-27T13:56:06Z'
+    updated_at: '2026-07-07T14:54:21Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -467,11 +467,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 599
+    stars: 598
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-07-07T09:43:23Z'
+    updated_at: '2026-07-07T18:05:34Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -742,11 +742,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 632
+    stars: 633
     contributors: 19
     last_activity: Last commit (May 23, 2026)
     archived: false
-    updated_at: '2026-06-30T05:16:05Z'
+    updated_at: '2026-07-07T19:25:02Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -821,11 +821,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 128
+    stars: 127
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2026-07-07T03:05:37Z'
+    updated_at: '2026-07-07T18:14:25Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 948
+    stars: 949
     contributors: 34
     last_activity: Last commit (Jul 07, 2026)
     archived: false
-    updated_at: '2026-07-07T07:27:05Z'
+    updated_at: '2026-07-07T15:25:31Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2209,11 +2209,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 128
+    stars: 129
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-07-07T09:48:33Z'
+    updated_at: '2026-07-07T20:49:15Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2375,7 +2375,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-07T09:08:30Z'
+    updated_at: '2026-07-07T15:29:02Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2467,10 +2467,10 @@ repositories:
   stars: 646
   stats:
     stars: 509
-    contributors: 1
-    last_activity: Last commit (Jul 02, 2026)
+    contributors: 2
+    last_activity: Last commit (Jul 08, 2026)
     archived: false
-    updated_at: '2026-07-05T06:41:42Z'
+    updated_at: '2026-07-08T01:19:47Z'
     language: Rust
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard

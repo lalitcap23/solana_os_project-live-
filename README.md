@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-07-07
+Last updated: 2026-07-08
 
 ## Directory
 
@@ -39,7 +39,7 @@ Last updated: 2026-07-07
 |---|---|---|---|---|---|---|
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.9k | 353 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.8k | 360 | v4.1.1 (Jul 02, 2026) | Infrastructure |
-| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 250 | 176 | vote-interface@v6.0.3 (Jul 02, 2026) | SDKs & Tooling |
+| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 250 | 177 | vote-interface@v6.0.3 (Jul 02, 2026) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.1k | 353 | v1.1.2 (Jun 26, 2026) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.7k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 442 | 10 | 0.28.0 (Jul 01, 2026) | SDKs & Tooling |
@@ -59,7 +59,7 @@ Last updated: 2026-07-07
 | complete-guide-to-full-stack-solana-development | Code examples for the blog post titled The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom | https://github.com/dabit3/complete-guide-to-full-stack-solana-development | 490 | 2 | Last commit (Sep 18, 2021) | SDKs & Tooling |
 | seahorse-lang | Write Anchor-compatible Solana programs in Python | https://github.com/ameliatastic/seahorse-lang | 343 | 4 | Last commit (Feb 24, 2023) | SDKs & Tooling |
 | Solana-Prediction-Market | Solana Prediction Market where users can create market, add liquidity, and bet | https://github.com/HyperBuildX/Solana-Prediction-Market | — | — | Active | SDKs & Tooling |
-| awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 599 | 2 | Last commit (Dec 06, 2025) | SDKs & Tooling |
+| awesome-solana-security | A collection of resources to help you build better and more secure Solana programs. Kept up to date. | https://github.com/0xMacro/awesome-solana-security | 598 | 2 | Last commit (Dec 06, 2025) | SDKs & Tooling |
 | Pumpfun-solana-smart-contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-solana-smart-contract | 313 | 1 | Last commit (Dec 21, 2025) | SDKs & Tooling |
 | anchor-go | Generate Go clients from anchor IDLs for Solana blockchain programs | https://github.com/gagliardetto/anchor-go | 299 | 4 | v1.0.0 (Jul 02, 2025) | SDKs & Tooling |
 | solana-copy-bot | Copy any transaction at any address in Solana | https://github.com/Abraham-007/solana-copy-bot | — | — | Active | SDKs & Tooling |
@@ -68,7 +68,7 @@ Last updated: 2026-07-07
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 196 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
 | solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 96 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
 | solana-spl-tutorial | This repository contains full tutorial on Solana SPL token | https://github.com/YosephKS/solana-spl-tutorial | 77 | 1 | Last commit (Feb 12, 2022) | SDKs & Tooling |
-| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 948 | 34 | Last commit (Jul 07, 2026) | SDKs & Tooling |
+| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 949 | 34 | Last commit (Jul 07, 2026) | SDKs & Tooling |
 | anchor-escrow | Escrow program implemented in Anchor | https://github.com/ironaddicteddog/anchor-escrow | 199 | 3 | Last commit (Aug 29, 2024) | SDKs & Tooling |
 | pumpfun-rs | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. | https://github.com/nhuxhr/pumpfun-rs | 163 | 5 | Last commit (Oct 01, 2025) | SDKs & Tooling |
 | Solana-Auditors-Bootcamp | Learn to audit Solana programs and help secure the ecosystem. Take your security practices to the next level and get certified by Ackee Blockchain Security. It's free, too. | https://github.com/Ackee-Blockchain/Solana-Auditors-Bootcamp | 167 | 3 | Last commit (Nov 25, 2025) | SDKs & Tooling |
@@ -128,7 +128,7 @@ Last updated: 2026-07-07
 | squid-sdk | TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network. | https://github.com/subsquid/squid-sdk | 1.3k | 40 | 2026-05-11 (May 11, 2026) | SDKs & Tooling |
 | solana-mcp-vybe | Public Solana MCP registry metadata for Vybe Solana API | https://github.com/vybenetwork/solana-mcp-vybe | 213 | 1 | Last commit (May 11, 2026) | SDKs & Tooling |
 | program-examples | A repository of Solana program examples | https://github.com/solana-foundation/program-examples | 1.4k | 60 | Last commit (Jun 30, 2026) | SDKs & Tooling |
-| Croptopia | Building Croptopia — a multiplayer farming protocol on Solana. 100 plots, four tiers, finite supply. Anchor program at /Croptopia. | https://github.com/playCroptopia/Croptopia | 509 | 1 | Last commit (Jul 02, 2026) | SDKs & Tooling |
+| Croptopia | Building Croptopia — a multiplayer farming protocol on Solana. 100 plots, four tiers, finite supply. Anchor program at /Croptopia. | https://github.com/playCroptopia/Croptopia | 509 | 2 | Last commit (Jul 08, 2026) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 2.0k | 115 | @solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 755 | 2 | Archived; Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 329 | 21 | @solana-mobile/wallet-adapter-mobile@2.2.9 (Jun 04, 2026) | Wallets & Mobile |
@@ -153,7 +153,7 @@ Last updated: 2026-07-07
 | solana-wallet-pnl-profit-and-loss-api | Solana Wallet PnL API: This repo demonstrates how to use Vybe Solana wallet PnL APIs to fetch, filter, and analyze per-wallet profit and loss (PnL), related wallets, trades, and SPL/Token-2022 token metadata. Use it as a reference or starter kit for analytics dashboards, PnL leaderboards, related-wallet discovery, and similar data products. | https://github.com/vybenetwork/solana-wallet-pnl-profit-and-loss-api | 192 | 1 | Last commit (Jul 06, 2026) | Wallets & Mobile |
 | sol-agent-wallet | The first write-capable Solana AI agent — swap tokens, send SOL, and manage your wallet through natural language | https://github.com/yksanjo/sol-agent-wallet | 6 | 1 | Last commit (Jun 09, 2026) | Wallets & Mobile |
 | Solana Program Library (legacy) | Historic collection of core on-chain programs; archived and migrated to new org | https://github.com/solana-labs/solana-program-library | 4.2k | 233 | Archived; stake-pool-v2.0.1 (Nov 20, 2024) | Programs (SPL) |
-| SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 15 | 21 | pod@v0.7.3 (Apr 02, 2026) | Programs (SPL) |
+| SPL Libraries (new org) | Helper libraries/building blocks for on-chain programs | https://github.com/solana-program/libraries | 15 | 22 | pod@v0.7.3 (Apr 02, 2026) | Programs (SPL) |
 | Metaplex Token Metadata | Core NFT/fungible token metadata program & SDKs | https://github.com/metaplex-foundation/mpl-token-metadata | 249 | 33 | js@v3.4.0 (Feb 02, 2025) | NFTs & Programs |
 | js | A JavaScript SDK for interacting with Metaplex's programs | https://github.com/metaplex-foundation/js | 379 | 39 | Archived; @metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 417 | 26 | Last commit (Mar 14, 2026) | NFTs & Programs |
@@ -169,7 +169,7 @@ Last updated: 2026-07-07
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 119 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 121 | 18 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |
 | solana-anchor-react-minimal-example | Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start! | https://github.com/256hax/solana-anchor-react-minimal-example | 95 | 3 | v1.1.0 (Nov 23, 2023) | NFTs & Programs |
-| create-solana-dapp | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | https://github.com/solana-foundation/create-solana-dapp | 632 | 19 | Last commit (May 23, 2026) | NFTs & Programs |
+| create-solana-dapp | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | https://github.com/solana-foundation/create-solana-dapp | 633 | 19 | Last commit (May 23, 2026) | NFTs & Programs |
 | solana-tools | A bunch of tools to help people in the Solana ecosystem. This website includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools are scheduled... | https://github.com/cryptoloutre/solana-tools | 208 | 4 | Last commit (Dec 03, 2024) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/gillsdk/gill | 417 | 26 | Last commit (Mar 14, 2026) | NFTs & Programs |
 | Solana-Unreal-SDK | A complete Unreal plugin and toolkit for building blockchain games on Solana with Unreal Engine 5. | https://github.com/Bifrost-Technologies/Solana-Unreal-SDK | 81 | 1 | Last commit (Mar 30, 2024) | NFTs & Programs |
@@ -211,7 +211,7 @@ Last updated: 2026-07-07
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 207 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
 | Solana-Trading-Bot | Buy and Sell SPL tokens on the Raydium DEX and  Pump.fun using the Solana-Py SDK and Jito SDK | https://github.com/henrytirla/Solana-Trading-Bot | 287 | 1 | Last commit (Feb 15, 2025) | DeFi |
 | pumpfun-raydium-cli-tools | solana pumpfun bundler, raydium bundler, pumpfun sniping bot, raydium sniping bot, pumpfun volume bot, raydium volume bot, pumpfun bundler, raydium bundler, jito bundler | https://github.com/hexnome/pumpfun-raydium-cli-tools | 176 | — | Last commit (Mar 25, 2025) | DeFi |
-| solana-auto-sell-bot | This script continuously scans a Solana wallet for SPL tokens and tracks their age (time held) in seconds. Once a certain time has elapsed it will sell the token on raydium or pumpfun. | https://github.com/lorenzourera/solana-auto-sell-bot | 128 | 1 | Last commit (Sep 18, 2025) | DeFi |
+| solana-auto-sell-bot | This script continuously scans a Solana wallet for SPL tokens and tracks their age (time held) in seconds. Once a certain time has elapsed it will sell the token on raydium or pumpfun. | https://github.com/lorenzourera/solana-auto-sell-bot | 127 | 1 | Last commit (Sep 18, 2025) | DeFi |
 | dex-v4 | Orderbook-based on-chain SPL token swap market | https://github.com/Bonfida/dex-v4 | 102 | 7 | Last commit (Feb 22, 2023) | DeFi |
 | pirate-bootcamp | A pirate-theme bootcamp for getting up to speed on Solana programming! | https://github.com/solana-developers/pirate-bootcamp | 339 | 4 | Last commit (Sep 05, 2023) | DeFi |
 | solana-escrow | Reference Implementation for the guide https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/ | https://github.com/paul-schaaf/solana-escrow | 311 | 3 | Archived; Last commit (Jan 23, 2022) | DeFi |
@@ -233,7 +233,7 @@ Last updated: 2026-07-07
 | solana-trading-cli | Trading infrastructure for AI agents and Humans on Solana. 17 DEX adapters, 12 TX landing providers, LP operations, and a unified CLI/SDK — with gRPC streaming and OpenClaw agent integration coming next. | https://github.com/outsmartchad/solana-trading-cli | 578 | 6 | v0.1.2 (Apr 11, 2025) | DeFi |
 | solana-new-pair-sniper-jupiter-v6 | An ultra-low latency Solana sniper script optimized for the Jupiter V6 API, focusing on buying tokens within the first block of liquidity. | https://github.com/leionion/solana-new-pair-sniper-jupiter-v6 | 17 | 1 | Last commit (Mar 16, 2026) | DeFi |
 | prediction-market-smart-contract-solana-evm | Advanced Prediction Market Smart Contract for Solana. This Prediction Market is inspired by PolyMarket and designed for high-performance DeFi trading. Secure Prediction Market Smart Contract implementation featuring automated payouts. A robust Solana-based Prediction Market protocol for transparent market forecasting and Prediction Market strategy. | https://github.com/L9T-Development/prediction-market-smart-contract-solana-evm | — | — | Active | DeFi |
-| safe-solana-builder | The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle. | https://github.com/Frankcastleauditor/safe-solana-builder | 128 | 4 | v1.0.0 (Mar 02, 2026) | DeFi |
+| safe-solana-builder | The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle. | https://github.com/Frankcastleauditor/safe-solana-builder | 129 | 4 | v1.0.0 (Mar 02, 2026) | DeFi |
 | Cascade | Autonomous arbitrage scanner - monitors price spreads across 4 Solana DEXes, evaluates paths with Claude, executes in milliseconds. | https://github.com/CascadeProtocol/Cascade | 25 | 2 | Last commit (May 21, 2026) | DeFi |
 | cryptocurrency.cv | Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source. | https://github.com/nirholas/cryptocurrency.cv | 256 | 10 | Last commit (Jul 06, 2026) | DeFi |
 | jup-sh | Risk and settlement for Solana agent payments. | https://github.com/jerrywang33/jup-sh | 29 | 1 | Last commit (May 25, 2026) | DeFi |
