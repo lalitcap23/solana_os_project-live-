@@ -9,18 +9,18 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-09T04:26:02Z'
+    updated_at: '2026-07-09T23:36:26Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1840
+    stars: 1839
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-09T14:13:56Z'
+    updated_at: '2026-07-10T02:02:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 178
     last_activity: packet@v4.2.0 (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-09T06:53:02Z'
+    updated_at: '2026-07-09T15:40:07Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -376,7 +376,7 @@ repositories:
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-09T01:28:19Z'
+    updated_at: '2026-07-09T16:38:39Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -516,11 +516,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3350
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-07-08T12:39:16Z'
+    updated_at: '2026-07-09T15:05:34Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -742,11 +742,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 633
+    stars: 634
     contributors: 19
     last_activity: Last commit (May 23, 2026)
     archived: false
-    updated_at: '2026-07-07T19:25:02Z'
+    updated_at: '2026-07-09T18:33:04Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -973,11 +973,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 147
+    stars: 148
     contributors: 4
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-09T13:15:59Z'
+    updated_at: '2026-07-09T17:19:34Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1517,11 +1517,11 @@ repositories:
   category: Payments
   stars: 4
   stats:
-    stars: 4
+    stars: 3
     contributors: 1
     last_activity: Last commit (Aug 31, 2023)
     archived: false
-    updated_at: '2025-03-17T00:00:09Z'
+    updated_at: '2026-07-09T16:01:25Z'
     language: TypeScript
 - name: Solana-Token-Payment-Gateway
   repo: paracetamol951/Solana-Token-Payment-Gateway
@@ -2077,11 +2077,11 @@ repositories:
   category: SDKs & Tooling
   stars: 106
   stats:
-    stars: 183
+    stars: 182
     contributors: 1
-    last_activity: Last commit (Jun 26, 2026)
+    last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-06-26T20:14:18Z'
+    updated_at: '2026-07-09T19:38:25Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2093,11 +2093,11 @@ repositories:
   category: SDKs & Tooling
   stars: 105
   stats:
-    stars: 179
+    stars: 178
     contributors: 1
-    last_activity: Last commit (Jun 26, 2026)
+    last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-06-26T20:15:05Z'
+    updated_at: '2026-07-09T19:38:23Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2109,11 +2109,11 @@ repositories:
   category: SDKs & Tooling
   stars: 104
   stats:
-    stars: 180
+    stars: 179
     contributors: 1
-    last_activity: Last commit (Jun 26, 2026)
+    last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-06-26T20:17:00Z'
+    updated_at: '2026-07-09T19:38:29Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2332,9 +2332,9 @@ repositories:
   stats:
     stars: 192
     contributors: 1
-    last_activity: Last commit (Jul 06, 2026)
+    last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-06T19:11:22Z'
+    updated_at: '2026-07-09T19:38:26Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2386,9 +2386,9 @@ repositories:
   stats:
     stars: 6
     contributors: 1
-    last_activity: Last commit (Jun 09, 2026)
+    last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-06-09T23:46:47Z'
+    updated_at: '2026-07-09T22:09:57Z'
     language: Python
 - name: squid-sdk
   repo: subsquid/squid-sdk
@@ -2401,7 +2401,7 @@ repositories:
     contributors: 40
     last_activity: 2026-05-11 (May 11, 2026)
     archived: false
-    updated_at: '2026-07-09T11:31:20Z'
+    updated_at: '2026-07-09T21:24:25Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2437,7 +2437,7 @@ repositories:
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-09T01:28:19Z'
+    updated_at: '2026-07-09T16:38:39Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2468,9 +2468,9 @@ repositories:
   stats:
     stars: 496
     contributors: 2
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-09T01:16:25Z'
+    updated_at: '2026-07-10T01:48:28Z'
     language: TypeScript
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
