@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14934
+    stars: 14933
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-10T08:22:37Z'
+    updated_at: '2026-07-10T14:51:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1839
+    stars: 1840
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-10T13:36:37Z'
+    updated_at: '2026-07-11T01:49:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4236
+    stars: 4237
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-09T05:08:48Z'
+    updated_at: '2026-07-10T15:53:23Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4137
+    stars: 4138
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-07-09T12:51:13Z'
+    updated_at: '2026-07-10T17:11:17Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -985,11 +985,11 @@ repositories:
   category: Payments
   stars: 98
   stats:
-    stars: 97
+    stars: 98
     contributors: 5
     last_activity: v2.0.0 (Aug 18, 2023)
     archived: true
-    updated_at: '2026-06-30T11:29:31Z'
+    updated_at: '2026-07-10T23:22:04Z'
     language: TypeScript
 - name: solana-payment-processor
   repo: solpayments/solana-payment-processor
@@ -1478,11 +1478,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 174
+    stars: 175
     contributors: 13
     last_activity: v1.5.16 (Jun 20, 2026)
     archived: false
-    updated_at: '2026-07-10T07:45:03Z'
+    updated_at: '2026-07-10T15:11:37Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2079,9 +2079,9 @@ repositories:
   stats:
     stars: 182
     contributors: 1
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-09T19:38:25Z'
+    updated_at: '2026-07-11T01:22:52Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2095,9 +2095,9 @@ repositories:
   stats:
     stars: 178
     contributors: 1
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-09T19:38:23Z'
+    updated_at: '2026-07-11T01:22:50Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2111,9 +2111,9 @@ repositories:
   stats:
     stars: 179
     contributors: 1
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-09T19:38:29Z'
+    updated_at: '2026-07-11T01:22:53Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2332,9 +2332,9 @@ repositories:
   stats:
     stars: 192
     contributors: 1
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-09T19:38:26Z'
+    updated_at: '2026-07-11T01:25:54Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
