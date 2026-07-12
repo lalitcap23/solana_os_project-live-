@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14934
+    stars: 14935
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-11T07:18:49Z'
+    updated_at: '2026-07-12T08:57:05Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5099
+    stars: 5101
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-11T17:14:17Z'
+    updated_at: '2026-07-12T10:29:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5099
+    stars: 5101
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-11T17:14:17Z'
+    updated_at: '2026-07-12T10:29:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -873,9 +873,9 @@ repositories:
   stats:
     stars: 949
     contributors: 34
-    last_activity: Last commit (Jul 11, 2026)
+    last_activity: Last commit (Jul 12, 2026)
     archived: false
-    updated_at: '2026-07-11T08:06:02Z'
+    updated_at: '2026-07-12T04:37:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -962,10 +962,10 @@ repositories:
   stars: 125
   stats:
     stars: 320
-    contributors: 12
+    contributors: 14
     last_activity: v4.0.22 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-11T20:41:17Z'
+    updated_at: '2026-07-12T10:17:21Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2129,11 +2129,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 160
+    stars: 161
     contributors: 18
     last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-11T22:56:35Z'
+    updated_at: '2026-07-12T07:20:28Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2288,11 +2288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5099
+    stars: 5101
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-11T17:14:17Z'
+    updated_at: '2026-07-12T10:29:34Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 243
+    stars: 244
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-11T05:12:50Z'
+    updated_at: '2026-07-12T03:01:17Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
