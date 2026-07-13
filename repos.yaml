@@ -9,7 +9,7 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-12T08:57:05Z'
+    updated_at: '2026-07-12T15:48:36Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-11T02:12:46Z'
+    updated_at: '2026-07-12T20:35:29Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5101
+    stars: 5100
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T10:29:34Z'
+    updated_at: '2026-07-12T20:35:29Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5101
+    stars: 5100
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T10:29:34Z'
+    updated_at: '2026-07-12T20:35:29Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 247
+    stars: 248
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-06-23T21:20:53Z'
+    updated_at: '2026-07-12T23:19:37Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1419
+    stars: 1418
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-10T09:35:58Z'
+    updated_at: '2026-07-12T21:53:42Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -875,7 +875,7 @@ repositories:
     contributors: 34
     last_activity: Last commit (Jul 12, 2026)
     archived: false
-    updated_at: '2026-07-12T04:37:13Z'
+    updated_at: '2026-07-12T23:11:23Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -973,11 +973,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 148
+    stars: 147
     contributors: 4
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-09T17:19:34Z'
+    updated_at: '2026-07-12T21:47:05Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1913,11 +1913,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 90
+    stars: 91
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-07-11T23:17:49Z'
+    updated_at: '2026-07-12T22:19:28Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -1971,11 +1971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 90
+    stars: 91
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-07-11T23:17:49Z'
+    updated_at: '2026-07-12T22:19:28Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
@@ -2129,11 +2129,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 161
+    stars: 162
     contributors: 18
     last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-12T07:20:28Z'
+    updated_at: '2026-07-12T20:06:11Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2288,11 +2288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5101
+    stars: 5100
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T10:29:34Z'
+    updated_at: '2026-07-12T20:35:29Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2433,11 +2433,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1419
+    stars: 1418
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-10T09:35:58Z'
+    updated_at: '2026-07-12T21:53:42Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2466,11 +2466,11 @@ repositories:
   category: SDKs & Tooling
   stars: 646
   stats:
-    stars: 496
+    stars: 497
     contributors: 2
     last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-10T01:48:28Z'
+    updated_at: '2026-07-12T16:17:21Z'
     language: TypeScript
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
