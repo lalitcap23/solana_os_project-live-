@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14935
+    stars: 14934
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-12T15:48:36Z'
+    updated_at: '2026-07-13T12:09:02Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 360
     last_activity: v4.1.1 (Jul 02, 2026)
     archived: false
-    updated_at: '2026-07-12T20:35:29Z'
+    updated_at: '2026-07-13T13:09:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 178
     last_activity: message@v4.3.0 (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-11T08:24:28Z'
+    updated_at: '2026-07-13T06:10:55Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5100
+    stars: 5102
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T20:35:29Z'
+    updated_at: '2026-07-13T13:59:37Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-07-11T11:10:20Z'
+    updated_at: '2026-07-13T12:09:02Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4237
+    stars: 4236
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-10T15:53:23Z'
+    updated_at: '2026-07-13T12:09:02Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 756
+    stars: 755
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: true
-    updated_at: '2026-07-11T06:17:34Z'
+    updated_at: '2026-07-13T06:59:55Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 442
+    stars: 443
     contributors: 10
     last_activity: 0.28.0 (Jul 01, 2026)
     archived: false
-    updated_at: '2026-07-07T13:32:29Z'
+    updated_at: '2026-07-13T11:20:03Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5100
+    stars: 5102
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T20:35:29Z'
+    updated_at: '2026-07-13T13:59:37Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4138
+    stars: 4139
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-07-10T17:11:17Z'
+    updated_at: '2026-07-13T11:24:02Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -292,7 +292,7 @@ repositories:
     contributors: 170
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-11T08:29:15Z'
+    updated_at: '2026-07-13T12:52:28Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1418
+    stars: 1419
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-12T21:53:42Z'
+    updated_at: '2026-07-13T09:56:41Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -467,11 +467,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 598
+    stars: 599
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-07-07T18:05:34Z'
+    updated_at: '2026-07-13T12:05:31Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -793,11 +793,11 @@ repositories:
   category: SDKs & Tooling
   stars: 191
   stats:
-    stars: 196
+    stars: 195
     contributors: 1
     last_activity: Last commit (Mar 19, 2024)
     archived: false
-    updated_at: '2026-06-27T13:46:37Z'
+    updated_at: '2026-07-13T12:09:01Z'
     language: JavaScript
 - name: pumpfun-raydium-cli-tools
   repo: hexnome/pumpfun-raydium-cli-tools
@@ -821,11 +821,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 127
+    stars: 126
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2026-07-08T12:39:55Z'
+    updated_at: '2026-07-13T12:09:01Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -961,11 +961,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 320
+    stars: 322
     contributors: 14
     last_activity: v4.0.22 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-12T10:17:21Z'
+    updated_at: '2026-07-13T09:52:45Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1210,11 +1210,11 @@ repositories:
   category: SDKs & Tooling
   stars: 70
   stats:
-    stars: 77
+    stars: 78
     contributors: 2
     last_activity: v0.0.16 (Jun 22, 2024)
     archived: false
-    updated_at: '2026-06-29T16:12:14Z'
+    updated_at: '2026-07-13T09:47:54Z'
     language: TypeScript
 - name: typhoon
   repo: exotic-markets-labs/typhoon
@@ -1998,11 +1998,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 578
+    stars: 577
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-07-08T19:34:41Z'
+    updated_at: '2026-07-13T12:09:02Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2129,11 +2129,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 162
+    stars: 163
     contributors: 18
-    last_activity: Last commit (Jul 11, 2026)
+    last_activity: Last commit (Jul 13, 2026)
     archived: false
-    updated_at: '2026-07-12T20:06:11Z'
+    updated_at: '2026-07-13T09:04:22Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2209,11 +2209,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 131
+    stars: 133
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-07-09T06:49:41Z'
+    updated_at: '2026-07-13T12:10:53Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2288,11 +2288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5100
+    stars: 5102
     contributors: 353
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-07-12T20:35:29Z'
+    updated_at: '2026-07-13T13:59:37Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2301,11 +2301,11 @@ repositories:
   category: Wallets & Mobile
   stars: 16
   stats:
-    stars: 19
+    stars: 20
     contributors: 2
     last_activity: v1.0.3 (Jun 03, 2026)
     archived: false
-    updated_at: '2026-06-24T16:39:33Z'
+    updated_at: '2026-07-13T13:32:54Z'
     language: TypeScript
 - name: teller-solana-dapp
   repo: NadirAliOfficial/teller-solana-dapp
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 244
+    stars: 243
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-12T03:01:17Z'
+    updated_at: '2026-07-13T12:09:04Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2433,11 +2433,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1418
+    stars: 1419
     contributors: 60
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-12T21:53:42Z'
+    updated_at: '2026-07-13T09:56:41Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
