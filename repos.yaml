@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14938
+    stars: 14939
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-17T00:52:50Z'
+    updated_at: '2026-07-17T03:18:31Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1844
-    contributors: 360
+    stars: 1847
+    contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-17T01:45:40Z'
+    updated_at: '2026-07-17T12:55:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 178
     last_activity: nonce-account@v4.1.1 (Jul 15, 2026)
     archived: false
-    updated_at: '2026-07-16T14:09:19Z'
+    updated_at: '2026-07-17T12:05:43Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 257
+    stars: 258
     contributors: 3
     last_activity: v7.0.17 (Jul 08, 2026)
     archived: false
-    updated_at: '2026-07-13T16:52:52Z'
+    updated_at: '2026-07-17T12:10:26Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -516,11 +516,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3353
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-07-16T16:14:50Z'
+    updated_at: '2026-07-17T03:18:32Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -873,9 +873,9 @@ repositories:
   stats:
     stars: 951
     contributors: 34
-    last_activity: Last commit (Jul 16, 2026)
+    last_activity: Last commit (Jul 17, 2026)
     archived: false
-    updated_at: '2026-07-16T13:00:07Z'
+    updated_at: '2026-07-17T10:07:14Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -961,11 +961,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 323
+    stars: 324
     contributors: 14
     last_activity: v5.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-07-16T19:50:56Z'
+    updated_at: '2026-07-17T03:00:41Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2129,11 +2129,11 @@ repositories:
   category: SDKs & Tooling
   stars: 61
   stats:
-    stars: 165
+    stars: 164
     contributors: 18
     last_activity: Last commit (Jul 13, 2026)
     archived: false
-    updated_at: '2026-07-15T13:29:53Z'
+    updated_at: '2026-07-17T05:28:05Z'
     language: Rust
 - name: solana-stablecoin
   repo: mooncty/solana-stablecoin
@@ -2409,11 +2409,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 567
+    stars: 592
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-07-17T01:45:00Z'
+    updated_at: '2026-07-17T13:03:37Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2466,11 +2466,11 @@ repositories:
   category: SDKs & Tooling
   stars: 646
   stats:
-    stars: 488
+    stars: 487
     contributors: 2
     last_activity: Last commit (Jul 11, 2026)
     archived: false
-    updated_at: '2026-07-15T09:50:08Z'
+    updated_at: '2026-07-17T12:10:01Z'
     language: TypeScript
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
