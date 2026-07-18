@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1847
+    stars: 1846
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-17T12:55:17Z'
+    updated_at: '2026-07-17T21:23:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -300,11 +300,11 @@ repositories:
   category: NFTs & Programs
   stars: 374
   stats:
-    stars: 378
+    stars: 377
     contributors: 39
     last_activity: '@metaplex-foundation/js-plugin-nft-storage@0.20.0 (Nov 09, 2023)'
     archived: true
-    updated_at: '2026-07-09T05:09:13Z'
+    updated_at: '2026-07-17T13:18:49Z'
     language: TypeScript
 - name: js-wallet-sdk
   repo: okx/js-wallet-sdk
@@ -742,11 +742,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 637
+    stars: 638
     contributors: 19
     last_activity: Last commit (Jul 16, 2026)
     archived: false
-    updated_at: '2026-07-16T19:38:32Z'
+    updated_at: '2026-07-17T23:10:36Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -973,11 +973,11 @@ repositories:
   category: SDKs & Tooling
   stars: 101
   stats:
-    stars: 148
+    stars: 149
     contributors: 4
     last_activity: Last commit (Jul 09, 2026)
     archived: false
-    updated_at: '2026-07-14T19:47:23Z'
+    updated_at: '2026-07-17T15:00:09Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1137,11 +1137,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 81
+    stars: 80
     contributors: 12
     last_activity: v0.30.0 (Feb 25, 2026)
     archived: false
-    updated_at: '2026-06-15T02:19:57Z'
+    updated_at: '2026-07-17T15:09:44Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -2209,11 +2209,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 134
+    stars: 135
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-07-16T22:35:45Z'
+    updated_at: '2026-07-17T14:33:58Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2409,11 +2409,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 592
+    stars: 601
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-07-17T13:03:37Z'
+    updated_at: '2026-07-18T00:17:31Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2510,6 +2510,20 @@ repositories:
     archived: false
     updated_at: '2026-07-09T06:57:40Z'
     language: Rust
+- name: token-generator
+  repo: vittominacori/token-generator
+  description: Create a Token in less than a minute with the most trusted No-code
+    Token Generator for ERC20, BEP20, SPL Token and Token 2022 assets. No login. No
+    setup. No coding required.
+  category: SDKs & Tooling
+  stars: 84
+  stats:
+    stars: 84
+    contributors: 2
+    last_activity: Last commit (Jul 17, 2026)
+    archived: false
+    updated_at: '2026-07-17T14:46:11Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
