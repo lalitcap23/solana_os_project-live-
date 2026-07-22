@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14944
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-21T11:50:58Z'
+    updated_at: '2026-07-22T09:15:54Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1851
+    stars: 1850
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-22T01:20:56Z'
+    updated_at: '2026-07-22T11:27:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4239
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-20T08:00:54Z'
+    updated_at: '2026-07-22T09:15:51Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 951
+    stars: 952
     contributors: 34
-    last_activity: Last commit (Jul 21, 2026)
+    last_activity: Last commit (Jul 22, 2026)
     archived: false
-    updated_at: '2026-07-21T09:48:30Z'
+    updated_at: '2026-07-22T11:52:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2250,11 +2250,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 264
+    stars: 265
     contributors: 10
     last_activity: Last commit (Jul 22, 2026)
     archived: false
-    updated_at: '2026-07-22T00:19:17Z'
+    updated_at: '2026-07-22T07:20:30Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2371,11 +2371,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 247
+    stars: 248
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-21T11:50:55Z'
+    updated_at: '2026-07-22T09:47:22Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2409,11 +2409,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 859
+    stars: 869
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-07-21T22:56:08Z'
+    updated_at: '2026-07-22T13:14:34Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
