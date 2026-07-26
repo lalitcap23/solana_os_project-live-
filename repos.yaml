@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14941
+    stars: 14942
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-25T03:31:31Z'
+    updated_at: '2026-07-25T15:31:47Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-25T05:06:09Z'
+    updated_at: '2026-07-25T18:28:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 178
     last_activity: epoch-rewards@v3.2.0 (Jul 24, 2026)
     archived: false
-    updated_at: '2026-07-24T14:09:21Z'
+    updated_at: '2026-07-25T23:35:52Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2751
+    stars: 2752
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-07-22T17:46:14Z'
+    updated_at: '2026-07-25T14:16:34Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -871,11 +871,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 952
+    stars: 953
     contributors: 34
     last_activity: Last commit (Jul 25, 2026)
     archived: false
-    updated_at: '2026-07-25T01:00:32Z'
+    updated_at: '2026-07-25T21:38:22Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1913,11 +1913,11 @@ repositories:
   category: SDKs & Tooling
   stars: 238
   stats:
-    stars: 96
+    stars: 95
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-07-15T17:26:49Z'
+    updated_at: '2026-07-25T17:54:31Z'
     language: Rust
 - name: solana-poker-casino-game
   repo: 0xRustPro/solana-poker-casino-game
@@ -1971,11 +1971,11 @@ repositories:
   category: SDKs & Tooling
   stars: 321
   stats:
-    stars: 96
+    stars: 95
     contributors: 1
     last_activity: Last commit (Apr 21, 2026)
     archived: false
-    updated_at: '2026-07-15T17:26:49Z'
+    updated_at: '2026-07-25T17:54:31Z'
     language: Rust
 - name: solana-mobile-seeker-genesis-holders
   repo: beeman/solana-mobile-seeker-genesis-holders
@@ -2250,11 +2250,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 265
+    stars: 269
     contributors: 10
     last_activity: Last commit (Jul 22, 2026)
     archived: false
-    updated_at: '2026-07-22T07:20:30Z'
+    updated_at: '2026-07-26T01:10:31Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2409,11 +2409,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 950
+    stars: 966
     contributors: 1
     last_activity: Last commit (May 11, 2026)
     archived: false
-    updated_at: '2026-07-25T13:02:11Z'
+    updated_at: '2026-07-26T01:00:40Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2538,6 +2538,21 @@ repositories:
     archived: false
     updated_at: '2026-07-24T17:53:09Z'
     language: TypeScript
+- name: ika
+  repo: dwallet-labs/ika
+  description: Ika is the fastest zero-trust MPC network. Its 2PC-MPC protocol powers
+    dWallets — programmable signing mechanisms that let smart contracts natively control
+    assets on any chain (Bitcoin, Ethereum, Solana, and more) with no bridging or
+    wrapping. Live beta on Sui; pre-alpha for builders on Solana.
+  category: Wallets & Mobile
+  stars: 204
+  stats:
+    stars: 204
+    contributors: 329
+    last_activity: release/mainnet-v1.2.5 (Jul 23, 2026)
+    archived: false
+    updated_at: '2026-07-25T21:58:34Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
