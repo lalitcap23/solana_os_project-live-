@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14946
+    stars: 14944
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-07-28T12:40:18Z'
+    updated_at: '2026-07-29T12:33:35Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1853
+    stars: 1855
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-28T23:44:33Z'
+    updated_at: '2026-07-29T12:29:34Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 178
     last_activity: vote-interface@v6.1.0 (Jul 28, 2026)
     archived: false
-    updated_at: '2026-07-28T22:33:22Z'
+    updated_at: '2026-07-29T11:13:36Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4239
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-07-27T23:22:38Z'
+    updated_at: '2026-07-29T11:04:46Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 258
+    stars: 260
     contributors: 3
     last_activity: v7.0.17 (Jul 08, 2026)
     archived: false
-    updated_at: '2026-07-28T00:08:09Z'
+    updated_at: '2026-07-29T11:05:01Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 446
+    stars: 445
     contributors: 10
     last_activity: 0.28.0 (Jul 01, 2026)
     archived: false
-    updated_at: '2026-07-24T00:22:08Z'
+    updated_at: '2026-07-29T11:39:22Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -224,11 +224,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 264
+    stars: 263
     contributors: 7
     last_activity: 2.1.0 (Oct 23, 2024)
     archived: false
-    updated_at: '2026-07-20T21:48:11Z'
+    updated_at: '2026-07-29T09:19:50Z'
     language: Rust
 - name: nautilus
   repo: nautilus-project/nautilus
@@ -292,7 +292,7 @@ repositories:
     contributors: 170
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-07-28T08:21:51Z'
+    updated_at: '2026-07-29T12:28:00Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -401,11 +401,11 @@ repositories:
   category: SDKs & Tooling
   stars: 675
   stats:
-    stars: 17
+    stars: 18
     contributors: 1
     last_activity: Last commit (Jul 23, 2026)
     archived: false
-    updated_at: '2026-07-23T09:13:17Z'
+    updated_at: '2026-07-29T05:59:24Z'
     language: null
 - name: complete-guide-to-full-stack-solana-development
   repo: dabit3/complete-guide-to-full-stack-solana-development
@@ -933,11 +933,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 164
+    stars: 163
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-07-19T22:00:05Z'
+    updated_at: '2026-07-29T11:39:24Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -961,11 +961,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 327
+    stars: 325
     contributors: 14
     last_activity: v5.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-07-25T04:14:02Z'
+    updated_at: '2026-07-29T11:42:50Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1197,13 +1197,7 @@ repositories:
     with rust language
   category: DeFi
   stars: 462
-  stats:
-    stars: 504
-    contributors: 1
-    last_activity: Last commit (Mar 27, 2026)
-    archived: false
-    updated_at: '2026-07-21T08:53:49Z'
-    language: Rust
+  stats: null
 - name: solana-pumpfun-trader
   repo: degenfrends/solana-pumpfun-trader
   description: buy/sell functions for Solana SPL tokens created on pump.fun.
@@ -1478,11 +1472,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 177
+    stars: 175
     contributors: 13
     last_activity: v2.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-07-20T14:31:07Z'
+    updated_at: '2026-07-29T11:42:50Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1704,11 +1698,11 @@ repositories:
   category: SDKs & Tooling
   stars: 577
   stats:
-    stars: 17
+    stars: 18
     contributors: 1
     last_activity: Last commit (Jul 23, 2026)
     archived: false
-    updated_at: '2026-07-23T09:13:17Z'
+    updated_at: '2026-07-29T05:59:24Z'
     language: null
 - name: Solana-Pay-enables-crypto-payments
   repo: VomicInevallar3422/Solana-Pay-enables-crypto-payments
@@ -2359,7 +2353,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-07-21T18:51:40Z'
+    updated_at: '2026-07-29T12:30:28Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2409,11 +2403,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1034
+    stars: 1054
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-07-29T01:17:51Z'
+    updated_at: '2026-07-29T13:21:41Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2494,7 +2488,7 @@ repositories:
   stats:
     stars: 9
     contributors: 3
-    last_activity: v2026.05.26 (Jul 19, 2026)
+    last_activity: v2026.05.27 (Jul 29, 2026)
     archived: false
     updated_at: '2026-07-01T21:01:45Z'
     language: Python
