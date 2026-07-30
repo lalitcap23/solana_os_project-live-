@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-07-29T12:29:34Z'
+    updated_at: '2026-07-30T01:10:25Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -96,22 +96,22 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 249
+    stars: 250
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-06-24T21:32:58Z'
+    updated_at: '2026-07-29T17:56:29Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 40
+    stars: 39
     contributors: 6
     last_activity: release/candy-guard@0.2.3 (May 27, 2026)
     archived: false
-    updated_at: '2026-07-27T15:34:08Z'
+    updated_at: '2026-07-29T13:53:55Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -187,7 +187,7 @@ repositories:
   stars: 426
   stats:
     stars: 613
-    contributors: 44
+    contributors: 43
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
     updated_at: '2026-07-27T11:52:04Z'
@@ -467,11 +467,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 602
+    stars: 601
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-07-27T17:22:44Z'
+    updated_at: '2026-07-29T14:36:52Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -516,11 +516,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-07-28T19:42:03Z'
+    updated_at: '2026-07-29T21:11:29Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -872,10 +872,10 @@ repositories:
   stars: 816
   stats:
     stars: 953
-    contributors: 34
-    last_activity: Last commit (Jul 28, 2026)
+    contributors: 35
+    last_activity: Last commit (Jul 29, 2026)
     archived: false
-    updated_at: '2026-07-28T18:30:11Z'
+    updated_at: '2026-07-29T20:24:29Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -965,7 +965,7 @@ repositories:
     contributors: 14
     last_activity: v5.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-07-29T11:42:50Z'
+    updated_at: '2026-07-29T14:16:46Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1474,9 +1474,9 @@ repositories:
   stats:
     stars: 175
     contributors: 13
-    last_activity: v2.0.0 (Jul 16, 2026)
+    last_activity: v2.0.1 (Jul 29, 2026)
     archived: false
-    updated_at: '2026-07-29T11:42:50Z'
+    updated_at: '2026-07-29T14:07:43Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2244,11 +2244,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 277
+    stars: 278
     contributors: 10
-    last_activity: Last commit (Jul 28, 2026)
+    last_activity: Last commit (Jul 29, 2026)
     archived: false
-    updated_at: '2026-07-28T22:12:05Z'
+    updated_at: '2026-07-29T18:58:31Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2324,11 +2324,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 204
+    stars: 205
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-07-27T17:14:16Z'
+    updated_at: '2026-07-29T15:12:49Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2403,11 +2403,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1054
+    stars: 1068
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-07-29T13:21:41Z'
+    updated_at: '2026-07-30T01:11:47Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2543,7 +2543,7 @@ repositories:
   stats:
     stars: 205
     contributors: 330
-    last_activity: release/mainnet-v1.2.5 (Jul 23, 2026)
+    last_activity: release/mainnet-v1.2.7 (Jul 29, 2026)
     archived: false
     updated_at: '2026-07-28T21:59:00Z'
     language: Rust
