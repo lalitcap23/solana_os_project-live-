@@ -9,18 +9,18 @@ repositories:
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-01T10:56:56Z'
+    updated_at: '2026-08-01T23:29:15Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1855
+    stars: 1858
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-08-01T11:54:12Z'
+    updated_at: '2026-08-01T16:05:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -402,11 +402,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 490
+    stars: 489
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2026-03-03T23:19:21Z'
+    updated_at: '2026-08-01T20:18:05Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 954
     contributors: 35
-    last_activity: Last commit (Aug 01, 2026)
+    last_activity: Last commit (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-01T11:54:12Z'
+    updated_at: '2026-08-02T00:43:25Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2220,11 +2220,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 279
+    stars: 280
     contributors: 10
     last_activity: Last commit (Jul 30, 2026)
     archived: false
-    updated_at: '2026-07-30T19:23:37Z'
+    updated_at: '2026-08-01T23:21:01Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2341,11 +2341,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 250
+    stars: 251
     contributors: 1
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-07-31T08:52:29Z'
+    updated_at: '2026-08-01T20:08:39Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1336
+    stars: 1337
     contributors: 40
     last_activity: 2026-07-30 (Jul 30, 2026)
     archived: false
-    updated_at: '2026-07-30T15:46:50Z'
+    updated_at: '2026-08-01T19:36:14Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2379,11 +2379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1118
+    stars: 1132
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-01T11:05:49Z'
+    updated_at: '2026-08-02T00:05:35Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2436,11 +2436,11 @@ repositories:
   category: SDKs & Tooling
   stars: 646
   stats:
-    stars: 474
+    stars: 475
     contributors: 2
     last_activity: Last commit (Jul 23, 2026)
     archived: false
-    updated_at: '2026-07-31T08:43:17Z'
+    updated_at: '2026-08-01T22:15:39Z'
     language: Python
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
@@ -2521,7 +2521,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.2.7 (Jul 29, 2026)
     archived: false
-    updated_at: '2026-08-01T00:00:57Z'
+    updated_at: '2026-08-02T00:32:39Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
