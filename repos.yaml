@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14944
+    stars: 14945
     contributors: 353
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-01T23:29:15Z'
+    updated_at: '2026-08-03T01:13:56Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-08-02T12:37:53Z'
+    updated_at: '2026-08-03T01:27:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -2379,11 +2379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1141
+    stars: 1149
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-02T12:10:30Z'
+    updated_at: '2026-08-03T00:37:55Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2504,9 +2504,9 @@ repositories:
   stats:
     stars: 10
     contributors: 2
-    last_activity: Last commit (Jul 31, 2026)
+    last_activity: Last commit (Aug 03, 2026)
     archived: false
-    updated_at: '2026-07-31T22:28:19Z'
+    updated_at: '2026-08-03T02:02:41Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2517,11 +2517,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 205
+    stars: 204
     contributors: 329
     last_activity: release/mainnet-v1.2.8 (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-02T00:32:39Z'
+    updated_at: '2026-08-02T20:11:57Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
