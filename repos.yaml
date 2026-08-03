@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1860
+    stars: 1863
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-08-03T01:27:39Z'
+    updated_at: '2026-08-03T13:32:06Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 613
+    stars: 612
     contributors: 43
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-07-27T11:52:04Z'
+    updated_at: '2026-08-03T12:19:07Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -374,9 +374,9 @@ repositories:
   stats:
     stars: 1423
     contributors: 62
-    last_activity: Last commit (Jul 30, 2026)
+    last_activity: Last commit (Aug 03, 2026)
     archived: false
-    updated_at: '2026-08-01T04:46:26Z'
+    updated_at: '2026-08-03T13:37:44Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 954
+    stars: 955
     contributors: 35
-    last_activity: Last commit (Aug 02, 2026)
+    last_activity: Last commit (Aug 03, 2026)
     archived: false
-    updated_at: '2026-08-02T10:41:10Z'
+    updated_at: '2026-08-03T08:51:09Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1273,11 +1273,11 @@ repositories:
   category: SDKs & Tooling
   stars: 143
   stats:
-    stars: 155
+    stars: 156
     contributors: 12
     last_activity: Last commit (May 20, 2025)
     archived: false
-    updated_at: '2026-06-26T22:10:59Z'
+    updated_at: '2026-08-03T11:46:47Z'
     language: Rust
 - name: native-to-anchor
   repo: acheroncrypto/native-to-anchor
@@ -2300,11 +2300,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 204
+    stars: 203
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-07-31T08:31:26Z'
+    updated_at: '2026-08-03T07:48:05Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2379,11 +2379,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1149
+    stars: 1162
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-03T00:37:55Z'
+    updated_at: '2026-08-03T14:17:12Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2405,9 +2405,9 @@ repositories:
   stats:
     stars: 1423
     contributors: 62
-    last_activity: Last commit (Jul 30, 2026)
+    last_activity: Last commit (Aug 03, 2026)
     archived: false
-    updated_at: '2026-08-01T04:46:26Z'
+    updated_at: '2026-08-03T13:37:44Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
