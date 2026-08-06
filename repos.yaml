@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14941
+    stars: 14942
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-05T00:51:25Z'
+    updated_at: '2026-08-06T01:02:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1869
+    stars: 1870
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-08-05T13:44:27Z'
+    updated_at: '2026-08-06T00:13:24Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 252
     contributors: 178
-    last_activity: vote-interface@v6.1.0 (Jul 28, 2026)
+    last_activity: signature@v3.5.1 (Aug 05, 2026)
     archived: false
-    updated_at: '2026-08-04T22:12:28Z'
+    updated_at: '2026-08-05T15:58:19Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2750
+    stars: 2749
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-08-04T21:54:43Z'
+    updated_at: '2026-08-05T17:40:10Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -292,7 +292,7 @@ repositories:
     contributors: 171
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-08-05T08:32:48Z'
+    updated_at: '2026-08-05T18:50:11Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1424
-    contributors: 64
+    stars: 1425
+    contributors: 65
     last_activity: Last commit (Aug 05, 2026)
     archived: false
-    updated_at: '2026-08-05T13:37:18Z'
+    updated_at: '2026-08-05T20:54:53Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -386,7 +386,13 @@ repositories:
     simulation, state management, and token transfers.
   category: SDKs & Tooling
   stars: 681
-  stats: null
+  stats:
+    stars: 35
+    contributors: 1
+    last_activity: Last commit (Jul 23, 2026)
+    archived: false
+    updated_at: '2026-07-23T15:43:57Z'
+    language: TypeScript
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
   description: A lightweight on-chain Coin Flip betting game built on the Solana blockchain
@@ -402,11 +408,11 @@ repositories:
   category: SDKs & Tooling
   stars: 484
   stats:
-    stars: 489
+    stars: 487
     contributors: 2
     last_activity: Last commit (Sep 18, 2021)
     archived: false
-    updated_at: '2026-08-01T20:18:05Z'
+    updated_at: '2026-08-05T17:40:17Z'
     language: JavaScript
 - name: seahorse-lang
   repo: ameliatastic/seahorse-lang
@@ -734,7 +740,7 @@ repositories:
     contributors: 20
     last_activity: Last commit (Aug 05, 2026)
     archived: false
-    updated_at: '2026-08-05T13:43:16Z'
+    updated_at: '2026-08-05T15:02:54Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1493,11 +1499,11 @@ repositories:
   category: Payments
   stars: 4
   stats:
-    stars: 3
+    stars: 2
     contributors: 1
     last_activity: Last commit (Aug 31, 2023)
     archived: false
-    updated_at: '2026-07-09T16:01:25Z'
+    updated_at: '2026-08-05T17:40:19Z'
     language: TypeScript
 - name: Solana-Token-Payment-Gateway
   repo: paracetamol951/Solana-Token-Payment-Gateway
@@ -1559,7 +1565,7 @@ repositories:
   stars: 138
   stats:
     stars: 163
-    contributors: 3
+    contributors: 0
     last_activity: Last commit (Feb 18, 2026)
     archived: false
     updated_at: '2026-06-24T17:11:09Z'
@@ -2379,11 +2385,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1215
+    stars: 1225
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-05T08:12:23Z'
+    updated_at: '2026-08-05T22:00:14Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2403,11 +2409,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1424
-    contributors: 64
+    stars: 1425
+    contributors: 65
     last_activity: Last commit (Aug 05, 2026)
     archived: false
-    updated_at: '2026-08-05T13:37:18Z'
+    updated_at: '2026-08-05T20:54:53Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2435,13 +2441,7 @@ repositories:
     plots, four tiers, finite supply. Anchor program at /Croptopia.
   category: SDKs & Tooling
   stars: 646
-  stats:
-    stars: 471
-    contributors: 2
-    last_activity: Last commit (Jul 23, 2026)
-    archived: false
-    updated_at: '2026-08-04T09:48:53Z'
-    language: Python
+  stats: null
 - name: solana-dashboard
   repo: NadirAliOfficial/solana-dashboard
   description: Real-time Solana token dashboard — top 20 tokens by 24h volume with
@@ -2517,11 +2517,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 204
+    stars: 203
     contributors: 329
     last_activity: release/mainnet-v1.2.8 (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-04T21:22:41Z'
+    updated_at: '2026-08-05T19:43:00Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
