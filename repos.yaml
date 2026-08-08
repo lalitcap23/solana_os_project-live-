@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.1.2 (Jul 10, 2026)
     archived: false
-    updated_at: '2026-08-07T12:15:34Z'
+    updated_at: '2026-08-07T20:24:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,7 +29,7 @@ repositories:
   stats:
     stars: 252
     contributors: 179
-    last_activity: poseidon@v5.0.0 (Aug 07, 2026)
+    last_activity: transaction@v4.1.6 (Aug 07, 2026)
     archived: false
     updated_at: '2026-08-07T11:17:52Z'
     language: Rust
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2750
+    stars: 2749
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-08-06T19:40:27Z'
+    updated_at: '2026-08-07T14:37:00Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 696
+    stars: 695
     contributors: 171
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-08-07T12:35:51Z'
+    updated_at: '2026-08-08T00:12:59Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 418
+    stars: 417
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-06T03:20:28Z'
+    updated_at: '2026-08-08T00:13:11Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -376,7 +376,7 @@ repositories:
     contributors: 66
     last_activity: Last commit (Aug 07, 2026)
     archived: false
-    updated_at: '2026-08-07T00:25:17Z'
+    updated_at: '2026-08-07T13:24:50Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -1119,11 +1119,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 418
+    stars: 417
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-06T03:20:28Z'
+    updated_at: '2026-08-08T00:13:11Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -2385,11 +2385,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1245
+    stars: 1244
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-07T02:39:26Z'
+    updated_at: '2026-08-07T17:36:38Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2413,7 +2413,7 @@ repositories:
     contributors: 66
     last_activity: Last commit (Aug 07, 2026)
     archived: false
-    updated_at: '2026-08-07T00:25:17Z'
+    updated_at: '2026-08-07T13:24:50Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2544,11 +2544,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 10
+    stars: 15
     contributors: 1
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-07T11:46:46Z'
+    updated_at: '2026-08-08T00:24:48Z'
     language: Dart
 search_queries:
 - solana framework language:rust stars:>50
