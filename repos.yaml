@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14945
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-08T22:14:57Z'
+    updated_at: '2026-08-09T08:03:27Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2027
+    stars: 2028
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-08-06T09:38:39Z'
+    updated_at: '2026-08-09T08:30:27Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4239
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-08-07T07:43:06Z'
+    updated_at: '2026-08-09T01:16:26Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -292,7 +292,7 @@ repositories:
     contributors: 171
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-08-08T00:12:59Z'
+    updated_at: '2026-08-09T08:37:34Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -867,9 +867,9 @@ repositories:
   stats:
     stars: 955
     contributors: 36
-    last_activity: Last commit (Aug 08, 2026)
+    last_activity: Last commit (Aug 09, 2026)
     archived: false
-    updated_at: '2026-08-08T03:05:52Z'
+    updated_at: '2026-08-09T01:27:20Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2347,11 +2347,11 @@ repositories:
   category: SDKs & Tooling
   stars: 221
   stats:
-    stars: 256
+    stars: 257
     contributors: 1
     last_activity: Last commit (Aug 08, 2026)
     archived: false
-    updated_at: '2026-08-08T23:36:49Z'
+    updated_at: '2026-08-09T07:29:29Z'
     language: TypeScript
 - name: sol-agent-wallet
   repo: yksanjo/sol-agent-wallet
@@ -2521,7 +2521,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.2.8 (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-08T23:04:26Z'
+    updated_at: '2026-08-09T12:05:08Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2544,11 +2544,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 31
+    stars: 33
     contributors: 1
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-09T01:06:43Z'
+    updated_at: '2026-08-09T04:33:54Z'
     language: Dart
 search_queries:
 - solana framework language:rust stars:>50
