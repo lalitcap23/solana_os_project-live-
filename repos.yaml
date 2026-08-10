@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14945
+    stars: 14943
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-09T08:03:27Z'
+    updated_at: '2026-08-09T17:24:40Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1875
+    stars: 1877
     contributors: 359
     last_activity: v4.2.0 (Aug 07, 2026)
     archived: false
-    updated_at: '2026-08-08T11:05:11Z'
+    updated_at: '2026-08-10T01:03:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4239
+    stars: 4240
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-08-09T01:16:26Z'
+    updated_at: '2026-08-09T22:49:04Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 328
+    stars: 329
     contributors: 22
     last_activity: '@solana-mobile/wallet-adapter-mobile@2.2.9 (Jun 04, 2026)'
     archived: false
-    updated_at: '2026-08-01T11:43:09Z'
+    updated_at: '2026-08-09T22:15:38Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 613
+    stars: 611
     contributors: 43
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-08-06T15:58:54Z'
+    updated_at: '2026-08-09T21:07:48Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 399
+    stars: 397
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-08-06T09:32:14Z'
+    updated_at: '2026-08-09T20:54:30Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -841,11 +841,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 98
+    stars: 99
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-07-20T20:20:43Z'
+    updated_at: '2026-08-09T16:08:30Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 90
+    stars: 99
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-04T10:17:09Z'
+    updated_at: '2026-08-10T00:38:47Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2385,11 +2385,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1243
+    stars: 1242
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-08T04:14:04Z'
+    updated_at: '2026-08-09T20:24:12Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2504,9 +2504,9 @@ repositories:
   stats:
     stars: 12
     contributors: 2
-    last_activity: Last commit (Aug 05, 2026)
+    last_activity: Last commit (Aug 09, 2026)
     archived: false
-    updated_at: '2026-08-05T04:49:22Z'
+    updated_at: '2026-08-09T18:59:57Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2521,7 +2521,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.2.8 (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-09T12:05:08Z'
+    updated_at: '2026-08-09T17:50:21Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2544,11 +2544,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 33
+    stars: 34
     contributors: 1
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-09T04:33:54Z'
+    updated_at: '2026-08-10T00:22:43Z'
     language: Dart
 search_queries:
 - solana framework language:rust stars:>50
