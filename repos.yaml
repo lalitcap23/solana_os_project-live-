@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14943
+    stars: 14942
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-09T17:24:40Z'
+    updated_at: '2026-08-10T12:16:29Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1877
+    stars: 1878
     contributors: 359
     last_activity: v4.2.0 (Aug 07, 2026)
     archived: false
-    updated_at: '2026-08-10T01:03:46Z'
+    updated_at: '2026-08-10T12:38:37Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 252
     contributors: 179
-    last_activity: nonce-account@v4.3.0 (Aug 08, 2026)
+    last_activity: svm-transaction@v5.0.0 (Aug 10, 2026)
     archived: false
-    updated_at: '2026-08-08T14:00:29Z'
+    updated_at: '2026-08-10T08:20:22Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 171
     last_activity: v7.0.0 (Jun 30, 2026)
     archived: false
-    updated_at: '2026-08-09T08:37:34Z'
+    updated_at: '2026-08-10T08:44:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -510,11 +510,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-08-05T00:54:57Z'
+    updated_at: '2026-08-10T12:16:44Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -867,9 +867,9 @@ repositories:
   stats:
     stars: 955
     contributors: 36
-    last_activity: Last commit (Aug 09, 2026)
+    last_activity: Last commit (Aug 10, 2026)
     archived: false
-    updated_at: '2026-08-09T01:27:20Z'
+    updated_at: '2026-08-10T04:34:32Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 99
+    stars: 130
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-10T00:38:47Z'
+    updated_at: '2026-08-10T11:16:56Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2226,11 +2226,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 288
+    stars: 289
     contributors: 10
     last_activity: Last commit (Aug 07, 2026)
     archived: false
-    updated_at: '2026-08-08T19:59:49Z'
+    updated_at: '2026-08-10T09:28:41Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2306,11 +2306,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 203
+    stars: 202
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-08-03T07:48:05Z'
+    updated_at: '2026-08-10T02:39:17Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2385,11 +2385,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1242
+    stars: 1241
     contributors: 1
     last_activity: Last commit (Jul 26, 2026)
     archived: false
-    updated_at: '2026-08-09T20:24:12Z'
+    updated_at: '2026-08-10T02:37:31Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2521,7 +2521,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.2.8 (Aug 02, 2026)
     archived: false
-    updated_at: '2026-08-09T17:50:21Z'
+    updated_at: '2026-08-10T09:34:31Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2544,11 +2544,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 34
+    stars: 43
     contributors: 1
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-10T00:22:43Z'
+    updated_at: '2026-08-10T06:21:32Z'
     language: Dart
 search_queries:
 - solana framework language:rust stars:>50
