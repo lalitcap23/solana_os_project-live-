@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1883
+    stars: 1884
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-15T08:59:10Z'
+    updated_at: '2026-08-16T09:02:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2749
+    stars: 2750
     contributors: 127
     last_activity: v1.98.4 (Jul 31, 2025)
     archived: false
-    updated_at: '2026-08-14T15:50:26Z'
+    updated_at: '2026-08-16T09:03:33Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 22
     last_activity: '@solana-mobile/wallet-adapter-mobile@2.2.9 (Jun 04, 2026)'
     archived: false
-    updated_at: '2026-08-16T00:18:44Z'
+    updated_at: '2026-08-16T00:51:14Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -736,11 +736,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 642
+    stars: 643
     contributors: 20
     last_activity: Last commit (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-07T07:21:02Z'
+    updated_at: '2026-08-16T09:04:11Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -867,9 +867,9 @@ repositories:
   stats:
     stars: 955
     contributors: 36
-    last_activity: Last commit (Aug 15, 2026)
+    last_activity: Last commit (Aug 16, 2026)
     archived: false
-    updated_at: '2026-08-15T02:11:34Z'
+    updated_at: '2026-08-16T04:13:12Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -969,9 +969,9 @@ repositories:
   stats:
     stars: 150
     contributors: 4
-    last_activity: Last commit (Jul 09, 2026)
+    last_activity: Last commit (Aug 16, 2026)
     archived: false
-    updated_at: '2026-07-28T12:27:36Z'
+    updated_at: '2026-08-16T09:28:50Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 129
+    stars: 133
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-15T12:09:47Z'
+    updated_at: '2026-08-16T10:04:57Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2198,11 +2198,11 @@ repositories:
   category: DeFi
   stars: 24
   stats:
-    stars: 24
+    stars: 25
     contributors: 2
     last_activity: Last commit (May 21, 2026)
     archived: false
-    updated_at: '2026-08-04T18:27:45Z'
+    updated_at: '2026-08-16T06:14:30Z'
     language: TypeScript
 - name: medusa-payment-solana
   repo: rpuls/medusa-payment-solana
@@ -2515,7 +2515,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.3.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-15T21:51:43Z'
+    updated_at: '2026-08-16T11:49:10Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
