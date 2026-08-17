@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14944
+    stars: 14943
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-16T17:44:50Z'
+    updated_at: '2026-08-17T06:25:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1885
+    stars: 1886
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-16T19:09:54Z'
+    updated_at: '2026-08-17T10:18:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 251
-    contributors: 181
+    contributors: 182
     last_activity: loader-v3-interface@v8.1.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-14T15:12:51Z'
+    updated_at: '2026-08-17T06:30:56Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 611
+    stars: 612
     contributors: 43
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-08-12T08:14:23Z'
+    updated_at: '2026-08-17T03:03:19Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -289,10 +289,10 @@ repositories:
   stars: 511
   stats:
     stars: 692
-    contributors: 172
+    contributors: 173
     last_activity: v7.1.0 (Aug 14, 2026)
     archived: false
-    updated_at: '2026-08-15T11:41:00Z'
+    updated_at: '2026-08-17T11:17:07Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1427
+    stars: 1426
     contributors: 67
     last_activity: Last commit (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-14T17:30:34Z'
+    updated_at: '2026-08-17T01:43:24Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -867,9 +867,9 @@ repositories:
   stats:
     stars: 955
     contributors: 36
-    last_activity: Last commit (Aug 16, 2026)
+    last_activity: Last commit (Aug 17, 2026)
     archived: false
-    updated_at: '2026-08-16T04:13:12Z'
+    updated_at: '2026-08-17T06:26:06Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -927,11 +927,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 163
+    stars: 164
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-07-29T11:39:24Z'
+    updated_at: '2026-08-17T04:21:07Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -1487,11 +1487,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 82
+    stars: 83
     contributors: 2
     last_activity: Last commit (Jun 19, 2026)
     archived: false
-    updated_at: '2026-08-14T10:35:00Z'
+    updated_at: '2026-08-17T04:22:53Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 140
+    stars: 149
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-16T23:10:42Z'
+    updated_at: '2026-08-17T12:22:43Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2228,9 +2228,9 @@ repositories:
   stats:
     stars: 293
     contributors: 10
-    last_activity: Last commit (Aug 07, 2026)
+    last_activity: Last commit (Aug 17, 2026)
     archived: false
-    updated_at: '2026-08-12T18:24:03Z'
+    updated_at: '2026-08-17T03:03:37Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2403,11 +2403,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1427
+    stars: 1426
     contributors: 67
     last_activity: Last commit (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-14T17:30:34Z'
+    updated_at: '2026-08-17T01:43:24Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2538,11 +2538,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 120
+    stars: 122
     contributors: 2
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-16T18:41:40Z'
+    updated_at: '2026-08-17T05:49:16Z'
     language: Dart
 - name: solana-trading-bot-v3
   repo: wwwwwwworld/solana-trading-bot-v3
