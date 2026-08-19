@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-18T22:55:32Z'
+    updated_at: '2026-08-19T10:45:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 182
     last_activity: loader-v3-interface@v8.1.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-19T00:14:21Z'
+    updated_at: '2026-08-19T01:49:37Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 692
+    stars: 693
     contributors: 174
     last_activity: v7.1.1 (Aug 18, 2026)
     archived: false
-    updated_at: '2026-08-18T18:47:48Z'
+    updated_at: '2026-08-19T11:40:47Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -376,7 +376,7 @@ repositories:
     contributors: 67
     last_activity: Last commit (Aug 17, 2026)
     archived: false
-    updated_at: '2026-08-18T18:47:53Z'
+    updated_at: '2026-08-19T11:07:56Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -867,9 +867,9 @@ repositories:
   stats:
     stars: 955
     contributors: 36
-    last_activity: Last commit (Aug 18, 2026)
+    last_activity: Last commit (Aug 19, 2026)
     archived: false
-    updated_at: '2026-08-18T12:32:54Z'
+    updated_at: '2026-08-19T02:01:46Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1961,7 +1961,7 @@ repositories:
   stars: 6
   stats:
     stars: 7
-    contributors: 3
+    contributors: 0
     last_activity: Last commit (Jul 23, 2026)
     archived: false
     updated_at: '2026-07-23T16:27:40Z'
@@ -1974,11 +1974,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 578
+    stars: 579
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-08-18T09:42:18Z'
+    updated_at: '2026-08-19T07:16:30Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2148,11 +2148,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 159
+    stars: 161
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-18T19:10:17Z'
+    updated_at: '2026-08-19T10:17:07Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2407,7 +2407,7 @@ repositories:
     contributors: 67
     last_activity: Last commit (Aug 17, 2026)
     archived: false
-    updated_at: '2026-08-18T18:47:53Z'
+    updated_at: '2026-08-19T11:07:56Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2496,11 +2496,11 @@ repositories:
   category: DeFi
   stars: 7
   stats:
-    stars: 13
+    stars: 14
     contributors: 2
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-15T23:52:33Z'
+    updated_at: '2026-08-19T12:06:55Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2511,11 +2511,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 203
+    stars: 205
     contributors: 329
     last_activity: release/mainnet-v1.3.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-18T19:36:40Z'
+    updated_at: '2026-08-19T07:20:35Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2538,11 +2538,11 @@ repositories:
   category: Wallets & Mobile
   stars: 6
   stats:
-    stars: 123
+    stars: 126
     contributors: 2
     last_activity: v1.0.0 (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-18T09:31:03Z'
+    updated_at: '2026-08-19T12:25:13Z'
     language: Dart
 - name: solana-trading-bot-v3
   repo: wwwwwwworld/solana-trading-bot-v3
@@ -2554,11 +2554,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 196
+    stars: 197
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-18T11:37:53Z'
+    updated_at: '2026-08-19T10:13:50Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
