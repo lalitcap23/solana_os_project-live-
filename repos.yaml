@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14940
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-19T15:39:08Z'
+    updated_at: '2026-08-20T15:12:21Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-20T12:11:35Z'
+    updated_at: '2026-08-20T23:52:44Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5112
+    stars: 5113
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-19T22:00:25Z'
+    updated_at: '2026-08-20T19:30:09Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5112
+    stars: 5113
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-19T22:00:25Z'
+    updated_at: '2026-08-20T19:30:09Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 174
     last_activity: v7.1.1 (Aug 18, 2026)
     archived: false
-    updated_at: '2026-08-20T08:46:51Z'
+    updated_at: '2026-08-20T13:32:01Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 416
+    stars: 415
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-14T13:37:53Z'
+    updated_at: '2026-08-20T15:13:30Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -1119,11 +1119,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 416
+    stars: 415
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-14T13:37:53Z'
+    updated_at: '2026-08-20T15:13:30Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1577,13 +1577,7 @@ repositories:
     SDK)
   category: SDKs & Tooling
   stars: 114
-  stats:
-    stars: 107
-    contributors: 1
-    last_activity: Last commit (Apr 14, 2026)
-    archived: false
-    updated_at: '2026-08-03T23:39:09Z'
-    language: Rust
+  stats: null
 - name: identity-swap
   repo: civicteam/identity-swap
   description: An Automatic Money Market (AMM) dApp that  demonstrates the concept
@@ -1617,11 +1611,11 @@ repositories:
   category: DeFi
   stars: 126
   stats:
-    stars: 56
+    stars: 57
     contributors: 1
     last_activity: Last commit (Sep 17, 2025)
     archived: false
-    updated_at: '2026-07-10T08:12:51Z'
+    updated_at: '2026-08-20T15:59:08Z'
     language: JavaScript
 - name: pumpfun-laserstream-sniper-rust
   repo: 0xalberto/pumpfun-laserstream-sniper-rust
@@ -1974,11 +1968,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 579
+    stars: 580
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-08-19T07:16:30Z'
+    updated_at: '2026-08-20T15:56:58Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2148,11 +2142,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 171
+    stars: 178
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-20T11:38:56Z'
+    updated_at: '2026-08-21T00:31:03Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2264,11 +2258,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5112
+    stars: 5113
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-19T22:00:25Z'
+    updated_at: '2026-08-20T19:30:09Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2371,7 +2365,7 @@ repositories:
     contributors: 40
     last_activity: 2026-07-30 (Jul 30, 2026)
     archived: false
-    updated_at: '2026-08-18T08:11:02Z'
+    updated_at: '2026-08-20T18:04:00Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2379,11 +2373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1234
+    stars: 1233
     contributors: 1
     last_activity: Last commit (Aug 18, 2026)
     archived: false
-    updated_at: '2026-08-20T07:57:52Z'
+    updated_at: '2026-08-20T15:11:34Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2515,7 +2509,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.3.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-20T08:58:07Z'
+    updated_at: '2026-08-20T22:16:29Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2524,11 +2518,11 @@ repositories:
   category: DeFi
   stars: 96
   stats:
-    stars: 96
+    stars: 97
     contributors: 3
     last_activity: Last commit (Jul 06, 2026)
     archived: false
-    updated_at: '2026-08-07T00:11:04Z'
+    updated_at: '2026-08-20T17:44:12Z'
     language: TypeScript
 - name: safe_wallet
   repo: ascenx/safe_wallet
