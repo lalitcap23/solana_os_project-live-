@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14940
+    stars: 14944
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-22T23:30:38Z'
+    updated_at: '2026-08-23T10:35:49Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1891
+    stars: 1892
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-22T20:41:20Z'
+    updated_at: '2026-08-23T03:28:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 249
+    stars: 250
     contributors: 182
     last_activity: transaction@v4.3.0 (Aug 19, 2026)
     archived: false
-    updated_at: '2026-08-22T20:37:48Z'
+    updated_at: '2026-08-23T03:28:13Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 692
+    stars: 693
     contributors: 174
     last_activity: v8.0.0 (Aug 21, 2026)
     archived: false
-    updated_at: '2026-08-22T20:38:14Z'
+    updated_at: '2026-08-23T06:57:50Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -621,11 +621,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 209
+    stars: 208
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2026-07-18T12:53:09Z'
+    updated_at: '2026-08-23T09:20:58Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -865,11 +865,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 956
+    stars: 957
     contributors: 36
     last_activity: Last commit (Aug 23, 2026)
     archived: false
-    updated_at: '2026-08-23T00:25:53Z'
+    updated_at: '2026-08-23T02:33:47Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2142,11 +2142,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 187
+    stars: 188
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-22T17:01:34Z'
+    updated_at: '2026-08-23T07:44:34Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2361,11 +2361,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1337
+    stars: 1338
     contributors: 40
     last_activity: 2026-07-30 (Jul 30, 2026)
     archived: false
-    updated_at: '2026-08-21T23:41:20Z'
+    updated_at: '2026-08-23T02:33:04Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2436,13 +2436,7 @@ repositories:
     live prices, social links, and one-click buy via Jupiter
   category: DeFi
   stars: 6
-  stats:
-    stars: 9
-    contributors: 1
-    last_activity: v2026.05.28 (Jul 20, 2026)
-    archived: false
-    updated_at: '2026-07-30T14:36:00Z'
-    language: JavaScript
+  stats: null
 - name: solana-trading-bot
   repo: NadirAliOfficial/solana-trading-bot
   description: Automated Solana trading bot — monitors new token pairs and executes
