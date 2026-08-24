@@ -9,7 +9,7 @@ repositories:
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-23T10:35:49Z'
+    updated_at: '2026-08-23T17:16:38Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-23T03:28:21Z'
+    updated_at: '2026-08-23T20:25:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5114
+    stars: 5116
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-22T20:41:11Z'
+    updated_at: '2026-08-23T21:24:24Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4239
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-08-21T11:17:59Z'
+    updated_at: '2026-08-23T17:16:39Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -96,11 +96,11 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 252
+    stars: 253
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-08-21T05:07:22Z'
+    updated_at: '2026-08-23T17:17:04Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5114
+    stars: 5116
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-22T20:41:11Z'
+    updated_at: '2026-08-23T21:24:24Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -326,11 +326,11 @@ repositories:
   category: NFTs & Programs
   stars: 312
   stats:
-    stars: 415
+    stars: 416
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-20T15:13:30Z'
+    updated_at: '2026-08-23T19:00:45Z'
     language: TypeScript
 - name: Bonkfun-Bundler-Bonk.fun-Bundler
   repo: Tru3Bliss/Bonkfun-Bundler-Bonk.fun-Bundler
@@ -510,11 +510,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3350
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-08-18T02:16:31Z'
+    updated_at: '2026-08-23T17:17:04Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -608,11 +608,11 @@ repositories:
   category: NFTs & Programs
   stars: 96
   stats:
-    stars: 95
+    stars: 96
     contributors: 3
     last_activity: v1.1.0 (Nov 23, 2023)
     archived: false
-    updated_at: '2026-05-25T08:20:52Z'
+    updated_at: '2026-08-23T20:59:26Z'
     language: TypeScript
 - name: solana-txn-parser
   repo: Tee-py/solana-txn-parser
@@ -955,11 +955,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 334
+    stars: 335
     contributors: 15
     last_activity: v5.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-08-21T18:15:57Z'
+    updated_at: '2026-08-23T17:17:27Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1119,11 +1119,11 @@ repositories:
   category: NFTs & Programs
   stars: 315
   stats:
-    stars: 415
+    stars: 416
     contributors: 26
     last_activity: Last commit (Mar 14, 2026)
     archived: false
-    updated_at: '2026-08-20T15:13:30Z'
+    updated_at: '2026-08-23T19:00:45Z'
     language: TypeScript
 - name: star_frame
   repo: staratlasmeta/star_frame
@@ -1131,11 +1131,11 @@ repositories:
   category: SDKs & Tooling
   stars: 51
   stats:
-    stars: 80
+    stars: 79
     contributors: 12
     last_activity: v0.30.0 (Feb 25, 2026)
     archived: false
-    updated_at: '2026-07-17T15:09:44Z'
+    updated_at: '2026-08-23T17:15:45Z'
     language: Rust
 - name: Solana-Unreal-SDK
   repo: Bifrost-Technologies/Solana-Unreal-SDK
@@ -2142,11 +2142,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 188
+    stars: 183
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-08-23T07:44:34Z'
+    updated_at: '2026-08-23T22:12:29Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2220,11 +2220,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 296
+    stars: 297
     contributors: 10
     last_activity: Last commit (Aug 17, 2026)
     archived: false
-    updated_at: '2026-08-21T22:09:26Z'
+    updated_at: '2026-08-23T16:19:38Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2258,11 +2258,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5114
+    stars: 5116
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-22T20:41:11Z'
+    updated_at: '2026-08-23T21:24:24Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2436,7 +2436,13 @@ repositories:
     live prices, social links, and one-click buy via Jupiter
   category: DeFi
   stars: 6
-  stats: null
+  stats:
+    stars: 9
+    contributors: 1
+    last_activity: v2026.05.28 (Jul 20, 2026)
+    archived: false
+    updated_at: '2026-07-30T14:36:00Z'
+    language: JavaScript
 - name: solana-trading-bot
   repo: NadirAliOfficial/solana-trading-bot
   description: Automated Solana trading bot — monitors new token pairs and executes
@@ -2486,9 +2492,9 @@ repositories:
   stats:
     stars: 14
     contributors: 2
-    last_activity: Last commit (Aug 20, 2026)
+    last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-08-20T00:11:13Z'
+    updated_at: '2026-08-24T00:31:39Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2558,6 +2564,20 @@ repositories:
   category: SDKs & Tooling
   stars: 222
   stats: null
+- name: FnzSafe
+  repo: 0xfnzero/FnzSafe
+  description: FnzSafe is an open-source multi-chain Solana and EVM wallet for desktop
+    and mobile with encrypted keystores, Touch ID signing, dApp deep links, Squads
+    multisig, Pump trading, and secure Rust wallet services.
+  category: Wallets & Mobile
+  stars: 24
+  stats:
+    stars: 24
+    contributors: 1
+    last_activity: v0.4.0 (Aug 23, 2026)
+    archived: false
+    updated_at: '2026-08-23T16:56:50Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
