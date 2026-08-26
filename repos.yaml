@@ -20,18 +20,18 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-25T11:51:24Z'
+    updated_at: '2026-08-25T21:28:43Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 252
+    stars: 253
     contributors: 182
     last_activity: transaction@v4.3.0 (Aug 19, 2026)
     archived: false
-    updated_at: '2026-08-25T09:56:10Z'
+    updated_at: '2026-08-25T16:10:06Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -292,7 +292,7 @@ repositories:
     contributors: 174
     last_activity: v8.0.0 (Aug 21, 2026)
     archived: false
-    updated_at: '2026-08-25T10:04:25Z'
+    updated_at: '2026-08-25T14:53:01Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -374,9 +374,9 @@ repositories:
   stats:
     stars: 1426
     contributors: 67
-    last_activity: Last commit (Aug 24, 2026)
+    last_activity: Last commit (Aug 25, 2026)
     archived: false
-    updated_at: '2026-08-25T08:59:05Z'
+    updated_at: '2026-08-25T20:38:56Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -510,11 +510,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3353
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-08-25T06:48:07Z'
+    updated_at: '2026-08-25T16:09:38Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -736,11 +736,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 645
+    stars: 646
     contributors: 20
     last_activity: Last commit (Aug 06, 2026)
     archived: false
-    updated_at: '2026-08-25T06:47:10Z'
+    updated_at: '2026-08-25T16:09:49Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -869,7 +869,7 @@ repositories:
     contributors: 36
     last_activity: Last commit (Aug 25, 2026)
     archived: false
-    updated_at: '2026-08-25T01:22:52Z'
+    updated_at: '2026-08-25T21:52:05Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2373,11 +2373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1232
+    stars: 1228
     contributors: 1
     last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-08-24T18:13:19Z'
+    updated_at: '2026-08-25T21:19:41Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2399,9 +2399,9 @@ repositories:
   stats:
     stars: 1426
     contributors: 67
-    last_activity: Last commit (Aug 24, 2026)
+    last_activity: Last commit (Aug 25, 2026)
     archived: false
-    updated_at: '2026-08-25T08:59:05Z'
+    updated_at: '2026-08-25T20:38:56Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
