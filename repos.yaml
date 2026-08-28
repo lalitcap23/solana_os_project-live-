@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14939
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-28T06:21:07Z'
+    updated_at: '2026-08-28T19:55:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1895
+    stars: 1894
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-28T08:11:14Z'
+    updated_at: '2026-08-28T19:47:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4236
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-08-26T03:46:04Z'
+    updated_at: '2026-08-28T14:46:22Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -86,21 +86,21 @@ repositories:
   category: Programs (SPL)
   stats:
     stars: 15
-    contributors: 23
+    contributors: 24
     last_activity: tlv-account-resolution@v0.11.2 (Aug 26, 2026)
     archived: false
-    updated_at: '2026-08-26T13:00:38Z'
+    updated_at: '2026-08-28T10:59:09Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 253
+    stars: 252
     contributors: 33
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-08-23T17:17:04Z'
+    updated_at: '2026-08-28T12:35:01Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -144,7 +144,7 @@ repositories:
     contributors: 22
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-08-17T21:17:17Z'
+    updated_at: '2026-08-28T15:57:42Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 250
+    stars: 251
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-08-22T06:41:40Z'
+    updated_at: '2026-08-28T18:34:36Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4137
+    stars: 4136
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-08-27T06:34:16Z'
+    updated_at: '2026-08-28T09:47:36Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 693
-    contributors: 177
+    stars: 694
+    contributors: 178
     last_activity: v8.1.0 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-28T07:43:40Z'
+    updated_at: '2026-08-28T09:43:48Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -373,7 +373,7 @@ repositories:
   stars: 1247
   stats:
     stars: 1425
-    contributors: 66
+    contributors: 67
     last_activity: Last commit (Aug 27, 2026)
     archived: false
     updated_at: '2026-08-27T14:21:47Z'
@@ -510,11 +510,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3350
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-08-26T03:46:35Z'
+    updated_at: '2026-08-28T12:35:00Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -522,11 +522,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 716
+    stars: 715
     contributors: 26
     last_activity: v0.49.0 (Apr 23, 2026)
     archived: false
-    updated_at: '2026-08-27T00:02:11Z'
+    updated_at: '2026-08-28T09:47:35Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -865,11 +865,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 958
-    contributors: 35
-    last_activity: Last commit (Aug 27, 2026)
+    stars: 959
+    contributors: 36
+    last_activity: Last commit (Aug 28, 2026)
     archived: false
-    updated_at: '2026-08-27T15:51:58Z'
+    updated_at: '2026-08-28T20:29:08Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -955,11 +955,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 337
-    contributors: 14
+    stars: 336
+    contributors: 15
     last_activity: v5.0.0 (Jul 16, 2026)
     archived: false
-    updated_at: '2026-08-25T09:04:34Z'
+    updated_at: '2026-08-28T12:35:02Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1564,11 +1564,11 @@ repositories:
   category: SDKs & Tooling
   stars: 138
   stats:
-    stars: 163
+    stars: 164
     contributors: 3
     last_activity: Last commit (Feb 18, 2026)
     archived: false
-    updated_at: '2026-06-24T17:11:09Z'
+    updated_at: '2026-08-28T17:21:26Z'
     language: Rust
 - name: Pump.fun-Smart-Contract
   repo: justshiftjk/Pump.fun-Smart-Contract
@@ -2365,7 +2365,7 @@ repositories:
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-28T00:40:52Z'
+    updated_at: '2026-08-28T10:10:14Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2398,7 +2398,7 @@ repositories:
   stars: 1416
   stats:
     stars: 1425
-    contributors: 66
+    contributors: 67
     last_activity: Last commit (Aug 27, 2026)
     archived: false
     updated_at: '2026-08-27T14:21:47Z'
@@ -2548,11 +2548,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 204
+    stars: 205
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-28T02:41:45Z'
+    updated_at: '2026-08-28T21:37:55Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
