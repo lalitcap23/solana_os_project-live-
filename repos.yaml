@@ -9,7 +9,7 @@ repositories:
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-27T21:29:31Z'
+    updated_at: '2026-08-28T06:21:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-27T18:54:42Z'
+    updated_at: '2026-08-28T08:11:14Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -43,7 +43,7 @@ repositories:
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-26T13:56:46Z'
+    updated_at: '2026-08-28T00:59:43Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -178,7 +178,7 @@ repositories:
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-26T13:56:46Z'
+    updated_at: '2026-08-28T00:59:43Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 177
     last_activity: v8.1.0 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-27T17:59:54Z'
+    updated_at: '2026-08-28T07:43:40Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -461,11 +461,11 @@ repositories:
   category: SDKs & Tooling
   stars: 293
   stats:
-    stars: 601
+    stars: 600
     contributors: 2
     last_activity: Last commit (Dec 06, 2025)
     archived: false
-    updated_at: '2026-08-22T08:13:00Z'
+    updated_at: '2026-08-28T04:48:19Z'
     language: null
 - name: Pumpfun-solana-smart-contract
   repo: cutupdev/Pumpfun-solana-smart-contract
@@ -2262,7 +2262,7 @@ repositories:
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-26T13:56:46Z'
+    updated_at: '2026-08-28T00:59:43Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2361,11 +2361,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1337
+    stars: 1336
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-27T14:06:09Z'
+    updated_at: '2026-08-28T00:40:52Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2373,11 +2373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1225
+    stars: 1226
     contributors: 1
     last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-08-26T21:38:48Z'
+    updated_at: '2026-08-28T01:57:33Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2548,11 +2548,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 203
+    stars: 204
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-27T16:27:41Z'
+    updated_at: '2026-08-28T02:41:45Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
