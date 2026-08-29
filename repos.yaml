@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14939
+    stars: 14941
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-28T19:55:45Z'
+    updated_at: '2026-08-29T04:24:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-28T19:47:03Z'
+    updated_at: '2026-08-28T23:29:03Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 183
     last_activity: offchain-message@v3.0.1 (Aug 26, 2026)
     archived: false
-    updated_at: '2026-08-27T08:38:08Z'
+    updated_at: '2026-08-28T22:21:34Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -144,7 +144,7 @@ repositories:
     contributors: 22
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-08-28T15:57:42Z'
+    updated_at: '2026-08-28T23:12:38Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 694
+    stars: 693
     contributors: 178
     last_activity: v8.1.0 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-28T09:43:48Z'
+    updated_at: '2026-08-29T03:07:52Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
