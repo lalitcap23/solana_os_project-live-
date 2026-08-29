@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14941
+    stars: 14942
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-29T04:24:50Z'
+    updated_at: '2026-08-29T11:49:03Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-28T23:29:03Z'
+    updated_at: '2026-08-29T09:24:24Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5122
+    stars: 5123
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-28T00:59:43Z'
+    updated_at: '2026-08-29T14:49:12Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5122
+    stars: 5123
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-28T00:59:43Z'
+    updated_at: '2026-08-29T14:49:12Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -290,9 +290,9 @@ repositories:
   stats:
     stars: 693
     contributors: 178
-    last_activity: v8.1.0 (Aug 27, 2026)
+    last_activity: v8.2.0 (Aug 29, 2026)
     archived: false
-    updated_at: '2026-08-29T03:07:52Z'
+    updated_at: '2026-08-29T12:23:28Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -2258,11 +2258,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5122
+    stars: 5123
     contributors: 354
     last_activity: v1.1.2 (Jun 26, 2026)
     archived: false
-    updated_at: '2026-08-28T00:59:43Z'
+    updated_at: '2026-08-29T14:49:12Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2548,11 +2548,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 205
+    stars: 206
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-28T21:37:55Z'
+    updated_at: '2026-08-29T09:54:59Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
