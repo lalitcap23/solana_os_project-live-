@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4236
+    stars: 4237
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-08-28T14:46:22Z'
+    updated_at: '2026-08-30T11:10:31Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -386,13 +386,7 @@ repositories:
     simulation, state management, and token transfers.
   category: SDKs & Tooling
   stars: 681
-  stats:
-    stars: 35
-    contributors: 1
-    last_activity: Last commit (Jul 23, 2026)
-    archived: false
-    updated_at: '2026-08-13T07:16:53Z'
-    language: TypeScript
+  stats: null
 - name: Solana_Bita_Coinflip_SmartContract
   repo: kinexbt/Solana_Bita_Coinflip_SmartContract
   description: A lightweight on-chain Coin Flip betting game built on the Solana blockchain
@@ -867,9 +861,9 @@ repositories:
   stats:
     stars: 959
     contributors: 36
-    last_activity: Last commit (Aug 29, 2026)
+    last_activity: Last commit (Aug 30, 2026)
     archived: false
-    updated_at: '2026-08-29T21:52:53Z'
+    updated_at: '2026-08-30T04:12:35Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2361,11 +2355,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1336
+    stars: 1337
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-08-28T10:10:14Z'
+    updated_at: '2026-08-30T08:39:39Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2492,9 +2486,9 @@ repositories:
   stats:
     stars: 14
     contributors: 2
-    last_activity: Last commit (Aug 24, 2026)
+    last_activity: Last commit (Aug 30, 2026)
     archived: false
-    updated_at: '2026-08-24T00:31:39Z'
+    updated_at: '2026-08-30T15:45:18Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2552,7 +2546,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-08-29T09:54:59Z'
+    updated_at: '2026-08-30T03:33:38Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
