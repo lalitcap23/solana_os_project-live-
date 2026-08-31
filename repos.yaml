@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14941
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-08-29T11:49:03Z'
+    updated_at: '2026-08-30T20:22:59Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1894
+    stars: 1895
     contributors: 358
     last_activity: v4.2.1 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-29T09:24:24Z'
+    updated_at: '2026-08-30T23:16:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2028
+    stars: 2027
     contributors: 115
     last_activity: '@solana/wallet-adapter-phantom@0.9.29 (Apr 01, 2026)'
     archived: false
-    updated_at: '2026-08-22T20:38:20Z'
+    updated_at: '2026-08-30T16:38:16Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3350
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-08-28T12:35:00Z'
+    updated_at: '2026-08-30T21:20:03Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1456,9 +1456,9 @@ repositories:
   stats:
     stars: 178
     contributors: 13
-    last_activity: v2.0.3 (Aug 30, 2026)
+    last_activity: v3.0.0 (Aug 31, 2026)
     archived: false
-    updated_at: '2026-08-30T01:08:30Z'
+    updated_at: '2026-08-31T02:24:06Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2503,7 +2503,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.4.0 (Aug 24, 2026)
     archived: false
-    updated_at: '2026-08-25T08:53:53Z'
+    updated_at: '2026-08-30T21:49:33Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
