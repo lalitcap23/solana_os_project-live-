@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1904
+    stars: 1903
     contributors: 358
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-04T23:48:21Z'
+    updated_at: '2026-09-05T06:12:01Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 614
+    stars: 615
     contributors: 45
     last_activity: v1.0.0 (Jun 04, 2026)
     archived: false
-    updated_at: '2026-09-03T20:49:42Z'
+    updated_at: '2026-09-05T14:17:53Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -199,11 +199,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 402
+    stars: 403
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-09-01T09:41:54Z'
+    updated_at: '2026-09-05T03:36:27Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4137
+    stars: 4136
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-09-04T18:57:52Z'
+    updated_at: '2026-09-05T11:21:27Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -468,11 +468,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 316
+    stars: 317
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-08-04T14:35:44Z'
+    updated_at: '2026-09-05T05:27:59Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -628,11 +628,11 @@ repositories:
   category: Wallets & Mobile
   stars: 294
   stats:
-    stars: 301
+    stars: 300
     contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-08-06T05:39:17Z'
+    updated_at: '2026-09-05T11:20:41Z'
     language: Dart
 - name: reactor-wallet
   repo: marc2332/reactor-wallet
@@ -963,9 +963,9 @@ repositories:
   stats:
     stars: 153
     contributors: 6
-    last_activity: Last commit (Sep 03, 2026)
+    last_activity: Last commit (Sep 05, 2026)
     archived: false
-    updated_at: '2026-09-04T02:28:03Z'
+    updated_at: '2026-09-05T09:03:07Z'
     language: Solidity
 - name: solana-payments-app
   repo: solana-labs/solana-payments-app
@@ -1919,11 +1919,11 @@ repositories:
   category: Wallets & Mobile
   stars: 302
   stats:
-    stars: 301
+    stars: 300
     contributors: 23
     last_activity: Last commit (Apr 10, 2026)
     archived: false
-    updated_at: '2026-08-06T05:39:17Z'
+    updated_at: '2026-09-05T11:20:41Z'
     language: Dart
 - name: Web3-EVM-Solana-Casino-Games
   repo: LaChance-Lab/Web3-EVM-Solana-Casino-Games
@@ -2114,11 +2114,11 @@ repositories:
   category: SDKs & Tooling
   stars: 352
   stats:
-    stars: 316
+    stars: 317
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-08-04T14:35:44Z'
+    updated_at: '2026-09-05T05:27:59Z'
     language: TypeScript
 - name: prediction-market-smart-contract-solana-evm
   repo: L9T-Development/prediction-market-smart-contract-solana-evm
@@ -2371,7 +2371,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-09-04T17:17:34Z'
+    updated_at: '2026-09-05T06:48:36Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2486,9 +2486,9 @@ repositories:
   stats:
     stars: 14
     contributors: 2
-    last_activity: Last commit (Aug 30, 2026)
+    last_activity: Last commit (Sep 05, 2026)
     archived: false
-    updated_at: '2026-08-30T15:45:18Z'
+    updated_at: '2026-09-05T03:58:39Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2583,7 +2583,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Sep 02, 2026)
     archived: false
-    updated_at: '2026-09-04T21:56:02Z'
+    updated_at: '2026-09-05T14:09:16Z'
     language: C#
 search_queries:
 - solana framework language:rust stars:>50
