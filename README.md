@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-09-04
+Last updated: 2026-09-05
 
 ## Directory
 
@@ -39,11 +39,11 @@ Last updated: 2026-09-04
 |---|---|---|---|---|---|---|
 | Solana (archived; moved to Agave) | Web-scale blockchain reference implementation; now archived with development transitioned to Agave | https://github.com/solana-labs/solana | 14.9k | 352 | Archived; v1.18.26 (Oct 12, 2024) | Infrastructure |
 | Agave (validator) | Current Solana validator implementation maintained by Anza | https://github.com/anza-xyz/agave | 1.9k | 358 | v4.2.2 (Aug 28, 2026) | Infrastructure |
-| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 256 | 183 | account@v4.7.0 (Sep 02, 2026) | SDKs & Tooling |
-| Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.1k | 357 | v1.1.2 (Jun 26, 2026) | SDKs & Tooling |
+| Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 256 | 184 | account@v4.7.0 (Sep 02, 2026) | SDKs & Tooling |
+| Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.1k | 357 | v1.2.0 (Sep 04, 2026) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.8k | 127 | v1.98.4 (Jul 31, 2025) | SDKs & Tooling |
 | Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 446 | 10 | 0.29.0 (Aug 13, 2026) | SDKs & Tooling |
-| anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.1k | 357 | v1.1.2 (Jun 26, 2026) | SDKs & Tooling |
+| anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.1k | 357 | v1.2.0 (Sep 04, 2026) | SDKs & Tooling |
 | trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 402 | 20 | 0.12.0 (Nov 27, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 252 | 13 | Last commit (Oct 07, 2025) | SDKs & Tooling |
 | steel | Solana smart contract framework. | https://github.com/regolith-labs/steel | 262 | 7 | 2.1.0 (Oct 23, 2024) | SDKs & Tooling |
@@ -68,7 +68,7 @@ Last updated: 2026-09-04
 | solana-spl-token-sniper | Solana SPL-Token sniper for new Raydium liquidity pools | https://github.com/danbayk/solana-spl-token-sniper | 196 | 1 | Last commit (Mar 19, 2024) | SDKs & Tooling |
 | solana-sniper-bot | AxisBot - Solana Sniper Bot. Snipe and sell SPL tokens at lightning speed.  Our sniping bot helps you maintain a higher level of security while also giving you the fastest sniping speed possible. Built by Traders for Traders. | https://github.com/AxisBotV2/solana-sniper-bot | 98 | 1 | Last commit (Jul 07, 2024) | SDKs & Tooling |
 | solana-spl-tutorial | This repository contains full tutorial on Solana SPL token | https://github.com/YosephKS/solana-spl-tutorial | 77 | 1 | Last commit (Feb 12, 2022) | SDKs & Tooling |
-| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 961 | 36 | Last commit (Sep 04, 2026) | SDKs & Tooling |
+| solana-playground | Quickly develop, deploy and test Solana programs from browsers | https://github.com/solana-playground/solana-playground | 963 | 36 | Last commit (Sep 04, 2026) | SDKs & Tooling |
 | anchor-escrow | Escrow program implemented in Anchor | https://github.com/ironaddicteddog/anchor-escrow | 197 | 3 | Last commit (Aug 29, 2024) | SDKs & Tooling |
 | pumpfun-rs | A comprehensive Rust SDK for seamless interaction with the PumpFun Solana program. | https://github.com/nhuxhr/pumpfun-rs | 164 | 5 | Last commit (Oct 01, 2025) | SDKs & Tooling |
 | Solana-Auditors-Bootcamp | Learn to audit Solana programs and help secure the ecosystem. Take your security practices to the next level and get certified by Ackee Blockchain Security. It's free, too. | https://github.com/Ackee-Blockchain/Solana-Auditors-Bootcamp | 172 | 3 | Last commit (Nov 25, 2025) | SDKs & Tooling |
@@ -123,7 +123,7 @@ Last updated: 2026-09-04
 | quasar | A blazing fast Solana program framework. | https://github.com/blueshift-gg/quasar | 164 | 18 | Last commit (Jul 13, 2026) | SDKs & Tooling |
 | Pumpfun-Solana-Smart-Contract | pump.fun clone: pumpfun smart contract fork (pump.fun fork), solana pump fun smart contract source code | https://github.com/cutupdev/Pumpfun-Solana-Smart-Contract | 316 | 1 | Last commit (Dec 21, 2025) | SDKs & Tooling |
 | Free-Solana-Sniper-Memecoins-Bot-2026 | 🚀 Start sniping Solana now in 2026! Try this premium verified bot 💎 | https://github.com/MemeSnipe/Free-Solana-Sniper-Memecoins-Bot-2026 | 171 | 1 | Last commit (Mar 24, 2026) | SDKs & Tooling |
-| anchor | ⚓ Solana Program Framework | https://github.com/otter-sec/anchor | 5.1k | 357 | v1.1.2 (Jun 26, 2026) | SDKs & Tooling |
+| anchor | ⚓ Solana Program Framework | https://github.com/otter-sec/anchor | 5.1k | 357 | v1.2.0 (Sep 04, 2026) | SDKs & Tooling |
 | solana-trading-bot-v3 | solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot solana trading bot  | https://github.com/cortsdine/solana-trading-bot-v3 | — | — | Active | SDKs & Tooling |
 | squid-sdk | TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network. | https://github.com/subsquid/squid-sdk | 1.3k | 40 | 2026-08-27 (Aug 27, 2026) | SDKs & Tooling |
 | solana-mcp-vybe | Public Solana MCP registry metadata for Vybe Solana API | https://github.com/vybenetwork/solana-mcp-vybe | 1.2k | 1 | Last commit (Aug 24, 2026) | SDKs & Tooling |
@@ -190,6 +190,7 @@ Last updated: 2026-09-04
 | solana-copytrading-bot | copytrading bot for the Solana blockchain. It monitors transactions like swaps, transfers, and NFTs across platforms like Raydium, PUMP.FUN, Photon, BonkBot, and more — with support for sniping, liquidity management, and token creation filters. | https://github.com/knightlightst/solana-copytrading-bot | 48 | 1 | Release (Apr 11, 2025) | NFTs & Programs |
 | solanaArtGuard-AI-nft-marketplace | AI-driven NFT validation system designed to verify the authenticity and originality of artworks minted on the Solana blockchain. | https://github.com/machenxi/solanaArtGuard-AI-nft-marketplace | — | — | Active | NFTs & Programs |
 | solana-programs-list | Collection of solana programs to learn | https://github.com/aarjn/solana-programs-list | 94 | 8 | Last commit (Mar 29, 2026) | NFTs & Programs |
+| NEW Solgrid.Jupiter | .NET client for the Jupiter DeFi API on Solana: swap quotes and execution, token prices, token metadata, portfolio positions | https://github.com/Lak1Lay/Solgrid.Jupiter | 31 | 1 | Last commit (Sep 02, 2026) | NFTs & Programs |
 | Candy Machine (Core) | Metaplex Core Candy Machine (Core assets) | https://github.com/metaplex-foundation/mpl-core-candy-machine | 38 | 6 | release/candy-guard@0.2.3 (May 27, 2026) | NFTs & Minting |
 | solana-payments-app | Solana Pay for Commerce Platforms | https://github.com/solana-labs/solana-payments-app | 101 | 5 | Archived; v2.0.0 (Aug 18, 2023) | Payments |
 | solana-payment-processor | Solana payment processor for e-commerce applications | https://github.com/solpayments/solana-payment-processor | 22 | 2 | Last commit (Jul 13, 2021) | Payments |
