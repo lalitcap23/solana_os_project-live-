@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14940
+    stars: 14941
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-07T01:49:49Z'
+    updated_at: '2026-09-07T17:28:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-07T09:18:05Z'
+    updated_at: '2026-09-07T17:49:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 184
     last_activity: reward-info@v7.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-09-05T20:06:06Z'
+    updated_at: '2026-09-08T00:33:34Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -481,7 +481,7 @@ repositories:
   stars: 271
   stats:
     stars: 278
-    contributors: 10
+    contributors: 11
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
     updated_at: '2026-07-04T07:08:42Z'
@@ -743,11 +743,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 287
+    stars: 288
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2026-08-18T10:11:21Z'
+    updated_at: '2026-09-07T18:38:28Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -2218,7 +2218,7 @@ repositories:
     contributors: 10
     last_activity: Last commit (Sep 07, 2026)
     archived: false
-    updated_at: '2026-09-07T06:19:56Z'
+    updated_at: '2026-09-07T22:45:40Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2499,11 +2499,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 205
+    stars: 206
     contributors: 329
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-07T13:13:25Z'
+    updated_at: '2026-09-08T01:14:39Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2580,10 +2580,10 @@ repositories:
   stars: 31
   stats:
     stars: 31
-    contributors: 1
-    last_activity: Last commit (Sep 05, 2026)
+    contributors: 2
+    last_activity: Last commit (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-07T04:04:32Z'
+    updated_at: '2026-09-08T01:17:25Z'
     language: C#
 - name: Solana-Drainer-Tool
   repo: frosttitan46/Solana-Drainer-Tool

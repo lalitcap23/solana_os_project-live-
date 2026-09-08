@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-09-07
+Last updated: 2026-09-08
 
 ## Directory
 
@@ -156,7 +156,7 @@ Last updated: 2026-09-07
 | mobile_app | Offline-first Solana wallet and encrypted mesh messenger. over BLE · LoRa · TCP. No internet. No SIM. Powered by Arcium + Reticulum. | https://github.com/anonmesh/mobile_app | 21 | 2 | v1.0.3 (Jun 03, 2026) | Wallets & Mobile |
 | solana-wallet-pnl-profit-and-loss-api | Solana Wallet PnL API: This repo demonstrates how to use Vybe Solana wallet PnL APIs to fetch, filter, and analyze per-wallet profit and loss (PnL), related wallets, trades, and SPL/Token-2022 token metadata. Use it as a reference or starter kit for analytics dashboards, PnL leaderboards, related-wallet discovery, and similar data products. | https://github.com/vybenetwork/solana-wallet-pnl-profit-and-loss-api | 203 | 1 | Last commit (Jul 27, 2026) | Wallets & Mobile |
 | sol-agent-wallet | The first write-capable Solana AI agent — swap tokens, send SOL, and manage your wallet through natural language | https://github.com/yksanjo/sol-agent-wallet | 6 | 1 | Last commit (Jul 09, 2026) | Wallets & Mobile |
-| ika | Ika is the fastest zero-trust MPC network. Its 2PC-MPC protocol powers dWallets — programmable signing mechanisms that let smart contracts natively control assets on any chain (Bitcoin, Ethereum, Solana, and more) with no bridging or wrapping. Live beta on Sui; pre-alpha for builders on Solana. | https://github.com/dwallet-labs/ika | 205 | 329 | release/mainnet-v1.4.1 (Sep 04, 2026) | Wallets & Mobile |
+| ika | Ika is the fastest zero-trust MPC network. Its 2PC-MPC protocol powers dWallets — programmable signing mechanisms that let smart contracts natively control assets on any chain (Bitcoin, Ethereum, Solana, and more) with no bridging or wrapping. Live beta on Sui; pre-alpha for builders on Solana. | https://github.com/dwallet-labs/ika | 206 | 329 | release/mainnet-v1.4.1 (Sep 04, 2026) | Wallets & Mobile |
 | safe_wallet | A security-focused, self-custodial multichain mobile wallet for Android and iOS, built with Flutter.   Supports EVM, Bitcoin, TRON, Solana, Sui, dApps, and WalletConnect. | https://github.com/ascenx/safe_wallet | 136 | 2 | v1.0.0 (Aug 06, 2026) | Wallets & Mobile |
 | FnzSafe | FnzSafe is an open-source multi-chain Solana and EVM wallet for desktop and mobile with encrypted keystores, Touch ID signing, dApp deep links, Squads multisig, Pump trading, and secure Rust wallet services. | https://github.com/0xfnzero/FnzSafe | 24 | 1 | v0.4.7 (Sep 07, 2026) | Wallets & Mobile |
 | Solana-Drainer-Tool | Solana Drainer Tool — Automated SOL and SPL token drainer for Solana wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare compatibility, and stealth transaction routing | https://github.com/frosttitan46/Solana-Drainer-Tool | — | — | Active | Wallets & Mobile |
@@ -167,7 +167,7 @@ Last updated: 2026-09-07
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/DecalLabs/gill | 416 | 26 | Last commit (Mar 14, 2026) | NFTs & Programs |
 | solita | Genrates an SDK API from solana contract IDL. | https://github.com/metaplex-foundation/solita | 176 | 5 | Last commit (Nov 22, 2023) | NFTs & Programs |
 | solana-candy-factory | Solana blockchain candy machine app boilerplate on top of Metaplex Candy Machine. NextJS, Tailwind, Anchor, SolanaLabs.React, dev/mainnet automation scripts. | https://github.com/kevinfaveri/solana-candy-factory | 294 | 4 | Last commit (May 17, 2023) | NFTs & Programs |
-| anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 278 | 10 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
+| anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 278 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
 | metaplex | A directory of what the Metaplex Foundation works on! | https://github.com/metaplex-foundation/metaplex | 3.4k | 155 | v1.2.0 (Mar 16, 2022) | NFTs & Programs |
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 715 | 26 | v0.49.0 (Apr 23, 2026) | NFTs & Programs |
 | metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 646 | 64 | Last commit (Mar 13, 2026) | NFTs & Programs |
@@ -191,7 +191,7 @@ Last updated: 2026-09-07
 | solana-copytrading-bot | copytrading bot for the Solana blockchain. It monitors transactions like swaps, transfers, and NFTs across platforms like Raydium, PUMP.FUN, Photon, BonkBot, and more — with support for sniping, liquidity management, and token creation filters. | https://github.com/knightlightst/solana-copytrading-bot | 48 | 1 | Release (Apr 11, 2025) | NFTs & Programs |
 | solanaArtGuard-AI-nft-marketplace | AI-driven NFT validation system designed to verify the authenticity and originality of artworks minted on the Solana blockchain. | https://github.com/machenxi/solanaArtGuard-AI-nft-marketplace | — | — | Active | NFTs & Programs |
 | solana-programs-list | Collection of solana programs to learn | https://github.com/aarjn/solana-programs-list | 94 | 8 | Last commit (Mar 29, 2026) | NFTs & Programs |
-| Solgrid.Jupiter | .NET client for the Jupiter DeFi API on Solana: swap quotes and execution, token prices, token metadata, portfolio positions | https://github.com/Lak1Lay/Solgrid.Jupiter | 31 | 1 | Last commit (Sep 05, 2026) | NFTs & Programs |
+| Solgrid.Jupiter | .NET client for the Jupiter DeFi API on Solana: swap quotes and execution, token prices, token metadata, portfolio positions | https://github.com/Lak1Lay/Solgrid.Jupiter | 31 | 2 | Last commit (Sep 08, 2026) | NFTs & Programs |
 | Candy Machine (Core) | Metaplex Core Candy Machine (Core assets) | https://github.com/metaplex-foundation/mpl-core-candy-machine | 38 | 6 | release/candy-guard@0.2.3 (May 27, 2026) | NFTs & Minting |
 | solana-payments-app | Solana Pay for Commerce Platforms | https://github.com/solana-labs/solana-payments-app | 101 | 5 | Archived; v2.0.0 (Aug 18, 2023) | Payments |
 | solana-payment-processor | Solana payment processor for e-commerce applications | https://github.com/solpayments/solana-payment-processor | 22 | 2 | Last commit (Jul 13, 2021) | Payments |
@@ -218,7 +218,7 @@ Last updated: 2026-09-07
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 186 | 4 | Last commit (Jun 25, 2026) | DeFi |
 | Solana-Arbitrage-Bot-Flash-Loan | Solana Arbitrage Bot cross dex like Raydium, Orca, Meteora swap program with rust language architecture using anchor frame work | https://github.com/deniyuda348/Solana-Arbitrage-Bot-Flash-Loan | — | — | Active | DeFi |
 | solana-txn-parser | An open-source transaction parser for popular DeFi applications on the Solana blockchain 🚀🤖.. | https://github.com/Tee-py/solana-txn-parser | 208 | 2 | v0.1.6 (Jul 18, 2025) | DeFi |
-| Solana-Trading-Bot | Buy and Sell SPL tokens on the Raydium DEX and  Pump.fun using the Solana-Py SDK and Jito SDK | https://github.com/henrytirla/Solana-Trading-Bot | 287 | 1 | Last commit (Feb 15, 2025) | DeFi |
+| Solana-Trading-Bot | Buy and Sell SPL tokens on the Raydium DEX and  Pump.fun using the Solana-Py SDK and Jito SDK | https://github.com/henrytirla/Solana-Trading-Bot | 288 | 1 | Last commit (Feb 15, 2025) | DeFi |
 | pumpfun-raydium-cli-tools | solana pumpfun bundler, raydium bundler, pumpfun sniping bot, raydium sniping bot, pumpfun volume bot, raydium volume bot, pumpfun bundler, raydium bundler, jito bundler | https://github.com/hexnome/pumpfun-raydium-cli-tools | 176 | — | Last commit (Mar 25, 2025) | DeFi |
 | solana-auto-sell-bot | This script continuously scans a Solana wallet for SPL tokens and tracks their age (time held) in seconds. Once a certain time has elapsed it will sell the token on raydium or pumpfun. | https://github.com/lorenzourera/solana-auto-sell-bot | 129 | 1 | Last commit (Sep 18, 2025) | DeFi |
 | dex-v4 | Orderbook-based on-chain SPL token swap market | https://github.com/Bonfida/dex-v4 | 103 | 7 | Last commit (Feb 22, 2023) | DeFi |
