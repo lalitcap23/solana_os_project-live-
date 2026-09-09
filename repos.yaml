@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-08T15:31:36Z'
+    updated_at: '2026-09-08T21:10:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -53,9 +53,9 @@ repositories:
   stats:
     stars: 2755
     contributors: 127
-    last_activity: v1.98.4 (Jul 31, 2025)
+    last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-08T14:39:04Z'
+    updated_at: '2026-09-08T16:08:21Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 22
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-09-03T16:26:28Z'
+    updated_at: '2026-09-09T00:27:04Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 10
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-09-03T18:45:18Z'
+    updated_at: '2026-09-08T21:23:14Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -163,10 +163,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 446
-    contributors: 10
+    contributors: 11
     last_activity: 0.29.0 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-08-21T10:58:19Z'
+    updated_at: '2026-09-08T22:33:47Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 617
+    stars: 618
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-09-06T06:07:32Z'
+    updated_at: '2026-09-08T22:59:31Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 964
     contributors: 36
-    last_activity: Last commit (Sep 08, 2026)
+    last_activity: Last commit (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-08T13:52:45Z'
+    updated_at: '2026-09-09T02:15:13Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2136,11 +2136,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 162
+    stars: 154
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-09-08T08:46:36Z'
+    updated_at: '2026-09-08T20:51:11Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2216,9 +2216,9 @@ repositories:
   stats:
     stars: 305
     contributors: 10
-    last_activity: Last commit (Sep 07, 2026)
+    last_activity: Last commit (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-08T09:51:31Z'
+    updated_at: '2026-09-08T21:24:53Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-09-07T10:41:06Z'
+    updated_at: '2026-09-08T19:13:20Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1226
+    stars: 1225
     contributors: 1
     last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-09-05T06:48:36Z'
+    updated_at: '2026-09-08T20:51:08Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2503,7 +2503,7 @@ repositories:
     contributors: 329
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-08T09:44:52Z'
+    updated_at: '2026-09-08T17:18:39Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2581,9 +2581,9 @@ repositories:
   stats:
     stars: 31
     contributors: 2
-    last_activity: Last commit (Sep 08, 2026)
+    last_activity: v0.2.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-08T15:06:59Z'
+    updated_at: '2026-09-08T17:41:14Z'
     language: C#
 - name: Solana-Drainer-Tool
   repo: frosttitan46/Solana-Drainer-Tool
