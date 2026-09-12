@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-12T01:48:54Z'
+    updated_at: '2026-09-12T04:27:45Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5129
+    stars: 5130
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-10T20:58:12Z'
+    updated_at: '2026-09-12T12:03:00Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5129
+    stars: 5130
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-10T20:58:12Z'
+    updated_at: '2026-09-12T12:03:00Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -730,11 +730,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 648
+    stars: 650
     contributors: 20
     last_activity: Last commit (Aug 06, 2026)
     archived: false
-    updated_at: '2026-09-11T16:26:43Z'
+    updated_at: '2026-09-12T13:47:55Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -949,11 +949,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 339
+    stars: 340
     contributors: 15
     last_activity: v5.0.3 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-09T22:23:51Z'
+    updated_at: '2026-09-12T06:50:51Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1323,11 +1323,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 52
+    stars: 51
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-07-16T11:51:03Z'
+    updated_at: '2026-09-12T04:43:18Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5129
+    stars: 5130
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-10T20:58:12Z'
+    updated_at: '2026-09-12T12:03:00Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2568,9 +2568,9 @@ repositories:
   stats:
     stars: 24
     contributors: 1
-    last_activity: v0.5.0 (Sep 09, 2026)
+    last_activity: v0.5.1 (Sep 12, 2026)
     archived: false
-    updated_at: '2026-09-10T21:11:22Z'
+    updated_at: '2026-09-12T07:33:22Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
