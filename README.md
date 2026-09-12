@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-09-11
+Last updated: 2026-09-12
 
 ## Directory
 
@@ -133,6 +133,7 @@ Last updated: 2026-09-11
 | token-generator | Create a Token in less than a minute with the most trusted No-code Token Generator for ERC20, BEP20, SPL Token and Token 2022 assets. No login. No setup. No coding required. | https://github.com/vittominacori/token-generator | 86 | 2 | Last commit (Aug 08, 2026) | SDKs & Tooling |
 | solana-trading-bot-v3 | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | https://github.com/wwwwwwworld/solana-trading-bot-v3 | 213 | 1 | Last commit (Aug 15, 2026) | SDKs & Tooling |
 | solana-pumpsniper-bot | solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot | https://github.com/LavenderLyden/solana-pumpsniper-bot | — | — | Active | SDKs & Tooling |
+| NEW solana-keychain | Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async-first design, and feature-gated compilation for minimal dependencies. | https://github.com/solana-foundation/solana-keychain | 69 | 15 | v1.4.0 (Jun 29, 2026) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 2.0k | 117 | @solana/wallet-adapter-phantom@0.9.30 (Sep 10, 2026) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 754 | 2 | Archived; Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 328 | 22 | @solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026) | Wallets & Mobile |
@@ -177,7 +178,7 @@ Last updated: 2026-09-11
 | fetch-nft | 🖼🎑🌠 A utility to fetch and easily display Ethereum & Solana NFTs in a common format given any wallet | https://github.com/AudiusProject/fetch-nft | 118 | 7 | Last commit (Jan 13, 2025) | NFTs & Programs |
 | digital-asset-rpc-infrastructure | Reference implementation for Metaplex Digital Asset Standard API | https://github.com/metaplex-foundation/digital-asset-rpc-infrastructure | 121 | 19 | v0.6.8 (Feb 22, 2023) | NFTs & Programs |
 | solana-anchor-react-minimal-example | Solana, Anchor, Metaplex, React Minimal Example. Out of the Box, easy to start! | https://github.com/256hax/solana-anchor-react-minimal-example | 96 | 3 | v1.1.0 (Nov 23, 2023) | NFTs & Programs |
-| create-solana-dapp | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | https://github.com/solana-foundation/create-solana-dapp | 647 | 20 | Last commit (Aug 06, 2026) | NFTs & Programs |
+| create-solana-dapp | The fastest way to create Solana apps 🚀 Templates 👉 https://github.com/solana-foundation/templates | https://github.com/solana-foundation/create-solana-dapp | 648 | 20 | Last commit (Aug 06, 2026) | NFTs & Programs |
 | solana-tools | A bunch of tools to help people in the Solana ecosystem. This website includes an UI to burn Solana NFTs and an UI to create SPL-Tokens. More tools are scheduled... | https://github.com/cryptoloutre/solana-tools | 206 | 4 | Last commit (Dec 03, 2024) | NFTs & Programs |
 | gill | Solana JavaScript/TypeScript SDK - client library for interacting with the Solana blockchain | https://github.com/gillsdk/gill | 416 | 26 | Last commit (Mar 14, 2026) | NFTs & Programs |
 | Solana-Unreal-SDK | A complete Unreal plugin and toolkit for building blockchain games on Solana with Unreal Engine 5. | https://github.com/Bifrost-Technologies/Solana-Unreal-SDK | 82 | 1 | Last commit (Mar 30, 2024) | NFTs & Programs |
@@ -252,7 +253,7 @@ Last updated: 2026-09-11
 | coinflip-casino-game | A full-stack, peer-to-peer coinflip betting casino game on Solana. Players connect a wallet, create or join on-chain game rooms, and compete head-to-head for 2× the stake. The UI updates in real time over WebSockets, outcomes are resolved on-chain with Orao VRF, and the backend tracks rooms, chat, and match history in MongoDB.  | https://github.com/xxniiinxx/coinflip-casino-game | — | — | Active | DeFi |
 | solana-dashboard | Real-time Solana token dashboard — top 20 tokens by 24h volume with live prices, social links, and one-click buy via Jupiter | https://github.com/NadirAliOfficial/solana-dashboard | 9 | 1 | v2026.08.17 (Sep 06, 2026) | DeFi |
 | solana-trading-bot | Automated Solana trading bot — monitors new token pairs and executes buys/sells on-chain via Jupiter aggregator | https://github.com/NadirAliOfficial/solana-trading-bot | 8 | 3 | v2026.08.17 (Sep 06, 2026) | DeFi |
-| harness-trade | Open-source Solana trading terminal — Phoenix perps + Jupiter spot from one USDC account. Chart-native trading, honest data, AI features landing daily. | https://github.com/GuiBibeau/harness-trade | 14 | 2 | Last commit (Sep 05, 2026) | DeFi |
+| harness-trade | Open-source Solana trading terminal — Phoenix perps + Jupiter spot from one USDC account. Chart-native trading, honest data, AI features landing daily. | https://github.com/GuiBibeau/harness-trade | 14 | 2 | Last commit (Sep 12, 2026) | DeFi |
 | solana-mmaker | Automated market making on Solana: runs configurable spread strategies through the Jupiter swap protocol. | https://github.com/gianlucamazza/solana-mmaker | 98 | 3 | Last commit (Jul 06, 2026) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 59 | 6 | v1.5.0 (Feb 11, 2026) | Oracles |
 | Prediction-Market | A Solana-native decentralized prediction market protocol that allows users to create custom markets, supply liquidity, and place tokenized bets, leveraging Switchboard oracles and Anchor smart contracts for trust-minimized outcome settlement. | https://github.com/novustch/Prediction-Market | — | — | Active | Oracles |

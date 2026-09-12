@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14943
+    stars: 14944
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-11T10:48:00Z'
+    updated_at: '2026-09-11T21:45:14Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-11T14:11:04Z'
+    updated_at: '2026-09-12T01:48:54Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -730,11 +730,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 647
+    stars: 648
     contributors: 20
     last_activity: Last commit (Aug 06, 2026)
     archived: false
-    updated_at: '2026-09-06T19:54:58Z'
+    updated_at: '2026-09-11T16:26:43Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -863,7 +863,7 @@ repositories:
     contributors: 36
     last_activity: Last commit (Sep 11, 2026)
     archived: false
-    updated_at: '2026-09-11T12:08:02Z'
+    updated_at: '2026-09-11T21:57:46Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2486,9 +2486,9 @@ repositories:
   stats:
     stars: 14
     contributors: 2
-    last_activity: Last commit (Sep 05, 2026)
+    last_activity: Last commit (Sep 12, 2026)
     archived: false
-    updated_at: '2026-09-05T03:58:39Z'
+    updated_at: '2026-09-12T01:13:11Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2593,6 +2593,20 @@ repositories:
   category: Wallets & Mobile
   stars: 94
   stats: null
+- name: solana-keychain
+  repo: solana-foundation/solana-keychain
+  description: Framework-agnostic Solana transaction signing with multiple backends.
+    Unified trait interface, async-first design, and feature-gated compilation for
+    minimal dependencies.
+  category: SDKs & Tooling
+  stars: 69
+  stats:
+    stars: 69
+    contributors: 15
+    last_activity: v1.4.0 (Jun 29, 2026)
+    archived: false
+    updated_at: '2026-09-11T17:52:11Z'
+    language: Rust
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
