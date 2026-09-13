@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14944
+    stars: 14945
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-11T21:45:14Z'
+    updated_at: '2026-09-13T00:33:28Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -31,7 +31,7 @@ repositories:
     contributors: 184
     last_activity: system-wasm-js@v2.0.0 (Sep 11, 2026)
     archived: false
-    updated_at: '2026-09-11T12:52:22Z'
+    updated_at: '2026-09-12T23:33:08Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5130
+    stars: 5131
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T12:03:00Z'
+    updated_at: '2026-09-12T17:22:13Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5130
+    stars: 5131
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T12:03:00Z'
+    updated_at: '2026-09-12T17:22:13Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -835,11 +835,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 97
+    stars: 98
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-09-08T08:46:29Z'
+    updated_at: '2026-09-12T20:19:22Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 964
     contributors: 36
-    last_activity: Last commit (Sep 11, 2026)
+    last_activity: Last commit (Sep 12, 2026)
     archived: false
-    updated_at: '2026-09-11T21:57:46Z'
+    updated_at: '2026-09-12T21:52:26Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1323,11 +1323,11 @@ repositories:
   category: Wallets & Mobile
   stars: 43
   stats:
-    stars: 51
+    stars: 52
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-09-12T04:43:18Z'
+    updated_at: '2026-09-12T19:05:36Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -2214,11 +2214,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 307
+    stars: 308
     contributors: 10
     last_activity: Last commit (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-10T22:12:11Z'
+    updated_at: '2026-09-12T22:00:13Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5130
+    stars: 5131
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T12:03:00Z'
+    updated_at: '2026-09-12T17:22:13Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1222
+    stars: 1221
     contributors: 1
     last_activity: Last commit (Aug 24, 2026)
     archived: false
-    updated_at: '2026-09-11T13:46:16Z'
+    updated_at: '2026-09-12T18:12:16Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2568,9 +2568,9 @@ repositories:
   stats:
     stars: 24
     contributors: 1
-    last_activity: v0.5.1 (Sep 12, 2026)
+    last_activity: v0.5.2 (Sep 13, 2026)
     archived: false
-    updated_at: '2026-09-12T07:33:22Z'
+    updated_at: '2026-09-13T00:34:59Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
