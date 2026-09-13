@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14945
+    stars: 14943
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-13T00:33:28Z'
+    updated_at: '2026-09-13T10:09:43Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1910
+    stars: 1911
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-12T04:27:45Z'
+    updated_at: '2026-09-13T14:38:20Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5131
+    stars: 5132
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T17:22:13Z'
+    updated_at: '2026-09-13T05:44:15Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5131
+    stars: 5132
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T17:22:13Z'
+    updated_at: '2026-09-13T05:44:15Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 619
+    stars: 620
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-09-11T02:13:22Z'
+    updated_at: '2026-09-13T12:50:11Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -203,7 +203,7 @@ repositories:
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-09-06T08:10:54Z'
+    updated_at: '2026-09-13T15:19:34Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -871,11 +871,11 @@ repositories:
   category: DeFi
   stars: 315
   stats:
-    stars: 338
+    stars: 337
     contributors: 4
     last_activity: Last commit (Sep 05, 2023)
     archived: false
-    updated_at: '2026-09-07T16:54:12Z'
+    updated_at: '2026-09-13T15:19:28Z'
     language: C#
 - name: solana-escrow
   repo: paul-schaaf/solana-escrow
@@ -1456,9 +1456,9 @@ repositories:
   stats:
     stars: 178
     contributors: 13
-    last_activity: v3.0.2 (Sep 08, 2026)
+    last_activity: v3.0.3 (Sep 13, 2026)
     archived: false
-    updated_at: '2026-09-09T11:48:43Z'
+    updated_at: '2026-09-13T12:44:40Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5131
+    stars: 5132
     contributors: 360
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-12T17:22:13Z'
+    updated_at: '2026-09-13T05:44:15Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2379,11 +2379,11 @@ repositories:
   category: NFTs & Programs
   stars: 95
   stats:
-    stars: 94
+    stars: 95
     contributors: 8
     last_activity: Last commit (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-09T05:52:59Z'
+    updated_at: '2026-09-13T08:07:48Z'
     language: Rust
 - name: program-examples
   repo: solana-foundation/program-examples
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 213
+    stars: 215
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-10T06:23:30Z'
+    updated_at: '2026-09-13T14:58:57Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2570,7 +2570,7 @@ repositories:
     contributors: 1
     last_activity: v0.5.2 (Sep 13, 2026)
     archived: false
-    updated_at: '2026-09-13T00:34:59Z'
+    updated_at: '2026-09-13T06:27:14Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
