@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14941
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-14T13:29:34Z'
+    updated_at: '2026-09-14T21:41:15Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1912
+    stars: 1913
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-14T14:53:00Z'
+    updated_at: '2026-09-15T00:31:09Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -468,11 +468,11 @@ repositories:
   category: SDKs & Tooling
   stars: 289
   stats:
-    stars: 317
+    stars: 318
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-09-05T05:27:59Z'
+    updated_at: '2026-09-15T00:35:54Z'
     language: TypeScript
 - name: anchorpy
   repo: kevinheavey/anchorpy
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 965
+    stars: 967
     contributors: 36
     last_activity: Last commit (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-14T13:07:56Z'
+    updated_at: '2026-09-15T00:02:20Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -921,11 +921,11 @@ repositories:
   category: SDKs & Tooling
   stars: 139
   stats:
-    stars: 165
+    stars: 164
     contributors: 5
     last_activity: Last commit (Oct 01, 2025)
     archived: false
-    updated_at: '2026-09-14T13:22:12Z'
+    updated_at: '2026-09-14T19:25:30Z'
     language: Rust
 - name: Solana-Auditors-Bootcamp
   repo: Ackee-Blockchain/Solana-Auditors-Bootcamp
@@ -2114,11 +2114,11 @@ repositories:
   category: SDKs & Tooling
   stars: 352
   stats:
-    stars: 317
+    stars: 318
     contributors: 1
     last_activity: Last commit (Dec 21, 2025)
     archived: false
-    updated_at: '2026-09-05T05:27:59Z'
+    updated_at: '2026-09-15T00:35:54Z'
     language: TypeScript
 - name: prediction-market-smart-contract-solana-evm
   repo: L9T-Development/prediction-market-smart-contract-solana-evm
@@ -2218,7 +2218,7 @@ repositories:
     contributors: 10
     last_activity: Last commit (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-14T05:51:14Z'
+    updated_at: '2026-09-14T19:04:03Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 215
+    stars: 216
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-13T14:58:57Z'
+    updated_at: '2026-09-15T01:18:16Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2568,9 +2568,9 @@ repositories:
   stats:
     stars: 24
     contributors: 1
-    last_activity: v0.5.4 (Sep 14, 2026)
+    last_activity: v0.5.5 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-14T12:14:47Z'
+    updated_at: '2026-09-14T20:39:34Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
