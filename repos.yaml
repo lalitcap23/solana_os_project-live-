@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14941
+    stars: 14942
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-16T11:22:16Z'
+    updated_at: '2026-09-17T11:59:38Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-17T01:03:37Z'
+    updated_at: '2026-09-17T15:37:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 258
     contributors: 184
-    last_activity: system-wasm-js@v2.0.0 (Sep 11, 2026)
+    last_activity: account-view@v2.1.0 (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-16T22:26:15Z'
+    updated_at: '2026-09-17T10:30:00Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 362
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-16T16:54:07Z'
+    updated_at: '2026-09-17T11:57:47Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2756
+    stars: 2757
     contributors: 127
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-11T14:57:48Z'
+    updated_at: '2026-09-17T04:57:28Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -87,9 +87,9 @@ repositories:
   stats:
     stars: 15
     contributors: 24
-    last_activity: tlv-account-resolution@v0.11.3 (Aug 31, 2026)
+    last_activity: tlv-account-resolution@v0.11.4 (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-08T10:59:10Z'
+    updated_at: '2026-09-17T15:14:15Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -178,7 +178,7 @@ repositories:
     contributors: 362
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-16T16:54:07Z'
+    updated_at: '2026-09-17T11:57:47Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -292,7 +292,7 @@ repositories:
     contributors: 179
     last_activity: v8.3.0 (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-16T08:36:12Z'
+    updated_at: '2026-09-17T08:40:28Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -480,11 +480,11 @@ repositories:
   category: NFTs & Programs
   stars: 271
   stats:
-    stars: 278
+    stars: 279
     contributors: 11
     last_activity: 0.21.0 (Mar 26, 2025)
     archived: false
-    updated_at: '2026-07-04T07:08:42Z'
+    updated_at: '2026-09-17T14:21:43Z'
     language: Python
 - name: anchor-go
   repo: gagliardetto/anchor-go
@@ -530,9 +530,9 @@ repositories:
   stats:
     stars: 646
     contributors: 64
-    last_activity: Last commit (Mar 13, 2026)
+    last_activity: Last commit (Sep 17, 2026)
     archived: false
-    updated_at: '2026-08-18T02:16:54Z'
+    updated_at: '2026-09-17T14:49:20Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -795,11 +795,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 176
+    stars: 177
     contributors: 0
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-09-16T21:25:32Z'
+    updated_at: '2026-09-17T09:44:09Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 968
     contributors: 36
-    last_activity: Last commit (Sep 16, 2026)
+    last_activity: Last commit (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-16T23:18:25Z'
+    updated_at: '2026-09-17T15:30:57Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2256,7 +2256,7 @@ repositories:
     contributors: 362
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-16T16:54:07Z'
+    updated_at: '2026-09-17T11:57:47Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-09-15T11:37:56Z'
+    updated_at: '2026-09-17T15:26:04Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1247
+    stars: 1275
     contributors: 1
     last_activity: Last commit (Sep 16, 2026)
     archived: false
-    updated_at: '2026-09-17T02:43:15Z'
+    updated_at: '2026-09-17T14:02:42Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2605,7 +2605,7 @@ repositories:
     contributors: 15
     last_activity: v1.4.0 (Jun 29, 2026)
     archived: false
-    updated_at: '2026-09-15T20:14:31Z'
+    updated_at: '2026-09-17T14:15:08Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
