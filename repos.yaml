@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14944
+    stars: 14943
     contributors: 352
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-18T22:42:47Z'
+    updated_at: '2026-09-19T06:00:50Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-19T02:15:45Z'
+    updated_at: '2026-09-19T13:21:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5132
+    stars: 5134
     contributors: 364
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-18T19:43:19Z'
+    updated_at: '2026-09-19T13:01:34Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5132
+    stars: 5134
     contributors: 364
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-18T19:43:19Z'
+    updated_at: '2026-09-19T13:01:34Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1423
+    stars: 1424
     contributors: 67
     last_activity: Last commit (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-18T13:20:03Z'
+    updated_at: '2026-09-19T13:57:46Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -795,11 +795,11 @@ repositories:
   category: DeFi
   stars: 161
   stats:
-    stars: 177
+    stars: 176
     contributors: 0
     last_activity: Last commit (Mar 25, 2025)
     archived: false
-    updated_at: '2026-09-17T09:44:09Z'
+    updated_at: '2026-09-19T03:51:22Z'
     language: JavaScript
 - name: solana-auto-sell-bot
   repo: lorenzourera/solana-auto-sell-bot
@@ -835,11 +835,11 @@ repositories:
   category: SDKs & Tooling
   stars: 81
   stats:
-    stars: 98
+    stars: 99
     contributors: 1
     last_activity: Last commit (Jul 07, 2024)
     archived: false
-    updated_at: '2026-09-12T20:19:22Z'
+    updated_at: '2026-09-19T09:33:03Z'
     language: TypeScript
 - name: solana-spl-tutorial
   repo: YosephKS/solana-spl-tutorial
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 969
     contributors: 36
-    last_activity: Last commit (Sep 18, 2026)
+    last_activity: Last commit (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-18T16:53:40Z'
+    updated_at: '2026-09-19T14:01:34Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -951,9 +951,9 @@ repositories:
   stats:
     stars: 341
     contributors: 15
-    last_activity: v5.0.4 (Sep 14, 2026)
+    last_activity: v5.0.5 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-15T06:44:02Z'
+    updated_at: '2026-09-19T13:12:43Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2214,11 +2214,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 309
+    stars: 310
     contributors: 10
     last_activity: Last commit (Sep 15, 2026)
     archived: false
-    updated_at: '2026-09-18T00:29:30Z'
+    updated_at: '2026-09-19T04:21:18Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5132
+    stars: 5134
     contributors: 364
     last_activity: v0.32.2 (Sep 14, 2026)
     archived: false
-    updated_at: '2026-09-18T19:43:19Z'
+    updated_at: '2026-09-19T13:01:34Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2294,11 +2294,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 205
+    stars: 204
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-09-18T23:29:44Z'
+    updated_at: '2026-09-19T07:33:36Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2355,11 +2355,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1340
+    stars: 1339
     contributors: 40
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-09-18T16:18:17Z'
+    updated_at: '2026-09-19T12:00:31Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1301
+    stars: 1312
     contributors: 1
     last_activity: Last commit (Sep 16, 2026)
     archived: false
-    updated_at: '2026-09-19T01:41:46Z'
+    updated_at: '2026-09-19T15:02:08Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2391,11 +2391,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1423
+    stars: 1424
     contributors: 67
     last_activity: Last commit (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-18T13:20:03Z'
+    updated_at: '2026-09-19T13:57:46Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 217
+    stars: 219
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-15T15:18:44Z'
+    updated_at: '2026-09-19T11:47:25Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2568,9 +2568,9 @@ repositories:
   stats:
     stars: 24
     contributors: 1
-    last_activity: v0.5.5 (Sep 14, 2026)
+    last_activity: v0.5.6 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-16T09:41:05Z'
+    updated_at: '2026-09-19T10:56:20Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
