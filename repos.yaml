@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.2.2 (Aug 28, 2026)
     archived: false
-    updated_at: '2026-09-19T13:21:35Z'
+    updated_at: '2026-09-19T19:06:18Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -859,11 +859,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 969
+    stars: 970
     contributors: 36
     last_activity: Last commit (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-19T14:01:34Z'
+    updated_at: '2026-09-19T21:17:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -953,7 +953,7 @@ repositories:
     contributors: 15
     last_activity: v5.0.5 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-19T13:12:43Z'
+    updated_at: '2026-09-19T18:25:38Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1312
+    stars: 1319
     contributors: 1
     last_activity: Last commit (Sep 16, 2026)
     archived: false
-    updated_at: '2026-09-19T15:02:08Z'
+    updated_at: '2026-09-20T02:40:46Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2486,9 +2486,9 @@ repositories:
   stats:
     stars: 14
     contributors: 2
-    last_activity: Last commit (Sep 12, 2026)
+    last_activity: Last commit (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-12T01:13:11Z'
+    updated_at: '2026-09-19T15:56:04Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2570,7 +2570,7 @@ repositories:
     contributors: 1
     last_activity: v0.5.6 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-19T10:56:20Z'
+    updated_at: '2026-09-19T23:53:33Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
