@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1919
+    stars: 1920
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-21T17:30:26Z'
+    updated_at: '2026-09-21T23:52:52Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1424
+    stars: 1425
     contributors: 67
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-21T16:43:36Z'
+    updated_at: '2026-09-22T00:04:52Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -552,11 +552,11 @@ repositories:
   category: NFTs & Programs
   stars: 186
   stats:
-    stars: 231
+    stars: 232
     contributors: 11
     last_activity: Last commit (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-09T16:12:13Z'
+    updated_at: '2026-09-21T23:16:28Z'
     language: Rust
 - name: compressed-nfts
   repo: solana-developers/compressed-nfts
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 971
     contributors: 36
-    last_activity: Last commit (Sep 21, 2026)
+    last_activity: Last commit (Sep 22, 2026)
     archived: false
-    updated_at: '2026-09-21T15:31:59Z'
+    updated_at: '2026-09-22T02:11:16Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1336
+    stars: 1340
     contributors: 1
-    last_activity: Last commit (Sep 16, 2026)
+    last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-21T16:59:58Z'
+    updated_at: '2026-09-21T23:04:08Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2391,11 +2391,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1424
+    stars: 1425
     contributors: 67
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-21T16:43:36Z'
+    updated_at: '2026-09-22T00:04:52Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
