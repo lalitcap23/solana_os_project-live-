@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14944
+    stars: 14943
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-24T17:58:51Z'
+    updated_at: '2026-09-25T13:09:31Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-25T01:58:14Z'
+    updated_at: '2026-09-25T14:56:30Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -52,10 +52,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 2757
-    contributors: 127
+    contributors: 132
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-22T20:39:34Z'
+    updated_at: '2026-09-25T16:05:06Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -292,7 +292,7 @@ repositories:
     contributors: 179
     last_activity: v8.3.0 (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-24T08:31:47Z'
+    updated_at: '2026-09-25T08:29:25Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 646
+    stars: 647
     contributors: 64
     last_activity: Last commit (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-17T14:49:20Z'
+    updated_at: '2026-09-25T03:52:54Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -863,7 +863,7 @@ repositories:
     contributors: 36
     last_activity: Last commit (Sep 25, 2026)
     archived: false
-    updated_at: '2026-09-25T02:05:19Z'
+    updated_at: '2026-09-25T06:08:18Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1309,11 +1309,11 @@ repositories:
   category: NFTs & Programs
   stars: 46
   stats:
-    stars: 48
+    stars: 49
     contributors: 20
     last_activity: v4.0.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-18T02:28:34Z'
+    updated_at: '2026-09-25T05:51:09Z'
     language: Rust
 - name: On_chain
   repo: mrtnetwork/On_chain
@@ -2356,10 +2356,10 @@ repositories:
   stars: 1330
   stats:
     stars: 1341
-    contributors: 41
+    contributors: 42
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-09-24T15:30:21Z'
+    updated_at: '2026-09-25T10:20:34Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1367
+    stars: 1377
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-24T23:39:36Z'
+    updated_at: '2026-09-25T16:14:09Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
