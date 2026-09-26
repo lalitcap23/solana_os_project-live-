@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14943
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-25T17:55:22Z'
+    updated_at: '2026-09-26T11:17:32Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-25T18:56:56Z'
+    updated_at: '2026-09-26T03:06:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -261,11 +261,11 @@ repositories:
   category: SDKs & Tooling
   stars: 67
   stats:
-    stars: 80
+    stars: 79
     contributors: 7
     last_activity: Last commit (Dec 10, 2025)
     archived: false
-    updated_at: '2026-09-23T18:48:06Z'
+    updated_at: '2026-09-26T05:33:03Z'
     language: Rust
 - name: ethereum-boilerplate
   repo: ethereum-boilerplate/ethereum-boilerplate
@@ -809,11 +809,11 @@ repositories:
   category: DeFi
   stars: 118
   stats:
-    stars: 130
+    stars: 131
     contributors: 1
     last_activity: Last commit (Sep 18, 2025)
     archived: false
-    updated_at: '2026-09-18T17:55:55Z'
+    updated_at: '2026-09-26T14:08:13Z'
     language: Python
 - name: dex-v4
   repo: Bonfida/dex-v4
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 971
     contributors: 36
-    last_activity: Last commit (Sep 25, 2026)
+    last_activity: Last commit (Sep 26, 2026)
     archived: false
-    updated_at: '2026-09-25T16:58:38Z'
+    updated_at: '2026-09-26T14:08:43Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2173,11 +2173,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 142
+    stars: 143
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-09-25T00:41:16Z'
+    updated_at: '2026-09-26T05:28:41Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2214,11 +2214,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 313
+    stars: 314
     contributors: 10
     last_activity: Last commit (Sep 15, 2026)
     archived: false
-    updated_at: '2026-09-24T08:32:17Z'
+    updated_at: '2026-09-26T13:37:48Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1384
+    stars: 1391
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-26T02:38:49Z'
+    updated_at: '2026-09-26T13:38:42Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 223
+    stars: 224
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-25T19:14:22Z'
+    updated_at: '2026-09-26T13:59:10Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
