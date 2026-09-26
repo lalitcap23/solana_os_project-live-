@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14943
+    stars: 14942
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-25T13:09:31Z'
+    updated_at: '2026-09-25T17:55:22Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-25T14:56:30Z'
+    updated_at: '2026-09-25T18:56:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -55,7 +55,7 @@ repositories:
     contributors: 132
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-25T16:05:06Z'
+    updated_at: '2026-09-26T01:16:19Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -141,10 +141,10 @@ repositories:
   category: Wallets & Mobile
   stats:
     stars: 329
-    contributors: 22
+    contributors: 23
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-09-21T09:25:58Z'
+    updated_at: '2026-09-25T23:02:35Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -155,7 +155,7 @@ repositories:
     contributors: 10
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-09-21T17:05:45Z'
+    updated_at: '2026-09-26T00:48:13Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 300
+    stars: 301
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2026-09-10T14:20:25Z'
+    updated_at: '2026-09-25T17:16:32Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -863,7 +863,7 @@ repositories:
     contributors: 36
     last_activity: Last commit (Sep 25, 2026)
     archived: false
-    updated_at: '2026-09-25T06:08:18Z'
+    updated_at: '2026-09-25T16:58:38Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1377
+    stars: 1384
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-25T16:14:09Z'
+    updated_at: '2026-09-26T02:38:49Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 222
+    stars: 223
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-23T08:02:12Z'
+    updated_at: '2026-09-25T19:14:22Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
