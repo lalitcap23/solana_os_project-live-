@@ -5,33 +5,33 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14946
+    stars: 14945
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-28T02:08:16Z'
+    updated_at: '2026-09-28T09:40:25Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1921
+    stars: 1922
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-27T20:11:11Z'
+    updated_at: '2026-09-28T18:43:05Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 259
+    stars: 260
     contributors: 184
     last_activity: transaction@v5.1.0 (Sep 23, 2026)
     archived: false
-    updated_at: '2026-09-23T09:58:26Z'
+    updated_at: '2026-09-28T12:04:07Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5137
-    contributors: 364
+    contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-25T01:59:57Z'
+    updated_at: '2026-09-28T15:07:20Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 132
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-26T01:16:19Z'
+    updated_at: '2026-09-28T18:17:01Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5137
-    contributors: 364
+    contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-25T01:59:57Z'
+    updated_at: '2026-09-28T15:07:20Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -290,9 +290,9 @@ repositories:
   stats:
     stars: 697
     contributors: 179
-    last_activity: v8.3.0 (Sep 09, 2026)
+    last_activity: v8.4.0 (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-26T23:28:09Z'
+    updated_at: '2026-09-28T14:52:17Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -374,9 +374,9 @@ repositories:
   stats:
     stars: 1428
     contributors: 67
-    last_activity: Last commit (Sep 21, 2026)
+    last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-23T20:48:12Z'
+    updated_at: '2026-09-28T18:48:24Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -861,9 +861,9 @@ repositories:
   stats:
     stars: 971
     contributors: 36
-    last_activity: Last commit (Sep 27, 2026)
+    last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-27T20:54:29Z'
+    updated_at: '2026-09-28T09:03:51Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2173,11 +2173,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 143
+    stars: 144
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-09-26T05:28:41Z'
+    updated_at: '2026-09-28T06:34:55Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2253,10 +2253,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5137
-    contributors: 364
+    contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-25T01:59:57Z'
+    updated_at: '2026-09-28T15:07:20Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1410
+    stars: 1426
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-27T22:26:45Z'
+    updated_at: '2026-09-28T18:23:24Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2393,9 +2393,9 @@ repositories:
   stats:
     stars: 1428
     contributors: 67
-    last_activity: Last commit (Sep 21, 2026)
+    last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-23T20:48:12Z'
+    updated_at: '2026-09-28T18:48:24Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 226
+    stars: 227
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-27T15:39:10Z'
+    updated_at: '2026-09-28T14:39:07Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2605,7 +2605,7 @@ repositories:
     contributors: 15
     last_activity: v1.4.0 (Jun 29, 2026)
     archived: false
-    updated_at: '2026-09-23T18:07:02Z'
+    updated_at: '2026-09-28T18:48:58Z'
     language: Rust
 - name: flint
   repo: sohan-shingade/flint
