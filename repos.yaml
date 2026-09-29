@@ -9,7 +9,7 @@ repositories:
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-09-28T09:40:25Z'
+    updated_at: '2026-09-28T23:58:21Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-28T18:43:05Z'
+    updated_at: '2026-09-29T02:27:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 184
     last_activity: transaction@v5.1.0 (Sep 23, 2026)
     archived: false
-    updated_at: '2026-09-28T12:04:07Z'
+    updated_at: '2026-09-28T21:04:33Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2757
+    stars: 2758
     contributors: 132
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-28T18:17:01Z'
+    updated_at: '2026-09-28T23:52:56Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4239
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-09-27T09:52:45Z'
+    updated_at: '2026-09-28T23:52:35Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4134
+    stars: 4135
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-09-27T21:39:36Z'
+    updated_at: '2026-09-28T23:58:48Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1428
+    stars: 1429
     contributors: 67
     last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-28T18:48:24Z'
+    updated_at: '2026-09-28T23:54:17Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3353
+    stars: 3354
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-09-22T20:39:40Z'
+    updated_at: '2026-09-29T03:18:22Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -1412,7 +1412,7 @@ repositories:
     contributors: 1
     last_activity: Release (Apr 11, 2025)
     archived: false
-    updated_at: '2026-09-15T20:42:03Z'
+    updated_at: '2026-09-29T02:16:12Z'
     language: Rust
 - name: profit-script
   repo: tymur999/profit-script
@@ -1454,11 +1454,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 182
+    stars: 183
     contributors: 13
     last_activity: v3.0.5 (Sep 15, 2026)
     archived: false
-    updated_at: '2026-09-25T00:16:08Z'
+    updated_at: '2026-09-28T19:39:28Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2173,11 +2173,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 144
+    stars: 145
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-09-28T06:34:55Z'
+    updated_at: '2026-09-29T00:31:38Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1426
+    stars: 1428
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-28T18:23:24Z'
+    updated_at: '2026-09-29T02:46:18Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2391,11 +2391,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1428
+    stars: 1429
     contributors: 67
     last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-09-28T18:48:24Z'
+    updated_at: '2026-09-28T23:54:17Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2546,7 +2546,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-28T14:39:07Z'
+    updated_at: '2026-09-29T03:13:10Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
