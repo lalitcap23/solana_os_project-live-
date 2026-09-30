@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1925
+    stars: 1926
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-09-29T17:04:41Z'
+    updated_at: '2026-09-29T22:22:23Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 261
+    stars: 260
     contributors: 184
     last_activity: transaction@v5.1.0 (Sep 23, 2026)
     archived: false
-    updated_at: '2026-09-29T12:26:11Z'
+    updated_at: '2026-09-30T02:29:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5137
+    stars: 5138
     contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-28T15:07:20Z'
+    updated_at: '2026-09-29T23:04:23Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2757
+    stars: 2758
     contributors: 132
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-09-29T07:17:53Z'
+    updated_at: '2026-09-29T23:04:15Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 23
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-09-25T23:02:35Z'
+    updated_at: '2026-09-30T00:28:58Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5137
+    stars: 5138
     contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-28T15:07:20Z'
+    updated_at: '2026-09-29T23:04:23Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -492,11 +492,11 @@ repositories:
   category: SDKs & Tooling
   stars: 263
   stats:
-    stars: 301
+    stars: 300
     contributors: 4
     last_activity: v1.0.0 (Jul 02, 2025)
     archived: false
-    updated_at: '2026-09-25T17:16:32Z'
+    updated_at: '2026-09-30T02:29:46Z'
     language: Go
 - name: metaplex
   repo: metaplex-foundation/metaplex
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3354
+    stars: 3353
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-09-29T03:18:22Z'
+    updated_at: '2026-09-29T23:54:00Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -863,7 +863,7 @@ repositories:
     contributors: 36
     last_activity: Last commit (Sep 29, 2026)
     archived: false
-    updated_at: '2026-09-29T06:05:51Z'
+    updated_at: '2026-09-29T18:03:43Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -953,7 +953,7 @@ repositories:
     contributors: 15
     last_activity: v5.0.5 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-27T22:21:59Z'
+    updated_at: '2026-09-30T02:29:50Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1481,11 +1481,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 83
+    stars: 82
     contributors: 2
     last_activity: Last commit (Jun 19, 2026)
     archived: false
-    updated_at: '2026-08-31T17:48:39Z'
+    updated_at: '2026-09-30T02:29:50Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -2218,7 +2218,7 @@ repositories:
     contributors: 10
     last_activity: Last commit (Sep 15, 2026)
     archived: false
-    updated_at: '2026-09-29T10:26:51Z'
+    updated_at: '2026-09-30T01:06:23Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5137
+    stars: 5138
     contributors: 365
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-09-28T15:07:20Z'
+    updated_at: '2026-09-29T23:04:23Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2298,7 +2298,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-09-19T07:33:36Z'
+    updated_at: '2026-09-29T21:12:40Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2359,7 +2359,7 @@ repositories:
     contributors: 42
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-09-25T10:20:34Z'
+    updated_at: '2026-09-29T21:02:55Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1436
+    stars: 1443
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-09-29T17:06:43Z'
+    updated_at: '2026-09-30T03:01:36Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 229
+    stars: 230
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-09-29T14:14:02Z'
+    updated_at: '2026-09-29T20:18:02Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2570,7 +2570,7 @@ repositories:
     contributors: 1
     last_activity: v0.5.6 (Sep 19, 2026)
     archived: false
-    updated_at: '2026-09-21T12:35:12Z'
+    updated_at: '2026-09-30T02:52:56Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
