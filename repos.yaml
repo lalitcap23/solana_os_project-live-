@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-10-01T17:45:03Z'
+    updated_at: '2026-10-02T00:34:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -52,10 +52,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 2761
-    contributors: 132
+    contributors: 133
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-10-01T13:34:40Z'
+    updated_at: '2026-10-02T03:13:04Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -144,7 +144,7 @@ repositories:
     contributors: 23
     last_activity: '@solana-mobile/wallet-standard-mobile@0.6.0 (Aug 17, 2026)'
     archived: false
-    updated_at: '2026-10-01T17:14:29Z'
+    updated_at: '2026-10-01T21:39:12Z'
     language: Java
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -951,9 +951,9 @@ repositories:
   stats:
     stars: 345
     contributors: 15
-    last_activity: v5.0.5 (Sep 19, 2026)
+    last_activity: v5.0.6 (Oct 02, 2026)
     archived: false
-    updated_at: '2026-09-30T06:12:32Z'
+    updated_at: '2026-10-02T02:53:13Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1456,9 +1456,9 @@ repositories:
   stats:
     stars: 185
     contributors: 13
-    last_activity: v3.0.5 (Sep 15, 2026)
+    last_activity: v3.0.6 (Oct 02, 2026)
     archived: false
-    updated_at: '2026-10-01T13:36:07Z'
+    updated_at: '2026-10-02T02:13:25Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2073,11 +2073,11 @@ repositories:
   category: SDKs & Tooling
   stars: 104
   stats:
-    stars: 175
+    stars: 176
     contributors: 1
     last_activity: Last commit (Jul 27, 2026)
     archived: false
-    updated_at: '2026-09-21T11:19:23Z'
+    updated_at: '2026-10-01T17:53:55Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1486
+    stars: 1495
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-01T17:39:38Z'
+    updated_at: '2026-10-02T00:54:21Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 71
+    stars: 72
     contributors: 15
     last_activity: v2.0.0 (Oct 01, 2026)
     archived: false
-    updated_at: '2026-10-01T17:21:06Z'
+    updated_at: '2026-10-02T03:12:29Z'
     language: Rust
 - name: flint
   repo: sohan-shingade/flint
