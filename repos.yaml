@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-10-02T16:17:55Z'
+    updated_at: '2026-10-02T23:49:32Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5139
+    stars: 5140
     contributors: 367
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-02T15:15:25Z'
+    updated_at: '2026-10-02T20:02:27Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -78,7 +78,7 @@ repositories:
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-09-30T15:49:19Z'
+    updated_at: '2026-10-03T00:40:48Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -86,10 +86,10 @@ repositories:
   category: Programs (SPL)
   stats:
     stars: 15
-    contributors: 24
+    contributors: 25
     last_activity: tlv-account-resolution@v0.11.4 (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-17T15:14:15Z'
+    updated_at: '2026-10-02T19:15:04Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5139
+    stars: 5140
     contributors: 367
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-02T15:15:25Z'
+    updated_at: '2026-10-02T20:02:27Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -863,7 +863,7 @@ repositories:
     contributors: 37
     last_activity: Last commit (Oct 02, 2026)
     archived: false
-    updated_at: '2026-10-02T04:57:08Z'
+    updated_at: '2026-10-02T17:15:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2214,11 +2214,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 316
+    stars: 317
     contributors: 10
     last_activity: Last commit (Sep 30, 2026)
     archived: false
-    updated_at: '2026-10-02T15:14:45Z'
+    updated_at: '2026-10-02T17:31:11Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2252,11 +2252,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5139
+    stars: 5140
     contributors: 367
     last_activity: v1.2.0 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-02T15:15:25Z'
+    updated_at: '2026-10-02T20:02:27Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2367,11 +2367,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1509
+    stars: 1512
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-02T16:19:30Z'
+    updated_at: '2026-10-03T01:45:24Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2542,11 +2542,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 165
+    stars: 164
     contributors: 1
     last_activity: Last commit (Aug 15, 2026)
     archived: false
-    updated_at: '2026-10-01T13:48:33Z'
+    updated_at: '2026-10-03T01:06:00Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
