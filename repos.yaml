@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14939
+    stars: 14941
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-03T12:59:29Z'
+    updated_at: '2026-10-04T03:10:07Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -27,11 +27,11 @@ repositories:
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 260
+    stars: 261
     contributors: 183
     last_activity: address@v2.9.0 (Oct 02, 2026)
     archived: false
-    updated_at: '2026-10-02T12:00:17Z'
+    updated_at: '2026-10-03T19:51:45Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4240
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-10-03T03:47:43Z'
+    updated_at: '2026-10-04T00:22:51Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -129,11 +129,11 @@ repositories:
   description: 'Android SDKs: Mobile Wallet Adapter, Seed Vault'
   category: Wallets & Mobile
   stats:
-    stars: 753
+    stars: 752
     contributors: 2
     last_activity: Last commit (Jun 23, 2022)
     archived: true
-    updated_at: '2026-09-14T15:13:58Z'
+    updated_at: '2026-10-03T17:00:26Z'
     language: null
 - name: Mobile Wallet Adapter
   repo: solana-mobile/mobile-wallet-adapter
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 252
+    stars: 253
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-09-22T20:39:41Z'
+    updated_at: '2026-10-03T16:56:44Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -504,11 +504,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3352
+    stars: 3351
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-10-02T15:25:34Z'
+    updated_at: '2026-10-03T17:01:54Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -528,11 +528,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 647
+    stars: 646
     contributors: 64
     last_activity: Last commit (Sep 17, 2026)
     archived: false
-    updated_at: '2026-09-29T16:58:43Z'
+    updated_at: '2026-10-03T17:00:33Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -863,7 +863,7 @@ repositories:
     contributors: 37
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-03T12:49:58Z'
+    updated_at: '2026-10-03T19:22:55Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1335,11 +1335,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 34
+    stars: 35
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2026-08-18T08:45:50Z'
+    updated_at: '2026-10-04T00:23:33Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
@@ -2355,11 +2355,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1538
+    stars: 1564
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-03T15:18:15Z'
+    updated_at: '2026-10-04T02:08:35Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2630,11 +2630,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 132
+    stars: 150
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-03T14:59:26Z'
+    updated_at: '2026-10-04T03:33:33Z'
     language: Rust
 search_queries:
 - solana framework language:rust stars:>50
