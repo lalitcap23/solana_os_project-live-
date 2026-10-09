@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14942
+    stars: 14943
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-08T17:52:40Z'
+    updated_at: '2026-10-09T17:17:02Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1938
+    stars: 1937
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-10-09T03:00:28Z'
+    updated_at: '2026-10-09T17:11:31Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 262
     contributors: 183
-    last_activity: vote-interface@v7.2.0 (Oct 08, 2026)
+    last_activity: instruction-view@v3.0.0 (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-08T21:18:02Z'
+    updated_at: '2026-10-09T14:29:56Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T02:16:20Z'
+    updated_at: '2026-10-09T13:07:49Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -52,10 +52,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 2767
-    contributors: 133
+    contributors: 134
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-10-08T18:08:50Z'
+    updated_at: '2026-10-09T17:35:44Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -142,10 +142,10 @@ repositories:
   stats:
     stars: 330
     contributors: 23
-    last_activity: '@solana-mobile/mobile-wallet-adapter-protocol-kit@3.0.0 (Oct 07,
-      2026)'
+    last_activity: '@solana-mobile/mobile-wallet-adapter-protocol-web3js@3.0.1 (Oct
+      09, 2026)'
     archived: false
-    updated_at: '2026-10-08T22:53:41Z'
+    updated_at: '2026-10-09T15:59:52Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -179,7 +179,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T02:16:20Z'
+    updated_at: '2026-10-09T13:07:49Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -314,11 +314,11 @@ repositories:
   category: SDKs & Tooling
   stars: 329
   stats:
-    stars: 384
+    stars: 385
     contributors: 13
     last_activity: Last commit (Jun 03, 2026)
     archived: false
-    updated_at: '2026-10-02T15:14:08Z'
+    updated_at: '2026-10-09T17:24:11Z'
     language: TypeScript
 - name: gill
   repo: DecalLabs/gill
@@ -511,11 +511,11 @@ repositories:
   category: NFTs & Programs
   stars: 714
   stats:
-    stars: 715
+    stars: 714
     contributors: 26
     last_activity: v0.49.0 (Apr 23, 2026)
     archived: false
-    updated_at: '2026-08-28T09:47:35Z'
+    updated_at: '2026-10-09T10:47:08Z'
     language: Rust
 - name: metaplex-program-library
   repo: metaplex-foundation/metaplex-program-library
@@ -858,7 +858,7 @@ repositories:
     contributors: 37
     last_activity: Last commit (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-09T02:33:44Z'
+    updated_at: '2026-10-09T15:54:50Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -946,9 +946,9 @@ repositories:
   stats:
     stars: 348
     contributors: 15
-    last_activity: v5.0.7 (Oct 05, 2026)
+    last_activity: v6.0.0 (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-08T03:33:11Z'
+    updated_at: '2026-10-09T05:10:56Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1433,9 +1433,9 @@ repositories:
   stats:
     stars: 185
     contributors: 13
-    last_activity: v3.0.9 (Oct 07, 2026)
+    last_activity: v3.0.10 (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-07T02:45:47Z'
+    updated_at: '2026-10-09T05:40:16Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -1680,11 +1680,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 285
+    stars: 286
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2026-10-02T15:30:31Z'
+    updated_at: '2026-10-09T04:19:58Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -2185,11 +2185,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 320
+    stars: 319
     contributors: 10
     last_activity: Last commit (Sep 30, 2026)
     archived: false
-    updated_at: '2026-10-08T03:03:09Z'
+    updated_at: '2026-10-09T04:01:45Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2221,7 +2221,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T02:16:20Z'
+    updated_at: '2026-10-09T13:07:49Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2314,11 +2314,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1338
+    stars: 1339
     contributors: 42
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-10-08T18:15:46Z'
+    updated_at: '2026-10-09T05:56:54Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1728
+    stars: 1748
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-09T03:33:33Z'
+    updated_at: '2026-10-09T15:20:25Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 168
+    stars: 169
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-09T02:58:52Z'
+    updated_at: '2026-10-09T09:39:28Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
