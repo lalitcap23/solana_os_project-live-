@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-10-09T17:11:31Z'
+    updated_at: '2026-10-09T23:31:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 183
     last_activity: instruction-view@v3.0.0 (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-09T14:29:56Z'
+    updated_at: '2026-10-09T22:28:37Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -43,7 +43,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T13:07:49Z'
+    updated_at: '2026-10-09T20:06:28Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 134
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-10-09T17:35:44Z'
+    updated_at: '2026-10-09T23:02:12Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -179,7 +179,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T13:07:49Z'
+    updated_at: '2026-10-09T20:06:28Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 972
     contributors: 37
-    last_activity: Last commit (Oct 09, 2026)
+    last_activity: Last commit (Oct 10, 2026)
     archived: false
-    updated_at: '2026-10-09T15:54:50Z'
+    updated_at: '2026-10-10T01:16:03Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1939,11 +1939,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 583
+    stars: 582
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-10-01T08:19:04Z'
+    updated_at: '2026-10-10T00:55:39Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2221,7 +2221,7 @@ repositories:
     contributors: 372
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-09T13:07:49Z'
+    updated_at: '2026-10-09T20:06:28Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1748
+    stars: 1752
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-09T15:20:25Z'
+    updated_at: '2026-10-10T02:17:04Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 169
+    stars: 170
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-09T09:39:28Z'
+    updated_at: '2026-10-10T00:38:03Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
