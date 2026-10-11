@@ -9,18 +9,18 @@ repositories:
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-10T21:36:01Z'
+    updated_at: '2026-10-11T09:12:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1938
+    stars: 1940
     contributors: 359
     last_activity: v4.3.0 (Sep 18, 2026)
     archived: false
-    updated_at: '2026-10-11T00:04:30Z'
+    updated_at: '2026-10-11T14:18:55Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2768
+    stars: 2769
     contributors: 134
     last_activity: v1.99.0 (Sep 08, 2026)
     archived: false
-    updated_at: '2026-10-11T01:43:10Z'
+    updated_at: '2026-10-11T15:17:37Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4238
+    stars: 4237
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-10-08T18:48:37Z'
+    updated_at: '2026-10-11T06:16:18Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 972
     contributors: 37
-    last_activity: Last commit (Oct 10, 2026)
+    last_activity: Last commit (Oct 11, 2026)
     archived: false
-    updated_at: '2026-10-10T13:26:37Z'
+    updated_at: '2026-10-11T11:45:04Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1431,11 +1431,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 186
+    stars: 185
     contributors: 13
     last_activity: v3.0.10 (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-10T06:39:32Z'
+    updated_at: '2026-10-11T13:20:56Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1778
+    stars: 1794
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-11T01:07:20Z'
+    updated_at: '2026-10-11T17:02:15Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2501,11 +2501,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 168
+    stars: 170
     contributors: 1
     last_activity: Last commit (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-10T22:02:09Z'
+    updated_at: '2026-10-11T05:51:16Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 176
+    stars: 177
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-11T03:11:09Z'
+    updated_at: '2026-10-11T11:44:59Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
