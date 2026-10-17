@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1955
+    stars: 1956
     contributors: 359
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-16T14:27:38Z'
+    updated_at: '2026-10-17T00:39:56Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 699
+    stars: 700
     contributors: 181
     last_activity: v8.5.0 (Oct 13, 2026)
     archived: false
-    updated_at: '2026-10-15T14:49:58Z'
+    updated_at: '2026-10-16T16:02:46Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -854,11 +854,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 972
+    stars: 973
     contributors: 37
     last_activity: Last commit (Oct 16, 2026)
     archived: false
-    updated_at: '2026-10-16T08:09:29Z'
+    updated_at: '2026-10-17T00:10:07Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1939,11 +1939,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 582
+    stars: 581
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-10-10T00:55:39Z'
+    updated_at: '2026-10-16T16:33:35Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1929
+    stars: 1938
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-16T15:42:19Z'
+    updated_at: '2026-10-17T01:46:44Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2560,11 +2560,11 @@ repositories:
   category: SDKs & Tooling
   stars: 69
   stats:
-    stars: 76
+    stars: 77
     contributors: 15
     last_activity: v2.0.0 (Oct 01, 2026)
     archived: false
-    updated_at: '2026-10-10T13:42:53Z'
+    updated_at: '2026-10-17T00:15:40Z'
     language: Rust
 - name: flint
   repo: sohan-shingade/flint
