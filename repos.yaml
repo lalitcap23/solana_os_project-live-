@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14954
+    stars: 14955
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-16T13:00:30Z'
+    updated_at: '2026-10-17T12:11:38Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 359
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-17T00:39:56Z'
+    updated_at: '2026-10-17T04:18:48Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -191,7 +191,7 @@ repositories:
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-10-15T00:39:51Z'
+    updated_at: '2026-10-17T13:51:32Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 973
     contributors: 37
-    last_activity: Last commit (Oct 16, 2026)
+    last_activity: Last commit (Oct 17, 2026)
     archived: false
-    updated_at: '2026-10-17T00:10:07Z'
+    updated_at: '2026-10-17T11:31:06Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1431,11 +1431,11 @@ repositories:
   category: DeFi
   stars: 77
   stats:
-    stars: 186
+    stars: 187
     contributors: 13
     last_activity: v3.0.11 (Oct 14, 2026)
     archived: false
-    updated_at: '2026-10-15T12:14:42Z'
+    updated_at: '2026-10-17T03:20:44Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1938
+    stars: 1964
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-17T01:46:44Z'
+    updated_at: '2026-10-17T13:30:19Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2338,11 +2338,11 @@ repositories:
   category: NFTs & Programs
   stars: 95
   stats:
-    stars: 97
+    stars: 98
     contributors: 8
     last_activity: Last commit (Sep 09, 2026)
     archived: false
-    updated_at: '2026-09-23T09:49:17Z'
+    updated_at: '2026-10-17T03:36:08Z'
     language: Rust
 - name: program-examples
   repo: solana-foundation/program-examples
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 195
+    stars: 200
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-15T18:02:51Z'
+    updated_at: '2026-10-17T13:34:01Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
