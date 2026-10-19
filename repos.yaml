@@ -858,7 +858,7 @@ repositories:
     contributors: 37
     last_activity: Last commit (Oct 18, 2026)
     archived: false
-    updated_at: '2026-10-18T12:03:26Z'
+    updated_at: '2026-10-18T22:28:21Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1433,9 +1433,9 @@ repositories:
   stats:
     stars: 187
     contributors: 13
-    last_activity: v3.0.12 (Oct 18, 2026)
+    last_activity: v3.0.16 (Oct 18, 2026)
     archived: false
-    updated_at: '2026-10-18T10:28:40Z'
+    updated_at: '2026-10-18T20:27:03Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 1992
+    stars: 2004
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-18T14:14:22Z'
+    updated_at: '2026-10-19T01:44:54Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2458,11 +2458,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 207
+    stars: 208
     contributors: 331
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-13T09:53:36Z'
+    updated_at: '2026-10-18T21:47:57Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2586,11 +2586,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 17
+    stars: 19
     contributors: 1
     last_activity: Last commit (Jan 11, 2026)
     archived: false
-    updated_at: '2026-10-18T15:01:03Z'
+    updated_at: '2026-10-18T20:03:40Z'
     language: TypeScript
 - name: nuvex
   repo: NuvexNetwork/nuvex
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 201
+    stars: 202
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-18T06:18:36Z'
+    updated_at: '2026-10-18T15:59:02Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
