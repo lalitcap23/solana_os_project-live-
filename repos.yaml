@@ -16,22 +16,22 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1958
+    stars: 1959
     contributors: 358
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-20T02:12:02Z'
+    updated_at: '2026-10-20T15:59:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
   description: Rust SDK used by on-chain program developers and the Agave validator
   category: SDKs & Tooling
   stats:
-    stars: 262
+    stars: 261
     contributors: 184
-    last_activity: transaction@v6.0.0 (Oct 19, 2026)
+    last_activity: vote-interface@v7.3.0 (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-20T00:54:03Z'
+    updated_at: '2026-10-20T15:34:39Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5156
+    stars: 5157
     contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T19:19:05Z'
+    updated_at: '2026-10-20T13:53:24Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -152,22 +152,22 @@ repositories:
   description: Secure key custody API/service for Android
   category: Wallets & Mobile
   stats:
-    stars: 102
+    stars: 103
     contributors: 10
     last_activity: v0.4.0 (Oct 06, 2025)
     archived: false
-    updated_at: '2026-10-14T22:05:56Z'
+    updated_at: '2026-10-20T08:10:12Z'
     language: Kotlin
 - name: Solders (Python)
   repo: kevinheavey/solders
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 450
+    stars: 449
     contributors: 11
     last_activity: 0.29.0 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-10-13T07:09:57Z'
+    updated_at: '2026-10-20T15:34:37Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5156
+    stars: 5157
     contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T19:19:05Z'
+    updated_at: '2026-10-20T13:53:24Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -187,11 +187,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 632
+    stars: 633
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-10-19T13:23:12Z'
+    updated_at: '2026-10-20T14:56:58Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -200,11 +200,11 @@ repositories:
   category: SDKs & Tooling
   stars: 305
   stats:
-    stars: 407
+    stars: 408
     contributors: 20
     last_activity: 0.12.0 (Nov 27, 2025)
     archived: false
-    updated_at: '2026-10-15T00:20:39Z'
+    updated_at: '2026-10-20T05:47:52Z'
     language: Rust
 - name: solana-poc-framework
   repo: neodyme-labs/solana-poc-framework
@@ -277,11 +277,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4131
+    stars: 4132
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-10-18T08:37:56Z'
+    updated_at: '2026-10-20T04:19:14Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 703
+    stars: 704
     contributors: 181
     last_activity: v8.5.0 (Oct 13, 2026)
     archived: false
-    updated_at: '2026-10-20T00:20:08Z'
+    updated_at: '2026-10-20T14:45:41Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -373,11 +373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 67
     last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-10-17T15:01:04Z'
+    updated_at: '2026-10-20T06:36:40Z'
     language: TypeScript
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -858,7 +858,7 @@ repositories:
     contributors: 37
     last_activity: Last commit (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-20T01:07:38Z'
+    updated_at: '2026-10-20T08:01:06Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2217,11 +2217,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5156
+    stars: 5157
     contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T19:19:05Z'
+    updated_at: '2026-10-20T13:53:24Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2050
+    stars: 2073
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-20T01:48:44Z'
+    updated_at: '2026-10-20T15:58:05Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2350,11 +2350,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 67
     last_activity: Last commit (Sep 28, 2026)
     archived: false
-    updated_at: '2026-10-17T15:01:04Z'
+    updated_at: '2026-10-20T06:36:40Z'
     language: TypeScript
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2458,11 +2458,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 208
+    stars: 209
     contributors: 331
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-18T21:47:57Z'
+    updated_at: '2026-10-20T11:39:40Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2648,6 +2648,19 @@ repositories:
     archived: false
     updated_at: '2026-10-14T01:13:50Z'
     language: JavaScript
+- name: million
+  repo: Kelows/million
+  description: 'Personal Solana memecoin intelligence dashboard: an open-source, self-hosted
+    whale tracker and copy-trading deck you run by talking to your AI coding agent.'
+  category: DeFi
+  stars: 6
+  stats:
+    stars: 6
+    contributors: 1
+    last_activity: v1.0.0 (Sep 13, 2026)
+    archived: false
+    updated_at: '2026-10-20T08:44:04Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
