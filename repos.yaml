@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1957
+    stars: 1958
     contributors: 358
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-19T17:31:20Z'
+    updated_at: '2026-10-20T02:12:02Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,9 +29,9 @@ repositories:
   stats:
     stars: 262
     contributors: 184
-    last_activity: reward-info@v8.0.0 (Oct 19, 2026)
+    last_activity: transaction@v6.0.0 (Oct 19, 2026)
     archived: false
-    updated_at: '2026-10-19T17:00:27Z'
+    updated_at: '2026-10-20T00:54:03Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5156
-    contributors: 373
+    contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T16:36:11Z'
+    updated_at: '2026-10-19T19:19:05Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -53,9 +53,9 @@ repositories:
   stats:
     stars: 2778
     contributors: 134
-    last_activity: v1.99.0 (Sep 08, 2026)
+    last_activity: v3.1.1 (Oct 19, 2026)
     archived: false
-    updated_at: '2026-10-18T14:01:31Z'
+    updated_at: '2026-10-19T19:54:24Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -176,10 +176,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5156
-    contributors: 373
+    contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T16:36:11Z'
+    updated_at: '2026-10-19T19:19:05Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 702
+    stars: 703
     contributors: 181
     last_activity: v8.5.0 (Oct 13, 2026)
     archived: false
-    updated_at: '2026-10-19T14:55:01Z'
+    updated_at: '2026-10-20T00:20:08Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -499,11 +499,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3353
+    stars: 3354
     contributors: 155
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-10-18T04:46:54Z'
+    updated_at: '2026-10-19T19:01:24Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 973
     contributors: 37
-    last_activity: Last commit (Oct 18, 2026)
+    last_activity: Last commit (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-18T22:28:21Z'
+    updated_at: '2026-10-20T01:07:38Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -946,9 +946,9 @@ repositories:
   stats:
     stars: 351
     contributors: 15
-    last_activity: v7.0.0 (Oct 19, 2026)
+    last_activity: v8.0.0 (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-19T17:04:44Z'
+    updated_at: '2026-10-20T01:02:58Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1433,9 +1433,9 @@ repositories:
   stats:
     stars: 187
     contributors: 13
-    last_activity: v3.0.17 (Oct 19, 2026)
+    last_activity: v4.0.0 (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-19T17:01:40Z'
+    updated_at: '2026-10-20T01:04:34Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2218,10 +2218,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5156
-    contributors: 373
+    contributors: 374
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-19T16:36:11Z'
+    updated_at: '2026-10-19T19:19:05Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2039
+    stars: 2050
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-19T17:29:06Z'
+    updated_at: '2026-10-20T01:48:44Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
