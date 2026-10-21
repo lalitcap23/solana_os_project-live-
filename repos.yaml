@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1959
+    stars: 1960
     contributors: 358
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-20T15:59:10Z'
+    updated_at: '2026-10-20T17:23:39Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 184
     last_activity: vote-interface@v7.3.0 (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-20T15:34:39Z'
+    updated_at: '2026-10-20T19:04:48Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 973
     contributors: 37
-    last_activity: Last commit (Oct 20, 2026)
+    last_activity: Last commit (Oct 21, 2026)
     archived: false
-    updated_at: '2026-10-20T08:01:06Z'
+    updated_at: '2026-10-21T01:06:34Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -944,11 +944,11 @@ repositories:
   category: DeFi
   stars: 125
   stats:
-    stars: 351
+    stars: 350
     contributors: 15
     last_activity: v8.0.0 (Oct 20, 2026)
     archived: false
-    updated_at: '2026-10-20T01:02:58Z'
+    updated_at: '2026-10-20T19:09:49Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -1324,11 +1324,11 @@ repositories:
   category: NFTs & Programs
   stars: 27
   stats:
-    stars: 27
+    stars: 26
     contributors: 9
     last_activity: Last commit (Apr 06, 2023)
     archived: false
-    updated_at: '2025-01-01T23:07:28Z'
+    updated_at: '2026-10-20T20:02:17Z'
     language: null
 - name: cnft-minter-demo
   repo: solana-developers/cnft-minter-demo
@@ -1389,7 +1389,7 @@ repositories:
     contributors: 1
     last_activity: Release (Apr 11, 2025)
     archived: false
-    updated_at: '2026-09-29T02:16:12Z'
+    updated_at: '2026-10-20T19:44:08Z'
     language: Rust
 - name: profit-script
   repo: tymur999/profit-script
@@ -1458,11 +1458,11 @@ repositories:
   category: SDKs & Tooling
   stars: 65
   stats:
-    stars: 82
+    stars: 83
     contributors: 2
     last_activity: Last commit (Jun 19, 2026)
     archived: false
-    updated_at: '2026-09-30T02:29:50Z'
+    updated_at: '2026-10-20T16:50:01Z'
     language: Rust
 - name: solana-pay-minimal-example
   repo: 256hax/solana-pay-minimal-example
@@ -2326,11 +2326,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2073
+    stars: 2084
     contributors: 1
     last_activity: Last commit (Sep 21, 2026)
     archived: false
-    updated_at: '2026-10-20T15:58:05Z'
+    updated_at: '2026-10-21T02:42:59Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2501,11 +2501,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 179
+    stars: 180
     contributors: 1
     last_activity: Last commit (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-18T07:01:45Z'
+    updated_at: '2026-10-20T23:35:03Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 205
+    stars: 206
     contributors: 0
     last_activity: Last commit (Oct 03, 2026)
     archived: false
-    updated_at: '2026-10-19T15:29:26Z'
+    updated_at: '2026-10-20T18:52:59Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
