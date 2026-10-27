@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-10-26
+Last updated: 2026-10-27
 
 ## Directory
 
@@ -131,12 +131,12 @@ Last updated: 2026-10-26
 | Croptopia | Building Croptopia — a multiplayer farming protocol on Solana. 100 plots, four tiers, finite supply. Anchor program at /Croptopia. | https://github.com/playCroptopia/Croptopia | — | — | Active | SDKs & Tooling |
 | typhoon | 🌪️ Solana Sealevel Framework | https://github.com/aursen-labs/typhoon | 74 | 8 | v0.3.0 (Apr 07, 2026) | SDKs & Tooling |
 | token-generator | Create a Token in less than a minute with the most trusted No-code Token Generator for ERC20, BEP20, SPL Token and Token 2022 assets. No login. No setup. No coding required. | https://github.com/vittominacori/token-generator | 87 | 2 | Last commit (Aug 08, 2026) | SDKs & Tooling |
-| solana-trading-bot-v3 | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | https://github.com/wwwwwwworld/solana-trading-bot-v3 | 188 | 1 | Last commit (Oct 09, 2026) | SDKs & Tooling |
+| solana-trading-bot-v3 | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | solana trading bot | https://github.com/wwwwwwworld/solana-trading-bot-v3 | 187 | 1 | Last commit (Oct 09, 2026) | SDKs & Tooling |
 | solana-pumpsniper-bot | solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot solana sniper bot | https://github.com/LavenderLyden/solana-pumpsniper-bot | — | — | Active | SDKs & Tooling |
 | solana-keychain | Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async-first design, and feature-gated compilation for minimal dependencies. | https://github.com/solana-foundation/solana-keychain | 77 | 15 | v2.0.0 (Oct 01, 2026) | SDKs & Tooling |
 | nuvex | Solana-native verifiable compute and oracle protocol.  Programs accept a job, an input, constraints, and a callback. Randomness is the first job. An active node can fulfill a VRF request with an ECVRF proof after it locks the configured stake and sends a heartbeat. Fees still do not move. | https://github.com/NuvexNetwork/nuvex | 217 | 1 | Last commit (Oct 21, 2026) | SDKs & Tooling |
 | AgenC | Free protocol and marketplace where AI agents get hired and paid on Solana mainnet. Developer docs hub for the AgenC workspace. | https://github.com/tetsuo-ai/AgenC | 195 | 8 | v1.0.0 (Mar 18, 2026) | SDKs & Tooling |
-| NEW solana-sniper-bot | Solana sniper bot: pump.fun launch sniping, mempool/geyser monitoring, instant buy, auto sell, Jito MEV bundles | https://github.com/wcoxptzhhdbo/solana-sniper-bot | 210 | 2 | Last commit (Oct 26, 2026) | SDKs & Tooling |
+| solana-sniper-bot | Solana sniper bot: pump.fun launch sniping, mempool/geyser monitoring, instant buy, auto sell, Jito MEV bundles | https://github.com/wcoxptzhhdbo/solana-sniper-bot | 210 | 2 | Last commit (Oct 26, 2026) | SDKs & Tooling |
 | Wallet Adapter | Modular TypeScript wallet adapters and UI components | https://github.com/anza-xyz/wallet-adapter | 2.0k | 116 | @solana/wallet-adapter-example@0.18.44 (Oct 06, 2026) | Wallets & Mobile |
 | Solana Mobile Stack SDK | Android SDKs: Mobile Wallet Adapter, Seed Vault | https://github.com/solana-mobile/solana-mobile-stack-sdk | 751 | 2 | Archived; Last commit (Jun 23, 2022) | Wallets & Mobile |
 | Mobile Wallet Adapter | Protocol for connecting apps to mobile wallets | https://github.com/solana-mobile/mobile-wallet-adapter | 329 | 23 | @solana-mobile/mobile-wallet-adapter-protocol-web3js@3.0.1 (Oct 09, 2026) | Wallets & Mobile |
@@ -174,7 +174,7 @@ Last updated: 2026-10-26
 | anchorpy | The Python Anchor client. | https://github.com/kevinheavey/anchorpy | 279 | 11 | 0.21.0 (Mar 26, 2025) | NFTs & Programs |
 | metaplex | A directory of what the Metaplex Foundation works on! | https://github.com/metaplex-foundation/metaplex | 3.4k | 155 | v1.2.0 (Mar 16, 2022) | NFTs & Programs |
 | metaboss | The Metaplex NFT-standard Swiss Army Knife tool. | https://github.com/samuelvanderwaal/metaboss | 714 | 26 | v0.49.0 (Apr 23, 2026) | NFTs & Programs |
-| metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 642 | 64 | Last commit (Oct 22, 2026) | NFTs & Programs |
+| metaplex-program-library | Smart contracts maintained by the Metaplex team | https://github.com/metaplex-foundation/metaplex-program-library | 642 | 64 | Last commit (Oct 26, 2026) | NFTs & Programs |
 | treat-toolbox | Treat Toolbox: Generative NFT Utility for Candy Machine / Solana | https://github.com/theskeletoncrew/treat-toolbox | 267 | 11 | Last commit (Apr 25, 2022) | NFTs & Programs |
 | shank | Extracts IDL from Solana Rust contracts | https://github.com/metaplex-foundation/shank | 231 | 11 | Last commit (Sep 09, 2026) | NFTs & Programs |
 | compressed-nfts | Example code to use compressed NFTs (using state compression) on Solana | https://github.com/solana-developers/compressed-nfts | 124 | 2 | Last commit (Jan 18, 2024) | NFTs & Programs |
@@ -263,7 +263,7 @@ Last updated: 2026-10-26
 | memecoin-trading-bot | Memecoin Trading Bot is an easy to use, strategy-first, configurable trading bot for newly launched Solana memecoins. | https://github.com/slightlyuseless/memecoin-trading-bot | 6 | 1 | Last commit (Jul 02, 2026) | DeFi |
 | solos | Solana execution layer for LLM agents. One solos binary with an MCP server inside: swaps, lending, perps, liquidity, transfers and market reads as 49 tools your agent discovers on demand. Mainnet by default, keys stay on your machine, nothing signs until you raise the tier. | https://github.com/GuiBibeau/solos | 31 | 2 | solos-engine@0.0.0 (Oct 13, 2026) | DeFi |
 | million | Personal Solana memecoin intelligence dashboard: an open-source, self-hosted whale tracker and copy-trading deck you run by talking to your AI coding agent. | https://github.com/Kelows/million | 7 | 1 | v1.0.0 (Sep 13, 2026) | DeFi |
-| NEW Kaiser.charon | Solana pump.fun trading bot — Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon. | https://github.com/kaiserern/Kaiser.charon | 70 | 2 | Last commit (Oct 25, 2026) | DeFi |
+| Kaiser.charon | Solana pump.fun trading bot — Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon. | https://github.com/kaiserern/Kaiser.charon | 70 | 2 | Last commit (Oct 25, 2026) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 59 | 6 | v1.5.0 (Feb 11, 2026) | Oracles |
 | Prediction-Market | A Solana-native decentralized prediction market protocol that allows users to create custom markets, supply liquidity, and place tokenized bets, leveraging Switchboard oracles and Anchor smart contracts for trust-minimized outcome settlement. | https://github.com/novustch/Prediction-Market | — | — | Active | Oracles |
 | solana-stablecoin | A decentralized stablecoin protocol built on Solana, providing a robust mechanism for collateralized token minting with advanced risk management, multi-oracle price feeds, governance capabilities, and sophisticated liquidation strategies. | https://github.com/mooooncity/solana-stablecoin | — | — | Active | Oracles |

@@ -9,7 +9,7 @@ repositories:
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-26T00:45:24Z'
+    updated_at: '2026-10-27T02:44:45Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-26T17:53:46Z'
+    updated_at: '2026-10-27T02:48:46Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 185
     last_activity: secp256k1-recover@v3.3.1 (Oct 26, 2026)
     archived: false
-    updated_at: '2026-10-26T16:39:32Z'
+    updated_at: '2026-10-26T18:08:05Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5164
+    stars: 5165
     contributors: 375
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-26T03:07:52Z'
+    updated_at: '2026-10-26T19:38:13Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -55,7 +55,7 @@ repositories:
     contributors: 134
     last_activity: v3.1.1 (Oct 19, 2026)
     archived: false
-    updated_at: '2026-10-26T15:39:08Z'
+    updated_at: '2026-10-26T23:16:33Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -100,7 +100,7 @@ repositories:
     contributors: 34
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-10-26T12:22:42Z'
+    updated_at: '2026-10-27T00:22:12Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5164
+    stars: 5165
     contributors: 375
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-26T03:07:52Z'
+    updated_at: '2026-10-26T19:38:13Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -525,9 +525,9 @@ repositories:
   stats:
     stars: 642
     contributors: 64
-    last_activity: Last commit (Oct 22, 2026)
+    last_activity: Last commit (Oct 26, 2026)
     archived: false
-    updated_at: '2026-10-22T17:21:42Z'
+    updated_at: '2026-10-26T18:23:25Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -2217,11 +2217,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5164
+    stars: 5165
     contributors: 375
     last_activity: v1.2.1 (Oct 06, 2026)
     archived: false
-    updated_at: '2026-10-26T03:07:52Z'
+    updated_at: '2026-10-26T19:38:13Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2462,7 +2462,7 @@ repositories:
     contributors: 331
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-10-23T06:45:52Z'
+    updated_at: '2026-10-26T19:16:45Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2501,11 +2501,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 188
+    stars: 187
     contributors: 1
     last_activity: Last commit (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-26T01:45:00Z'
+    updated_at: '2026-10-26T18:52:20Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2564,7 +2564,7 @@ repositories:
     contributors: 15
     last_activity: v2.0.0 (Oct 01, 2026)
     archived: false
-    updated_at: '2026-10-26T17:59:46Z'
+    updated_at: '2026-10-26T20:34:53Z'
     language: Rust
 - name: flint
   repo: sohan-shingade/flint
@@ -2685,7 +2685,7 @@ repositories:
     contributors: 2
     last_activity: Last commit (Oct 26, 2026)
     archived: false
-    updated_at: '2026-10-26T15:52:38Z'
+    updated_at: '2026-10-26T21:33:23Z'
     language: Python
 search_queries:
 - solana framework language:rust stars:>50
