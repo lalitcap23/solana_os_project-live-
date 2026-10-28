@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1972
+    stars: 1975
     contributors: 357
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-27T16:32:42Z'
+    updated_at: '2026-10-28T03:07:07Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 185
     last_activity: bls-signatures@v4.0.2 (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-27T14:21:40Z'
+    updated_at: '2026-10-27T18:59:21Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2030
+    stars: 2029
     contributors: 116
     last_activity: '@solana/wallet-adapter-example@0.18.44 (Oct 06, 2026)'
     archived: false
-    updated_at: '2026-10-27T15:49:21Z'
+    updated_at: '2026-10-27T19:38:59Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -86,10 +86,10 @@ repositories:
   category: Programs (SPL)
   stats:
     stars: 14
-    contributors: 25
+    contributors: 26
     last_activity: tlv-account-resolution@v0.11.4 (Sep 17, 2026)
     archived: false
-    updated_at: '2026-10-27T15:32:18Z'
+    updated_at: '2026-10-27T21:05:52Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -293,7 +293,7 @@ repositories:
     contributors: 181
     last_activity: v8.5.0 (Oct 13, 2026)
     archived: false
-    updated_at: '2026-10-27T15:58:14Z'
+    updated_at: '2026-10-27T19:23:42Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -377,8 +377,8 @@ repositories:
     contributors: 67
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-27T17:04:02Z'
-    language: TypeScript
+    updated_at: '2026-10-27T20:12:09Z'
+    language: Rust
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
   description: This project is a simple on-chain Dice Game smart contract built for
@@ -856,9 +856,9 @@ repositories:
   stats:
     stars: 976
     contributors: 38
-    last_activity: Last commit (Oct 27, 2026)
+    last_activity: Last commit (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-27T15:22:59Z'
+    updated_at: '2026-10-28T01:10:15Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1435,7 +1435,7 @@ repositories:
     contributors: 13
     last_activity: v5.0.1 (Oct 25, 2026)
     archived: false
-    updated_at: '2026-10-25T21:37:09Z'
+    updated_at: '2026-10-27T20:04:02Z'
     language: Rust
 - name: solana-txn
   repo: JoshuaSum/solana-txn
@@ -2185,11 +2185,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 324
+    stars: 325
     contributors: 12
     last_activity: Last commit (Oct 11, 2026)
     archived: false
-    updated_at: '2026-10-26T13:59:30Z'
+    updated_at: '2026-10-28T00:34:06Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2318,7 +2318,7 @@ repositories:
     contributors: 42
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-10-23T07:01:25Z'
+    updated_at: '2026-10-28T01:07:06Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2328,9 +2328,9 @@ repositories:
   stats:
     stars: 2209
     contributors: 1
-    last_activity: Last commit (Oct 25, 2026)
+    last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-25T22:50:39Z'
+    updated_at: '2026-10-27T23:32:13Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2354,8 +2354,8 @@ repositories:
     contributors: 67
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-27T17:04:02Z'
-    language: TypeScript
+    updated_at: '2026-10-27T20:12:09Z'
+    language: Rust
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
   description: 'A full-stack, peer-to-peer coinflip betting game on Solana. Players
