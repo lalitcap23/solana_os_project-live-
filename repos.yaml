@@ -9,18 +9,18 @@ repositories:
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-27T10:57:42Z'
+    updated_at: '2026-10-28T22:13:29Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1978
+    stars: 1977
     contributors: 356
     last_activity: v4.3.2 (Oct 15, 2026)
     archived: false
-    updated_at: '2026-10-28T16:55:28Z'
+    updated_at: '2026-10-29T02:58:41Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5166
+    stars: 5165
     contributors: 375
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T16:05:45Z'
+    updated_at: '2026-10-28T18:51:01Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -78,18 +78,18 @@ repositories:
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-10-25T02:14:36Z'
+    updated_at: '2026-10-28T18:34:57Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
   description: Helper libraries/building blocks for on-chain programs
   category: Programs (SPL)
   stats:
-    stars: 14
+    stars: 15
     contributors: 26
     last_activity: tlv-account-resolution@v0.11.4 (Sep 17, 2026)
     archived: false
-    updated_at: '2026-10-27T21:05:52Z'
+    updated_at: '2026-10-28T19:24:43Z'
     language: Rust
 - name: Metaplex Token Metadata
   repo: metaplex-foundation/mpl-token-metadata
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5166
+    stars: 5165
     contributors: 375
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T16:05:45Z'
+    updated_at: '2026-10-28T18:51:01Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -289,11 +289,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 703
+    stars: 704
     contributors: 181
-    last_activity: v8.5.0 (Oct 13, 2026)
+    last_activity: v8.6.0 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T09:26:59Z'
+    updated_at: '2026-10-28T19:31:04Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -377,7 +377,7 @@ repositories:
     contributors: 67
     last_activity: Last commit (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T15:32:23Z'
+    updated_at: '2026-10-28T18:03:11Z'
     language: Rust
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -854,11 +854,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 976
+    stars: 977
     contributors: 38
     last_activity: Last commit (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T10:31:37Z'
+    updated_at: '2026-10-28T19:32:05Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2020,9 +2020,9 @@ repositories:
   stats:
     stars: 178
     contributors: 1
-    last_activity: Last commit (Jul 27, 2026)
+    last_activity: Last commit (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-24T05:49:53Z'
+    updated_at: '2026-10-29T01:56:58Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2036,9 +2036,9 @@ repositories:
   stats:
     stars: 173
     contributors: 1
-    last_activity: Last commit (Jul 27, 2026)
+    last_activity: Last commit (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-24T05:49:54Z'
+    updated_at: '2026-10-29T01:56:55Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2052,9 +2052,9 @@ repositories:
   stats:
     stars: 176
     contributors: 1
-    last_activity: Last commit (Jul 27, 2026)
+    last_activity: Last commit (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-24T05:49:55Z'
+    updated_at: '2026-10-29T01:56:57Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2185,11 +2185,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 325
+    stars: 326
     contributors: 12
     last_activity: Last commit (Oct 11, 2026)
     archived: false
-    updated_at: '2026-10-28T00:34:06Z'
+    updated_at: '2026-10-28T19:26:25Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2217,11 +2217,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5166
+    stars: 5165
     contributors: 375
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T16:05:45Z'
+    updated_at: '2026-10-28T18:51:01Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2261,9 +2261,9 @@ repositories:
   stats:
     stars: 202
     contributors: 1
-    last_activity: Last commit (Jul 27, 2026)
+    last_activity: Last commit (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-24T08:39:57Z'
+    updated_at: '2026-10-29T01:57:01Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2354,7 +2354,7 @@ repositories:
     contributors: 67
     last_activity: Last commit (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-28T15:32:23Z'
+    updated_at: '2026-10-28T18:03:11Z'
     language: Rust
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2564,7 +2564,7 @@ repositories:
     contributors: 15
     last_activity: v2.0.0 (Oct 01, 2026)
     archived: false
-    updated_at: '2026-10-28T14:19:10Z'
+    updated_at: '2026-10-28T18:04:12Z'
     language: Rust
 - name: flint
   repo: sohan-shingade/flint
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 218
+    stars: 219
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-27T06:38:24Z'
+    updated_at: '2026-10-29T03:10:18Z'
     language: Solidity
 - name: AgenC
   repo: tetsuo-ai/AgenC
