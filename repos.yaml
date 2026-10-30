@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14988
+    stars: 14980
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-10-29T06:53:43Z'
+    updated_at: '2026-10-30T01:57:32Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 356
     last_activity: v4.4.0 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-29T17:20:53Z'
+    updated_at: '2026-10-30T02:38:00Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -28,10 +28,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 262
-    contributors: 185
+    contributors: 186
     last_activity: program@v5.2.0 (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-29T13:36:45Z'
+    updated_at: '2026-10-29T19:04:49Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5165
+    stars: 5166
     contributors: 377
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-29T14:10:54Z'
+    updated_at: '2026-10-30T02:09:27Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2781
+    stars: 2782
     contributors: 134
     last_activity: v3.1.1 (Oct 19, 2026)
     archived: false
-    updated_at: '2026-10-29T16:52:02Z'
+    updated_at: '2026-10-29T18:48:12Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5165
+    stars: 5166
     contributors: 377
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-29T14:10:54Z'
+    updated_at: '2026-10-30T02:09:27Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -858,7 +858,7 @@ repositories:
     contributors: 38
     last_activity: Last commit (Oct 29, 2026)
     archived: false
-    updated_at: '2026-10-29T16:52:16Z'
+    updated_at: '2026-10-29T22:41:01Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -1680,11 +1680,11 @@ repositories:
   category: SDKs & Tooling
   stars: 261
   stats:
-    stars: 286
+    stars: 287
     contributors: 1
     last_activity: Last commit (Nov 06, 2025)
     archived: false
-    updated_at: '2026-10-29T17:35:26Z'
+    updated_at: '2026-10-29T22:51:12Z'
     language: null
 - name: solana-pumpfun-smart-contract-token2022
   repo: soulcrancerdev/solana-pumpfun-smart-contract-token2022
@@ -2020,9 +2020,9 @@ repositories:
   stats:
     stars: 178
     contributors: 1
-    last_activity: Last commit (Oct 29, 2026)
+    last_activity: Last commit (Oct 30, 2026)
     archived: false
-    updated_at: '2026-10-29T17:02:30Z'
+    updated_at: '2026-10-30T01:35:26Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2036,9 +2036,9 @@ repositories:
   stats:
     stars: 173
     contributors: 1
-    last_activity: Last commit (Oct 29, 2026)
+    last_activity: Last commit (Oct 30, 2026)
     archived: false
-    updated_at: '2026-10-29T17:02:27Z'
+    updated_at: '2026-10-30T01:35:23Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2052,9 +2052,9 @@ repositories:
   stats:
     stars: 176
     contributors: 1
-    last_activity: Last commit (Oct 29, 2026)
+    last_activity: Last commit (Oct 30, 2026)
     archived: false
-    updated_at: '2026-10-29T17:02:29Z'
+    updated_at: '2026-10-30T01:35:25Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2185,11 +2185,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 326
+    stars: 327
     contributors: 12
     last_activity: Last commit (Oct 11, 2026)
     archived: false
-    updated_at: '2026-10-28T19:26:25Z'
+    updated_at: '2026-10-30T03:08:51Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2217,11 +2217,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5165
+    stars: 5166
     contributors: 377
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-29T14:10:54Z'
+    updated_at: '2026-10-30T02:09:27Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2261,9 +2261,9 @@ repositories:
   stats:
     stars: 202
     contributors: 1
-    last_activity: Last commit (Oct 29, 2026)
+    last_activity: Last commit (Oct 30, 2026)
     archived: false
-    updated_at: '2026-10-29T17:02:32Z'
+    updated_at: '2026-10-30T01:35:30Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2314,11 +2314,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1330
   stats:
-    stars: 1342
-    contributors: 42
+    stars: 1343
+    contributors: 43
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-10-29T06:08:45Z'
+    updated_at: '2026-10-29T23:22:47Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2501,11 +2501,11 @@ repositories:
   category: SDKs & Tooling
   stars: 229
   stats:
-    stars: 191
+    stars: 192
     contributors: 1
     last_activity: Last commit (Oct 09, 2026)
     archived: false
-    updated_at: '2026-10-29T17:26:01Z'
+    updated_at: '2026-10-29T22:04:59Z'
     language: TypeScript
 - name: solana-pumpsniper-bot
   repo: LavenderLyden/solana-pumpsniper-bot
@@ -2601,11 +2601,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 219
+    stars: 222
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-10-29T03:10:18Z'
+    updated_at: '2026-10-30T03:43:34Z'
     language: Solidity
 - name: AgenC
   repo: tetsuo-ai/AgenC
