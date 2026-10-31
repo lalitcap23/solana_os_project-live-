@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1977
+    stars: 1978
     contributors: 356
     last_activity: v4.4.0 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-10-31T00:19:05Z'
+    updated_at: '2026-10-31T13:19:55Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -854,11 +854,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 977
+    stars: 978
     contributors: 38
-    last_activity: Last commit (Oct 30, 2026)
+    last_activity: Last commit (Oct 31, 2026)
     archived: false
-    updated_at: '2026-10-30T22:50:26Z'
+    updated_at: '2026-10-31T13:43:35Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2179,11 +2179,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 329
+    stars: 330
     contributors: 12
     last_activity: Last commit (Oct 30, 2026)
     archived: false
-    updated_at: '2026-10-30T23:08:17Z'
+    updated_at: '2026-10-31T03:38:11Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2649,11 +2649,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 9
+    stars: 10
     contributors: 1
     last_activity: v1.0.0 (Sep 13, 2026)
     archived: false
-    updated_at: '2026-10-30T06:07:53Z'
+    updated_at: '2026-10-31T15:00:31Z'
     language: TypeScript
 - name: Kaiser.charon
   repo: kaiserern/Kaiser.charon
