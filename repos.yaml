@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14981
+    stars: 14982
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-03T16:09:43Z'
+    updated_at: '2026-11-03T19:10:23Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.4.0 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-03T18:15:50Z'
+    updated_at: '2026-11-04T03:53:10Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -31,7 +31,7 @@ repositories:
     contributors: 187
     last_activity: vote-interface@v7.4.0 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T12:06:00Z'
+    updated_at: '2026-11-04T03:04:41Z'
     language: Rust
 - name: Anchor
   repo: coral-xyz/anchor
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5164
+    stars: 5163
     contributors: 382
     last_activity: v0.30.4 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T17:22:47Z'
+    updated_at: '2026-11-03T18:57:42Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -96,22 +96,22 @@ repositories:
   description: Core NFT/fungible token metadata program & SDKs
   category: NFTs & Programs
   stats:
-    stars: 255
+    stars: 256
     contributors: 34
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-10-27T11:52:37Z'
+    updated_at: '2026-11-04T01:35:18Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
   description: Metaplex Core Candy Machine (Core assets)
   category: NFTs & Minting
   stats:
-    stars: 38
+    stars: 39
     contributors: 6
     last_activity: release/candy-guard@0.2.3 (May 27, 2026)
     archived: false
-    updated_at: '2026-10-28T17:25:44Z'
+    updated_at: '2026-11-04T01:34:36Z'
     language: TypeScript
 - name: Jupiter Swap API
   repo: jup-ag/jupiter-swap-api
@@ -145,7 +145,7 @@ repositories:
     last_activity: '@solana-mobile/mobile-wallet-adapter-protocol-web3js@3.0.1 (Oct
       09, 2026)'
     archived: false
-    updated_at: '2026-11-03T18:19:33Z'
+    updated_at: '2026-11-03T20:48:58Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -175,11 +175,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5164
+    stars: 5163
     contributors: 382
     last_activity: v0.30.4 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T17:22:47Z'
+    updated_at: '2026-11-03T18:57:42Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -725,11 +725,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 654
+    stars: 655
     contributors: 20
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-03T12:49:04Z'
+    updated_at: '2026-11-04T02:19:18Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -2211,11 +2211,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5164
+    stars: 5163
     contributors: 382
     last_activity: v0.30.4 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T17:22:47Z'
+    updated_at: '2026-11-03T18:57:42Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2312,7 +2312,7 @@ repositories:
     contributors: 43
     last_activity: 2026-08-27 (Aug 27, 2026)
     archived: false
-    updated_at: '2026-11-02T06:33:32Z'
+    updated_at: '2026-11-03T19:12:06Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2320,11 +2320,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2390
+    stars: 2402
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-03T18:50:32Z'
+    updated_at: '2026-11-04T02:50:32Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2515,9 +2515,9 @@ repositories:
   stats:
     stars: 25
     contributors: 2
-    last_activity: v0.6.8 (Nov 03, 2026)
+    last_activity: v0.6.9 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T13:41:45Z'
+    updated_at: '2026-11-03T19:23:43Z'
     language: Rust
 - name: Solgrid.Jupiter
   repo: Lak1Lay/Solgrid.Jupiter
@@ -2589,11 +2589,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 230
+    stars: 232
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T16:58:01Z'
+    updated_at: '2026-11-04T00:45:35Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2703,11 +2703,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 230
+    stars: 232
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-03T16:58:01Z'
+    updated_at: '2026-11-04T00:45:35Z'
     language: Rust
 - name: piprail
   repo: piprail/piprail
