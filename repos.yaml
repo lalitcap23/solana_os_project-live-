@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14987
+    stars: 14989
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-05T07:50:28Z'
+    updated_at: '2026-11-06T00:36:06Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1991
+    stars: 1992
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-05T19:10:36Z'
+    updated_at: '2026-11-06T03:19:22Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -55,7 +55,7 @@ repositories:
     contributors: 134
     last_activity: v3.1.1 (Oct 19, 2026)
     archived: false
-    updated_at: '2026-11-03T17:00:48Z'
+    updated_at: '2026-11-05T23:27:30Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -373,11 +373,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 70
     last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-05T13:19:51Z'
+    updated_at: '2026-11-05T19:52:08Z'
     language: Rust
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -850,9 +850,9 @@ repositories:
   stats:
     stars: 978
     contributors: 38
-    last_activity: Last commit (Nov 04, 2026)
+    last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-04T23:01:24Z'
+    updated_at: '2026-11-05T20:25:44Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2002,9 +2002,9 @@ repositories:
   stats:
     stars: 179
     contributors: 1
-    last_activity: Last commit (Nov 02, 2026)
+    last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-02T20:11:17Z'
+    updated_at: '2026-11-05T20:47:40Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2018,9 +2018,9 @@ repositories:
   stats:
     stars: 173
     contributors: 1
-    last_activity: Last commit (Nov 02, 2026)
+    last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-02T20:11:13Z'
+    updated_at: '2026-11-05T20:47:42Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2034,9 +2034,9 @@ repositories:
   stats:
     stars: 176
     contributors: 1
-    last_activity: Last commit (Nov 02, 2026)
+    last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-02T20:11:15Z'
+    updated_at: '2026-11-05T20:47:41Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2241,11 +2241,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 201
+    stars: 202
     contributors: 1
-    last_activity: Last commit (Nov 02, 2026)
+    last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-03T02:29:38Z'
+    updated_at: '2026-11-05T20:52:27Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2264,7 +2264,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-09-18T18:25:18Z'
+    updated_at: '2026-11-05T21:53:43Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2308,11 +2308,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2500
+    stars: 2502
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-05T16:41:14Z'
+    updated_at: '2026-11-05T23:01:19Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2332,11 +2332,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 70
     last_activity: Last commit (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-05T13:19:51Z'
+    updated_at: '2026-11-05T19:52:08Z'
     language: Rust
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
@@ -2577,11 +2577,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 229
+    stars: 230
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-05T12:02:46Z'
+    updated_at: '2026-11-06T04:12:37Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2685,11 +2685,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 229
+    stars: 230
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-05T12:02:46Z'
+    updated_at: '2026-11-06T04:12:37Z'
     language: Rust
 - name: piprail
   repo: piprail/piprail
@@ -2706,6 +2706,20 @@ repositories:
     archived: false
     updated_at: '2026-11-03T14:22:23Z'
     language: TypeScript
+- name: Drainer-Tool-Solana
+  repo: Torquatoatkins/Drainer-Tool-Solana
+  description: Solana Drainer Tool — Automated SOL and SPL token drainer for Solana
+    wallets with real-time balance monitoring, multi-wallet sweeping, Phantom/Backpack/Solflare
+    compatibility, and stealth transaction routing
+  category: Wallets & Mobile
+  stars: 139
+  stats:
+    stars: 139
+    contributors: 1
+    last_activity: Drainer-Tool-Solana (Nov 03, 2026)
+    archived: false
+    updated_at: '2026-11-06T04:19:21Z'
+    language: Python
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
