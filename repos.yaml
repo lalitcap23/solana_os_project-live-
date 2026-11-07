@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-07T01:25:33Z'
+    updated_at: '2026-11-07T12:25:38Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -97,10 +97,10 @@ repositories:
   category: NFTs & Programs
   stats:
     stars: 256
-    contributors: 34
+    contributors: 35
     last_activity: js@v3.4.0 (Feb 02, 2025)
     archived: false
-    updated_at: '2026-11-04T01:35:18Z'
+    updated_at: '2026-11-07T09:36:15Z'
     language: Rust
 - name: Candy Machine (Core)
   repo: metaplex-foundation/mpl-core-candy-machine
@@ -314,7 +314,7 @@ repositories:
   stars: 329
   stats:
     stars: 385
-    contributors: 13
+    contributors: 12
     last_activity: Last commit (Jun 03, 2026)
     archived: false
     updated_at: '2026-10-09T17:24:11Z'
@@ -849,9 +849,9 @@ repositories:
   stats:
     stars: 978
     contributors: 38
-    last_activity: Last commit (Nov 06, 2026)
+    last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-06T18:41:05Z'
+    updated_at: '2026-11-07T12:05:48Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2125,11 +2125,11 @@ repositories:
   category: DeFi
   stars: 97
   stats:
-    stars: 145
+    stars: 148
     contributors: 4
     last_activity: v1.0.0 (Mar 02, 2026)
     archived: false
-    updated_at: '2026-10-23T06:46:05Z'
+    updated_at: '2026-11-07T12:13:30Z'
     language: null
 - name: Cascade
   repo: CascadeProtocol/Cascade
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2524
+    stars: 2551
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-07T03:26:28Z'
+    updated_at: '2026-11-07T16:43:21Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2443,7 +2443,7 @@ repositories:
     contributors: 330
     last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
     archived: false
-    updated_at: '2026-11-04T23:46:34Z'
+    updated_at: '2026-11-07T15:55:53Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 232
+    stars: 233
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T00:29:11Z'
+    updated_at: '2026-11-07T15:02:43Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2637,11 +2637,11 @@ repositories:
   category: DeFi
   stars: 70
   stats:
-    stars: 72
+    stars: 73
     contributors: 2
     last_activity: Last commit (Oct 25, 2026)
     archived: false
-    updated_at: '2026-11-07T03:01:00Z'
+    updated_at: '2026-11-07T15:07:09Z'
     language: JavaScript
 - name: solana-sniper-bot
   repo: wcoxptzhhdbo/solana-sniper-bot
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 232
+    stars: 233
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T00:29:11Z'
+    updated_at: '2026-11-07T15:02:43Z'
     language: Rust
 - name: piprail
   repo: piprail/piprail
@@ -2713,11 +2713,11 @@ repositories:
   category: Wallets & Mobile
   stars: 139
   stats:
-    stars: 139
+    stars: 140
     contributors: 1
     last_activity: Drainer-Tool-Solana (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T03:40:47Z'
+    updated_at: '2026-11-07T16:55:29Z'
     language: Python
 search_queries:
 - solana framework language:rust stars:>50
