@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14990
+    stars: 14991
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-07T02:48:59Z'
+    updated_at: '2026-11-08T01:31:15Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-07T12:25:38Z'
+    updated_at: '2026-11-08T03:14:19Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -941,7 +941,7 @@ repositories:
     contributors: 15
     last_activity: v11.0.1 (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-06T15:31:42Z'
+    updated_at: '2026-11-07T17:38:10Z'
     language: Rust
 - name: radar
   repo: Auditware/radar
@@ -2001,9 +2001,9 @@ repositories:
   stats:
     stars: 179
     contributors: 1
-    last_activity: Last commit (Nov 06, 2026)
+    last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-06T21:08:44Z'
+    updated_at: '2026-11-07T18:19:47Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2017,9 +2017,9 @@ repositories:
   stats:
     stars: 173
     contributors: 1
-    last_activity: Last commit (Nov 06, 2026)
+    last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-06T21:08:40Z'
+    updated_at: '2026-11-07T18:19:51Z'
     language: TypeScript
 - name: solana-historical-trade-data-api
   repo: vybenetwork/solana-historical-trade-data-api
@@ -2033,9 +2033,9 @@ repositories:
   stats:
     stars: 176
     contributors: 1
-    last_activity: Last commit (Nov 06, 2026)
+    last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-06T21:08:41Z'
+    updated_at: '2026-11-07T18:19:49Z'
     language: TypeScript
 - name: solana-stablecoin
   repo: mooooncity/solana-stablecoin
@@ -2166,11 +2166,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 332
+    stars: 333
     contributors: 12
     last_activity: Last commit (Nov 04, 2026)
     archived: false
-    updated_at: '2026-11-06T16:48:09Z'
+    updated_at: '2026-11-07T19:28:33Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2224,11 +2224,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 12
+    stars: 11
     contributors: 1
     last_activity: Last commit (Dec 04, 2024)
     archived: false
-    updated_at: '2026-07-30T14:36:00Z'
+    updated_at: '2026-11-08T00:00:33Z'
     language: JavaScript
 - name: solana-wallet-pnl-profit-and-loss-api
   repo: vybenetwork/solana-wallet-pnl-profit-and-loss-api
@@ -2242,9 +2242,9 @@ repositories:
   stats:
     stars: 202
     contributors: 1
-    last_activity: Last commit (Nov 06, 2026)
+    last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-06T21:08:45Z'
+    updated_at: '2026-11-07T18:19:46Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2551
+    stars: 2556
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-07T16:43:21Z'
+    updated_at: '2026-11-08T02:41:40Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2384,11 +2384,11 @@ repositories:
   category: DeFi
   stars: 9
   stats:
-    stars: 8
+    stars: 7
     contributors: 3
     last_activity: Last commit (Oct 31, 2026)
     archived: false
-    updated_at: '2026-10-31T02:22:04Z'
+    updated_at: '2026-11-08T00:00:16Z'
     language: Python
 - name: typhoon
   repo: aursen-labs/typhoon
@@ -2441,9 +2441,9 @@ repositories:
   stats:
     stars: 211
     contributors: 330
-    last_activity: release/mainnet-v1.4.1 (Sep 04, 2026)
+    last_activity: release/mainnet-v1.4.2 (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-07T15:55:53Z'
+    updated_at: '2026-11-07T22:15:07Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 233
+    stars: 235
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T15:02:43Z'
+    updated_at: '2026-11-08T01:52:50Z'
     language: Rust
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 233
+    stars: 235
     contributors: 2
     last_activity: Last commit (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T15:02:43Z'
+    updated_at: '2026-11-08T01:52:50Z'
     language: Rust
 - name: piprail
   repo: piprail/piprail
@@ -2717,7 +2717,7 @@ repositories:
     contributors: 1
     last_activity: Drainer-Tool-Solana (Nov 03, 2026)
     archived: false
-    updated_at: '2026-11-07T16:55:29Z'
+    updated_at: '2026-11-08T03:26:39Z'
     language: Python
 search_queries:
 - solana framework language:rust stars:>50
