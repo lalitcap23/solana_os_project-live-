@@ -9,18 +9,18 @@ repositories:
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-10T17:14:09Z'
+    updated_at: '2026-11-11T00:25:37Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1995
+    stars: 1996
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-10T16:29:13Z'
+    updated_at: '2026-11-11T00:25:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5174
+    stars: 5175
     contributors: 386
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-10T15:12:11Z'
+    updated_at: '2026-11-11T01:45:40Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -53,9 +53,9 @@ repositories:
   stats:
     stars: 2782
     contributors: 134
-    last_activity: v3.2.0 (Nov 06, 2026)
+    last_activity: v3.2.1 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T13:50:38Z'
+    updated_at: '2026-11-10T21:39:53Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5174
+    stars: 5175
     contributors: 386
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-10T15:12:11Z'
+    updated_at: '2026-11-11T01:45:40Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -718,11 +718,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 656
+    stars: 655
     contributors: 20
     last_activity: Last commit (Nov 04, 2026)
     archived: false
-    updated_at: '2026-11-07T02:56:13Z'
+    updated_at: '2026-11-11T00:25:47Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -847,11 +847,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 980
+    stars: 979
     contributors: 38
     last_activity: Last commit (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T12:16:34Z'
+    updated_at: '2026-11-11T00:25:46Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2088,11 +2088,11 @@ repositories:
   category: SDKs & Tooling
   stars: 114
   stats:
-    stars: 103
+    stars: 104
     contributors: 1
     last_activity: Last commit (Mar 24, 2026)
     archived: false
-    updated_at: '2026-11-10T01:24:43Z'
+    updated_at: '2026-11-11T01:52:31Z'
     language: null
 - name: solana-pump.fun-bundler
   repo: chris-ruther/solana-pump.fun-bundler
@@ -2170,7 +2170,7 @@ repositories:
     contributors: 12
     last_activity: Last commit (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T16:52:49Z'
+    updated_at: '2026-11-10T21:40:40Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2198,11 +2198,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5174
+    stars: 5175
     contributors: 386
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-10T15:12:11Z'
+    updated_at: '2026-11-11T01:45:40Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2263,7 +2263,7 @@ repositories:
     contributors: 2
     last_activity: solvela-x402-v0.1.2 (Apr 29, 2026)
     archived: false
-    updated_at: '2026-11-08T14:33:44Z'
+    updated_at: '2026-11-11T02:23:52Z'
     language: Rust
 - name: solana-trading-bot-v3
   repo: cortsdine/solana-trading-bot-v3
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2611
+    stars: 2613
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-10T18:10:29Z'
+    updated_at: '2026-11-11T01:33:20Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2577,11 +2577,11 @@ repositories:
   stars: 132
   stats:
     stars: 239
-    contributors: 2
-    last_activity: Last commit (Nov 03, 2026)
+    contributors: 1
+    last_activity: Last commit (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T09:01:20Z'
-    language: Rust
+    updated_at: '2026-11-10T22:32:58Z'
+    language: Solidity
 - name: AgenC
   repo: tetsuo-ai/AgenC
   description: Free protocol and marketplace where AI agents get hired and paid on
@@ -2624,11 +2624,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 14
+    stars: 15
     contributors: 1
     last_activity: v1.0.0 (Sep 13, 2026)
     archived: false
-    updated_at: '2026-11-08T08:07:08Z'
+    updated_at: '2026-11-10T22:12:02Z'
     language: TypeScript
 - name: Kaiser.charon
   repo: kaiserern/Kaiser.charon
@@ -2685,11 +2685,11 @@ repositories:
   stars: 230
   stats:
     stars: 239
-    contributors: 2
-    last_activity: Last commit (Nov 03, 2026)
+    contributors: 1
+    last_activity: Last commit (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T09:01:20Z'
-    language: Rust
+    updated_at: '2026-11-10T22:32:58Z'
+    language: Solidity
 - name: piprail
   repo: piprail/piprail
   description: 'x402 (HTTP 402 Payment Required) SDK + MCP server: let any API charge
@@ -2723,11 +2723,11 @@ repositories:
   stars: 239
   stats:
     stars: 239
-    contributors: 2
-    last_activity: Last commit (Nov 03, 2026)
+    contributors: 1
+    last_activity: Last commit (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-10T09:01:20Z'
-    language: Rust
+    updated_at: '2026-11-10T22:32:58Z'
+    language: Solidity
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
