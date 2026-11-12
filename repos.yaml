@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-11T10:20:45Z'
+    updated_at: '2026-11-12T04:52:40Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -55,7 +55,7 @@ repositories:
     contributors: 134
     last_activity: v3.2.1 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-11T16:26:58Z'
+    updated_at: '2026-11-11T19:25:24Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -2240,11 +2240,11 @@ repositories:
   category: Wallets & Mobile
   stars: 127
   stats:
-    stars: 204
+    stars: 205
     contributors: 1
     last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-09T07:27:20Z'
+    updated_at: '2026-11-11T22:12:07Z'
     language: TypeScript
 - name: jup
   repo: jerrywang33/jup
@@ -2297,9 +2297,9 @@ repositories:
   stats:
     stars: 1347
     contributors: 45
-    last_activity: 2026-11-11 (Nov 11, 2026)
+    last_activity: 2026-11-11.2 (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-11T18:33:58Z'
+    updated_at: '2026-11-11T20:52:29Z'
     language: TypeScript
 - name: solana-mcp-vybe
   repo: vybenetwork/solana-mcp-vybe
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2634
+    stars: 2643
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-11T18:37:49Z'
+    updated_at: '2026-11-12T04:52:44Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2424,11 +2424,11 @@ repositories:
   category: DeFi
   stars: 7
   stats:
-    stars: 16
+    stars: 17
     contributors: 2
     last_activity: Last commit (Sep 19, 2026)
     archived: false
-    updated_at: '2026-10-26T06:25:35Z'
+    updated_at: '2026-11-12T03:16:53Z'
     language: TypeScript
 - name: ika
   repo: dwallet-labs/ika
@@ -2443,7 +2443,7 @@ repositories:
     contributors: 330
     last_activity: release/mainnet-v1.4.4 (Nov 08, 2026)
     archived: false
-    updated_at: '2026-11-11T07:50:32Z'
+    updated_at: '2026-11-12T04:46:10Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2580,8 +2580,8 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-11T07:02:13Z'
-    language: Solidity
+    updated_at: '2026-11-11T22:11:50Z'
+    language: Python
 - name: AgenC
   repo: tetsuo-ai/AgenC
   description: Free protocol and marketplace where AI agents get hired and paid on
@@ -2589,11 +2589,11 @@ repositories:
   category: SDKs & Tooling
   stars: 197
   stats:
-    stars: 195
+    stars: 196
     contributors: 8
     last_activity: v1.0.0 (Mar 18, 2026)
     archived: false
-    updated_at: '2026-11-04T21:39:55Z'
+    updated_at: '2026-11-12T01:38:30Z'
     language: TypeScript
 - name: memecoin-trading-bot
   repo: slightlyuseless/memecoin-trading-bot
@@ -2688,8 +2688,8 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-11T07:02:13Z'
-    language: Solidity
+    updated_at: '2026-11-11T22:11:50Z'
+    language: Python
 - name: piprail
   repo: piprail/piprail
   description: 'x402 (HTTP 402 Payment Required) SDK + MCP server: let any API charge
@@ -2726,8 +2726,8 @@ repositories:
     contributors: 1
     last_activity: Last commit (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-11T07:02:13Z'
-    language: Solidity
+    updated_at: '2026-11-11T22:11:50Z'
+    language: Python
 - name: jupiter-go
   repo: ilkamo/jupiter-go
   description: 'Go SDK for Jupiter (jup.ag) on Solana: swap API, token prices, limit
@@ -2739,7 +2739,7 @@ repositories:
     contributors: 9
     last_activity: v1.1.0 (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-11T16:09:19Z'
+    updated_at: '2026-11-11T20:22:20Z'
     language: Go
 - name: agentinu
   repo: tow3web3/agentinu
@@ -2748,11 +2748,11 @@ repositories:
   category: DeFi
   stars: 7
   stats:
-    stars: 7
+    stars: 9
     contributors: 1
     last_activity: Last commit (Feb 25, 2026)
     archived: false
-    updated_at: '2026-11-11T12:14:26Z'
+    updated_at: '2026-11-12T01:18:19Z'
     language: HTML
 search_queries:
 - solana framework language:rust stars:>50
