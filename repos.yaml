@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2657
+    stars: 2659
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-12T18:09:03Z'
+    updated_at: '2026-11-12T21:52:41Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
