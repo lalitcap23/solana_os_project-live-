@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14985
+    stars: 14986
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-14T10:00:57Z'
+    updated_at: '2026-11-14T18:27:40Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -62,11 +62,11 @@ repositories:
   description: Modular TypeScript wallet adapters and UI components
   category: Wallets & Mobile
   stats:
-    stars: 2032
+    stars: 2031
     contributors: 116
     last_activity: '@solana/wallet-adapter-example@0.18.44 (Oct 06, 2026)'
     archived: false
-    updated_at: '2026-11-01T17:22:47Z'
+    updated_at: '2026-11-14T21:20:12Z'
     language: TypeScript
 - name: Solana Program Library (legacy)
   repo: solana-labs/solana-program-library
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 639
+    stars: 640
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-10T14:14:50Z'
+    updated_at: '2026-11-14T17:54:25Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -718,11 +718,11 @@ repositories:
   category: NFTs & Programs
   stars: 517
   stats:
-    stars: 655
+    stars: 656
     contributors: 20
     last_activity: Last commit (Nov 04, 2026)
     archived: false
-    updated_at: '2026-11-11T00:25:47Z'
+    updated_at: '2026-11-14T22:50:20Z'
     language: TypeScript
 - name: Solana-Trading-Bot
   repo: henrytirla/Solana-Trading-Bot
@@ -1920,11 +1920,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 583
+    stars: 584
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-11-05T03:52:38Z'
+    updated_at: '2026-11-14T20:10:46Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2699
+    stars: 2704
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-14T16:28:56Z'
+    updated_at: '2026-11-15T00:07:43Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
