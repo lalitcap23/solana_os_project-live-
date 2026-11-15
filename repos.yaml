@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14986
+    stars: 14985
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-14T18:27:40Z'
+    updated_at: '2026-11-15T08:31:30Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1999
+    stars: 2000
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-13T05:39:22Z'
+    updated_at: '2026-11-15T12:14:17Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -39,11 +39,11 @@ repositories:
     CLI)
   category: SDKs & Tooling
   stats:
-    stars: 5176
+    stars: 5177
     contributors: 385
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-13T17:34:51Z'
+    updated_at: '2026-11-15T14:34:04Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -118,11 +118,11 @@ repositories:
   description: Jupiter V6 Swap API binaries and releases
   category: DeFi
   stats:
-    stars: 264
+    stars: 265
     contributors: 3
     last_activity: v7.1.5 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-10-31T17:34:40Z'
+    updated_at: '2026-11-15T14:34:17Z'
     language: Dockerfile
 - name: Solana Mobile Stack SDK
   repo: solana-mobile/solana-mobile-stack-sdk
@@ -174,11 +174,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4533
   stats:
-    stars: 5176
+    stars: 5177
     contributors: 385
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-13T17:34:51Z'
+    updated_at: '2026-11-15T14:34:04Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -212,11 +212,11 @@ repositories:
   category: SDKs & Tooling
   stars: 233
   stats:
-    stars: 252
+    stars: 253
     contributors: 13
     last_activity: Last commit (Oct 07, 2025)
     archived: false
-    updated_at: '2026-11-12T12:58:31Z'
+    updated_at: '2026-11-15T15:27:58Z'
     language: Rust
 - name: steel
   repo: regolith-labs/steel
@@ -280,7 +280,7 @@ repositories:
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-11-13T07:33:25Z'
+    updated_at: '2026-11-15T17:17:00Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -847,11 +847,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 979
+    stars: 980
     contributors: 38
-    last_activity: Last commit (Nov 14, 2026)
+    last_activity: Last commit (Nov 15, 2026)
     archived: false
-    updated_at: '2026-11-12T06:47:53Z'
+    updated_at: '2026-11-15T09:30:12Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2198,11 +2198,11 @@ repositories:
   category: SDKs & Tooling
   stars: 5058
   stats:
-    stars: 5176
+    stars: 5177
     contributors: 385
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-13T17:34:51Z'
+    updated_at: '2026-11-15T14:34:04Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2704
+    stars: 2727
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-15T00:07:43Z'
+    updated_at: '2026-11-15T18:11:20Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
