@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 2000
+    stars: 1999
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-17T16:49:19Z'
+    updated_at: '2026-11-18T10:41:50Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2782
+    stars: 2780
     contributors: 134
     last_activity: v3.2.1 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-14T13:37:41Z'
+    updated_at: '2026-11-18T08:43:14Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -74,11 +74,11 @@ repositories:
     to new org
   category: Programs (SPL)
   stats:
-    stars: 4249
+    stars: 4250
     contributors: 233
     last_activity: stake-pool-v2.0.1 (Nov 20, 2024)
     archived: true
-    updated_at: '2026-11-17T15:06:24Z'
+    updated_at: '2026-11-18T11:49:21Z'
     language: Rust
 - name: SPL Libraries (new org)
   repo: solana-program/libraries
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 642
+    stars: 643
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-16T13:04:46Z'
+    updated_at: '2026-11-18T18:34:43Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -276,11 +276,11 @@ repositories:
   category: SDKs & Tooling
   stars: 4135
   stats:
-    stars: 4133
+    stars: 4134
     contributors: 12
     last_activity: Last commit (Apr 26, 2023)
     archived: false
-    updated_at: '2026-11-15T23:46:05Z'
+    updated_at: '2026-11-18T17:27:18Z'
     language: TypeScript
 - name: kit
   repo: anza-xyz/kit
@@ -288,11 +288,11 @@ repositories:
   category: SDKs & Tooling
   stars: 511
   stats:
-    stars: 703
+    stars: 702
     contributors: 181
     last_activity: v8.6.0 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-17T11:59:01Z'
+    updated_at: '2026-11-18T08:43:36Z'
     language: TypeScript
 - name: js
   repo: metaplex-foundation/js
@@ -756,13 +756,7 @@ repositories:
   description: Interface for creating and managing SPL Tokens
   category: SDKs & Tooling
   stars: 202
-  stats:
-    stars: 203
-    contributors: 1
-    last_activity: Last commit (Jul 08, 2021)
-    archived: true
-    updated_at: '2026-09-24T09:53:17Z'
-    language: Vue
+  stats: null
 - name: solana-spl-token-sniper
   repo: danbayk/solana-spl-token-sniper
   description: Solana SPL-Token sniper for new Raydium liquidity pools
@@ -847,11 +841,11 @@ repositories:
   category: SDKs & Tooling
   stars: 816
   stats:
-    stars: 981
+    stars: 980
     contributors: 38
-    last_activity: Last commit (Nov 17, 2026)
+    last_activity: Last commit (Nov 18, 2026)
     archived: false
-    updated_at: '2026-11-17T05:53:23Z'
+    updated_at: '2026-11-18T08:43:24Z'
     language: Rust
 - name: pirate-bootcamp
   repo: solana-developers/pirate-bootcamp
@@ -2224,11 +2218,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 12
+    stars: 11
     contributors: 1
     last_activity: Last commit (Dec 04, 2024)
     archived: false
-    updated_at: '2026-11-09T13:46:16Z'
+    updated_at: '2026-11-18T15:42:56Z'
     language: JavaScript
 - name: solana-wallet-pnl-profit-and-loss-api
   repo: vybenetwork/solana-wallet-pnl-profit-and-loss-api
@@ -2296,7 +2290,7 @@ repositories:
   stars: 1330
   stats:
     stars: 1347
-    contributors: 45
+    contributors: 46
     last_activity: 2026-11-11.2 (Nov 11, 2026)
     archived: false
     updated_at: '2026-11-12T15:29:00Z'
@@ -2307,11 +2301,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2775
+    stars: 2788
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-18T03:59:48Z'
+    updated_at: '2026-11-18T18:43:14Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2371,11 +2365,11 @@ repositories:
   category: DeFi
   stars: 6
   stats:
-    stars: 9
+    stars: 8
     contributors: 1
     last_activity: Last commit (Sep 29, 2026)
     archived: false
-    updated_at: '2026-09-29T13:22:12Z'
+    updated_at: '2026-11-18T15:42:57Z'
     language: JavaScript
 - name: solana-trading-bot
   repo: NadirAliOfficial/solana-trading-bot
@@ -2384,11 +2378,11 @@ repositories:
   category: DeFi
   stars: 9
   stats:
-    stars: 8
+    stars: 7
     contributors: 3
     last_activity: Last commit (Oct 31, 2026)
     archived: false
-    updated_at: '2026-11-09T13:45:59Z'
+    updated_at: '2026-11-18T15:42:39Z'
     language: Python
 - name: typhoon
   repo: aursen-labs/typhoon
