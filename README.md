@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-11-17
+Last updated: 2026-11-18
 
 ## Directory
 
@@ -43,7 +43,7 @@ Last updated: 2026-11-17
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 262 | 187 | seed-derivable@v3.0.1 (Nov 06, 2026) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.2k | 385 | v1.2.2 (Oct 28, 2026) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.8k | 134 | v3.2.1 (Nov 10, 2026) | SDKs & Tooling |
-| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 450 | 12 | 0.29.0 (Aug 13, 2026) | SDKs & Tooling |
+| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 451 | 12 | 0.29.0 (Aug 13, 2026) | SDKs & Tooling |
 | anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.2k | 385 | v1.2.2 (Oct 28, 2026) | SDKs & Tooling |
 | trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 409 | 20 | 0.12.0 (Nov 27, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 253 | 13 | Last commit (Oct 07, 2025) | SDKs & Tooling |
@@ -272,6 +272,7 @@ Last updated: 2026-11-17
 | Kaiser.charon | Solana pump.fun trading bot — Telegram-driven screening, strategy gates, LLM entry selection, Jupiter execution. Fork of yunus-0x/charon. | https://github.com/kaiserern/Kaiser.charon | 78 | 2 | Last commit (Oct 25, 2026) | DeFi |
 | jupiter-go | Go SDK for Jupiter (jup.ag) on Solana: swap API, token prices, limit orders, DCA, Lend, prediction markets, and fast transaction landing. | https://github.com/ilkamo/jupiter-go | 126 | 9 | v1.1.0 (Nov 11, 2026) | DeFi |
 | agentinu | Autonomous AI agent that trades memecoins on Solana 24/7 and distributes profits to token holders. pump.fun scanner + Jupiter V6 + Claude AI. | https://github.com/tow3web3/agentinu | 11 | 1 | Last commit (Feb 25, 2026) | DeFi |
+| NEW potbot-v2 | PotBot: buy a basket of tokenized assets on Solana in one go. BAG (Bitcoin, Anthropic, gold) is live in beta. POTFolio turns a basket into one token (devnet, mainnet after audit). | https://github.com/YD811/potbot-v2 | 22 | 4 | Last commit (Nov 18, 2026) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 61 | 6 | v1.5.0 (Feb 11, 2026) | Oracles |
 | Prediction-Market | A Solana-native decentralized prediction market protocol that allows users to create custom markets, supply liquidity, and place tokenized bets, leveraging Switchboard oracles and Anchor smart contracts for trust-minimized outcome settlement. | https://github.com/novustch/Prediction-Market | — | — | Active | Oracles |
 | solana-stablecoin | A decentralized stablecoin protocol built on Solana, providing a robust mechanism for collateralized token minting with advanced risk management, multi-oracle price feeds, governance capabilities, and sophisticated liquidation strategies. | https://github.com/mooooncity/solana-stablecoin | — | — | Active | Oracles |

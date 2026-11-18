@@ -5,11 +5,11 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14986
+    stars: 14988
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-17T16:49:49Z'
+    updated_at: '2026-11-18T01:51:35Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 450
+    stars: 451
     contributors: 12
     last_activity: 0.29.0 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-11-10T06:42:00Z'
+    updated_at: '2026-11-17T22:20:43Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -1297,7 +1297,7 @@ repositories:
     contributors: 2
     last_activity: v3.2.0 (Apr 30, 2024)
     archived: false
-    updated_at: '2026-10-13T02:45:41Z'
+    updated_at: '2026-11-18T05:06:20Z'
     language: Dart
 - name: solana-nft-anchor
   repo: 687c/solana-nft-anchor
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2769
+    stars: 2775
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-17T19:30:10Z'
+    updated_at: '2026-11-18T03:59:48Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2754,6 +2754,20 @@ repositories:
     archived: false
     updated_at: '2026-11-12T05:43:58Z'
     language: HTML
+- name: potbot-v2
+  repo: YD811/potbot-v2
+  description: 'PotBot: buy a basket of tokenized assets on Solana in one go. BAG
+    (Bitcoin, Anthropic, gold) is live in beta. POTFolio turns a basket into one token
+    (devnet, mainnet after audit).'
+  category: DeFi
+  stars: 22
+  stats:
+    stars: 22
+    contributors: 4
+    last_activity: Last commit (Nov 18, 2026)
+    archived: false
+    updated_at: '2026-11-18T03:39:15Z'
+    language: TypeScript
 search_queries:
 - solana framework language:rust stars:>50
 - solana sdk language:typescript stars:>20
