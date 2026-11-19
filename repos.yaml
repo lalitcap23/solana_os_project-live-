@@ -5,22 +5,22 @@ repositories:
     transitioned to Agave
   category: Infrastructure
   stats:
-    stars: 14988
+    stars: 14990
     contributors: 351
     last_activity: v1.18.26 (Oct 12, 2024)
     archived: true
-    updated_at: '2026-11-18T01:51:35Z'
+    updated_at: '2026-11-18T23:11:00Z'
     language: Rust
 - name: Agave (validator)
   repo: anza-xyz/agave
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 1999
+    stars: 2000
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-18T10:41:50Z'
+    updated_at: '2026-11-18T23:09:35Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 643
+    stars: 644
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-18T18:34:43Z'
+    updated_at: '2026-11-18T22:20:01Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -756,7 +756,13 @@ repositories:
   description: Interface for creating and managing SPL Tokens
   category: SDKs & Tooling
   stars: 202
-  stats: null
+  stats:
+    stars: 203
+    contributors: 1
+    last_activity: Last commit (Jul 08, 2021)
+    archived: true
+    updated_at: '2026-09-24T09:53:17Z'
+    language: Vue
 - name: solana-spl-token-sniper
   repo: danbayk/solana-spl-token-sniper
   description: Solana SPL-Token sniper for new Raydium liquidity pools
@@ -1299,11 +1305,11 @@ repositories:
   category: NFTs & Programs
   stars: 33
   stats:
-    stars: 36
+    stars: 35
     contributors: 2
     last_activity: Last commit (Nov 24, 2023)
     archived: false
-    updated_at: '2026-11-17T15:09:24Z'
+    updated_at: '2026-11-19T02:40:40Z'
     language: Rust
 - name: mpl-candy-guard
   repo: metaplex-foundation/mpl-candy-guard
@@ -1914,11 +1920,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 585
+    stars: 584
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-11-17T15:10:09Z'
+    updated_at: '2026-11-19T02:50:46Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2301,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2788
+    stars: 2795
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-18T18:43:14Z'
+    updated_at: '2026-11-19T05:10:24Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
