@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-11-20
+Last updated: 2026-11-21
 
 ## Directory
 
@@ -250,7 +250,7 @@ Last updated: 2026-11-20
 | pumpfun-amm-bundler-volumn-maker-bot | Automated PumpFun/Raydium bundler and volume bot for Solana using Jito, multi-wallet distribution, and randomized buy/sell cycles to simulate organic liquidity and improve execution reliability. | https://github.com/Luukogood/pumpfun-amm-bundler-volumn-maker-bot | — | — | Active | DeFi |
 | solana-x402-payment | A modern, refactored Solana trading bot for Pumpswap that features automated market cap monitoring, risk management, comprehensive error handling, and a clean TypeScript architecture with full testing coverage. | https://github.com/michalstefanow/solana-x402-payment | 14 | — | Last commit (Oct 30, 2025) | DeFi |
 | solana-copy-trading-bot | --Solana copy trading bot-- Advanced Solana copy trading bot with non-blocking parallel execution, must-selling protection, and multi-DEX fallback (Raydium, PumpFun, Jupiter) for secure high-speed DeFi trading.  --Solana copy trading bot | https://github.com/AlphaFox000/solana-copy-trading-bot | — | — | Active | DeFi |
-| solana-trading-cli | Trading infrastructure for AI agents and Humans on Solana. 17 DEX adapters, 12 TX landing providers, LP operations, and a unified CLI/SDK — with gRPC streaming and OpenClaw agent integration coming next. | https://github.com/outsmartchad/solana-trading-cli | 584 | 6 | v0.1.2 (Apr 11, 2025) | DeFi |
+| solana-trading-cli | Trading infrastructure for AI agents and Humans on Solana. 17 DEX adapters, 12 TX landing providers, LP operations, and a unified CLI/SDK — with gRPC streaming and OpenClaw agent integration coming next. | https://github.com/outsmartchad/solana-trading-cli | 585 | 6 | v0.1.2 (Apr 11, 2025) | DeFi |
 | solana-new-pair-sniper-jupiter-v6 | An ultra-low latency Solana sniper script optimized for the Jupiter V6 API, focusing on buying tokens within the first block of liquidity. | https://github.com/leionion/solana-new-pair-sniper-jupiter-v6 | 4 | 1 | Last commit (Mar 16, 2026) | DeFi |
 | prediction-market-smart-contract-solana-evm | Advanced Prediction Market Smart Contract for Solana. This Prediction Market is inspired by PolyMarket and designed for high-performance DeFi trading. Secure Prediction Market Smart Contract implementation featuring automated payouts. A robust Solana-based Prediction Market protocol for transparent market forecasting and Prediction Market strategy. | https://github.com/L9T-Development/prediction-market-smart-contract-solana-evm | — | — | Active | DeFi |
 | safe-solana-builder | The first Claude skill for writing production-grade, security-first Solana programs. Anchor & Native Rust. Built by Frank Castle. | https://github.com/Frankcastleauditor/safe-solana-builder | 149 | 4 | v1.0.0 (Mar 02, 2026) | DeFi |

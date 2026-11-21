@@ -1920,11 +1920,11 @@ repositories:
   category: DeFi
   stars: 565
   stats:
-    stars: 584
+    stars: 585
     contributors: 6
     last_activity: v0.1.2 (Apr 11, 2025)
     archived: false
-    updated_at: '2026-11-20T12:51:02Z'
+    updated_at: '2026-11-21T02:08:05Z'
     language: TypeScript
 - name: Prediction-Market-Smart-Contract-Solana
   repo: 0xAxon7/Prediction-Market-Smart-Contract-Solana
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2793
+    stars: 2800
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-20T19:11:46Z'
+    updated_at: '2026-11-21T03:02:13Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
