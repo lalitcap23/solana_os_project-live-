@@ -20,7 +20,7 @@ repositories:
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-19T21:34:19Z'
+    updated_at: '2026-11-21T17:19:36Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2779
+    stars: 2780
     contributors: 134
     last_activity: v3.2.1 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-19T21:04:11Z'
+    updated_at: '2026-11-21T14:49:09Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 644
+    stars: 645
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-20T17:21:23Z'
+    updated_at: '2026-11-21T10:41:13Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -372,11 +372,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1247
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 71
     last_activity: Last commit (Nov 20, 2026)
     archived: false
-    updated_at: '2026-11-19T22:37:15Z'
+    updated_at: '2026-11-21T14:48:28Z'
     language: Rust
 - name: Solana_Dice_SmartContract
   repo: kinexbt/Solana_Dice_SmartContract
@@ -522,11 +522,11 @@ repositories:
   category: NFTs & Programs
   stars: 634
   stats:
-    stars: 646
+    stars: 645
     contributors: 64
     last_activity: Last commit (Oct 26, 2026)
     archived: false
-    updated_at: '2026-11-20T04:49:08Z'
+    updated_at: '2026-11-21T15:15:43Z'
     language: Rust
 - name: treat-toolbox
   repo: theskeletoncrew/treat-toolbox
@@ -731,11 +731,11 @@ repositories:
   category: DeFi
   stars: 290
   stats:
-    stars: 288
+    stars: 289
     contributors: 1
     last_activity: Last commit (Feb 15, 2025)
     archived: false
-    updated_at: '2026-11-17T10:37:52Z'
+    updated_at: '2026-11-21T16:20:09Z'
     language: Python
 - name: solana-tools
   repo: cryptoloutre/solana-tools
@@ -849,7 +849,7 @@ repositories:
   stats:
     stars: 980
     contributors: 38
-    last_activity: Last commit (Nov 20, 2026)
+    last_activity: Last commit (Nov 21, 2026)
     archived: false
     updated_at: '2026-11-20T04:48:42Z'
     language: Rust
@@ -1999,11 +1999,11 @@ repositories:
   category: SDKs & Tooling
   stars: 106
   stats:
-    stars: 172
+    stars: 171
     contributors: 1
     last_activity: Last commit (Nov 07, 2026)
     archived: false
-    updated_at: '2026-11-19T16:13:13Z'
+    updated_at: '2026-11-21T05:56:42Z'
     language: TypeScript
 - name: solana-token-stats-metadata-api
   repo: vybenetwork/solana-token-stats-metadata-api
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2800
+    stars: 2801
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-21T03:02:13Z'
+    updated_at: '2026-11-21T18:30:34Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2331,11 +2331,11 @@ repositories:
   category: SDKs & Tooling
   stars: 1416
   stats:
-    stars: 1435
+    stars: 1436
     contributors: 71
     last_activity: Last commit (Nov 20, 2026)
     archived: false
-    updated_at: '2026-11-19T22:37:15Z'
+    updated_at: '2026-11-21T14:48:28Z'
     language: Rust
 - name: coinflip-casino
   repo: xxniiinxx/coinflip-casino
