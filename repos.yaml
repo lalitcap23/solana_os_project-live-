@@ -2114,7 +2114,7 @@ repositories:
   stats:
     stars: 7
     contributors: 1
-    last_activity: Last commit (Nov 14, 2026)
+    last_activity: Last commit (Nov 22, 2026)
     archived: false
     updated_at: '2026-11-12T13:54:41Z'
     language: null
@@ -2166,11 +2166,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 331
+    stars: 332
     contributors: 12
     last_activity: v1.0.10 (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-20T16:41:22Z'
+    updated_at: '2026-11-21T19:53:30Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2801
+    stars: 2805
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-21T18:30:34Z'
+    updated_at: '2026-11-22T02:28:55Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2637,11 +2637,11 @@ repositories:
   category: DeFi
   stars: 70
   stats:
-    stars: 78
+    stars: 79
     contributors: 2
     last_activity: Last commit (Oct 25, 2026)
     archived: false
-    updated_at: '2026-11-17T10:18:34Z'
+    updated_at: '2026-11-21T22:20:16Z'
     language: JavaScript
 - name: solana-sniper-bot
   repo: wcoxptzhhdbo/solana-sniper-bot
