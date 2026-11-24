@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2830
+    stars: 2837
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-23T21:20:16Z'
+    updated_at: '2026-11-24T07:47:03Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 241
+    stars: 242
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-22T10:43:09Z'
+    updated_at: '2026-11-23T23:18:54Z'
     language: Python
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 241
+    stars: 242
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-22T10:43:09Z'
+    updated_at: '2026-11-23T23:18:54Z'
     language: Python
 - name: piprail
   repo: piprail/piprail
@@ -2722,11 +2722,11 @@ repositories:
   category: SDKs & Tooling
   stars: 239
   stats:
-    stars: 241
+    stars: 242
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-22T10:43:09Z'
+    updated_at: '2026-11-23T23:18:54Z'
     language: Python
 - name: jupiter-go
   repo: ilkamo/jupiter-go
@@ -2777,7 +2777,7 @@ repositories:
   stats:
     stars: 72
     contributors: 1
-    last_activity: v0.5.115 (Nov 23, 2026)
+    last_activity: v0.5.116 (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-23T18:22:51Z'
     language: TypeScript
