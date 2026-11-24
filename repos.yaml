@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 2001
-    contributors: 357
+    stars: 2002
+    contributors: 356
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-23T09:44:28Z'
+    updated_at: '2026-11-24T19:45:21Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -29,7 +29,7 @@ repositories:
   stats:
     stars: 263
     contributors: 187
-    last_activity: vote-keys@v1.0.2 (Nov 23, 2026)
+    last_activity: bls-signatures@v4.1.0 (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-19T22:17:50Z'
     language: Rust
@@ -40,10 +40,10 @@ repositories:
   category: SDKs & Tooling
   stats:
     stars: 5178
-    contributors: 386
+    contributors: 388
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-23T09:44:45Z'
+    updated_at: '2026-11-24T21:13:21Z'
     language: Rust
 - name: Solana Web3.js (v1.x)
   repo: solana-foundation/solana-web3.js
@@ -51,11 +51,11 @@ repositories:
     as @solana/kit)
   category: SDKs & Tooling
   stats:
-    stars: 2781
+    stars: 2782
     contributors: 134
     last_activity: v3.2.1 (Nov 10, 2026)
     archived: false
-    updated_at: '2026-11-23T09:44:44Z'
+    updated_at: '2026-11-24T19:59:06Z'
     language: TypeScript
 - name: Wallet Adapter
   repo: anza-xyz/wallet-adapter
@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 449
+    stars: 450
     contributors: 12
     last_activity: 0.29.0 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-11-20T00:17:15Z'
+    updated_at: '2026-11-24T20:17:13Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -175,10 +175,10 @@ repositories:
   stars: 4533
   stats:
     stars: 5178
-    contributors: 386
+    contributors: 388
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-23T09:44:45Z'
+    updated_at: '2026-11-24T21:13:21Z'
     language: Rust
 - name: carbon
   repo: sevenlabs-hq/carbon
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 646
+    stars: 647
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-22T16:22:18Z'
+    updated_at: '2026-11-24T18:43:33Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -349,8 +349,8 @@ repositories:
   stars: 182
   stats:
     stars: 186
-    contributors: 4
-    last_activity: Last commit (Jun 25, 2026)
+    contributors: 5
+    last_activity: Last commit (Nov 24, 2026)
     archived: false
     updated_at: '2026-08-14T04:07:34Z'
     language: TypeScript
@@ -374,7 +374,7 @@ repositories:
   stats:
     stars: 1436
     contributors: 72
-    last_activity: Last commit (Nov 23, 2026)
+    last_activity: Last commit (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-21T14:48:28Z'
     language: Rust
@@ -849,7 +849,7 @@ repositories:
   stats:
     stars: 980
     contributors: 38
-    last_activity: Last commit (Nov 23, 2026)
+    last_activity: Last commit (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-20T04:48:42Z'
     language: Rust
@@ -2199,10 +2199,10 @@ repositories:
   stars: 5058
   stats:
     stars: 5178
-    contributors: 386
+    contributors: 388
     last_activity: v1.2.2 (Oct 28, 2026)
     archived: false
-    updated_at: '2026-11-23T09:44:45Z'
+    updated_at: '2026-11-24T21:13:21Z'
     language: Rust
 - name: mobile_app
   repo: anonmesh/mobile_app
@@ -2297,7 +2297,7 @@ repositories:
   stats:
     stars: 1348
     contributors: 46
-    last_activity: 2026-11-23 (Nov 23, 2026)
+    last_activity: 2026-11-24 (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-22T07:56:15Z'
     language: TypeScript
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2837
+    stars: 2850
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-24T07:47:03Z'
+    updated_at: '2026-11-24T21:14:54Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2333,7 +2333,7 @@ repositories:
   stats:
     stars: 1436
     contributors: 72
-    last_activity: Last commit (Nov 23, 2026)
+    last_activity: Last commit (Nov 24, 2026)
     archived: false
     updated_at: '2026-11-21T14:48:28Z'
     language: Rust
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 242
+    stars: 241
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-23T23:18:54Z'
+    updated_at: '2026-11-24T14:44:41Z'
     language: Python
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2637,11 +2637,11 @@ repositories:
   category: DeFi
   stars: 70
   stats:
-    stars: 79
+    stars: 80
     contributors: 2
     last_activity: Last commit (Oct 25, 2026)
     archived: false
-    updated_at: '2026-11-21T22:20:16Z'
+    updated_at: '2026-11-24T16:53:02Z'
     language: JavaScript
 - name: solana-sniper-bot
   repo: wcoxptzhhdbo/solana-sniper-bot
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 242
+    stars: 241
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-23T23:18:54Z'
+    updated_at: '2026-11-24T14:44:41Z'
     language: Python
 - name: piprail
   repo: piprail/piprail
@@ -2722,11 +2722,11 @@ repositories:
   category: SDKs & Tooling
   stars: 239
   stats:
-    stars: 242
+    stars: 241
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-23T23:18:54Z'
+    updated_at: '2026-11-24T14:44:41Z'
     language: Python
 - name: jupiter-go
   repo: ilkamo/jupiter-go
@@ -2775,11 +2775,11 @@ repositories:
   category: Payments
   stars: 73
   stats:
-    stars: 72
+    stars: 66
     contributors: 1
     last_activity: v0.5.116 (Nov 24, 2026)
     archived: false
-    updated_at: '2026-11-23T18:22:51Z'
+    updated_at: '2026-11-24T20:29:29Z'
     language: TypeScript
 - name: jupiter-v6-atomic-arbitrage-bot
   repo: soderberg65595/jupiter-v6-atomic-arbitrage-bot
@@ -2787,39 +2787,21 @@ repositories:
     Triangular Arbitrage Bot & Solana Sniper Bot
   category: DeFi
   stars: 244
-  stats:
-    stars: 244
-    contributors: 2
-    last_activity: v1.2.0 (Nov 23, 2026)
-    archived: false
-    updated_at: '2026-11-23T19:54:37Z'
-    language: Python
+  stats: null
 - name: solana-mev-jito-arbitrage-bot
   repo: whittaker627/solana-mev-jito-arbitrage-bot
   description: Jito MEV Bot & Solana Arbitrage Bot (2026) — Solana MEV Bot, Raydium
     Sniper Bot & Jupiter Arbitrage Bot for Windows x64
   category: DeFi
   stars: 235
-  stats:
-    stars: 235
-    contributors: 2
-    last_activity: v1.2.0 (Nov 23, 2026)
-    archived: false
-    updated_at: '2026-11-23T19:54:22Z'
-    language: Python
+  stats: null
 - name: solana-sniper-bot-2026
   repo: Enrico339/solana-sniper-bot-2026
   description: Solana Sniper Bot & Pump Fun Sniper Bot (2026) — Raydium Sniper Bot,
     Jito MEV Bot & Jupiter Arbitrage Bot for Windows 10/11 x64
   category: DeFi
   stars: 230
-  stats:
-    stars: 230
-    contributors: 2
-    last_activity: v1.2.0 (Nov 23, 2026)
-    archived: false
-    updated_at: '2026-11-23T19:22:30Z'
-    language: Python
+  stats: null
 - name: bonkbot-solana-auto-sniper
   repo: yvesg67041/bonkbot-solana-auto-sniper
   description: 'BonkBot Solana Telemetry & Auto-Sniper Engine — Sub-Second Jupiter
@@ -2827,12 +2809,19 @@ repositories:
     configuration, low-overhead runtime, and prebuilt portable release.'
   category: DeFi
   stars: 111
+  stats: null
+- name: solana-spl-token-2022-creator-bundler
+  repo: gillesyoon36801/solana-spl-token-2022-creator-bundler
+  description: Solana Spl Token 2022 Creator Bundler [2026] — Standalone Windows 10/11
+    (x64) Release & Config
+  category: DeFi
+  stars: 99
   stats:
-    stars: 111
+    stars: 99
     contributors: 2
-    last_activity: v1.2.0 (Nov 23, 2026)
+    last_activity: v1.2.0 (Nov 24, 2026)
     archived: false
-    updated_at: '2026-11-23T19:22:19Z'
+    updated_at: '2026-11-24T20:29:58Z'
     language: Python
 search_queries:
 - solana framework language:rust stars:>50
