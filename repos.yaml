@@ -162,11 +162,11 @@ repositories:
   description: High-performance Python toolkit for Solana (Rust-backed)
   category: SDKs & Tooling
   stats:
-    stars: 450
+    stars: 452
     contributors: 12
     last_activity: 0.29.0 (Aug 13, 2026)
     archived: false
-    updated_at: '2026-11-24T20:17:13Z'
+    updated_at: '2026-11-25T04:49:25Z'
     language: Rust
 - name: anchor
   repo: solana-foundation/anchor
@@ -498,11 +498,11 @@ repositories:
   category: NFTs & Programs
   stars: 3345
   stats:
-    stars: 3354
+    stars: 3353
     contributors: 154
     last_activity: v1.2.0 (Mar 16, 2022)
     archived: false
-    updated_at: '2026-11-19T22:14:22Z'
+    updated_at: '2026-11-25T01:27:36Z'
     language: null
 - name: metaboss
   repo: samuelvanderwaal/metaboss
@@ -2311,7 +2311,7 @@ repositories:
     contributors: 1
     last_activity: Last commit (Oct 27, 2026)
     archived: false
-    updated_at: '2026-11-24T21:14:54Z'
+    updated_at: '2026-11-25T03:56:12Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2775,11 +2775,11 @@ repositories:
   category: Payments
   stars: 73
   stats:
-    stars: 66
+    stars: 62
     contributors: 1
-    last_activity: v0.5.116 (Nov 24, 2026)
+    last_activity: v0.5.117 (Nov 24, 2026)
     archived: false
-    updated_at: '2026-11-24T20:29:29Z'
+    updated_at: '2026-11-24T22:46:11Z'
     language: TypeScript
 - name: jupiter-v6-atomic-arbitrage-bot
   repo: soderberg65595/jupiter-v6-atomic-arbitrage-bot
@@ -2817,11 +2817,11 @@ repositories:
   category: DeFi
   stars: 99
   stats:
-    stars: 99
+    stars: 26
     contributors: 2
     last_activity: v1.2.0 (Nov 24, 2026)
     archived: false
-    updated_at: '2026-11-24T20:29:58Z'
+    updated_at: '2026-11-25T01:31:37Z'
     language: Python
 search_queries:
 - solana framework language:rust stars:>50

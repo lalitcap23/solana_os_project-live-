@@ -20,7 +20,7 @@ Notes
 - Counts change frequently; treat numbers as snapshots. For auto-updates, consider adding a GitHub Actions workflow to refresh this table daily or weekly.
 - Focus areas: core infrastructure, SDKs, tooling, wallets, payments, NFTs, DeFi, and oracles.
 
-Last updated: 2026-11-24
+Last updated: 2026-11-25
 
 ## Directory
 
@@ -43,7 +43,7 @@ Last updated: 2026-11-24
 | Solana SDK (Rust) | Rust SDK used by on-chain program developers and the Agave validator | https://github.com/anza-xyz/solana-sdk | 263 | 187 | bls-signatures@v4.1.0 (Nov 24, 2026) | SDKs & Tooling |
 | Anchor | Framework for building Solana programs (Rust eDSL, IDL, TS client, CLI) | https://github.com/coral-xyz/anchor | 5.2k | 388 | v1.2.2 (Oct 28, 2026) | SDKs & Tooling |
 | Solana Web3.js (v1.x) | Official JavaScript SDK (maintenance branch; successor work referenced as @solana/kit) | https://github.com/solana-foundation/solana-web3.js | 2.8k | 134 | v3.2.1 (Nov 10, 2026) | SDKs & Tooling |
-| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 450 | 12 | 0.29.0 (Aug 13, 2026) | SDKs & Tooling |
+| Solders (Python) | High-performance Python toolkit for Solana (Rust-backed) | https://github.com/kevinheavey/solders | 452 | 12 | 0.29.0 (Aug 13, 2026) | SDKs & Tooling |
 | anchor | ⚓ Solana Sealevel Framework | https://github.com/solana-foundation/anchor | 5.2k | 388 | v1.2.2 (Oct 28, 2026) | SDKs & Tooling |
 | trident | Rust-based framework to Fuzz Solana programs, designed to help you ship secure code. | https://github.com/Ackee-Blockchain/trident | 409 | 20 | 0.12.0 (Nov 27, 2025) | SDKs & Tooling |
 | solana-poc-framework | A framework for creating PoC's for Solana Smart Contracts in a painless and intuitive way | https://github.com/neodyme-labs/solana-poc-framework | 253 | 13 | Last commit (Oct 07, 2025) | SDKs & Tooling |
@@ -223,7 +223,7 @@ Last updated: 2026-11-24
 | medusa-payment-solana | Medusajs payment modules for solana blockchain | https://github.com/rpuls/medusa-payment-solana | 9 | 2 | Last commit (Sep 08, 2025) | Payments |
 | Ros-X402-Node | A ROS 1 (Noetic) package that turns robot capabilities into paid API endpoints - using Solana’s x402 protocol for pay-to-access control — and includes tools for making and verifying payments to external services. | https://github.com/homebrewroboticsclub/Ros-X402-Node | 11 | 3 | Last commit (Apr 27, 2026) | Payments |
 | solvela | Solana-native AI agent payment infrastructure. AI agents pay for LLM API calls with USDC-SPL on Solana via the x402 protocol. | https://github.com/solvela-ai/solvela | 10 | 2 | solvela-x402-v0.1.2 (Apr 29, 2026) | Payments |
-| agent-payment-node | Agent Payment Node (APN): open-source local-first payment runtime and MCP server for AI agents. x402, USDC, EVM, Solana, TRON. | https://github.com/nuanu-ai/agent-payment-node | 66 | 1 | v0.5.116 (Nov 24, 2026) | Payments |
+| agent-payment-node | Agent Payment Node (APN): open-source local-first payment runtime and MCP server for AI agents. x402, USDC, EVM, Solana, TRON. | https://github.com/nuanu-ai/agent-payment-node | 62 | 1 | v0.5.117 (Nov 24, 2026) | Payments |
 | Jupiter Swap API | Jupiter V6 Swap API binaries and releases | https://github.com/jup-ag/jupiter-swap-api | 266 | 3 | v7.1.5 (Nov 10, 2026) | DeFi |
 | carbon | Carbon is an indexing framework on Solana. | https://github.com/sevenlabs-hq/carbon | 647 | 45 | v2.0.0 (Sep 05, 2026) | DeFi |
 | raydium-sdk-swap-example-typescript | An example to swap tokens on Solana using the Raydium SDK, TypeScript, and Chainstack | https://github.com/chainstacklabs/raydium-sdk-swap-example-typescript | 186 | 5 | Last commit (Nov 24, 2026) | DeFi |
@@ -278,7 +278,7 @@ Last updated: 2026-11-24
 | solana-mev-jito-arbitrage-bot | Jito MEV Bot & Solana Arbitrage Bot (2026) — Solana MEV Bot, Raydium Sniper Bot & Jupiter Arbitrage Bot for Windows x64 | https://github.com/whittaker627/solana-mev-jito-arbitrage-bot | — | — | Active | DeFi |
 | solana-sniper-bot-2026 | Solana Sniper Bot & Pump Fun Sniper Bot (2026) — Raydium Sniper Bot, Jito MEV Bot & Jupiter Arbitrage Bot for Windows 10/11 x64 | https://github.com/Enrico339/solana-sniper-bot-2026 | — | — | Active | DeFi |
 | bonkbot-solana-auto-sniper | BonkBot Solana Telemetry & Auto-Sniper Engine — Sub-Second Jupiter Routing: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release. | https://github.com/yvesg67041/bonkbot-solana-auto-sniper | — | — | Active | DeFi |
-| NEW solana-spl-token-2022-creator-bundler | Solana Spl Token 2022 Creator Bundler [2026] — Standalone Windows 10/11 (x64) Release & Config | https://github.com/gillesyoon36801/solana-spl-token-2022-creator-bundler | 99 | 2 | v1.2.0 (Nov 24, 2026) | DeFi |
+| solana-spl-token-2022-creator-bundler | Solana Spl Token 2022 Creator Bundler [2026] — Standalone Windows 10/11 (x64) Release & Config | https://github.com/gillesyoon36801/solana-spl-token-2022-creator-bundler | 26 | 2 | v1.2.0 (Nov 24, 2026) | DeFi |
 | moonit-sdk | NPM package and code examples for creating buy/sell and mint transactions, and calculating the price of any moon.it tokens on Solana. | https://github.com/gomoonit/moonit-sdk | 61 | 6 | v1.5.0 (Feb 11, 2026) | Oracles |
 | Prediction-Market | A Solana-native decentralized prediction market protocol that allows users to create custom markets, supply liquidity, and place tokenized bets, leveraging Switchboard oracles and Anchor smart contracts for trust-minimized outcome settlement. | https://github.com/novustch/Prediction-Market | — | — | Active | Oracles |
 | solana-stablecoin | A decentralized stablecoin protocol built on Solana, providing a robust mechanism for collateralized token minting with advanced risk management, multi-oracle price feeds, governance capabilities, and sophisticated liquidation strategies. | https://github.com/mooooncity/solana-stablecoin | — | — | Active | Oracles |
