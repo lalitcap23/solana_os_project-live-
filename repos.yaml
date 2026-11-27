@@ -16,11 +16,11 @@ repositories:
   description: Current Solana validator implementation maintained by Anza
   category: Infrastructure
   stats:
-    stars: 2003
+    stars: 2004
     contributors: 357
     last_activity: v4.4.1 (Nov 05, 2026)
     archived: false
-    updated_at: '2026-11-26T18:12:11Z'
+    updated_at: '2026-11-27T04:28:49Z'
     language: Rust
 - name: Solana SDK (Rust)
   repo: anza-xyz/solana-sdk
@@ -186,11 +186,11 @@ repositories:
   category: DeFi
   stars: 426
   stats:
-    stars: 647
+    stars: 648
     contributors: 45
     last_activity: v2.0.0 (Sep 05, 2026)
     archived: false
-    updated_at: '2026-11-24T18:43:33Z'
+    updated_at: '2026-11-27T03:50:29Z'
     language: Rust
 - name: trident
   repo: Ackee-Blockchain/trident
@@ -609,11 +609,11 @@ repositories:
   category: DeFi
   stars: 187
   stats:
-    stars: 207
+    stars: 206
     contributors: 2
     last_activity: v0.1.6 (Jul 18, 2025)
     archived: false
-    updated_at: '2026-11-03T12:05:47Z'
+    updated_at: '2026-11-27T04:39:35Z'
     language: TypeScript
 - name: espresso-cash-public
   repo: espresso-cash/espresso-cash-public
@@ -849,7 +849,7 @@ repositories:
   stats:
     stars: 980
     contributors: 38
-    last_activity: Last commit (Nov 26, 2026)
+    last_activity: Last commit (Nov 27, 2026)
     archived: false
     updated_at: '2026-11-20T04:48:42Z'
     language: Rust
@@ -2166,11 +2166,11 @@ repositories:
   category: DeFi
   stars: 167
   stats:
-    stars: 333
+    stars: 334
     contributors: 12
     last_activity: v1.0.10 (Nov 11, 2026)
     archived: false
-    updated_at: '2026-11-26T17:02:37Z'
+    updated_at: '2026-11-27T02:05:37Z'
     language: TypeScript
 - name: Ros-X402-Node
   repo: homebrewroboticsclub/Ros-X402-Node
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 2931
+    stars: 3003
     contributors: 1
     last_activity: Last commit (Nov 26, 2026)
     archived: false
-    updated_at: '2026-11-26T20:38:56Z'
+    updated_at: '2026-11-27T05:56:44Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 242
+    stars: 244
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-26T11:28:51Z'
+    updated_at: '2026-11-27T05:34:42Z'
     language: Python
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 242
+    stars: 244
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-26T11:28:51Z'
+    updated_at: '2026-11-27T05:34:42Z'
     language: Python
 - name: piprail
   repo: piprail/piprail
@@ -2722,11 +2722,11 @@ repositories:
   category: SDKs & Tooling
   stars: 239
   stats:
-    stars: 242
+    stars: 244
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-26T11:28:51Z'
+    updated_at: '2026-11-27T05:34:42Z'
     language: Python
 - name: jupiter-go
   repo: ilkamo/jupiter-go
