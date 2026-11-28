@@ -18,7 +18,7 @@ repositories:
   stats:
     stars: 2006
     contributors: 357
-    last_activity: v4.4.1 (Nov 05, 2026)
+    last_activity: v4.4.2 (Nov 27, 2026)
     archived: false
     updated_at: '2026-11-27T17:59:42Z'
     language: Rust
@@ -140,11 +140,11 @@ repositories:
   description: Protocol for connecting apps to mobile wallets
   category: Wallets & Mobile
   stats:
-    stars: 328
+    stars: 329
     contributors: 23
     last_activity: '@solana-mobile/wallet-adapter-mobile@3.0.1 (Nov 09, 2026)'
     archived: false
-    updated_at: '2026-11-19T13:01:28Z'
+    updated_at: '2026-11-27T22:14:10Z'
     language: TypeScript
 - name: Seed Vault SDK
   repo: solana-mobile/seed-vault-sdk
@@ -2307,11 +2307,11 @@ repositories:
   category: SDKs & Tooling
   stars: 149
   stats:
-    stars: 3131
+    stars: 3170
     contributors: 1
     last_activity: Last commit (Nov 26, 2026)
     archived: false
-    updated_at: '2026-11-27T20:29:25Z'
+    updated_at: '2026-11-28T05:38:57Z'
     language: null
 - name: solana-programs-list
   repo: aarjn/solana-programs-list
@@ -2439,11 +2439,11 @@ repositories:
   category: Wallets & Mobile
   stars: 204
   stats:
-    stars: 212
+    stars: 213
     contributors: 330
     last_activity: release/mainnet-v1.4.4 (Nov 08, 2026)
     archived: false
-    updated_at: '2026-11-12T15:52:29Z'
+    updated_at: '2026-11-28T03:30:49Z'
     language: Rust
 - name: solana-mmaker
   repo: gianlucamazza/solana-mmaker
@@ -2576,11 +2576,11 @@ repositories:
   category: SDKs & Tooling
   stars: 132
   stats:
-    stars: 244
+    stars: 245
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-27T05:34:42Z'
+    updated_at: '2026-11-28T01:56:30Z'
     language: Python
 - name: AgenC
   repo: tetsuo-ai/AgenC
@@ -2684,11 +2684,11 @@ repositories:
   category: SDKs & Tooling
   stars: 230
   stats:
-    stars: 244
+    stars: 245
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-27T05:34:42Z'
+    updated_at: '2026-11-28T01:56:30Z'
     language: Python
 - name: piprail
   repo: piprail/piprail
@@ -2722,11 +2722,11 @@ repositories:
   category: SDKs & Tooling
   stars: 239
   stats:
-    stars: 244
+    stars: 245
     contributors: 1
     last_activity: Last commit (Nov 12, 2026)
     archived: false
-    updated_at: '2026-11-27T05:34:42Z'
+    updated_at: '2026-11-28T01:56:30Z'
     language: Python
 - name: jupiter-go
   repo: ilkamo/jupiter-go
@@ -2775,11 +2775,11 @@ repositories:
   category: Payments
   stars: 73
   stats:
-    stars: 61
+    stars: 47
     contributors: 1
     last_activity: v0.5.118 (Nov 25, 2026)
     archived: false
-    updated_at: '2026-11-27T17:44:14Z'
+    updated_at: '2026-11-28T04:38:11Z'
     language: TypeScript
 - name: jupiter-v6-atomic-arbitrage-bot
   repo: soderberg65595/jupiter-v6-atomic-arbitrage-bot
